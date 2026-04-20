@@ -23,12 +23,6 @@ query ($season: MediaSeason, $seasonYear: Int) {
         english
         native
       }
-      coverImage {
-        large
-        medium
-        color
-      }
-      bannerImage
       averageScore
       popularity
       genres
@@ -103,9 +97,7 @@ async function main() {
     .map((item, i) => {
       const mapping = tmdbMap.get(item.id);
       const title = item.title.english || item.title.romaji || item.title.native;
-
       console.log(`  [${String(i + 1).padStart(2, '0')}] ${title} → TMDB ${mapping.tmdb_type}/${mapping.tmdb_id}`);
-
       return {
         tmdb_id: mapping.tmdb_id,
         tmdb_type: mapping.tmdb_type,
@@ -122,7 +114,7 @@ async function main() {
         { platform: 'Fribb anime-lists', url: 'https://github.com/Fribb/anime-lists', note: '提供 AniList ID 到 TMDB ID 的对照映射' },
       ],
       update_cron: '0 2 * * 1',
-      update_frequency: '每周一早上10点（北京时间）',
+      update_frequency: '每周一 UTC 02:00 更新一次',
     },
     platform: 'anilist',
     updated_at: new Date().toISOString(),
