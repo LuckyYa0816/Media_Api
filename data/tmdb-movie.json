@@ -1,0 +1,89 @@
+{
+  "remark": {
+    "description": "TMDB 本周热门流媒体电影，按热度排序，仅保留在主流流媒体平台上线的影片",
+    "sources": [
+      {
+        "platform": "TMDB",
+        "url": "https://www.themoviedb.org",
+        "note": "提供全球热门影视数据及流媒体平台信息"
+      }
+    ],
+    "streaming_platforms": {
+      "2": "Apple TV+",
+      "8": "Netflix",
+      "9": "Amazon Prime Video",
+      "15": "Hulu",
+      "337": "Disney+",
+      "384": "Max"
+    },
+    "region": "US",
+    "update_cron": "0 2 * * 1",
+    "update_frequency": "每周一 UTC 02:00 更新一次"
+  },
+  "platform": "tmdb",
+  "category": "movie",
+  "updated_at": "2026-04-20T07:58:46.676Z",
+  "total": 10,
+  "list": [
+    {
+      "tmdb_id": 1084577,
+      "tmdb_type": "movie",
+      "title": "抖擞",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1290417,
+      "tmdb_type": "movie",
+      "title": "狂鲨风暴",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1511057,
+      "tmdb_type": "movie",
+      "title": "我的麻烦室友",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1659087,
+      "tmdb_type": "movie",
+      "title": "180度",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1623125,
+      "tmdb_type": "movie",
+      "title": "大卫·艾登堡：大猩猩的故事",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1084242,
+      "tmdb_type": "movie",
+      "title": "疯狂动物城2",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1236153,
+      "tmdb_type": "movie",
+      "title": "极限审判",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1234731,
+      "tmdb_type": "movie",
+      "title": "新狂蟒之灾",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1272837,
+      "tmdb_type": "movie",
+      "title": "惊变28年2：白骨圣殿",
+      "sort": 10
+    }
+  ]
+}
