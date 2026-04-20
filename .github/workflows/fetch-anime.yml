@@ -1,35 +1,36 @@
-name: Fetch Hot Anime
+name: Fetch Trending Media
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'   # 每6小时自动更新一次
+  workflow_dispatch:          # 支持手动触发
 
 jobs:
-  fetch:
+  fetch-anilist:
+    name: 获取 AniList 当季热播番剧
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: 设置 Node.js 运行环境
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Install dependencies
+      - name: 安装脚本依赖（axios）
         run: npm install axios
 
-      - name: Fetch data
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: node scripts/fetch.js
+      - name: 从 AniList 获取当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
+        run: node scripts/anilist.js
 
-      - name: Commit and push
+      - name: 将更新后的 data/anilist.json 提交并推送到仓库
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/anime-hot.json
-          git diff --staged --quiet || git commit -m "chore: update anime hot $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add data/anilist.json
+          git diff --staged --quiet || git commit -m "chore: update anilist $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
