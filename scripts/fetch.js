@@ -3,9 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 const ANILIST_API = 'https://graphql.anilist.co';
-const TMDB_API_KEY = process.env.TMDB_API_KEY;
+const FRIBB_LIST_URL = 'https://raw.githubusercontent.com/Fribb/anime-lists/master/anime-list-full.json';
 
-// AniList 查询，加入 idMal 字段
 const QUERY = `
 query ($season: MediaSeason, $seasonYear: Int) {
   Page(page: 1, perPage: 30) {
@@ -67,148 +66,129 @@ function getCurrentSeason() {
   return { season, year };
 }
 
-// 通过 MAL ID 查询 TMDB ID
-async function getTmdbId(malId) {
-  if (!malId || !TMDB_API_KEY) return null;
+// 下载 Fribb 对照表，构建 anilistId -> tmdb 信息 的 Map
+async function buildTmdbMap() {
+  console.log('📥 下载 Fribb 对照表...');
+  const res = await axios.get(FRIBB_LIST_URL, { timeout: 30000 });
+  const entries = res.data; // 数组
 
-  try {
-    const res = await axios.get(
-      `https://api.themoviedb.org/3/find/${malId}`,
-      {
-        params: {
-          api_key: TMDB_API_KEY,
-          external_source: 'myanimelist_id',
-        },
-        timeout: 8000,
-      }
-    );
+  const map = new Map();
+  for (const entry of entries) {
+    // 对照表字段：anilist_id, mal_id, themoviedb_id, thetvdb_id, type 等
+    if (!entry.anilist_id) continue;
 
-    // TMDB 返回 tv_results 和 movie_results
-    const tvResults = res.data.tv_results || [];
-    const movieResults = res.data.movie_results || [];
-
-    if (tvResults.length > 0) {
-      return { tmdb_id: tvResults[0].id, tmdb_type: 'tv', tmdb_name: tvResults[0].name };
-    }
-    if (movieResults.length > 0) {
-      return { tmdb_id: movieResults[0].id, tmdb_type: 'movie', tmdb_name: movieResults[0].title };
-    }
-    return null;
-  } catch (err) {
-    console.warn(`  ⚠️  MAL ID ${malId} 查 TMDB 失败: ${err.message}`);
-    return null;
-  }
-}
-
-// 控制并发，避免触发 TMDB 速率限制（40次/10秒）
-async function runWithConcurrency(tasks, limit = 5) {
-  const results = [];
-  let index = 0;
-
-  async function worker() {
-    while (index < tasks.length) {
-      const current = index++;
-      results[current] = await tasks[current]();
-      // 每批之间稍作等待
-      await new Promise(r => setTimeout(r, 250));
-    }
+    map.set(entry.anilist_id, {
+      tmdb_id: entry.themoviedb_id || null,
+      // Fribb 表里 type 字段区分 TV / Movie，但动画大多为 tv
+      // 也可以根据有无 themoviedb_id 来判断
+      tmdb_type: entry.type === 'movie' ? 'movie' : 'tv',
+      thetvdb_id: entry.thetvdb_id || null,
+      mal_id: entry.mal_id || null,
+    });
   }
 
-  await Promise.all(Array.from({ length: limit }, worker));
-  return results;
+  console.log(`✅ 对照表加载完毕，共 ${map.size} 条记录`);
+  return map;
 }
 
 async function main() {
-  if (!TMDB_API_KEY) {
-    console.warn('⚠️  未设置 TMDB_API_KEY，tmdb 字段将为 null');
-  }
-
   const { season, year } = getCurrentSeason();
   console.log(`📅 当前季度: ${year} ${season}`);
 
-  // 1. 从 AniList 获取番剧列表
-  const response = await axios.post(
-    ANILIST_API,
-    { query: QUERY, variables: { season, seasonYear: year } },
-    {
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      timeout: 15000,
-    }
-  );
+  // 1. 并行发起：AniList 查询 + Fribb 对照表下载
+  const [anilistRes, tmdbMap] = await Promise.all([
+    axios.post(
+      ANILIST_API,
+      { query: QUERY, variables: { season, seasonYear: year } },
+      {
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        timeout: 15000,
+      }
+    ),
+    buildTmdbMap(),
+  ]);
 
-  if (response.data.errors) {
-    throw new Error(JSON.stringify(response.data.errors));
+  if (anilistRes.data.errors) {
+    throw new Error(JSON.stringify(anilistRes.data.errors));
   }
 
-  const rawList = response.data.data.Page.media;
-  console.log(`✅ AniList 返回 ${rawList.length} 部番剧，开始查询 TMDB ID...`);
+  const rawList = anilistRes.data.data.Page.media;
+  console.log(`✅ AniList 返回 ${rawList.length} 部番剧`);
 
-  // 2. 并发查询 TMDB ID
-  const tmdbTasks = rawList.map((item, i) => async () => {
-    process.stdout.write(`  [${String(i + 1).padStart(2, '0')}/${rawList.length}] ${item.title.romaji} ... `);
-    const tmdb = await getTmdbId(item.idMal);
-    console.log(tmdb ? `TMDB: ${tmdb.tmdb_type}/${tmdb.tmdb_id}` : 'not found');
-    return tmdb;
-  });
-
-  const tmdbResults = await runWithConcurrency(tmdbTasks, 5);
-
-  // 3. 整合数据
-  const list = rawList.map((item, i) => ({
-    rank: i + 1,
-    anilist_id: item.id,
-    mal_id: item.idMal || null,
-    tmdb: tmdbResults[i] || null,   // { tmdb_id, tmdb_type, tmdb_name } 或 null
-    title: {
-      native: item.title.native || null,
-      romaji: item.title.romaji || null,
-      english: item.title.english || null,
-    },
-    cover: item.coverImage.large,
-    cover_medium: item.coverImage.medium,
-    theme_color: item.coverImage.color || null,
-    banner: item.bannerImage || null,
-    score: item.averageScore || null,
-    popularity: item.popularity,
-    favourites: item.favourites,
-    trending: item.trending,
-    genres: item.genres,
-    studio: item.studios.nodes[0]?.name || null,
-    episodes: item.episodes || null,
-    duration: item.duration || null,
-    status: item.status,
-    season: item.season,
-    season_year: item.seasonYear,
-    start_date: item.startDate || null,
-    next_episode: item.nextAiringEpisode
+  // 2. 整合数据
+  const list = rawList.map((item, i) => {
+    const mapping = tmdbMap.get(item.id) || null;
+    const tmdb = mapping?.tmdb_id
       ? {
-          episode: item.nextAiringEpisode.episode,
-          airing_at: item.nextAiringEpisode.airingAt,
-          countdown_seconds: item.nextAiringEpisode.timeUntilAiring,
+          tmdb_id: mapping.tmdb_id,
+          tmdb_type: mapping.tmdb_type,
+          thetvdb_id: mapping.thetvdb_id,
         }
-      : null,
-    description: item.description
-      ? item.description.replace(/<[^>]+>/g, '').trim().slice(0, 300)
-      : null,
-    url: item.siteUrl,
-  }));
+      : null;
+
+    if (tmdb) {
+      console.log(`  [${String(i + 1).padStart(2, '0')}] ${item.title.romaji} → TMDB ${tmdb.tmdb_type}/${tmdb.tmdb_id}`);
+    } else {
+      console.log(`  [${String(i + 1).padStart(2, '0')}] ${item.title.romaji} → not found`);
+    }
+
+    return {
+      rank: i + 1,
+      anilist_id: item.id,
+      mal_id: item.idMal || null,
+      tmdb,
+      title: {
+        native: item.title.native || null,
+        romaji: item.title.romaji || null,
+        english: item.title.english || null,
+      },
+      cover: item.coverImage.large,
+      cover_medium: item.coverImage.medium,
+      theme_color: item.coverImage.color || null,
+      banner: item.bannerImage || null,
+      score: item.averageScore || null,
+      popularity: item.popularity,
+      favourites: item.favourites,
+      trending: item.trending,
+      genres: item.genres,
+      studio: item.studios.nodes[0]?.name || null,
+      episodes: item.episodes || null,
+      duration: item.duration || null,
+      status: item.status,
+      season: item.season,
+      season_year: item.seasonYear,
+      start_date: item.startDate || null,
+      next_episode: item.nextAiringEpisode
+        ? {
+            episode: item.nextAiringEpisode.episode,
+            airing_at: item.nextAiringEpisode.airingAt,
+            countdown_seconds: item.nextAiringEpisode.timeUntilAiring,
+          }
+        : null,
+      description: item.description
+        ? item.description.replace(/<[^>]+>/g, '').trim().slice(0, 300)
+        : null,
+      url: item.siteUrl,
+    };
+  });
 
   const output = {
     season,
     season_year: year,
     updated_at: new Date().toISOString(),
     total: list.length,
+    tmdb_matched: list.filter(x => x.tmdb).length,
     list,
   };
 
-  // 4. 写入 JSON 文件（覆盖）
+  // 3. 写入 JSON 文件（覆盖）
   const outDir = path.join(__dirname, '../data');
   fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, 'anime-hot.json');
   fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
 
   console.log(`\n✅ 已写入: ${outPath}`);
-  console.log(`📊 统计: ${list.filter(x => x.tmdb).length}/${list.length} 部找到 TMDB ID`);
+  console.log(`📊 TMDB 命中率: ${output.tmdb_matched}/${output.total}`);
 }
 
 main().catch(err => {
