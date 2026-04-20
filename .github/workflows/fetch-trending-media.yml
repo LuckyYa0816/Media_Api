@@ -1,0 +1,70 @@
+name: Fetch Trending Media
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-anilist:
+    name: 获取 AniList 当季热播番剧
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js 运行环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 安装脚本依赖（axios）
+        run: npm install axios
+
+      - name: 从 AniList 获取当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
+        run: node scripts/anilist.js
+
+      - name: 将更新后的 data/anilist.json 提交并推送到仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/anilist.json
+          git diff --staged --quiet || git commit -m "chore: update anilist $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+  fetch-tmdb:
+    name: 获取 TMDB 本周热门流媒体电视剧
+    runs-on: ubuntu-latest
+    needs: fetch-anilist      # 等 anilist job 推送完再执行，避免 git 冲突
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出仓库代码（含上一个 job 的最新提交）
+        uses: actions/checkout@v4
+        with:
+          ref: main           # 确保拿到最新代码
+
+      - name: 设置 Node.js 运行环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 安装脚本依赖（axios）
+        run: npm install axios
+
+      - name: 从 TMDB Trending 接口获取本周热门电视剧 + 查询各剧流媒体平台信息
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/tmdb.js
+
+      - name: 将更新后的 data/tmdb.json 提交并推送到仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tmdb.json
+          git diff --staged --quiet || git commit -m "chore: update tmdb $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
