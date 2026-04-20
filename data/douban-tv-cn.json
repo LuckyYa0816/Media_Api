@@ -1,0 +1,160 @@
+{
+  "remark": {
+    "description": "豆瓣热播国产剧，按豆瓣推荐排序",
+    "sources": [
+      {
+        "platform": "豆瓣",
+        "url": "https://movie.douban.com",
+        "note": "通过豆瓣国产剧标签接口获取热播数据"
+      }
+    ],
+    "update_cron": "0 2 * * 1",
+    "update_frequency": "每周一 UTC 02:00 更新一次"
+  },
+  "platform": "douban",
+  "category": "tv_cn",
+  "updated_at": "2026-04-20T07:59:00.157Z",
+  "total": 20,
+  "list": [
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "危险关系",
+      "sort": 1,
+      "douban_id": "36866390"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "钢铁森林",
+      "sort": 2,
+      "douban_id": "36513446"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "白日提灯",
+      "sort": 3,
+      "douban_id": "35929169"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "月鳞绮纪",
+      "sort": 4,
+      "douban_id": "36640236"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "蜜语纪",
+      "sort": 5,
+      "douban_id": "36449637"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "方圆八百米",
+      "sort": 6,
+      "douban_id": "36939912"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "冰湖重生",
+      "sort": 7,
+      "douban_id": "36809858"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "乘风2026",
+      "sort": 8,
+      "douban_id": "37816789"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "家事法庭",
+      "sort": 9,
+      "douban_id": "35805716"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "八千里路云和月",
+      "sort": 10,
+      "douban_id": "33371937"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "重案解密",
+      "sort": 11,
+      "douban_id": "37284831"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "逐玉",
+      "sort": 12,
+      "douban_id": "36554061"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "你是迟来的欢喜",
+      "sort": 13,
+      "douban_id": "35897502"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "哈哈哈哈哈 第六季",
+      "sort": 14,
+      "douban_id": "37561228"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "太平年",
+      "sort": 15,
+      "douban_id": "36317421"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "金关",
+      "sort": 16,
+      "douban_id": "36093334"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "隐身的名字",
+      "sort": 17,
+      "douban_id": "36449912"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "生命树",
+      "sort": 18,
+      "douban_id": "35424715"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "你好1983",
+      "sort": 19,
+      "douban_id": "37066824"
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "大侦探 第十一季",
+      "sort": 20,
+      "douban_id": "37561280"
+    }
+  ]
+}
