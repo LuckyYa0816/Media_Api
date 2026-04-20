@@ -13,11 +13,11 @@
         "note": "提供 AniList ID 到 TMDB ID 的对照映射"
       }
     ],
-    "update_cron": "0 */6 * * *",
-    "update_frequency": "每6小时更新一次"
+    "update_cron": "0 2 * * 1",
+    "update_frequency": "每周一 UTC 02:00 更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-04-20T07:35:03.850Z",
+  "updated_at": "2026-04-20T07:58:17.866Z",
   "total": 30,
   "list": [
     {
