@@ -66,21 +66,16 @@ function getCurrentSeason() {
   return { season, year };
 }
 
-// 下载 Fribb 对照表，构建 anilistId -> tmdb 信息 的 Map
 async function buildTmdbMap() {
   console.log('📥 下载 Fribb 对照表...');
   const res = await axios.get(FRIBB_LIST_URL, { timeout: 30000 });
-  const entries = res.data; // 数组
+  const entries = res.data;
 
   const map = new Map();
   for (const entry of entries) {
-    // 对照表字段：anilist_id, mal_id, themoviedb_id, thetvdb_id, type 等
     if (!entry.anilist_id) continue;
-
     map.set(entry.anilist_id, {
       tmdb_id: entry.themoviedb_id || null,
-      // Fribb 表里 type 字段区分 TV / Movie，但动画大多为 tv
-      // 也可以根据有无 themoviedb_id 来判断
       tmdb_type: entry.type === 'movie' ? 'movie' : 'tv',
       thetvdb_id: entry.thetvdb_id || null,
       mal_id: entry.mal_id || null,
@@ -95,7 +90,6 @@ async function main() {
   const { season, year } = getCurrentSeason();
   console.log(`📅 当前季度: ${year} ${season}`);
 
-  // 1. 并行发起：AniList 查询 + Fribb 对照表下载
   const [anilistRes, tmdbMap] = await Promise.all([
     axios.post(
       ANILIST_API,
@@ -115,7 +109,6 @@ async function main() {
   const rawList = anilistRes.data.data.Page.media;
   console.log(`✅ AniList 返回 ${rawList.length} 部番剧`);
 
-  // 2. 整合数据
   const list = rawList.map((item, i) => {
     const mapping = tmdbMap.get(item.id) || null;
     const tmdb = mapping?.tmdb_id
@@ -173,6 +166,23 @@ async function main() {
   });
 
   const output = {
+    remark: {
+      description: 'AniList 当季热播番剧，按人气排序',
+      sources: [
+        {
+          platform: 'AniList',
+          url: 'https://graphql.anilist.co',
+          note: '提供番剧基础数据及人气排名',
+        },
+        {
+          platform: 'Fribb anime-lists',
+          url: 'https://github.com/Fribb/anime-lists',
+          note: '提供 AniList ID 到 TMDB / TheTVDB 的 ID 对照映射',
+        },
+      ],
+      update_cron: '0 */6 * * *',
+      update_frequency: '每6小时更新一次',
+    },
     season,
     season_year: year,
     updated_at: new Date().toISOString(),
@@ -181,10 +191,9 @@ async function main() {
     list,
   };
 
-  // 3. 写入 JSON 文件（覆盖）
   const outDir = path.join(__dirname, '../data');
   fs.mkdirSync(outDir, { recursive: true });
-  const outPath = path.join(outDir, 'anime-hot.json');
+  const outPath = path.join(outDir, 'anilist.json');   // ← 按平台命名
   fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
 
   console.log(`\n✅ 已写入: ${outPath}`);
