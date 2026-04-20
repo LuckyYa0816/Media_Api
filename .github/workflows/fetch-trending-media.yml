@@ -6,11 +6,12 @@ on:
   workflow_dispatch:        # 支持手动触发
 
 jobs:
-  fetch-anilist:
-    name: 获取 AniList 当季热播番剧
+  fetch-all:
+    name: 获取所有热播影视数据
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: 检出仓库代码
         uses: actions/checkout@v4
@@ -20,148 +21,58 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 缓存 npm 依赖
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-axios
+
       - name: 安装脚本依赖（axios）
         run: npm install axios
 
-      - name: 从 AniList 获取当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
+      - name: 获取 AniList 当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
+        id: anilist
+        continue-on-error: true
         run: node scripts/anilist.js
 
-      - name: 将更新后的 data/anilist.json 提交并推送到仓库
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/anilist.json
-          git diff --staged --quiet || git commit -m "chore: update anilist $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
-
-  fetch-tmdb-tv-foreign:
-    name: 获取 TMDB 本周热门外语剧
-    runs-on: ubuntu-latest
-    needs: fetch-anilist
-    permissions:
-      contents: write
-    steps:
-      - name: 检出仓库代码（含上一个 job 的最新提交）
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: 设置 Node.js 运行环境
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: 安装脚本依赖（axios）
-        run: npm install axios
-
-      - name: 从 TMDB Trending 获取热门外语剧 + 筛选有流媒体平台上线的剧集（排除中日韩）
+      - name: 获取 TMDB 热门外语剧 + 筛选有流媒体平台上线的剧集（排除中日韩）
+        id: tmdb_foreign
+        continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/tmdb-tv-foreign.js
 
-      - name: 将更新后的 data/tmdb-tv-foreign.json 提交并推送到仓库
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/tmdb-tv-foreign.json
-          git diff --staged --quiet || git commit -m "chore: update tmdb-tv-foreign $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
-
-  fetch-tmdb-movie:
-    name: 获取 TMDB 本周热门流媒体电影
-    runs-on: ubuntu-latest
-    needs: fetch-tmdb-tv-foreign
-    permissions:
-      contents: write
-    steps:
-      - name: 检出仓库代码（含上一个 job 的最新提交）
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: 设置 Node.js 运行环境
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: 安装脚本依赖（axios）
-        run: npm install axios
-
-      - name: 从 TMDB Trending 获取热门电影 + 筛选有流媒体平台上线的影片
+      - name: 获取 TMDB 热门流媒体电影 + 筛选有流媒体平台上线的影片
+        id: tmdb_movie
+        continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/tmdb-movie.js
 
-      - name: 将更新后的 data/tmdb-movie.json 提交并推送到仓库
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/tmdb-movie.json
-          git diff --staged --quiet || git commit -m "chore: update tmdb-movie $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
-
-  fetch-douban-tv-cn:
-    name: 获取豆瓣热播国产剧
-    runs-on: ubuntu-latest
-    needs: fetch-tmdb-movie
-    permissions:
-      contents: write
-    steps:
-      - name: 检出仓库代码（含上一个 job 的最新提交）
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: 设置 Node.js 运行环境
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: 安装脚本依赖（axios）
-        run: npm install axios
-
-      - name: 从豆瓣获取热播国产剧 + 通过 IMDB ID 或标题+年份精准匹配 TMDB ID
+      - name: 获取豆瓣热播国产剧 + 通过 IMDB ID 或标题+年份匹配 TMDB ID
+        id: douban_tv
+        continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/douban-tv-cn.js
 
-      - name: 将更新后的 data/douban-tv-cn.json 提交并推送到仓库
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/douban-tv-cn.json
-          git diff --staged --quiet || git commit -m "chore: update douban-tv-cn $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
-            
-  fetch-douban-movie:
-    name: 获取豆瓣综合热门电影
-    runs-on: ubuntu-latest
-    needs: fetch-douban-tv-cn
-    permissions:
-      contents: write
-    steps:
-      - name: 检出仓库代码（含上一个 job 的最新提交）
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: 设置 Node.js 运行环境
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: 安装脚本依赖（axios）
-        run: npm install axios
-
-      - name: 从豆瓣热门标签获取综合热门电影，通过 IMDB ID 或标题+年份匹配 TMDB ID
+      - name: 获取豆瓣综合热门电影 + 通过 IMDB ID 或标题+年份匹配 TMDB ID
+        id: douban_movie
+        continue-on-error: true
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/douban-movie.js
 
-      - name: 将更新后的 data/douban-movie.json 提交并推送到仓库
+      - name: 将所有成功更新的 data/*.json 统一提交并推送到仓库
         run: |
+          echo "📋 各脚本执行结果:"
+          echo "  AniList 番剧:   ${{ steps.anilist.outcome }}"
+          echo "  TMDB 外语剧:    ${{ steps.tmdb_foreign.outcome }}"
+          echo "  TMDB 电影:      ${{ steps.tmdb_movie.outcome }}"
+          echo "  豆瓣国产剧:     ${{ steps.douban_tv.outcome }}"
+          echo "  豆瓣热门电影:   ${{ steps.douban_movie.outcome }}"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/douban-movie.json
-          git diff --staged --quiet || git commit -m "chore: update douban-movie $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add data/anilist.json data/tmdb-tv-foreign.json data/tmdb-movie.json data/douban-tv-cn.json data/douban-movie.json
+          git diff --staged --quiet || git commit -m "chore: update trending media $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
