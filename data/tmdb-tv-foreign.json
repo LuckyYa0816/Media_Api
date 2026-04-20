@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-20T08:21:23.730Z",
+  "updated_at": "2026-04-20T08:46:04.545Z",
   "total": 23,
   "list": [
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 1
-    },
     {
       "tmdb_id": 124364,
       "tmdb_type": "tv",
       "title": "梦魇绝镇",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
       "sort": 2
     },
     {
@@ -61,15 +61,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 279471,
-      "tmdb_type": "tv",
-      "title": "马尔科姆的一家：生活依旧不公",
-      "sort": 6
-    },
-    {
       "tmdb_id": 289219,
       "tmdb_type": "tv",
       "title": "星球大战：摩尔-暗影之王",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 279471,
+      "tmdb_type": "tv",
+      "title": "马尔科姆的一家：生活依旧不公",
       "sort": 7
     },
     {
@@ -139,33 +139,33 @@
       "sort": 18
     },
     {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 316544,
+      "tmdb_type": "tv",
+      "title": "罗纳尔迪尼奥：独步球坛",
+      "sort": 20
+    },
+    {
       "tmdb_id": 218896,
       "tmdb_type": "tv",
       "title": "律政女杰莉迪亚",
-      "sort": 19
+      "sort": 21
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 291506,
-      "tmdb_type": "tv",
-      "title": "失策兄妹帮",
       "sort": 22
     },
     {
-      "tmdb_id": 4614,
+      "tmdb_id": 93166,
       "tmdb_type": "tv",
-      "title": "海军罪案调查处",
+      "title": "真相捕捉",
       "sort": 23
     }
   ]

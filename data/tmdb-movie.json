@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-20T08:21:26.601Z",
-  "total": 11,
+  "updated_at": "2026-04-20T08:46:06.606Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1084577,
@@ -68,28 +68,16 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1272837,
-      "tmdb_type": "movie",
-      "title": "惊变28年2：白骨圣殿",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1236153,
       "tmdb_type": "movie",
       "title": "极限审判",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1272837,
+      "tmdb_type": "movie",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1234731,
-      "tmdb_type": "movie",
-      "title": "新狂蟒之灾",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1416391,
-      "tmdb_type": "movie",
-      "title": "吐司机大危机",
-      "sort": 11
     }
   ]
 }
