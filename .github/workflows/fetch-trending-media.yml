@@ -120,7 +120,9 @@ jobs:
       - name: 安装脚本依赖（axios）
         run: npm install axios
 
-      - name: 从豆瓣国产剧标签接口获取热播国产剧数据
+      - name: 从豆瓣获取热播国产剧 + 通过 IMDB ID 或标题+年份精准匹配 TMDB ID
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/douban-tv-cn.js
 
       - name: 将更新后的 data/douban-tv-cn.json 提交并推送到仓库
