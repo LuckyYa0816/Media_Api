@@ -10,6 +10,8 @@ if (!API_KEY) {
   process.exit(1);
 }
 
+const EXCLUDE_LANGUAGES = ['zh', 'ja', 'ko'];
+
 const STREAMING_PROVIDER_IDS = [8, 9, 337, 15, 384, 2];
 const STREAMING_PROVIDER_NAMES = {
   8: 'Netflix', 9: 'Amazon Prime Video', 337: 'Disney+',
@@ -35,7 +37,6 @@ async function fetchWatchProviders(tvId) {
       .map(p => ({
         provider_id: p.provider_id,
         provider_name: p.provider_name,
-        logo: `https://image.tmdb.org/t/p/original${p.logo_path}`,
       }));
   } catch {
     return [];
@@ -57,22 +58,26 @@ async function runWithConcurrency(tasks, limit = 5) {
 }
 
 async function main() {
-  console.log('📥 获取 TMDB 本周热门电视剧...');
+  console.log('📥 获取 TMDB 本周热门外语剧...');
 
-  const [page1, page2] = await Promise.all([fetchTrending(1), fetchTrending(2)]);
-  const rawList = [...page1, ...page2].slice(0, 40);
-  console.log(`✅ 共获取 ${rawList.length} 部候选剧集`);
+  const [page1, page2, page3] = await Promise.all([
+    fetchTrending(1), fetchTrending(2), fetchTrending(3),
+  ]);
+  const rawList = [...page1, ...page2, ...page3]
+    .filter(item => !EXCLUDE_LANGUAGES.includes(item.original_language));
 
-  const detailTasks = rawList.map((item, i) => async () => {
+  console.log(`✅ 过滤后候选外语剧: ${rawList.length} 部`);
+
+  const tasks = rawList.map((item, i) => async () => {
     process.stdout.write(`  [${String(i + 1).padStart(2, '0')}/${rawList.length}] ${item.name} ... `);
     const providers = await fetchWatchProviders(item.id);
     console.log(providers.length > 0 ? providers.map(p => p.provider_name).join(', ') : 'no streaming');
     return { item, providers };
   });
 
-  const detailResults = await runWithConcurrency(detailTasks, 5);
-  const filtered = detailResults.filter(r => r.providers.length > 0).slice(0, 30);
-  console.log(`\n📊 有流媒体平台的剧集: ${filtered.length} 部`);
+  const results = await runWithConcurrency(tasks, 5);
+  const filtered = results.filter(r => r.providers.length > 0).slice(0, 30);
+  console.log(`\n📊 有流媒体平台的外语剧: ${filtered.length} 部`);
 
   const list = filtered.map(({ item }, i) => ({
     tmdb_id: item.id,
@@ -83,16 +88,18 @@ async function main() {
 
   const output = {
     remark: {
-      description: 'TMDB 本周全球热门流媒体电视剧，按热度排序，仅保留在主流流媒体平台上线的剧集',
+      description: 'TMDB 本周热门外语电视剧（排除中日韩），按热度排序，仅保留在主流流媒体平台上线的剧集',
       sources: [
         { platform: 'TMDB', url: 'https://www.themoviedb.org', note: '提供全球热门影视数据及流媒体平台信息' },
       ],
       streaming_platforms: STREAMING_PROVIDER_NAMES,
+      excluded_languages: EXCLUDE_LANGUAGES,
       region: 'US',
       update_cron: '0 2 * * 1',
-      update_frequency: '每周一早上10点（北京时间）',
+      update_frequency: '每周一 UTC 02:00 更新一次',
     },
     platform: 'tmdb',
+    category: 'tv_foreign',
     updated_at: new Date().toISOString(),
     total: list.length,
     list,
@@ -100,9 +107,8 @@ async function main() {
 
   const outDir = path.join(__dirname, '../data');
   fs.mkdirSync(outDir, { recursive: true });
-  const outPath = path.join(outDir, 'tmdb.json');
+  const outPath = path.join(outDir, 'tmdb-tv-foreign.json');
   fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
-
   console.log(`✅ 已写入: ${outPath}`);
 }
 
