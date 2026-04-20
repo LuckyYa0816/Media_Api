@@ -1,0 +1,178 @@
+{
+  "remark": {
+    "description": "TMDB 本周全球热门流媒体电视剧，按热度排序，仅保留在主流流媒体平台上线的剧集",
+    "sources": [
+      {
+        "platform": "TMDB",
+        "url": "https://www.themoviedb.org",
+        "note": "提供全球热门影视数据及流媒体平台信息"
+      }
+    ],
+    "streaming_platforms": {
+      "2": "Apple TV+",
+      "8": "Netflix",
+      "9": "Amazon Prime Video",
+      "15": "Hulu",
+      "337": "Disney+",
+      "384": "Max"
+    },
+    "region": "US",
+    "update_cron": "0 */6 * * *",
+    "update_frequency": "每6小时更新一次"
+  },
+  "platform": "tmdb",
+  "updated_at": "2026-04-20T07:35:15.865Z",
+  "total": 25,
+  "list": [
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 124364,
+      "tmdb_type": "tv",
+      "title": "梦魇绝镇",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 37854,
+      "tmdb_type": "tv",
+      "title": "航海王",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 95557,
+      "tmdb_type": "tv",
+      "title": "无敌少侠",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 154385,
+      "tmdb_type": "tv",
+      "title": "怒呛人生",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 95479,
+      "tmdb_type": "tv",
+      "title": "咒术回战",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 209867,
+      "tmdb_type": "tv",
+      "title": "葬送的芙莉莲",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 279471,
+      "tmdb_type": "tv",
+      "title": "马尔科姆的一家：生活依旧不公",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 65942,
+      "tmdb_type": "tv",
+      "title": "Re：从零开始的异世界生活",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 278573,
+      "tmdb_type": "tv",
+      "title": "21世纪大君夫人",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 289219,
+      "tmdb_type": "tv",
+      "title": "星球大战：摩尔-暗影之王",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 56570,
+      "tmdb_type": "tv",
+      "title": "古战场传奇",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 278275,
+      "tmdb_type": "tv",
+      "title": "月鳞绮纪",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 127529,
+      "tmdb_type": "tv",
+      "title": "猎犬",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 111110,
+      "tmdb_type": "tv",
+      "title": "ONE PIECE",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 295357,
+      "tmdb_type": "tv",
+      "title": "北斗神拳",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 314784,
+      "tmdb_type": "tv",
+      "title": "浪漫的绝对值",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 226637,
+      "tmdb_type": "tv",
+      "title": "潜能探案组",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 86031,
+      "tmdb_type": "tv",
+      "title": "石纪元",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 106379,
+      "tmdb_type": "tv",
+      "title": "辐射",
+      "sort": 25
+    }
+  ]
+}
