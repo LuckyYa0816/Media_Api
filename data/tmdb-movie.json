@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-20T08:06:34.086Z",
+  "updated_at": "2026-04-20T08:17:15.904Z",
   "total": 11,
   "list": [
     {
@@ -50,27 +50,27 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1511057,
-      "tmdb_type": "movie",
-      "title": "我的麻烦室友",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1659087,
       "tmdb_type": "movie",
       "title": "180度",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1623125,
       "tmdb_type": "movie",
       "title": "大卫·艾登堡：大猩猩的故事",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": 1084242,
       "tmdb_type": "movie",
       "title": "疯狂动物城2",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1272837,
+      "tmdb_type": "movie",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 8
     },
     {
@@ -86,9 +86,9 @@
       "sort": 10
     },
     {
-      "tmdb_id": 1272837,
+      "tmdb_id": 1416391,
       "tmdb_type": "movie",
-      "title": "惊变28年2：白骨圣殿",
+      "title": "吐司机大危机",
       "sort": 11
     }
   ]
