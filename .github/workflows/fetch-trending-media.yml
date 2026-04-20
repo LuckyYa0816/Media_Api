@@ -2,8 +2,8 @@ name: Fetch Trending Media
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:          # 支持手动触发
 
 jobs:
   fetch-anilist:
@@ -38,7 +38,7 @@ jobs:
   fetch-tmdb:
     name: 获取 TMDB 本周热门流媒体电视剧
     runs-on: ubuntu-latest
-    needs: fetch-anilist      # 等 anilist job 推送完再执行，避免 git 冲突
+    needs: fetch-anilist      # 等 anilist job 完成后再执行，避免 git 冲突
     permissions:
       contents: write
 
@@ -46,7 +46,7 @@ jobs:
       - name: 检出仓库代码（含上一个 job 的最新提交）
         uses: actions/checkout@v4
         with:
-          ref: main           # 确保拿到最新代码
+          ref: main
 
       - name: 设置 Node.js 运行环境
         uses: actions/setup-node@v4
@@ -56,7 +56,7 @@ jobs:
       - name: 安装脚本依赖（axios）
         run: npm install axios
 
-      - name: 从 TMDB Trending 接口获取本周热门电视剧 + 查询各剧流媒体平台信息
+      - name: 从 TMDB Trending 接口获取本周热门电视剧 + 筛选有流媒体平台上线的剧集
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/tmdb.js
