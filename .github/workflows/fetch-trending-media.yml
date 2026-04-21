@@ -74,14 +74,12 @@ jobs:
       #   continue-on-error: true
       #   run: node scripts/jikan.js
               
-      - name: 从 Trakt 获取个人 Watchlist 影视数据 + 自动续期 Refresh Token
+      - name: 从 Trakt 获取 Continue Watching 数据（有观看进度但未完成的影视）
         id: trakt
         continue-on-error: true
         env:
           TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
-          TRAKT_CLIENT_SECRET: ${{ secrets.TRAKT_CLIENT_SECRET }}
-          TRAKT_REFRESH_TOKEN: ${{ secrets.TRAKT_REFRESH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TRAKT_ACCESS_TOKEN: ${{ secrets.TRAKT_ACCESS_TOKEN }}
         run: node scripts/trakt.js
         
       - name: 将所有成功更新的 data/*.json 统一提交并推送到仓库
