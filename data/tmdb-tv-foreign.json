@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-21T02:38:38.961Z",
+  "updated_at": "2026-04-21T02:49:12.650Z",
   "total": 21,
   "list": [
     {
@@ -55,15 +55,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 202555,
-      "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
-      "sort": 5
-    },
-    {
       "tmdb_id": 289219,
       "tmdb_type": "tv",
       "title": "星球大战：摩尔-暗影之王",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
       "sort": 6
     },
     {
@@ -103,15 +103,15 @@
       "sort": 12
     },
     {
-      "tmdb_id": 291506,
-      "tmdb_type": "tv",
-      "title": "失策兄妹帮",
-      "sort": 13
-    },
-    {
       "tmdb_id": 66732,
       "tmdb_type": "tv",
       "title": "怪奇物语",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 291506,
+      "tmdb_type": "tv",
+      "title": "失策兄妹帮",
       "sort": 14
     },
     {
