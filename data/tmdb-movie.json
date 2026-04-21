@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-21T02:02:59.681Z",
+  "updated_at": "2026-04-21T02:27:12.428Z",
   "total": 8,
   "list": [
     {
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1171145,
-      "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1511057,
       "tmdb_type": "movie",
       "title": "我的麻烦室友",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
       "sort": 4
     },
     {
