@@ -1,43 +1,109 @@
 {
   "remark": {
-    "description": "我的 Trakt Watchlist，剧集在前、电影在后，按加入时间倒序排列",
+    "description": "我正在看的影视，包含有播放进度但未完成的剧集和电影",
     "sources": [
       {
         "platform": "Trakt",
         "url": "https://trakt.tv",
-        "note": "通过 OAuth 授权获取用户个人 Watchlist，数据自带 TMDB ID，无需额外匹配"
+        "note": "通过 /sync/playback 接口获取播放进度数据，数据自带 TMDB ID，无需额外匹配"
       }
     ],
-    "update_cron": "0 2 * * 1",
-    "update_frequency": "每周一 UTC 02:00 更新一次"
+    "update_cron": "30 23/30 8 * * *",
+    "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "trakt",
-  "updated_at": "2026-04-21T02:03:27.313Z",
-  "total": 4,
+  "updated_at": "2026-04-21T02:47:44.585Z",
+  "total": 15,
   "list": [
     {
-      "tmdb_id": 95479,
+      "tmdb_id": 95557,
       "tmdb_type": "tv",
-      "title": "Jujutsu Kaisen",
+      "title": "Invincible",
       "sort": 1
+    },
+    {
+      "tmdb_id": 229192,
+      "tmdb_type": "tv",
+      "title": "The Demon Hunter",
+      "sort": 2
     },
     {
       "tmdb_id": 229858,
       "tmdb_type": "tv",
       "title": "Fate/strange Fake",
-      "sort": 2
+      "sort": 3
+    },
+    {
+      "tmdb_id": 260463,
+      "tmdb_type": "tv",
+      "title": "Daemons of the Shadow Realm",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 213233,
+      "tmdb_type": "tv",
+      "title": "AYAKA",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 295434,
+      "tmdb_type": "tv",
+      "title": "Kamen Rider ZEZTZ",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1418665,
+      "tmdb_type": "movie",
+      "title": "Alice in Wonderland –Dive in Wonderland–",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 316374,
+      "tmdb_type": "tv",
+      "title": "The Secret of the Lost Pearl",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 72517,
+      "tmdb_type": "tv",
+      "title": "Classroom of the Elite",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 112202,
+      "tmdb_type": "tv",
+      "title": "Douluo Continent",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 316427,
+      "tmdb_type": "tv",
+      "title": "Ingoku Danchi: Deviant's Apartment Complex",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 278275,
+      "tmdb_type": "tv",
+      "title": "Veil of Shadows",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "Daredevil: Born Again",
+      "sort": 13
     },
     {
       "tmdb_id": 209867,
       "tmdb_type": "tv",
       "title": "Frieren: Beyond Journey's End",
-      "sort": 3
+      "sort": 14
     },
     {
-      "tmdb_id": 45790,
+      "tmdb_id": 280822,
       "tmdb_type": "tv",
-      "title": "JoJo's Bizarre Adventure",
-      "sort": 4
+      "title": "Dream of Golden Years",
+      "sort": 15
     }
   ]
 }
