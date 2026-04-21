@@ -27,49 +27,49 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-21T02:49:12.650Z",
-  "total": 21,
+  "updated_at": "2026-04-21T07:28:14.372Z",
+  "total": 23,
   "list": [
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 1
-    },
     {
       "tmdb_id": 124364,
       "tmdb_type": "tv",
       "title": "梦魇绝镇",
-      "sort": 2
+      "sort": 1
     },
     {
-      "tmdb_id": 95557,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "无敌少侠",
-      "sort": 3
+      "title": "黑袍纠察队",
+      "sort": 2
     },
     {
       "tmdb_id": 154385,
       "tmdb_type": "tv",
       "title": "怒呛人生",
-      "sort": 4
+      "sort": 3
     },
     {
-      "tmdb_id": 289219,
+      "tmdb_id": 95557,
       "tmdb_type": "tv",
-      "title": "星球大战：摩尔-暗影之王",
-      "sort": 5
+      "title": "无敌少侠",
+      "sort": 4
     },
     {
       "tmdb_id": 202555,
       "tmdb_type": "tv",
       "title": "夜魔侠：重生",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 279471,
       "tmdb_type": "tv",
       "title": "马尔科姆的一家：生活依旧不公",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 289219,
+      "tmdb_type": "tv",
+      "title": "星球大战：摩尔-暗影之王",
       "sort": 7
     },
     {
@@ -85,33 +85,33 @@
       "sort": 9
     },
     {
+      "tmdb_id": 106379,
+      "tmdb_type": "tv",
+      "title": "辐射",
+      "sort": 10
+    },
+    {
       "tmdb_id": 56570,
       "tmdb_type": "tv",
       "title": "古战场传奇",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 287527,
       "tmdb_type": "tv",
-      "title": "证词",
-      "sort": 11
+      "title": "证言",
+      "sort": 12
     },
     {
       "tmdb_id": 111110,
       "tmdb_type": "tv",
       "title": "ONE PIECE",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 66732,
       "tmdb_type": "tv",
       "title": "怪奇物语",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 291506,
-      "tmdb_type": "tv",
-      "title": "失策兄妹帮",
       "sort": 14
     },
     {
@@ -121,9 +121,9 @@
       "sort": 15
     },
     {
-      "tmdb_id": 316544,
+      "tmdb_id": 218896,
       "tmdb_type": "tv",
-      "title": "罗纳尔迪尼奥：独步球坛",
+      "title": "律政女杰莉迪亚",
       "sort": 16
     },
     {
@@ -133,28 +133,40 @@
       "sort": 17
     },
     {
+      "tmdb_id": 1416,
+      "tmdb_type": "tv",
+      "title": "实习医生格蕾",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 291506,
+      "tmdb_type": "tv",
+      "title": "失策兄妹帮",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 215092,
+      "tmdb_type": "tv",
+      "title": "大男人",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 316544,
+      "tmdb_type": "tv",
+      "title": "罗纳尔迪尼奥：独步球坛",
+      "sort": 21
+    },
+    {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
-      "sort": 18
+      "sort": 22
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 245927,
-      "tmdb_type": "tv",
-      "title": "极乐凶间",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 218896,
-      "tmdb_type": "tv",
-      "title": "律政女杰莉迪亚",
-      "sort": 21
+      "sort": 23
     }
   ]
 }
