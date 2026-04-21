@@ -2,8 +2,8 @@ name: Fetch Trending Media
 
 on:
   schedule:
-    - cron: '15 23 * * *'   # 每天 UTC 23:30（北京时间次日 07:30），为 8:00 抓取准备数据
-    - cron: '15 8 * * *'    # 每天 UTC 08:30（北京时间 16:30），为 17:00 抓取准备数据
+    - cron: '0 23 * * *'   # 每天 UTC 23:30（北京时间次日 07:30），为 8:00 抓取准备数据
+    - cron: '0 8 * * *'    # 每天 UTC 08:30（北京时间 16:30），为 17:00 抓取准备数据
   workflow_dispatch:        # 支持手动触发
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
           key: ${{ runner.os }}-node-axios
 
       - name: 安装脚本依赖（axios）
-        run: npm install axios tweetsodium
+        run: npm install axios
 
       - name: 从 AniList 获取当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
         id: anilist
@@ -79,15 +79,7 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/douban-movie.js
-            
-      - name: 从 Trakt 获取 Continue Watching 数据（有观看进度但未完成的影视）
-        id: trakt
-        continue-on-error: true
-        env:
-          TRAKT_CLIENT_ID: ${{ secrets.TRAKT_CLIENT_ID }}
-          TRAKT_ACCESS_TOKEN: ${{ secrets.TRAKT_ACCESS_TOKEN }}
-        run: node scripts/trakt.js
-              
+        
       - name: 从骨朵数据源获取全网热度榜（剧集、国漫、综艺、电影）
         id: guduo
         continue-on-error: true
@@ -103,11 +95,10 @@ jobs:
           echo "  豆瓣热门电影:   ${{ steps.douban_movie.outcome }}"
           echo "  AniList 国产动漫: ${{ steps.anilist_cn.outcome }}"
           echo "  Jikan 番剧:     ${{ steps.jikan.outcome }}"
-          echo "  Trakt Watchlist: ${{ steps.trakt.outcome }}"
           echo "  骨朵热度榜:     ${{ steps.guduo.outcome }}"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"          
-          git add data/anilist.json data/anilist-anime-cn.json data/jikan.json data/tmdb-tv-foreign.json data/tmdb-movie.json data/douban-tv-cn.json data/douban-movie.json data/trakt.json
+          git add data/anilist.json data/anilist-anime-cn.json data/jikan.json data/tmdb-tv-foreign.json data/tmdb-movie.json data/douban-tv-cn.json data/douban-movie.json
           git add data/guduo.json
           git diff --staged --quiet || git commit -m "chore: update trending media $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
