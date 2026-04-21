@@ -18,66 +18,58 @@ const TRAKT_HEADERS = {
   'Authorization': `Bearer ${ACCESS_TOKEN}`,
 };
 
-async function fetchContinueWatching() {
-  const [showsRes, moviesRes] = await Promise.all([
-    axios.get(`${TRAKT_API}/sync/progress/watched/shows`, {
-      headers: TRAKT_HEADERS,
-      params: { limit: 30 },
-      timeout: 10000,
-    }),
-    axios.get(`${TRAKT_API}/sync/progress/watched/movies`, {
-      headers: TRAKT_HEADERS,
-      params: { limit: 30 },
-      timeout: 10000,
-    }),
-  ]);
-
-  return {
-    shows: showsRes.data || [],
-    movies: moviesRes.data || [],
-  };
+// /sync/playback 返回所有有进度但未完成的内容（电影 + 剧集混合）
+async function fetchPlayback() {
+  const res = await axios.get(`${TRAKT_API}/sync/playback`, {
+    headers: TRAKT_HEADERS,
+    params: { limit: 50 },
+    timeout: 10000,
+  });
+  return res.data || [];
 }
 
 async function main() {
   console.log('📥 获取 Trakt Continue Watching...');
-  const { shows, movies } = await fetchContinueWatching();
-  console.log(`✅ 剧集: ${shows.length} 部，电影: ${movies.length} 部`);
+  const playbackList = await fetchPlayback();
+  console.log(`✅ 共获取 ${playbackList.length} 条播放进度记录`);
 
-  const showItems = shows
-    .filter(item => item.show?.ids?.tmdb)
-    .map((item, i) => {
-      console.log(`  [TV] ${item.show.title} → TMDB/${item.show.ids.tmdb}`);
-      return {
-        tmdb_id: item.show.ids.tmdb,
-        tmdb_type: 'tv',
-        title: item.show.title,
-        sort: i + 1,
-      };
+  const seen = new Set();
+  const list = [];
+
+  for (const item of playbackList) {
+    // type 为 'movie' 或 'episode'（剧集取 show 信息）
+    const isMovie = item.type === 'movie';
+    const media = isMovie ? item.movie : item.show;
+
+    if (!media?.ids?.tmdb) continue;
+
+    const tmdbId = media.ids.tmdb;
+    const tmdbType = isMovie ? 'movie' : 'tv';
+    const key = `${tmdbType}:${tmdbId}`;
+
+    // 同一部剧可能有多集进度，去重只保留一条
+    if (seen.has(key)) continue;
+    seen.add(key);
+
+    console.log(`  [${tmdbType.toUpperCase()}] ${media.title} → TMDB/${tmdbId}`);
+    list.push({
+      tmdb_id: tmdbId,
+      tmdb_type: tmdbType,
+      title: media.title,
+      sort: list.length + 1,
     });
+  }
 
-  const movieItems = movies
-    .filter(item => item.movie?.ids?.tmdb)
-    .map((item, i) => {
-      console.log(`  [Movie] ${item.movie.title} → TMDB/${item.movie.ids.tmdb}`);
-      return {
-        tmdb_id: item.movie.ids.tmdb,
-        tmdb_type: 'movie',
-        title: item.movie.title,
-        sort: showItems.length + i + 1,
-      };
-    });
-
-  const list = [...showItems, ...movieItems];
   console.log(`\n📊 共 ${list.length} 部正在观看的内容`);
 
   const output = {
     remark: {
-      description: '我正在看的影视，包含有观看进度但未完成的剧集和电影',
+      description: '我正在看的影视，包含有播放进度但未完成的剧集和电影',
       sources: [
         {
           platform: 'Trakt',
           url: 'https://trakt.tv',
-          note: '通过 Continue Watching 接口获取有观看进度的内容，数据自带 TMDB ID，无需额外匹配',
+          note: '通过 /sync/playback 接口获取播放进度数据，数据自带 TMDB ID，无需额外匹配',
         },
       ],
       update_cron: '30 23/30 8 * * *',
