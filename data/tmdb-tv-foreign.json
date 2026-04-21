@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-21T02:27:09.629Z",
+  "updated_at": "2026-04-21T02:34:49.801Z",
   "total": 21,
   "list": [
     {
@@ -73,15 +73,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 8
-    },
-    {
       "tmdb_id": 295778,
       "tmdb_type": "tv",
       "title": "实习医生风云",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
       "sort": 9
     },
     {
