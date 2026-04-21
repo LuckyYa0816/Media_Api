@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-21T07:28:16.474Z",
-  "total": 9,
+  "updated_at": "2026-04-21T23:42:31.755Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 1084577,
@@ -32,52 +32,58 @@
       "sort": 1
     },
     {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
+      "sort": 2
+    },
+    {
       "tmdb_id": 1290417,
       "tmdb_type": "movie",
       "title": "狂鲨风暴",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1511057,
       "tmdb_type": "movie",
       "title": "我的麻烦室友",
-      "sort": 3
+      "sort": 4
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1171145,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
-      "sort": 4
+      "title": "洛杉矶劫案",
+      "sort": 5
     },
     {
       "tmdb_id": 1659087,
       "tmdb_type": "movie",
       "title": "180度",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1416391,
-      "tmdb_type": "movie",
-      "title": "吐司机大危机",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1084242,
-      "tmdb_type": "movie",
-      "title": "疯狂动物城2",
-      "sort": 7
     },
     {
       "tmdb_id": 1272837,
       "tmdb_type": "movie",
       "title": "惊变28年2：白骨圣殿",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1416391,
+      "tmdb_type": "movie",
+      "title": "吐司机大危机",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1084242,
+      "tmdb_type": "movie",
+      "title": "疯狂动物城2",
+      "sort": 9
     },
     {
       "tmdb_id": 1623125,
       "tmdb_type": "movie",
       "title": "大卫·艾登堡：大猩猩的故事",
-      "sort": 9
+      "sort": 10
     }
   ]
 }

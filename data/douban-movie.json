@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-04-21T07:28:58.702Z",
+  "updated_at": "2026-04-21T23:42:57.625Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1262815,
+      "tmdb_type": "movie",
+      "title": "合唱团",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1245532,
       "tmdb_type": "movie",
       "title": "像我这样的爱情",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1511417,
       "tmdb_type": "movie",
       "title": "巴霍巴利王：史诗",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 55741,
-      "tmdb_type": "movie",
-      "title": "孤儿",
       "sort": 5
     },
     {
@@ -59,7 +59,7 @@
       "sort": 6
     },
     {
-      "tmdb_id": 37702,
+      "tmdb_id": 1220564,
       "tmdb_type": "movie",
       "title": "密探",
       "sort": 7
@@ -77,15 +77,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 1462735,
-      "tmdb_type": "movie",
-      "title": "旅途中的日子",
-      "sort": 10
-    },
-    {
       "tmdb_id": 1464533,
       "tmdb_type": "movie",
       "title": "爆弹",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1462735,
+      "tmdb_type": "movie",
+      "title": "旅途中的日子",
       "sort": 11
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 425274,
-      "tmdb_type": "movie",
-      "title": "惊天魔盗团3",
-      "sort": 17
-    },
-    {
       "tmdb_id": 1429348,
       "tmdb_type": "movie",
       "title": "局外人",
-      "sort": 18
+      "sort": 17
     },
     {
-      "tmdb_id": 1317288,
+      "tmdb_id": 425274,
       "tmdb_type": "movie",
-      "title": "至尊马蒂",
-      "sort": 19
+      "title": "惊天魔盗团3",
+      "sort": 18
     },
     {
       "tmdb_id": 1422404,
       "tmdb_type": "movie",
       "title": "东京出租车",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1317288,
+      "tmdb_type": "movie",
+      "title": "至尊马蒂",
       "sort": 20
     }
   ]

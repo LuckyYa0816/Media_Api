@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-04-21T07:28:07.129Z",
+  "updated_at": "2026-04-21T23:42:20.939Z",
   "total": 30,
   "list": [
     {
@@ -135,15 +135,15 @@
       "sort": 19
     },
     {
-      "tmdb_id": 91801,
-      "tmdb_type": "tv",
-      "title": "入间同学入魔了！",
-      "sort": 20
-    },
-    {
       "tmdb_id": 285818,
       "tmdb_type": "tv",
       "title": "迦楠大人的白给是恶魔级",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 91801,
+      "tmdb_type": "tv",
+      "title": "入间同学入魔了！",
       "sort": 21
     },
     {
@@ -183,21 +183,21 @@
       "sort": 27
     },
     {
+      "tmdb_id": 300131,
+      "tmdb_type": "tv",
+      "title": "杀手青春",
+      "sort": 28
+    },
+    {
       "tmdb_id": 284447,
       "tmdb_type": "tv",
       "title": "弱弱老师",
-      "sort": 28
+      "sort": 29
     },
     {
       "tmdb_id": 213326,
       "tmdb_type": "tv",
       "title": "身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力",
-      "sort": 29
-    },
-    {
-      "tmdb_id": 300131,
-      "tmdb_type": "tv",
-      "title": "杀手青春",
       "sort": 30
     }
   ]
