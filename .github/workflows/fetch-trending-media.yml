@@ -31,48 +31,48 @@ jobs:
       - name: 安装脚本依赖（axios）
         run: npm install axios tweetsodium
 
-      - name: 获取 AniList 当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
-        id: anilist
-        continue-on-error: true
-        run: node scripts/anilist.js
+      # - name: 获取 AniList 当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
+      #   id: anilist
+      #   continue-on-error: true
+      #   run: node scripts/anilist.js
 
-      - name: 获取 TMDB 热门外语剧 + 筛选有流媒体平台上线的剧集（排除中日韩）
-        id: tmdb_foreign
-        continue-on-error: true
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: node scripts/tmdb-tv-foreign.js
+      # - name: 获取 TMDB 热门外语剧 + 筛选有流媒体平台上线的剧集（排除中日韩）
+      #   id: tmdb_foreign
+      #   continue-on-error: true
+      #   env:
+      #     TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      #   run: node scripts/tmdb-tv-foreign.js
 
-      - name: 获取 TMDB 热门流媒体电影 + 筛选有流媒体平台上线的影片
-        id: tmdb_movie
-        continue-on-error: true
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: node scripts/tmdb-movie.js
+      # - name: 获取 TMDB 热门流媒体电影 + 筛选有流媒体平台上线的影片
+      #   id: tmdb_movie
+      #   continue-on-error: true
+      #   env:
+      #     TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      #   run: node scripts/tmdb-movie.js
 
-      - name: 获取豆瓣热播国产剧 + 通过 IMDB ID 或标题+年份匹配 TMDB ID
-        id: douban_tv
-        continue-on-error: true
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: node scripts/douban-tv-cn.js
+      # - name: 获取豆瓣热播国产剧 + 通过 IMDB ID 或标题+年份匹配 TMDB ID
+      #   id: douban_tv
+      #   continue-on-error: true
+      #   env:
+      #     TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      #   run: node scripts/douban-tv-cn.js
 
-      - name: 获取豆瓣综合热门电影 + 通过 IMDB ID 或标题+年份匹配 TMDB ID
-        id: douban_movie
-        continue-on-error: true
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: node scripts/douban-movie.js
+      # - name: 获取豆瓣综合热门电影 + 通过 IMDB ID 或标题+年份匹配 TMDB ID
+      #   id: douban_movie
+      #   continue-on-error: true
+      #   env:
+      #     TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      #   run: node scripts/douban-movie.js
         
-      - name: 获取 AniList 国产动漫 + 通过 Fribb 对照表补全 TMDB ID
-        id: anilist_cn
-        continue-on-error: true
-        run: node scripts/anilist-anime-cn.js
+      # - name: 获取 AniList 国产动漫 + 通过 Fribb 对照表补全 TMDB ID
+      #   id: anilist_cn
+      #   continue-on-error: true
+      #   run: node scripts/anilist-anime-cn.js
         
-      - name: 获取 Jikan 当季在播番剧 + 通过 Fribb 对照表补全 TMDB ID
-        id: jikan
-        continue-on-error: true
-        run: node scripts/jikan.js
+      # - name: 获取 Jikan 当季在播番剧 + 通过 Fribb 对照表补全 TMDB ID
+      #   id: jikan
+      #   continue-on-error: true
+      #   run: node scripts/jikan.js
               
       - name: 从 Trakt 获取个人 Watchlist 影视数据 + 自动续期 Refresh Token
         id: trakt
