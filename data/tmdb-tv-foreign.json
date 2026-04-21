@@ -27,31 +27,31 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-20T08:46:04.545Z",
-  "total": 23,
+  "updated_at": "2026-04-21T02:02:56.994Z",
+  "total": 22,
   "list": [
-    {
-      "tmdb_id": 124364,
-      "tmdb_type": "tv",
-      "title": "梦魇绝镇",
-      "sort": 1
-    },
     {
       "tmdb_id": 76479,
       "tmdb_type": "tv",
       "title": "黑袍纠察队",
-      "sort": 2
+      "sort": 1
     },
     {
-      "tmdb_id": 154385,
+      "tmdb_id": 124364,
       "tmdb_type": "tv",
-      "title": "怒呛人生",
-      "sort": 3
+      "title": "梦魇绝镇",
+      "sort": 2
     },
     {
       "tmdb_id": 95557,
       "tmdb_type": "tv",
       "title": "无敌少侠",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 154385,
+      "tmdb_type": "tv",
+      "title": "怒呛人生",
       "sort": 4
     },
     {
@@ -73,27 +73,27 @@
       "sort": 7
     },
     {
-      "tmdb_id": 287527,
-      "tmdb_type": "tv",
-      "title": "证词",
-      "sort": 8
-    },
-    {
       "tmdb_id": 295778,
       "tmdb_type": "tv",
       "title": "实习医生风云",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": 56570,
       "tmdb_type": "tv",
       "title": "古战场传奇",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
       "sort": 11
     },
     {
@@ -109,9 +109,9 @@
       "sort": 13
     },
     {
-      "tmdb_id": 226637,
+      "tmdb_id": 291506,
       "tmdb_type": "tv",
-      "title": "潜能探案组",
+      "title": "失策兄妹帮",
       "sort": 14
     },
     {
@@ -121,21 +121,21 @@
       "sort": 15
     },
     {
-      "tmdb_id": 106379,
+      "tmdb_id": 316544,
       "tmdb_type": "tv",
-      "title": "辐射",
+      "title": "罗纳尔迪尼奥：独步球坛",
       "sort": 16
     },
     {
-      "tmdb_id": 215092,
+      "tmdb_id": 226637,
       "tmdb_type": "tv",
-      "title": "大男人",
+      "title": "潜能探案组",
       "sort": 17
     },
     {
-      "tmdb_id": 312697,
+      "tmdb_id": 1434,
       "tmdb_type": "tv",
-      "title": "公司团建",
+      "title": "恶搞之家",
       "sort": 18
     },
     {
@@ -145,9 +145,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 316544,
+      "tmdb_id": 245927,
       "tmdb_type": "tv",
-      "title": "罗纳尔迪尼奥：独步球坛",
+      "title": "极乐凶间",
       "sort": 20
     },
     {
@@ -157,16 +157,10 @@
       "sort": 21
     },
     {
-      "tmdb_id": 1434,
+      "tmdb_id": 215092,
       "tmdb_type": "tv",
-      "title": "恶搞之家",
+      "title": "大男人",
       "sort": 22
-    },
-    {
-      "tmdb_id": 93166,
-      "tmdb_type": "tv",
-      "title": "真相捕捉",
-      "sort": 23
     }
   ]
 }

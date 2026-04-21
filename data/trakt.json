@@ -1,0 +1,43 @@
+{
+  "remark": {
+    "description": "我的 Trakt Watchlist，剧集在前、电影在后，按加入时间倒序排列",
+    "sources": [
+      {
+        "platform": "Trakt",
+        "url": "https://trakt.tv",
+        "note": "通过 OAuth 授权获取用户个人 Watchlist，数据自带 TMDB ID，无需额外匹配"
+      }
+    ],
+    "update_cron": "0 2 * * 1",
+    "update_frequency": "每周一 UTC 02:00 更新一次"
+  },
+  "platform": "trakt",
+  "updated_at": "2026-04-21T02:03:27.313Z",
+  "total": 4,
+  "list": [
+    {
+      "tmdb_id": 95479,
+      "tmdb_type": "tv",
+      "title": "Jujutsu Kaisen",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 229858,
+      "tmdb_type": "tv",
+      "title": "Fate/strange Fake",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 209867,
+      "tmdb_type": "tv",
+      "title": "Frieren: Beyond Journey's End",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 45790,
+      "tmdb_type": "tv",
+      "title": "JoJo's Bizarre Adventure",
+      "sort": 4
+    }
+  ]
+}

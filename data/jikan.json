@@ -1,143 +1,143 @@
 {
   "remark": {
-    "description": "AniList 当季热播番剧，按人气排序",
+    "description": "Jikan（MyAnimeList）当季在播番剧，按收藏人数排序",
     "sources": [
       {
-        "platform": "AniList",
-        "url": "https://graphql.anilist.co",
-        "note": "提供番剧基础数据及人气排名"
+        "platform": "Jikan",
+        "url": "https://jikan.moe",
+        "note": "MyAnimeList 非官方 REST API，提供当季在播番剧数据"
       },
       {
         "platform": "Fribb anime-lists",
         "url": "https://github.com/Fribb/anime-lists",
-        "note": "提供 AniList ID 到 TMDB ID 的对照映射"
+        "note": "提供 MAL ID 到 TMDB ID 的对照映射"
       }
     ],
     "update_cron": "0 2 * * 1",
     "update_frequency": "每周一 UTC 02:00 更新一次"
   },
-  "platform": "anilist",
-  "updated_at": "2026-04-21T02:02:54.372Z",
+  "platform": "jikan",
+  "updated_at": "2026-04-21T02:03:26.449Z",
   "total": 30,
   "list": [
+    {
+      "tmdb_id": 196950,
+      "tmdb_type": "tv",
+      "title": "Witch Hat Atelier",
+      "sort": 1
+    },
     {
       "tmdb_id": 65942,
       "tmdb_type": "tv",
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 72517,
       "tmdb_type": "tv",
       "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 82684,
       "tmdb_type": "tv",
       "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 260463,
       "tmdb_type": "tv",
       "title": "Daemons of the Shadow Realm",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 245842,
-      "tmdb_type": "tv",
-      "title": "Wistoria: Wand and Sword Season 2",
       "sort": 5
     },
     {
       "tmdb_id": 154743,
       "tmdb_type": "tv",
-      "title": "The Angel Next Door Spoils Me Rotten2",
+      "title": "The Angel Next Door Spoils Me Rotten 2",
       "sort": 6
     },
     {
       "tmdb_id": 86031,
       "tmdb_type": "tv",
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+      "title": "Dr. Stone: Science Future Part 3",
       "sort": 7
+    },
+    {
+      "tmdb_id": 86031,
+      "tmdb_type": "tv",
+      "title": "Dr. Stone: Science Future Part 3",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 245842,
+      "tmdb_type": "tv",
+      "title": "Wistoria: Wand and Sword Season 2",
+      "sort": 9
     },
     {
       "tmdb_id": 301944,
       "tmdb_type": "tv",
-      "title": "MARRIAGETOXIN",
-      "sort": 8
+      "title": "Marriagetoxin",
+      "sort": 10
     },
     {
       "tmdb_id": 290019,
       "tmdb_type": "tv",
       "title": "I Made Friends with the Second Prettiest Girl in My Class",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 283428,
-      "tmdb_type": "tv",
-      "title": "The Ramparts of Ice",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 274671,
-      "tmdb_type": "tv",
-      "title": "The Beginning After the End Season 2",
       "sort": 11
-    },
-    {
-      "tmdb_id": 309163,
-      "tmdb_type": "tv",
-      "title": "Gals Can't Be Kind to Otaku!?",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 288659,
-      "tmdb_type": "tv",
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 297438,
-      "tmdb_type": "tv",
-      "title": "Akane-banashi",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 273467,
-      "tmdb_type": "tv",
-      "title": "The Warrior Princess and the Barbaric King",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 305329,
-      "tmdb_type": "tv",
-      "title": "NEEDY GIRL OVERDOSE",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 196285,
-      "tmdb_type": "tv",
-      "title": "Farming Life in Another World 2",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 300126,
-      "tmdb_type": "tv",
-      "title": "LIAR GAME",
-      "sort": 18
     },
     {
       "tmdb_id": 91768,
       "tmdb_type": "tv",
       "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "sort": 19
+      "sort": 12
     },
     {
       "tmdb_id": 91801,
       "tmdb_type": "tv",
       "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 273467,
+      "tmdb_type": "tv",
+      "title": "The Warrior Princess and the Barbaric King",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 283428,
+      "tmdb_type": "tv",
+      "title": "The Ramparts of Ice",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 196285,
+      "tmdb_type": "tv",
+      "title": "Farming Life in Another World Season 2",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 309163,
+      "tmdb_type": "tv",
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 300126,
+      "tmdb_type": "tv",
+      "title": "Liar Game",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 274671,
+      "tmdb_type": "tv",
+      "title": "The Beginning After the End Season 2",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 288659,
+      "tmdb_type": "tv",
+      "title": "Agents of the Four Seasons: Dance of Spring",
       "sort": 20
     },
     {
@@ -149,55 +149,55 @@
     {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
-      "title": "I Want to End this Love Game",
+      "title": "I Want to End This Love Game",
       "sort": 22
+    },
+    {
+      "tmdb_id": 297438,
+      "tmdb_type": "tv",
+      "title": "Akane-banashi",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 312474,
+      "tmdb_type": "tv",
+      "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 305329,
+      "tmdb_type": "tv",
+      "title": "Needy Girl Overdose",
+      "sort": 25
     },
     {
       "tmdb_id": 261780,
       "tmdb_type": "tv",
       "title": "Petals of Reincarnation",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 283905,
-      "tmdb_type": "tv",
-      "title": "Botan Kamiina Fully Blossoms When Drunk",
-      "sort": 24
-    },
-    {
-      "tmdb_id": 259819,
-      "tmdb_type": "tv",
-      "title": "Rooster Fighter",
-      "sort": 25
-    },
-    {
-      "tmdb_id": 288551,
-      "tmdb_type": "tv",
-      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "sort": 26
+    },
+    {
+      "tmdb_id": 274622,
+      "tmdb_type": "tv",
+      "title": "Go For It, Nakamura-kun!!",
+      "sort": 27
+    },
+    {
+      "tmdb_id": 96316,
+      "tmdb_type": "tv",
+      "title": "Rent-a-Girlfriend Season 5",
+      "sort": 28
+    },
+    {
+      "tmdb_id": 96316,
+      "tmdb_type": "tv",
+      "title": "Rent-a-Girlfriend Season 5",
+      "sort": 29
     },
     {
       "tmdb_id": 216467,
       "tmdb_type": "tv",
       "title": "Mission: Yozakura Family Season 2",
-      "sort": 27
-    },
-    {
-      "tmdb_id": 284447,
-      "tmdb_type": "tv",
-      "title": "Yowayowa Sensei",
-      "sort": 28
-    },
-    {
-      "tmdb_id": 213326,
-      "tmdb_type": "tv",
-      "title": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
-      "sort": 29
-    },
-    {
-      "tmdb_id": 300131,
-      "tmdb_type": "tv",
-      "title": "KILL BLUE",
       "sort": 30
     }
   ]
