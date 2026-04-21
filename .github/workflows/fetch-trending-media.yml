@@ -31,10 +31,26 @@ jobs:
       - name: 安装脚本依赖（axios）
         run: npm install axios tweetsodium
 
-      - name: 获取 AniList 当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
+      - name: 从 AniList 获取当季热播番剧 + 通过 Fribb 对照表补全 TMDB ID
         id: anilist
         continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/anilist.js
+
+      - name: 获取 AniList 国产动漫 + 通过 Fribb 对照表补全 TMDB ID
+        id: anilist_cn
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/anilist-anime-cn.js
+
+      - name: 获取 Jikan 当季在播番剧 + 通过 Fribb 对照表补全 TMDB ID
+        id: jikan
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/jikan.js
 
       - name: 获取 TMDB 热门外语剧 + 筛选有流媒体平台上线的剧集（排除中日韩）
         id: tmdb_foreign
@@ -63,17 +79,7 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/douban-movie.js
-        
-      - name: 获取 AniList 国产动漫 + 通过 Fribb 对照表补全 TMDB ID
-        id: anilist_cn
-        continue-on-error: true
-        run: node scripts/anilist-anime-cn.js
-        
-      - name: 获取 Jikan 当季在播番剧 + 通过 Fribb 对照表补全 TMDB ID
-        id: jikan
-        continue-on-error: true
-        run: node scripts/jikan.js
-              
+            
       - name: 从 Trakt 获取 Continue Watching 数据（有观看进度但未完成的影视）
         id: trakt
         continue-on-error: true
