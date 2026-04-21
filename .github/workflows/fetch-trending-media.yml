@@ -67,7 +67,12 @@ jobs:
         id: anilist_cn
         continue-on-error: true
         run: node scripts/anilist-anime-cn.js
-
+        
+      - name: 获取 Jikan 当季在播番剧 + 通过 Fribb 对照表补全 TMDB ID
+        id: jikan
+        continue-on-error: true
+        run: node scripts/jikan.js
+        
       - name: 将所有成功更新的 data/*.json 统一提交并推送到仓库
         run: |
           echo "📋 各脚本执行结果:"
@@ -77,8 +82,9 @@ jobs:
           echo "  豆瓣国产剧:     ${{ steps.douban_tv.outcome }}"
           echo "  豆瓣热门电影:   ${{ steps.douban_movie.outcome }}"
           echo "  AniList 国产动漫: ${{ steps.anilist_cn.outcome }}"
+          echo "  Jikan 番剧:     ${{ steps.jikan.outcome }}"
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/anilist.json data/anilist-anime-cn.json data/tmdb-tv-foreign.json data/tmdb-movie.json data/douban-tv-cn.json data/douban-movie.json
+          git config user.email "github-actions[bot]@users.noreply.github.com"          
+          git add data/anilist.json data/anilist-anime-cn.json data/jikan.json data/tmdb-tv-foreign.json data/tmdb-movie.json data/douban-tv-cn.json data/douban-movie.json
           git diff --staged --quiet || git commit -m "chore: update trending media $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
