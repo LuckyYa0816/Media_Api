@@ -7,7 +7,7 @@ const CLIENT_ID = process.env.TRAKT_CLIENT_ID;
 const CLIENT_SECRET = process.env.TRAKT_CLIENT_SECRET;
 const REFRESH_TOKEN = process.env.TRAKT_REFRESH_TOKEN;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_REPO = process.env.GITHUB_REPOSITORY; // Actions 自动注入，格式：owner/repo
+const GITHUB_REPO = process.env.GITHUB_REPOSITORY;
 
 if (!CLIENT_ID || !CLIENT_SECRET || !REFRESH_TOKEN) {
   console.error('❌ 缺少 TRAKT_CLIENT_ID / TRAKT_CLIENT_SECRET / TRAKT_REFRESH_TOKEN');
@@ -24,7 +24,6 @@ async function updateGithubSecret(secretName, secretValue) {
   try {
     const sodium = require('tweetsodium');
 
-    // 获取仓库公钥
     const keyRes = await axios.get(
       `https://api.github.com/repos/${GITHUB_REPO}/actions/secrets/public-key`,
       {
@@ -36,13 +35,11 @@ async function updateGithubSecret(secretName, secretValue) {
     );
     const { key, key_id } = keyRes.data;
 
-    // 加密新 Token
     const messageBytes = Buffer.from(secretValue);
     const keyBytes = Buffer.from(key, 'base64');
     const encryptedBytes = sodium.seal(messageBytes, keyBytes);
     const encryptedValue = Buffer.from(encryptedBytes).toString('base64');
 
-    // 写入 Secret
     await axios.put(
       `https://api.github.com/repos/${GITHUB_REPO}/actions/secrets/${secretName}`,
       { encrypted_value: encryptedValue, key_id },
@@ -72,7 +69,6 @@ async function getAccessToken() {
 
   const newRefreshToken = res.data.refresh_token;
 
-  // 如果返回了新的 Refresh Token，写回 Secrets
   if (newRefreshToken && newRefreshToken !== REFRESH_TOKEN) {
     console.log('🔄 Refresh Token 已轮换，正在写回 Secrets...');
     await updateGithubSecret('TRAKT_REFRESH_TOKEN', newRefreshToken);
@@ -81,8 +77,8 @@ async function getAccessToken() {
   return res.data.access_token;
 }
 
-// 获取用户 Watchlist
-async function fetchWatchlist(accessToken) {
+// 获取 Continue Watching 数据（有进度但未完成）
+async function fetchContinueWatching(accessToken) {
   const headers = {
     'Content-Type': 'application/json',
     'trakt-api-version': '2',
@@ -91,8 +87,16 @@ async function fetchWatchlist(accessToken) {
   };
 
   const [showsRes, moviesRes] = await Promise.all([
-    axios.get(`${TRAKT_API}/sync/watchlist/shows/added`, { headers, timeout: 10000 }),
-    axios.get(`${TRAKT_API}/sync/watchlist/movies/added`, { headers, timeout: 10000 }),
+    axios.get(`${TRAKT_API}/sync/progress/watched/shows`, {
+      headers,
+      params: { limit: 30 },
+      timeout: 10000,
+    }),
+    axios.get(`${TRAKT_API}/sync/progress/watched/movies`, {
+      headers,
+      params: { limit: 30 },
+      timeout: 10000,
+    }),
   ]);
 
   return {
@@ -106,11 +110,10 @@ async function main() {
   const accessToken = await getAccessToken();
   console.log('✅ 授权成功');
 
-  console.log('📥 获取 Trakt Watchlist...');
-  const { shows, movies } = await fetchWatchlist(accessToken);
+  console.log('📥 获取 Trakt Continue Watching...');
+  const { shows, movies } = await fetchContinueWatching(accessToken);
   console.log(`✅ 剧集: ${shows.length} 部，电影: ${movies.length} 部`);
 
-  // Trakt 数据本身带 ids.tmdb，无需额外匹配
   const showItems = shows
     .filter(item => item.show?.ids?.tmdb)
     .map((item, i) => {
@@ -136,20 +139,20 @@ async function main() {
     });
 
   const list = [...showItems, ...movieItems];
-  console.log(`\n📊 共 ${list.length} 部有效条目`);
+  console.log(`\n📊 共 ${list.length} 部正在观看的内容`);
 
   const output = {
     remark: {
-      description: '我的 Trakt Watchlist，剧集在前、电影在后，按加入时间倒序排列',
+      description: '我正在看的影视，包含有观看进度但未完成的剧集和电影',
       sources: [
         {
           platform: 'Trakt',
           url: 'https://trakt.tv',
-          note: '通过 OAuth 授权获取用户个人 Watchlist，数据自带 TMDB ID，无需额外匹配',
+          note: '通过 Continue Watching 接口获取有观看进度的内容，数据自带 TMDB ID，无需额外匹配',
         },
       ],
-      update_cron: '0 2 * * 1',
-      update_frequency: '每周一 UTC 02:00 更新一次',
+      update_cron: '30 23/30 8 * * *',
+      update_frequency: '每天 07:30 和 16:30（北京时间）各更新一次',
     },
     platform: 'trakt',
     updated_at: new Date().toISOString(),
