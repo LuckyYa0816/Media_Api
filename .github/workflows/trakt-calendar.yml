@@ -1,0 +1,31 @@
+name: Trakt Calendar Notify
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 每天 UTC 8:00（北京时间 16:00）推送
+  workflow_dispatch:        # 支持手动触发，方便测试
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch & Notify
+        env:
+          TRAKT_CLIENT_ID:    ${{ secrets.TRAKT_CLIENT_ID }}
+          TRAKT_ACCESS_TOKEN: ${{ secrets.TRAKT_ACCESS_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          TMDB_API_KEY:       ${{ secrets.TMDB_API_KEY }}
+        run: python scripts/fetch_trakt_calendar.py
