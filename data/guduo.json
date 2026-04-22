@@ -18,21 +18,21 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-04-21T23:42:57.840Z",
+  "updated_at": "2026-04-22T09:25:32.884Z",
   "categories": {
     "剧集": {
       "total": 20,
       "list": [
         {
-          "tmdb_id": 278275,
-          "tmdb_type": "tv",
-          "title": "月鳞绮纪",
-          "sort": 1
-        },
-        {
           "tmdb_id": 278868,
           "tmdb_type": "tv",
           "title": "方圆八百米",
+          "sort": 1
+        },
+        {
+          "tmdb_id": 278275,
+          "tmdb_type": "tv",
+          "title": "月鳞绮纪",
           "sort": 2
         },
         {
@@ -48,15 +48,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 281392,
-          "tmdb_type": "tv",
-          "title": "钢铁森林",
-          "sort": 5
-        },
-        {
           "tmdb_id": 290700,
           "tmdb_type": "tv",
           "title": "重案解密",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 281392,
+          "tmdb_type": "tv",
+          "title": "钢铁森林",
           "sort": 6
         },
         {
@@ -155,21 +155,21 @@
           "sort": 1
         },
         {
-          "tmdb_id": 259537,
+          "tmdb_id": 101172,
           "tmdb_type": "tv",
-          "title": "剑来",
+          "title": "吞噬星空",
           "sort": 2
+        },
+        {
+          "tmdb_id": 224839,
+          "tmdb_type": "tv",
+          "title": "遮天",
+          "sort": 3
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 106449,
-          "tmdb_type": "tv",
-          "title": "凡人修仙传",
           "sort": 4
         },
         {
@@ -179,33 +179,33 @@
           "sort": 5
         },
         {
-          "tmdb_id": 124003,
+          "tmdb_id": 106449,
           "tmdb_type": "tv",
-          "title": "完美世界",
+          "title": "凡人修仙传",
           "sort": 6
         },
         {
-          "tmdb_id": 228429,
+          "tmdb_id": 259537,
           "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
+          "title": "剑来",
           "sort": 7
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 8
         },
         {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 101172,
-          "tmdb_type": "tv",
-          "title": "吞噬星空",
           "sort": 9
         },
         {
-          "tmdb_id": 224839,
+          "tmdb_id": 228429,
           "tmdb_type": "tv",
-          "title": "遮天",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 10
         },
         {
@@ -239,15 +239,15 @@
           "sort": 15
         },
         {
-          "tmdb_id": 282158,
-          "tmdb_type": "tv",
-          "title": "择天记",
-          "sort": 16
-        },
-        {
           "tmdb_id": 218642,
           "tmdb_type": "tv",
           "title": "师兄啊师兄",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 282158,
+          "tmdb_type": "tv",
+          "title": "择天记",
           "sort": 17
         },
         {
@@ -298,15 +298,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 163813,
-          "tmdb_type": "tv",
-          "title": "亲爱的·客栈",
-          "sort": 5
-        },
-        {
           "tmdb_id": 315850,
           "tmdb_type": "tv",
           "title": "魔力歌先生",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 163813,
+          "tmdb_type": "tv",
+          "title": "亲爱的·客栈",
           "sort": 6
         },
         {
@@ -390,7 +390,7 @@
       ]
     },
     "电影": {
-      "total": 18,
+      "total": 19,
       "list": [
         {
           "tmdb_id": 683205,
@@ -399,105 +399,111 @@
           "sort": 1
         },
         {
+          "tmdb_id": 1480790,
+          "tmdb_type": "movie",
+          "title": "追恶",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 1677967,
+          "tmdb_type": "movie",
+          "title": "聊斋：魅首诡案",
+          "sort": 3
+        },
+        {
           "tmdb_id": 1201781,
           "tmdb_type": "movie",
           "title": "僵尸参将",
-          "sort": 2
+          "sort": 4
         },
         {
           "tmdb_id": 1654429,
           "tmdb_type": "movie",
           "title": "扫恶",
-          "sort": 4
+          "sort": 5
+        },
+        {
+          "tmdb_id": 1664632,
+          "tmdb_type": "movie",
+          "title": "隐市英雄",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 881298,
+          "tmdb_type": "movie",
+          "title": "东北警察故事",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 484029,
+          "tmdb_type": "movie",
+          "title": "战刀屠狼",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 11618,
+          "tmdb_type": "movie",
+          "title": "鬼入侵",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 1668585,
+          "tmdb_type": "movie",
+          "title": "捕蛇者说",
+          "sort": 10
         },
         {
           "tmdb_id": 1660900,
           "tmdb_type": "movie",
           "title": "盗墓大案",
-          "sort": 5
+          "sort": 11
         },
         {
           "tmdb_id": 1664636,
           "tmdb_type": "movie",
           "title": "阴阳镜",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 811677,
-          "tmdb_type": "movie",
-          "title": "重案·无罪",
-          "sort": 7
+          "sort": 13
         },
         {
           "tmdb_id": 1665448,
           "tmdb_type": "movie",
           "title": "迷雾镇",
-          "sort": 8
+          "sort": 14
+        },
+        {
+          "tmdb_id": 811677,
+          "tmdb_type": "movie",
+          "title": "重案·无罪",
+          "sort": 15
         },
         {
           "tmdb_id": 1607596,
           "tmdb_type": "movie",
           "title": "猎战狂徒",
-          "sort": 9
+          "sort": 16
         },
         {
           "tmdb_id": 1660412,
           "tmdb_type": "movie",
           "title": "天问",
-          "sort": 10
+          "sort": 17
         },
         {
           "tmdb_id": 1615767,
           "tmdb_type": "movie",
           "title": "大劫案",
-          "sort": 11
+          "sort": 18
         },
         {
           "tmdb_id": 1607593,
           "tmdb_type": "movie",
           "title": "突袭",
-          "sort": 12
+          "sort": 19
         },
         {
           "tmdb_id": 1662403,
           "tmdb_type": "movie",
           "title": "戒灵",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 1592032,
-          "tmdb_type": "movie",
-          "title": "怒袭",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 1623740,
-          "tmdb_type": "movie",
-          "title": "大蛇5：怪兽都市",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 1071640,
-          "tmdb_type": "movie",
-          "title": "火拼",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 1657007,
-          "tmdb_type": "movie",
-          "title": "龙口走蛟",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 1638188,
-          "tmdb_type": "movie",
-          "title": "我是卧底",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 1635742,
-          "tmdb_type": "movie",
-          "title": "东北恋哥3：冬天里的一把火",
           "sort": 20
         }
       ]
