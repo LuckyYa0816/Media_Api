@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-22T09:24:53.024Z",
-  "total": 23,
+  "updated_at": "2026-04-22T23:50:23.403Z",
+  "total": 21,
   "list": [
     {
       "tmdb_id": 76479,
@@ -61,33 +61,33 @@
       "sort": 5
     },
     {
-      "tmdb_id": 289219,
+      "tmdb_id": 262848,
       "tmdb_type": "tv",
-      "title": "星球大战：摩尔-暗影之王",
+      "title": "非选之人",
       "sort": 6
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 111110,
-      "tmdb_type": "tv",
-      "title": "ONE PIECE",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 9
     },
     {
       "tmdb_id": 287527,
       "tmdb_type": "tv",
       "title": "证词",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 289219,
+      "tmdb_type": "tv",
+      "title": "星球大战：摩尔-暗影之王",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 56570,
+      "tmdb_type": "tv",
+      "title": "古战场传奇",
       "sort": 10
     },
     {
@@ -97,76 +97,64 @@
       "sort": 11
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "实习医生风云",
       "sort": 12
     },
     {
-      "tmdb_id": 56570,
+      "tmdb_id": 111110,
       "tmdb_type": "tv",
-      "title": "古战场传奇",
+      "title": "ONE PIECE",
       "sort": 13
-    },
-    {
-      "tmdb_id": 226637,
-      "tmdb_type": "tv",
-      "title": "潜能探案组",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 247723,
-      "tmdb_type": "tv",
-      "title": "猎捕行动",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 227371,
-      "tmdb_type": "tv",
-      "title": "人设骗局",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 218896,
-      "tmdb_type": "tv",
-      "title": "律政女杰莉迪亚",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 316544,
-      "tmdb_type": "tv",
-      "title": "罗纳尔迪尼奥：独步球坛",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 215092,
-      "tmdb_type": "tv",
-      "title": "大男人",
-      "sort": 21
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 22
+      "sort": 14
     },
     {
-      "tmdb_id": 291506,
+      "tmdb_id": 66732,
       "tmdb_type": "tv",
-      "title": "失策兄妹帮",
-      "sort": 23
+      "title": "怪奇物语",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 226637,
+      "tmdb_type": "tv",
+      "title": "潜能探案组",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 227371,
+      "tmdb_type": "tv",
+      "title": "人设骗局",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 316544,
+      "tmdb_type": "tv",
+      "title": "罗纳尔迪尼奥：独步球坛",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 218896,
+      "tmdb_type": "tv",
+      "title": "律政女杰莉迪亚",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 315595,
+      "tmdb_type": "tv",
+      "title": "真情入味",
+      "sort": 21
     }
   ]
 }

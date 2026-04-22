@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-04-22T09:24:50.979Z",
+  "updated_at": "2026-04-22T23:50:20.747Z",
   "total": 30,
   "list": [
     {
@@ -141,15 +141,15 @@
       "sort": 20
     },
     {
-      "tmdb_id": 293697,
-      "tmdb_type": "tv",
-      "title": "想结束这场“我爱你”的游戏",
-      "sort": 21
-    },
-    {
       "tmdb_id": 285818,
       "tmdb_type": "tv",
       "title": "迦楠大人的白给是恶魔级",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 293697,
+      "tmdb_type": "tv",
+      "title": "想结束这场“我爱你”的游戏",
       "sort": 22
     },
     {
