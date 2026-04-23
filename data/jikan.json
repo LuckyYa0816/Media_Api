@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-04-23T09:47:39.614Z",
+  "updated_at": "2026-04-23T23:52:04.727Z",
   "total": 30,
   "list": [
     {
@@ -111,15 +111,15 @@
       "sort": 15
     },
     {
-      "tmdb_id": 196285,
-      "tmdb_type": "tv",
-      "title": "异世界悠闲农家",
-      "sort": 16
-    },
-    {
       "tmdb_id": 309163,
       "tmdb_type": "tv",
       "title": "哪里有温柔对待阿宅的辣妹！？",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 196285,
+      "tmdb_type": "tv",
+      "title": "异世界悠闲农家",
       "sort": 17
     },
     {
@@ -153,15 +153,15 @@
       "sort": 22
     },
     {
-      "tmdb_id": 297438,
-      "tmdb_type": "tv",
-      "title": "落语朱音",
-      "sort": 23
-    },
-    {
       "tmdb_id": 312474,
       "tmdb_type": "tv",
       "title": "日本三国",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 297438,
+      "tmdb_type": "tv",
+      "title": "落语朱音",
       "sort": 24
     },
     {
