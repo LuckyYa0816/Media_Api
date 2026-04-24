@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-04-23T23:51:58.343Z",
+  "updated_at": "2026-04-24T09:47:42.064Z",
   "total": 30,
   "list": [
     {
@@ -99,15 +99,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 297438,
-      "tmdb_type": "tv",
-      "title": "落语朱音",
-      "sort": 14
-    },
-    {
       "tmdb_id": 273467,
       "tmdb_type": "tv",
       "title": "女骑士成为蛮族新娘",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 297438,
+      "tmdb_type": "tv",
+      "title": "落语朱音",
       "sort": 15
     },
     {
@@ -165,15 +165,15 @@
       "sort": 24
     },
     {
-      "tmdb_id": 259819,
-      "tmdb_type": "tv",
-      "title": "公鸡斗士",
-      "sort": 25
-    },
-    {
       "tmdb_id": 288551,
       "tmdb_type": "tv",
       "title": "木头风纪委员和迷你裙JK的故事",
+      "sort": 25
+    },
+    {
+      "tmdb_id": 259819,
+      "tmdb_type": "tv",
+      "title": "公鸡斗士",
       "sort": 26
     },
     {

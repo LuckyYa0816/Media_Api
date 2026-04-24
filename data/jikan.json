@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-04-23T23:52:04.727Z",
+  "updated_at": "2026-04-24T09:47:48.154Z",
   "total": 30,
   "list": [
     {
@@ -111,15 +111,15 @@
       "sort": 15
     },
     {
-      "tmdb_id": 309163,
-      "tmdb_type": "tv",
-      "title": "哪里有温柔对待阿宅的辣妹！？",
-      "sort": 16
-    },
-    {
       "tmdb_id": 196285,
       "tmdb_type": "tv",
       "title": "异世界悠闲农家",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 309163,
+      "tmdb_type": "tv",
+      "title": "哪里有温柔对待阿宅的辣妹！？",
       "sort": 17
     },
     {
@@ -135,15 +135,15 @@
       "sort": 19
     },
     {
-      "tmdb_id": 288659,
-      "tmdb_type": "tv",
-      "title": "春夏秋冬代行者 春之舞",
-      "sort": 20
-    },
-    {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
       "title": "想结束这场“我爱你”的游戏",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 288659,
+      "tmdb_type": "tv",
+      "title": "春夏秋冬代行者 春之舞",
       "sort": 21
     },
     {
