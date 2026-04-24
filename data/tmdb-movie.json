@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-24T09:47:54.152Z",
-  "total": 9,
+  "updated_at": "2026-04-24T23:43:35.900Z",
+  "total": 8,
   "list": [
-    {
-      "tmdb_id": 1511057,
-      "tmdb_type": "movie",
-      "title": "我的麻烦室友",
-      "sort": 1
-    },
     {
       "tmdb_id": 1084577,
       "tmdb_type": "movie",
       "title": "抖擞",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1511057,
+      "tmdb_type": "movie",
+      "title": "我的麻烦室友",
       "sort": 2
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1171145,
+      "tmdb_id": 1272837,
       "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 5
     },
     {
@@ -62,22 +62,16 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1272837,
-      "tmdb_type": "movie",
-      "title": "惊变28年2：白骨圣殿",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1236153,
-      "tmdb_type": "movie",
-      "title": "极限审判",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1084242,
       "tmdb_type": "movie",
       "title": "疯狂动物城2",
-      "sort": 9
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1265609,
+      "tmdb_type": "movie",
+      "title": "侵略机器",
+      "sort": 8
     }
   ]
 }
