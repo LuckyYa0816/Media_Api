@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-24T23:43:35.900Z",
+  "updated_at": "2026-04-25T08:57:41.522Z",
   "total": 8,
   "list": [
-    {
-      "tmdb_id": 1084577,
-      "tmdb_type": "movie",
-      "title": "抖擞",
-      "sort": 1
-    },
     {
       "tmdb_id": 1511057,
       "tmdb_type": "movie",
       "title": "我的麻烦室友",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1084577,
+      "tmdb_type": "movie",
+      "title": "抖擞",
       "sort": 2
     },
     {
@@ -56,15 +56,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1171145,
-      "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1084242,
       "tmdb_type": "movie",
       "title": "疯狂动物城2",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
       "sort": 7
     },
     {
