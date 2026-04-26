@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-04-25T23:43:33.892Z",
+  "updated_at": "2026-04-26T09:05:55.493Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -30,21 +30,21 @@
           "sort": 1
         },
         {
+          "tmdb_id": 272715,
+          "tmdb_type": "tv",
+          "title": "佳偶天成",
+          "sort": 2
+        },
+        {
           "tmdb_id": 258865,
           "tmdb_type": "tv",
           "title": "白日提灯​",
-          "sort": 2
+          "sort": 3
         },
         {
           "tmdb_id": 278275,
           "tmdb_type": "tv",
           "title": "月鳞绮纪",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 290700,
-          "tmdb_type": "tv",
-          "title": "重案解密",
           "sort": 4
         },
         {
@@ -54,51 +54,51 @@
           "sort": 5
         },
         {
+          "tmdb_id": 290700,
+          "tmdb_type": "tv",
+          "title": "重案解密",
+          "sort": 6
+        },
+        {
           "tmdb_id": 281392,
           "tmdb_type": "tv",
           "title": "钢铁森林",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 279388,
           "tmdb_type": "tv",
           "title": "逐玉",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 318840,
           "tmdb_type": "tv",
           "title": "有港回信",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 291602,
           "tmdb_type": "tv",
           "title": "夏末初见",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 282902,
           "tmdb_type": "tv",
           "title": "叵测",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 277412,
           "tmdb_type": "tv",
           "title": "正义女神",
-          "sort": 11
+          "sort": 12
         },
         {
           "tmdb_id": 154770,
           "tmdb_type": "tv",
           "title": "你好，星期六",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 282904,
-          "tmdb_type": "tv",
-          "title": "她的盛焰",
           "sort": 13
         },
         {
@@ -149,75 +149,75 @@
       "total": 20,
       "list": [
         {
-          "tmdb_id": 259537,
-          "tmdb_type": "tv",
-          "title": "剑来",
-          "sort": 1
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 223911,
-          "tmdb_type": "tv",
-          "title": "仙逆",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 198182,
-          "tmdb_type": "tv",
-          "title": "神印王座",
-          "sort": 4
-        },
-        {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 5
+          "sort": 1
         },
         {
-          "tmdb_id": 67063,
+          "tmdb_id": 259537,
           "tmdb_type": "tv",
-          "title": "一人之下",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 101172,
-          "tmdb_type": "tv",
-          "title": "吞噬星空",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 224839,
-          "tmdb_type": "tv",
-          "title": "遮天",
-          "sort": 11
+          "title": "剑来",
+          "sort": 2
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 223911,
+          "tmdb_type": "tv",
+          "title": "仙逆",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 236534,
+          "tmdb_type": "tv",
+          "title": "牧神记",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 67063,
+          "tmdb_type": "tv",
+          "title": "一人之下",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 198182,
+          "tmdb_type": "tv",
+          "title": "神印王座",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 101172,
+          "tmdb_type": "tv",
+          "title": "吞噬星空",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 79481,
+          "tmdb_type": "tv",
+          "title": "斗破苍穹",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 224839,
+          "tmdb_type": "tv",
+          "title": "遮天",
           "sort": 12
         },
         {
@@ -227,21 +227,21 @@
           "sort": 13
         },
         {
-          "tmdb_id": 282158,
-          "tmdb_type": "tv",
-          "title": "择天记",
-          "sort": 14
-        },
-        {
           "tmdb_id": 256783,
           "tmdb_type": "tv",
           "title": "成何体统",
-          "sort": 15
+          "sort": 14
         },
         {
           "tmdb_id": 235808,
           "tmdb_type": "tv",
           "title": "修罗武神",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 282158,
+          "tmdb_type": "tv",
+          "title": "择天记",
           "sort": 16
         },
         {
@@ -280,15 +280,15 @@
           "sort": 1
         },
         {
-          "tmdb_id": 74561,
-          "tmdb_type": "tv",
-          "title": "明星大侦探",
-          "sort": 2
-        },
-        {
           "tmdb_id": 112732,
           "tmdb_type": "tv",
           "title": "哈哈哈哈哈",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 74561,
+          "tmdb_type": "tv",
+          "title": "明星大侦探",
           "sort": 3
         },
         {
@@ -316,39 +316,39 @@
           "sort": 7
         },
         {
-          "tmdb_id": 312878,
-          "tmdb_type": "tv",
-          "title": "周五晚高疯",
-          "sort": 8
-        },
-        {
           "tmdb_id": 317605,
           "tmdb_type": "tv",
           "title": "奋斗吧人生-演员篇",
-          "sort": 9
+          "sort": 8
         },
         {
-          "tmdb_id": 206122,
+          "tmdb_id": 312878,
           "tmdb_type": "tv",
-          "title": "怦然心动20岁",
-          "sort": 10
+          "title": "周五晚高疯",
+          "sort": 9
         },
         {
           "tmdb_id": 320614,
           "tmdb_type": "tv",
           "title": "超燃青春的合唱",
-          "sort": 11
+          "sort": 10
         },
         {
-          "tmdb_id": 309100,
+          "tmdb_id": 206122,
           "tmdb_type": "tv",
-          "title": "宇宙闪烁请注意",
-          "sort": 12
+          "title": "怦然心动20岁",
+          "sort": 11
         },
         {
           "tmdb_id": 314523,
           "tmdb_type": "tv",
           "title": "今夜喜友秀",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 309100,
+          "tmdb_type": "tv",
+          "title": "宇宙闪烁请注意",
           "sort": 13
         },
         {
@@ -417,63 +417,63 @@
           "sort": 4
         },
         {
+          "tmdb_id": 1238046,
+          "tmdb_type": "movie",
+          "title": "长白山猎人传说",
+          "sort": 5
+        },
+        {
           "tmdb_id": 1654429,
           "tmdb_type": "movie",
           "title": "扫恶",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 1201781,
           "tmdb_type": "movie",
           "title": "僵尸参将",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 484029,
           "tmdb_type": "movie",
           "title": "战刀屠狼",
-          "sort": 7
+          "sort": 8
         },
         {
-          "tmdb_id": 762441,
+          "tmdb_id": 1152491,
           "tmdb_type": "movie",
-          "title": "寂静之地：入侵日",
-          "sort": 8
+          "title": "邪恶入侵",
+          "sort": 9
         },
         {
           "tmdb_id": 1670656,
           "tmdb_type": "movie",
           "title": "东北奇妙故事",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 1668585,
           "tmdb_type": "movie",
           "title": "捕蛇者说",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 1660900,
           "tmdb_type": "movie",
           "title": "盗墓大案",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 1664636,
           "tmdb_type": "movie",
           "title": "阴阳镜",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 1678583,
           "tmdb_type": "movie",
           "title": "无声之地",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 1607596,
-          "tmdb_type": "movie",
-          "title": "猎战狂徒",
           "sort": 15
         },
         {
@@ -483,16 +483,16 @@
           "sort": 16
         },
         {
-          "tmdb_id": 1665448,
+          "tmdb_id": 1607596,
           "tmdb_type": "movie",
-          "title": "迷雾镇",
+          "title": "猎战狂徒",
           "sort": 17
         },
         {
-          "tmdb_id": 1660412,
+          "tmdb_id": 1665448,
           "tmdb_type": "movie",
-          "title": "天问",
-          "sort": 19
+          "title": "迷雾镇",
+          "sort": 18
         }
       ]
     }

@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-25T23:42:57.339Z",
+  "updated_at": "2026-04-26T09:05:30.630Z",
   "total": 8,
   "list": [
     {
@@ -56,9 +56,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1272837,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 6
     },
     {
@@ -68,9 +68,9 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1272837,
+      "tmdb_id": 1084242,
       "tmdb_type": "movie",
-      "title": "惊变28年2：白骨圣殿",
+      "title": "疯狂动物城2",
       "sort": 8
     }
   ]
