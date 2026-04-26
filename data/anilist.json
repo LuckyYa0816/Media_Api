@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-04-26T09:05:20.668Z",
+  "updated_at": "2026-04-26T23:43:14.413Z",
   "total": 30,
   "list": [
     {
@@ -177,15 +177,15 @@
       "sort": 26
     },
     {
-      "tmdb_id": 216467,
-      "tmdb_type": "tv",
-      "title": "夜樱家的大作战",
-      "sort": 27
-    },
-    {
       "tmdb_id": 300131,
       "tmdb_type": "tv",
       "title": "杀手青春",
+      "sort": 27
+    },
+    {
+      "tmdb_id": 216467,
+      "tmdb_type": "tv",
+      "title": "夜樱家的大作战",
       "sort": 28
     },
     {

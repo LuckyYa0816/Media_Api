@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-26T09:05:28.202Z",
-  "total": 22,
+  "updated_at": "2026-04-26T23:43:22.227Z",
+  "total": 23,
   "list": [
     {
       "tmdb_id": 124364,
@@ -49,15 +49,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 202555,
-      "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
-      "sort": 4
-    },
-    {
       "tmdb_id": 224263,
       "tmdb_type": "tv",
       "title": "Stranger Things: Tales from '85",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
       "sort": 5
     },
     {
@@ -67,33 +67,33 @@
       "sort": 6
     },
     {
+      "tmdb_id": 289219,
+      "tmdb_type": "tv",
+      "title": "星球大战：摩尔-暗影之王",
+      "sort": 7
+    },
+    {
       "tmdb_id": 154385,
       "tmdb_type": "tv",
       "title": "怒呛人生",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 244623,
       "tmdb_type": "tv",
       "title": "男篮女主",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
       "sort": 9
-    },
-    {
-      "tmdb_id": 289219,
-      "tmdb_type": "tv",
-      "title": "星球大战：摩尔-暗影之王",
-      "sort": 10
     },
     {
       "tmdb_id": 66732,
       "tmdb_type": "tv",
       "title": "怪奇物语",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
       "sort": 11
     },
     {
@@ -103,9 +103,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 279471,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "马尔科姆的一家：生活依旧不公",
+      "title": "实习医生风云",
       "sort": 13
     },
     {
@@ -115,39 +115,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 295778,
+      "tmdb_id": 279471,
       "tmdb_type": "tv",
-      "title": "实习医生风云",
+      "title": "马尔科姆的一家：生活依旧不公",
       "sort": 15
-    },
-    {
-      "tmdb_id": 287527,
-      "tmdb_type": "tv",
-      "title": "证词",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 287978,
-      "tmdb_type": "tv",
-      "title": "任务：卧底老师",
-      "sort": 18
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 137883,
+      "tmdb_type": "tv",
+      "title": "新型劫匪",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
       "sort": 19
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 259819,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "公鸡斗士",
       "sort": 20
     },
     {
@@ -157,10 +157,16 @@
       "sort": 21
     },
     {
-      "tmdb_id": 60625,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
+      "title": "辛普森一家",
       "sort": 22
+    },
+    {
+      "tmdb_id": 245927,
+      "tmdb_type": "tv",
+      "title": "极乐凶间",
+      "sort": 23
     }
   ]
 }
