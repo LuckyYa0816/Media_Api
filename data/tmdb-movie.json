@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-26T23:43:24.540Z",
+  "updated_at": "2026-04-27T10:20:50.713Z",
   "total": 9,
   "list": [
     {
@@ -38,21 +38,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1511057,
+      "tmdb_id": 1272837,
       "tmdb_type": "movie",
-      "title": "我的麻烦室友",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1290417,
-      "tmdb_type": "movie",
-      "title": "狂鲨风暴",
-      "sort": 4
     },
     {
       "tmdb_id": 1272837,
       "tmdb_type": "movie",
       "title": "惊变28年2：白骨圣殿",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1511057,
+      "tmdb_type": "movie",
+      "title": "我的麻烦室友",
       "sort": 5
     },
     {
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1290417,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
+      "title": "狂鲨风暴",
       "sort": 7
     },
     {
@@ -74,9 +74,9 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1236153,
+      "tmdb_id": 1084242,
       "tmdb_type": "movie",
-      "title": "极限审判",
+      "title": "疯狂动物城2",
       "sort": 9
     }
   ]
