@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-04-28T10:19:13.234Z",
+  "updated_at": "2026-04-28T23:58:30.864Z",
   "total": 20,
   "list": [
     {
@@ -71,33 +71,33 @@
       "sort": 8
     },
     {
+      "tmdb_id": 1292695,
+      "tmdb_type": "movie",
+      "title": "杀的就是你",
+      "sort": 9
+    },
+    {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 1497873,
       "tmdb_type": "movie",
       "title": "翠湖",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 1220564,
       "tmdb_type": "movie",
       "title": "密探",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 1429348,
       "tmdb_type": "movie",
       "title": "局外人",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1249668,
-      "tmdb_type": "movie",
-      "title": "拼桌",
       "sort": 13
     },
     {
@@ -107,27 +107,27 @@
       "sort": 14
     },
     {
+      "tmdb_id": 1249668,
+      "tmdb_type": "movie",
+      "title": "拼桌",
+      "sort": 15
+    },
+    {
       "tmdb_id": 1316092,
       "tmdb_type": "movie",
       "title": "呼啸山庄",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 1526650,
       "tmdb_type": "movie",
       "title": "泥娃娃",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 1462735,
-      "tmdb_type": "movie",
-      "title": "旅途中的日子",
       "sort": 17
     },
     {
-      "tmdb_id": 1489187,
+      "tmdb_id": 1464883,
       "tmdb_type": "movie",
-      "title": "爱上平行时空的你",
+      "title": "总统的蛋糕",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1464883,
+      "tmdb_id": 1489187,
       "tmdb_type": "movie",
-      "title": "总统的蛋糕",
+      "title": "爱上平行时空的你",
       "sort": 20
     }
   ]
