@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-04-27T23:57:04.915Z",
+  "updated_at": "2026-04-28T10:18:25.224Z",
   "total": 28,
   "list": [
     {
@@ -160,15 +160,15 @@
       "sort": 23
     },
     {
-      "tmdb_id": 80732,
-      "tmdb_type": "tv",
-      "title": "魔道祖师",
-      "sort": 24
-    },
-    {
       "tmdb_id": 98123,
       "tmdb_type": "tv",
       "title": "仙王的日常生活",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 80732,
+      "tmdb_type": "tv",
+      "title": "魔道祖师",
       "sort": 25
     },
     {

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-04-27T23:57:03.200Z",
+  "updated_at": "2026-04-28T10:18:23.591Z",
   "total": 30,
   "list": [
     {
@@ -111,15 +111,15 @@
       "sort": 15
     },
     {
-      "tmdb_id": 305329,
-      "tmdb_type": "tv",
-      "title": "主播女孩重度依赖",
-      "sort": 16
-    },
-    {
       "tmdb_id": 196285,
       "tmdb_type": "tv",
       "title": "异世界悠闲农家",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 305329,
+      "tmdb_type": "tv",
+      "title": "主播女孩重度依赖",
       "sort": 17
     },
     {
@@ -141,15 +141,15 @@
       "sort": 20
     },
     {
-      "tmdb_id": 91801,
-      "tmdb_type": "tv",
-      "title": "入间同学入魔了！",
-      "sort": 21
-    },
-    {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
       "title": "想结束这场“我爱你”的游戏",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 91801,
+      "tmdb_type": "tv",
+      "title": "入间同学入魔了！",
       "sort": 22
     },
     {
