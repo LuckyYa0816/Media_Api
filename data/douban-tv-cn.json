@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-04-29T10:09:18.004Z",
+  "updated_at": "2026-04-29T23:58:32.367Z",
   "total": 20,
   "list": [
     {
@@ -35,27 +35,27 @@
       "sort": 2
     },
     {
+      "tmdb_id": 273129,
+      "tmdb_type": "tv",
+      "title": "爱情没有神话",
+      "sort": 3
+    },
+    {
       "tmdb_id": 278868,
       "tmdb_type": "tv",
       "title": "方圆八百米",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 273151,
       "tmdb_type": "tv",
       "title": "危险关系",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 281231,
       "tmdb_type": "tv",
       "title": "蜜语纪",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 273129,
-      "tmdb_type": "tv",
-      "title": "爱情没有神话",
       "sort": 6
     },
     {
@@ -77,45 +77,45 @@
       "sort": 9
     },
     {
-      "tmdb_id": 258865,
-      "tmdb_type": "tv",
-      "title": "白日提灯",
-      "sort": 10
-    },
-    {
       "tmdb_id": 290700,
       "tmdb_type": "tv",
       "title": "重案解密",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 278275,
-      "tmdb_type": "tv",
-      "title": "月鳞绮纪",
-      "sort": 12
+      "sort": 10
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "奔跑吧 第十季",
-      "sort": 13
+      "sort": 11
     },
     {
       "tmdb_id": 261675,
       "tmdb_type": "tv",
       "title": "家事法庭",
-      "sort": 14
+      "sort": 12
     },
     {
-      "tmdb_id": 278894,
+      "tmdb_id": 258865,
       "tmdb_type": "tv",
-      "title": "冰湖重生",
-      "sort": 15
+      "title": "白日提灯",
+      "sort": 13
     },
     {
       "tmdb_id": 279446,
       "tmdb_type": "tv",
       "title": "太平年",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 278275,
+      "tmdb_type": "tv",
+      "title": "月鳞绮纪",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 278894,
+      "tmdb_type": "tv",
+      "title": "冰湖重生",
       "sort": 16
     },
     {
