@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-04-28T23:58:05.757Z",
-  "total": 8,
+  "updated_at": "2026-04-29T10:08:56.371Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1318447,
@@ -32,21 +32,21 @@
       "sort": 1
     },
     {
+      "tmdb_id": 1613798,
+      "tmdb_type": "movie",
+      "title": "复仇双雄",
+      "sort": 2
+    },
+    {
       "tmdb_id": 1272837,
       "tmdb_type": "movie",
       "title": "惊变28年2：白骨圣殿",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1084577,
       "tmdb_type": "movie",
       "title": "抖擞",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1613798,
-      "tmdb_type": "movie",
-      "title": "复仇双雄",
       "sort": 4
     },
     {
@@ -62,16 +62,22 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1290417,
-      "tmdb_type": "movie",
-      "title": "狂鲨风暴",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1084242,
       "tmdb_type": "movie",
       "title": "疯狂动物城2",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1290417,
+      "tmdb_type": "movie",
+      "title": "狂鲨风暴",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
+      "sort": 9
     }
   ]
 }

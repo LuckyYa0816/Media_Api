@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-04-28T23:58:31.183Z",
+  "updated_at": "2026-04-29T10:09:37.164Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -48,15 +48,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 290700,
+          "tmdb_id": 320015,
           "tmdb_type": "tv",
-          "title": "重案解密",
+          "title": "她的罪名",
           "sort": 5
         },
         {
-          "tmdb_id": 278894,
+          "tmdb_id": 290700,
           "tmdb_type": "tv",
-          "title": "冰湖重生",
+          "title": "重案解密",
           "sort": 6
         },
         {
@@ -72,33 +72,33 @@
           "sort": 8
         },
         {
-          "tmdb_id": 279388,
+          "tmdb_id": 278894,
           "tmdb_type": "tv",
-          "title": "逐玉",
+          "title": "冰湖重生",
           "sort": 9
-        },
-        {
-          "tmdb_id": 318840,
-          "tmdb_type": "tv",
-          "title": "有港回信",
-          "sort": 10
         },
         {
           "tmdb_id": 285415,
           "tmdb_type": "tv",
           "title": "着迷",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 279388,
+          "tmdb_type": "tv",
+          "title": "逐玉",
           "sort": 11
+        },
+        {
+          "tmdb_id": 318840,
+          "tmdb_type": "tv",
+          "title": "有港回信",
+          "sort": 12
         },
         {
           "tmdb_id": 291602,
           "tmdb_type": "tv",
           "title": "夏末初见",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 282902,
-          "tmdb_type": "tv",
-          "title": "叵测",
           "sort": 13
         },
         {
@@ -108,21 +108,21 @@
           "sort": 14
         },
         {
+          "tmdb_id": 282902,
+          "tmdb_type": "tv",
+          "title": "叵测",
+          "sort": 15
+        },
+        {
           "tmdb_id": 154770,
           "tmdb_type": "tv",
           "title": "你好，星期六",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 281495,
           "tmdb_type": "tv",
           "title": "除恶",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 262932,
-          "tmdb_type": "tv",
-          "title": "江湖夜雨十年灯",
           "sort": 17
         },
         {
@@ -161,15 +161,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 3
-        },
-        {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
           "sort": 4
         },
         {
@@ -179,15 +179,15 @@
           "sort": 5
         },
         {
-          "tmdb_id": 106449,
-          "tmdb_type": "tv",
-          "title": "凡人修仙传",
-          "sort": 6
-        },
-        {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 106449,
+          "tmdb_type": "tv",
+          "title": "凡人修仙传",
           "sort": 7
         },
         {
@@ -251,15 +251,15 @@
           "sort": 17
         },
         {
-          "tmdb_id": 226045,
-          "tmdb_type": "tv",
-          "title": "大主宰",
-          "sort": 18
-        },
-        {
           "tmdb_id": 156571,
           "tmdb_type": "tv",
           "title": "永生",
+          "sort": 18
+        },
+        {
+          "tmdb_id": 226045,
+          "tmdb_type": "tv",
+          "title": "大主宰",
           "sort": 19
         },
         {
@@ -286,15 +286,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 74561,
-          "tmdb_type": "tv",
-          "title": "明星大侦探",
-          "sort": 3
-        },
-        {
           "tmdb_id": 196747,
           "tmdb_type": "tv",
           "title": "我家那小子",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 74561,
+          "tmdb_type": "tv",
+          "title": "明星大侦探",
           "sort": 4
         },
         {
@@ -316,27 +316,27 @@
           "sort": 7
         },
         {
-          "tmdb_id": 317605,
-          "tmdb_type": "tv",
-          "title": "奋斗吧人生-演员篇",
-          "sort": 8
-        },
-        {
           "tmdb_id": 320614,
           "tmdb_type": "tv",
           "title": "超燃青春的合唱",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 312878,
-          "tmdb_type": "tv",
-          "title": "周五晚高疯",
-          "sort": 10
+          "sort": 8
         },
         {
           "tmdb_id": 206122,
           "tmdb_type": "tv",
           "title": "怦然心动20岁",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 317605,
+          "tmdb_type": "tv",
+          "title": "奋斗吧人生-演员篇",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 312878,
+          "tmdb_type": "tv",
+          "title": "周五晚高疯",
           "sort": 11
         },
         {
@@ -390,12 +390,12 @@
       ]
     },
     "电影": {
-      "total": 17,
+      "total": 18,
       "list": [
         {
-          "tmdb_id": 1238046,
+          "tmdb_id": 1675806,
           "tmdb_type": "movie",
-          "title": "长白山猎人传说",
+          "title": "长白山猎人传说2",
           "sort": 1
         },
         {
@@ -423,76 +423,82 @@
           "sort": 5
         },
         {
-          "tmdb_id": 1201781,
-          "tmdb_type": "movie",
-          "title": "僵尸参将",
-          "sort": 6
-        },
-        {
           "tmdb_id": 1677967,
           "tmdb_type": "movie",
           "title": "聊斋：魅首诡案",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 39127,
+          "tmdb_type": "movie",
+          "title": "冒牌人生",
           "sort": 7
+        },
+        {
+          "tmdb_id": 1201781,
+          "tmdb_type": "movie",
+          "title": "僵尸参将",
+          "sort": 8
         },
         {
           "tmdb_id": 484029,
           "tmdb_type": "movie",
           "title": "战刀屠狼",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 1668585,
           "tmdb_type": "movie",
           "title": "捕蛇者说",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 1660900,
           "tmdb_type": "movie",
           "title": "盗墓大案",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 1670656,
           "tmdb_type": "movie",
           "title": "东北奇妙故事",
-          "sort": 11
+          "sort": 12
         },
         {
           "tmdb_id": 1607596,
           "tmdb_type": "movie",
           "title": "猎战狂徒",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 1664636,
           "tmdb_type": "movie",
           "title": "阴阳镜",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 1615767,
           "tmdb_type": "movie",
           "title": "大劫案",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 1152491,
           "tmdb_type": "movie",
           "title": "邪恶入侵",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 1678583,
           "tmdb_type": "movie",
           "title": "无声之地",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 1665448,
           "tmdb_type": "movie",
           "title": "迷雾镇",
-          "sort": 19
+          "sort": 20
         }
       ]
     }
