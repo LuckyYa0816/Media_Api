@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-04-29T23:58:04.353Z",
+  "updated_at": "2026-04-30T10:09:27.756Z",
   "total": 30,
   "list": [
     {
@@ -135,15 +135,15 @@
       "sort": 19
     },
     {
-      "tmdb_id": 91768,
-      "tmdb_type": "tv",
-      "title": "爱书的下克上：为了成为图书管理员不择手段！",
-      "sort": 20
-    },
-    {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
       "title": "想结束这场“我爱你”的游戏",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 91768,
+      "tmdb_type": "tv",
+      "title": "爱书的下克上：为了成为图书管理员不择手段！",
       "sort": 21
     },
     {
@@ -171,15 +171,15 @@
       "sort": 25
     },
     {
-      "tmdb_id": 259819,
-      "tmdb_type": "tv",
-      "title": "公鸡斗士",
-      "sort": 26
-    },
-    {
       "tmdb_id": 300131,
       "tmdb_type": "tv",
       "title": "杀手青春",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 259819,
+      "tmdb_type": "tv",
+      "title": "公鸡斗士",
       "sort": 27
     },
     {

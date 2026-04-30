@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-04-29T23:58:11.543Z",
-  "total": 24,
+  "updated_at": "2026-04-30T10:09:35.002Z",
+  "total": 21,
   "list": [
     {
       "tmdb_id": 76479,
@@ -43,15 +43,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 95557,
-      "tmdb_type": "tv",
-      "title": "无敌少侠",
-      "sort": 3
-    },
-    {
       "tmdb_id": 202555,
       "tmdb_type": "tv",
       "title": "夜魔侠：重生",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 95557,
+      "tmdb_type": "tv",
+      "title": "无敌少侠",
       "sort": 4
     },
     {
@@ -73,45 +73,45 @@
       "sort": 7
     },
     {
-      "tmdb_id": 287527,
+      "tmdb_id": 262848,
       "tmdb_type": "tv",
-      "title": "证词",
+      "title": "非选之人",
       "sort": 8
     },
     {
-      "tmdb_id": 262848,
+      "tmdb_id": 287527,
       "tmdb_type": "tv",
-      "title": "非选之人",
+      "title": "证词",
       "sort": 9
-    },
-    {
-      "tmdb_id": 262848,
-      "tmdb_type": "tv",
-      "title": "非选之人",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 154385,
-      "tmdb_type": "tv",
-      "title": "怒呛人生",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 56570,
-      "tmdb_type": "tv",
-      "title": "古战场传奇",
-      "sort": 13
     },
     {
       "tmdb_id": 244623,
       "tmdb_type": "tv",
       "title": "男篮女主",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 111110,
+      "tmdb_type": "tv",
+      "title": "ONE PIECE",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 154385,
+      "tmdb_type": "tv",
+      "title": "怒呛人生",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
       "sort": 14
     },
     {
@@ -121,27 +121,27 @@
       "sort": 15
     },
     {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 111110,
-      "tmdb_type": "tv",
-      "title": "ONE PIECE",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 279471,
-      "tmdb_type": "tv",
-      "title": "马尔科姆的一家：生活依旧不公",
-      "sort": 18
-    },
-    {
       "tmdb_id": 211288,
       "tmdb_type": "tv",
       "title": "寻踪者",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 56570,
+      "tmdb_type": "tv",
+      "title": "古战场传奇",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1416,
+      "tmdb_type": "tv",
+      "title": "实习医生格蕾",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 302074,
+      "tmdb_type": "tv",
+      "title": "劣探德克尔",
       "sort": 19
     },
     {
@@ -155,24 +155,6 @@
       "tmdb_type": "tv",
       "title": "任务：卧底老师",
       "sort": 21
-    },
-    {
-      "tmdb_id": 261615,
-      "tmdb_type": "tv",
-      "title": "羡慕嫉妒恨",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 137883,
-      "tmdb_type": "tv",
-      "title": "新型劫匪",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 205715,
-      "tmdb_type": "tv",
-      "title": "V世代",
-      "sort": 24
     }
   ]
 }
