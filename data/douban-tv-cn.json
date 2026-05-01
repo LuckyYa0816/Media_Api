@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-05-01T09:49:50.064Z",
+  "updated_at": "2026-05-01T23:56:12.844Z",
   "total": 20,
   "list": [
     {
@@ -71,33 +71,33 @@
       "sort": 8
     },
     {
-      "tmdb_id": 281392,
-      "tmdb_type": "tv",
-      "title": "钢铁森林",
-      "sort": 9
-    },
-    {
       "tmdb_id": 290700,
       "tmdb_type": "tv",
       "title": "重案解密",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "奔跑吧 第十季",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 281392,
+      "tmdb_type": "tv",
+      "title": "钢铁森林",
       "sort": 11
+    },
+    {
+      "tmdb_id": 278275,
+      "tmdb_type": "tv",
+      "title": "月鳞绮纪",
+      "sort": 12
     },
     {
       "tmdb_id": 261675,
       "tmdb_type": "tv",
       "title": "家事法庭",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 279446,
-      "tmdb_type": "tv",
-      "title": "太平年",
       "sort": 13
     },
     {
@@ -107,9 +107,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 278275,
+      "tmdb_id": 279446,
       "tmdb_type": "tv",
-      "title": "月鳞绮纪",
+      "title": "太平年",
       "sort": 15
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "哈哈哈哈哈 第六季",
-      "sort": 18
-    },
-    {
       "tmdb_id": 283961,
       "tmdb_type": "tv",
       "title": "你是迟来的欢喜",
+      "sort": 18
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "哈哈哈哈哈 第六季",
       "sort": 19
     },
     {

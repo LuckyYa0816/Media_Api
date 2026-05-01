@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-01T09:49:13.201Z",
-  "total": 6,
+  "updated_at": "2026-05-01T23:55:55.641Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1318447,
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 829487,
+      "tmdb_id": 1290417,
       "tmdb_type": "movie",
-      "title": "我叫艾妮塔",
+      "title": "狂鲨风暴",
       "sort": 2
     },
     {
@@ -44,22 +44,28 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1084577,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
+      "title": "抖擞",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 829487,
+      "tmdb_type": "movie",
+      "title": "我叫艾妮塔",
+      "sort": 6
     },
     {
       "tmdb_id": 1613798,
       "tmdb_type": "movie",
       "title": "复仇双雄",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1290417,
-      "tmdb_type": "movie",
-      "title": "狂鲨风暴",
-      "sort": 6
+      "sort": 7
     }
   ]
 }
