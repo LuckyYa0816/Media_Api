@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-04-30T23:55:40.222Z",
+  "updated_at": "2026-05-01T09:49:04.802Z",
   "total": 28,
   "list": [
     {
@@ -172,15 +172,15 @@
       "sort": 25
     },
     {
-      "tmdb_id": 112398,
-      "tmdb_type": "tv",
-      "title": "天官赐福",
-      "sort": 26
-    },
-    {
       "tmdb_id": 262453,
       "tmdb_type": "tv",
       "title": "魔法公主的小烦恼",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 112398,
+      "tmdb_type": "tv",
+      "title": "天官赐福",
       "sort": 27
     },
     {
