@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-01T23:55:55.641Z",
+  "updated_at": "2026-05-02T09:11:02.686Z",
   "total": 7,
   "list": [
     {
@@ -32,39 +32,39 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1290417,
-      "tmdb_type": "movie",
-      "title": "狂鲨风暴",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1272837,
       "tmdb_type": "movie",
       "title": "惊变28年2：白骨圣殿",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 1084577,
       "tmdb_type": "movie",
       "title": "抖擞",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1171145,
-      "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
-      "sort": 5
+      "sort": 3
     },
     {
       "tmdb_id": 829487,
       "tmdb_type": "movie",
       "title": "我叫艾妮塔",
-      "sort": 6
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1084242,
+      "tmdb_type": "movie",
+      "title": "疯狂动物城2",
+      "sort": 5
     },
     {
       "tmdb_id": 1613798,
       "tmdb_type": "movie",
       "title": "复仇双雄",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1511057,
+      "tmdb_type": "movie",
+      "title": "我的麻烦室友",
       "sort": 7
     }
   ]

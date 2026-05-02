@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-01T23:56:36.069Z",
+  "updated_at": "2026-05-02T09:11:26.281Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -102,15 +102,15 @@
           "sort": 13
         },
         {
-          "tmdb_id": 282902,
-          "tmdb_type": "tv",
-          "title": "叵测",
-          "sort": 14
-        },
-        {
           "tmdb_id": 277412,
           "tmdb_type": "tv",
           "title": "正义女神",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 282902,
+          "tmdb_type": "tv",
+          "title": "叵测",
           "sort": 15
         },
         {
@@ -149,57 +149,57 @@
       "total": 20,
       "list": [
         {
-          "tmdb_id": 259537,
+          "tmdb_id": 124003,
           "tmdb_type": "tv",
-          "title": "剑来",
+          "title": "完美世界",
           "sort": 1
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 2
         },
         {
           "tmdb_id": 223911,
           "tmdb_type": "tv",
           "title": "仙逆",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 198182,
-          "tmdb_type": "tv",
-          "title": "神印王座",
           "sort": 3
-        },
-        {
-          "tmdb_id": 285479,
-          "tmdb_type": "tv",
-          "title": "凡人修仙传",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 5
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 6
+          "sort": 4
         },
         {
-          "tmdb_id": 224839,
+          "tmdb_id": 259537,
           "tmdb_type": "tv",
-          "title": "遮天",
-          "sort": 7
+          "title": "剑来",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 198182,
+          "tmdb_type": "tv",
+          "title": "神印王座",
+          "sort": 6
         },
         {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
-          "sort": 8
+          "sort": 7
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 285479,
+          "tmdb_type": "tv",
+          "title": "凡人修仙传",
           "sort": 9
         },
         {
@@ -209,9 +209,9 @@
           "sort": 10
         },
         {
-          "tmdb_id": 228429,
+          "tmdb_id": 224839,
           "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
+          "title": "遮天",
           "sort": 11
         },
         {
@@ -227,9 +227,9 @@
           "sort": 13
         },
         {
-          "tmdb_id": 282158,
+          "tmdb_id": 235808,
           "tmdb_type": "tv",
-          "title": "择天记",
+          "title": "修罗武神",
           "sort": 14
         },
         {
@@ -239,9 +239,9 @@
           "sort": 15
         },
         {
-          "tmdb_id": 235808,
+          "tmdb_id": 282158,
           "tmdb_type": "tv",
-          "title": "修罗武神",
+          "title": "择天记",
           "sort": 16
         },
         {
@@ -368,15 +368,15 @@
           "sort": 15
         },
         {
-          "tmdb_id": 1615767,
-          "tmdb_type": "movie",
-          "title": "大劫案",
-          "sort": 16
-        },
-        {
           "tmdb_id": 1152491,
           "tmdb_type": "movie",
           "title": "邪恶入侵",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 1615767,
+          "tmdb_type": "movie",
+          "title": "大劫案",
           "sort": 17
         },
         {
