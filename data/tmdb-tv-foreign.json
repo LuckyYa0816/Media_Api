@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-02T23:50:49.195Z",
-  "total": 24,
+  "updated_at": "2026-05-03T09:23:39.990Z",
+  "total": 26,
   "list": [
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 1
-    },
     {
       "tmdb_id": 124364,
       "tmdb_type": "tv",
       "title": "梦魇绝镇",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
       "sort": 2
     },
     {
@@ -61,9 +61,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 289219,
+      "tmdb_id": 224263,
       "tmdb_type": "tv",
-      "title": "星球大战：摩尔-暗影之王",
+      "title": "Stranger Things: Tales from '85",
       "sort": 6
     },
     {
@@ -73,21 +73,21 @@
       "sort": 7
     },
     {
-      "tmdb_id": 259702,
+      "tmdb_id": 289219,
       "tmdb_type": "tv",
-      "title": "幽灵之家",
+      "title": "星球大战：摩尔-暗影之王",
       "sort": 8
     },
     {
-      "tmdb_id": 224263,
+      "tmdb_id": 56570,
       "tmdb_type": "tv",
-      "title": "Stranger Things: Tales from '85",
+      "title": "古战场传奇",
       "sort": 9
     },
     {
-      "tmdb_id": 83295,
+      "tmdb_id": 262848,
       "tmdb_type": "tv",
-      "title": "贼探",
+      "title": "非选之人",
       "sort": 10
     },
     {
@@ -97,82 +97,94 @@
       "sort": 11
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 259702,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "幽灵之家",
       "sort": 12
     },
     {
-      "tmdb_id": 1434,
+      "tmdb_id": 83295,
       "tmdb_type": "tv",
-      "title": "恶搞之家",
+      "title": "贼探",
       "sort": 13
-    },
-    {
-      "tmdb_id": 287527,
-      "tmdb_type": "tv",
-      "title": "证词",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 154385,
-      "tmdb_type": "tv",
-      "title": "怒呛人生",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 16
     },
     {
       "tmdb_id": 56570,
       "tmdb_type": "tv",
       "title": "古战场传奇",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
       "sort": 17
     },
     {
-      "tmdb_id": 262848,
+      "tmdb_id": 1416,
       "tmdb_type": "tv",
-      "title": "非选之人",
+      "title": "实习医生格蕾",
       "sort": 18
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
+      "sort": 19
     },
     {
       "tmdb_id": 60625,
       "tmdb_type": "tv",
       "title": "瑞克和莫蒂",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 279471,
-      "tmdb_type": "tv",
-      "title": "马尔科姆的一家：生活依旧不公",
       "sort": 20
     },
     {
-      "tmdb_id": 75219,
+      "tmdb_id": 154385,
       "tmdb_type": "tv",
-      "title": "紧急呼救",
+      "title": "怒呛人生",
       "sort": 21
+    },
+    {
+      "tmdb_id": 111110,
+      "tmdb_type": "tv",
+      "title": "ONE PIECE",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 23
     },
     {
       "tmdb_id": 211288,
       "tmdb_type": "tv",
       "title": "寻踪者",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
       "sort": 24
+    },
+    {
+      "tmdb_id": 244623,
+      "tmdb_type": "tv",
+      "title": "男篮女主",
+      "sort": 25
+    },
+    {
+      "tmdb_id": 83295,
+      "tmdb_type": "tv",
+      "title": "贼探",
+      "sort": 26
     }
   ]
 }

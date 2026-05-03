@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-02T23:50:46.824Z",
+  "updated_at": "2026-05-03T09:23:37.840Z",
   "total": 30,
   "list": [
     {
@@ -41,7 +41,7 @@
     {
       "tmdb_id": 82684,
       "tmdb_type": "tv",
-      "title": "关于我转生变成史莱姆这档事",
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
       "sort": 4
     },
     {
@@ -83,7 +83,7 @@
     {
       "tmdb_id": 290019,
       "tmdb_type": "tv",
-      "title": "和班上第二可爱的女孩子成为了朋友",
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
       "sort": 11
     },
     {
@@ -147,15 +147,15 @@
       "sort": 21
     },
     {
-      "tmdb_id": 288659,
-      "tmdb_type": "tv",
-      "title": "春夏秋冬代行者 春之舞",
-      "sort": 22
-    },
-    {
       "tmdb_id": 285818,
       "tmdb_type": "tv",
       "title": "迦楠大人的白给是恶魔级",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 288659,
+      "tmdb_type": "tv",
+      "title": "春夏秋冬代行者 春之舞",
       "sort": 23
     },
     {
