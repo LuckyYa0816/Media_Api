@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-02T23:51:21.867Z",
+  "updated_at": "2026-05-03T23:53:51.494Z",
   "total": 20,
   "list": [
     {
@@ -29,9 +29,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1317512,
+      "tmdb_id": 1658653,
       "tmdb_type": "movie",
-      "title": "世界的主人",
+      "title": "消失的人",
       "sort": 2
     },
     {
@@ -41,21 +41,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 210577,
+      "tmdb_id": 1317512,
       "tmdb_type": "movie",
-      "title": "消失的人",
+      "title": "世界的主人",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 5
     },
     {
       "tmdb_id": 1292695,
       "tmdb_type": "movie",
       "title": "杀的就是你",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
       "sort": 6
     },
     {
@@ -77,27 +77,27 @@
       "sort": 9
     },
     {
-      "tmdb_id": 1245532,
-      "tmdb_type": "movie",
-      "title": "像我这样的爱情",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1266127,
-      "tmdb_type": "movie",
-      "title": "准备好了没2：我来了",
-      "sort": 11
-    },
-    {
       "tmdb_id": 1462229,
       "tmdb_type": "movie",
       "title": "飞驰人生3",
-      "sort": 12
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1245532,
+      "tmdb_type": "movie",
+      "title": "像我这样的爱情",
+      "sort": 11
     },
     {
       "tmdb_id": 1497873,
       "tmdb_type": "movie",
       "title": "翠湖",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1266127,
+      "tmdb_type": "movie",
+      "title": "准备好了没2：我来了",
       "sort": 13
     },
     {
@@ -113,27 +113,27 @@
       "sort": 15
     },
     {
+      "tmdb_id": 1316092,
+      "tmdb_type": "movie",
+      "title": "呼啸山庄",
+      "sort": 16
+    },
+    {
       "tmdb_id": 1429348,
       "tmdb_type": "movie",
       "title": "局外人",
-      "sort": 16
+      "sort": 17
     },
     {
       "tmdb_id": 1464533,
       "tmdb_type": "movie",
       "title": "爆弹",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1489187,
       "tmdb_type": "movie",
       "title": "爱上平行时空的你",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1316092,
-      "tmdb_type": "movie",
-      "title": "呼啸山庄",
       "sort": 19
     },
     {

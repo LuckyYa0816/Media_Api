@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-03T09:23:34.492Z",
+  "updated_at": "2026-05-03T23:53:08.888Z",
   "total": 28,
   "list": [
     {
@@ -54,7 +54,7 @@
     {
       "tmdb_id": 80732,
       "tmdb_type": "tv",
-      "title": "The Founder of Diabolism",
+      "title": "魔道祖师",
       "sort": 6
     },
     {
@@ -114,7 +114,7 @@
     {
       "tmdb_id": 80732,
       "tmdb_type": "tv",
-      "title": "The Founder of Diabolism 2",
+      "title": "魔道祖师",
       "sort": 16
     },
     {
@@ -168,7 +168,7 @@
     {
       "tmdb_id": 80732,
       "tmdb_type": "tv",
-      "title": "The Founder of Diabolism: Final Season",
+      "title": "魔道祖师",
       "sort": 25
     },
     {

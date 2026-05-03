@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-03T09:23:32.859Z",
+  "updated_at": "2026-05-03T23:53:07.241Z",
   "total": 30,
   "list": [
     {
@@ -35,7 +35,7 @@
     {
       "tmdb_id": 82684,
       "tmdb_type": "tv",
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
+      "title": "关于我转生变成史莱姆这档事",
       "sort": 3
     },
     {
@@ -71,7 +71,7 @@
     {
       "tmdb_id": 290019,
       "tmdb_type": "tv",
-      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "title": "和班上第二可爱的女孩子成为了朋友",
       "sort": 9
     },
     {
@@ -87,15 +87,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 274671,
-      "tmdb_type": "tv",
-      "title": "最强王者的第二人生",
-      "sort": 12
-    },
-    {
       "tmdb_id": 273467,
       "tmdb_type": "tv",
       "title": "女骑士成为蛮族新娘",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 274671,
+      "tmdb_type": "tv",
+      "title": "最强王者的第二人生",
       "sort": 13
     },
     {
