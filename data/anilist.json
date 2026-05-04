@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-03T23:53:07.241Z",
+  "updated_at": "2026-05-04T10:16:29.399Z",
   "total": 30,
   "list": [
     {
@@ -165,15 +165,15 @@
       "sort": 24
     },
     {
-      "tmdb_id": 288551,
-      "tmdb_type": "tv",
-      "title": "木头风纪委员和迷你裙JK的故事",
-      "sort": 25
-    },
-    {
       "tmdb_id": 300131,
       "tmdb_type": "tv",
       "title": "杀手青春",
+      "sort": 25
+    },
+    {
+      "tmdb_id": 288551,
+      "tmdb_type": "tv",
+      "title": "木头风纪委员和迷你裙JK的故事",
       "sort": 26
     },
     {

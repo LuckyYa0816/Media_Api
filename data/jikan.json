@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-03T23:53:12.492Z",
+  "updated_at": "2026-05-04T10:16:36.417Z",
   "total": 30,
   "list": [
     {
@@ -93,15 +93,15 @@
       "sort": 12
     },
     {
-      "tmdb_id": 91801,
-      "tmdb_type": "tv",
-      "title": "入间同学入魔了！",
-      "sort": 13
-    },
-    {
       "tmdb_id": 283428,
       "tmdb_type": "tv",
       "title": "冰之城墙",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 91801,
+      "tmdb_type": "tv",
+      "title": "入间同学入魔了！",
       "sort": 14
     },
     {
@@ -129,21 +129,21 @@
       "sort": 18
     },
     {
-      "tmdb_id": 312474,
-      "tmdb_type": "tv",
-      "title": "日本三国",
-      "sort": 19
-    },
-    {
       "tmdb_id": 274671,
       "tmdb_type": "tv",
       "title": "最强王者的第二人生",
-      "sort": 20
+      "sort": 19
     },
     {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
       "title": "想结束这场“我爱你”的游戏",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 312474,
+      "tmdb_type": "tv",
+      "title": "日本三国",
       "sort": 21
     },
     {
