@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-05-04T10:16:55.233Z",
+  "updated_at": "2026-05-04T23:57:55.214Z",
   "total": 20,
   "list": [
     {
@@ -41,27 +41,27 @@
       "sort": 3
     },
     {
-      "tmdb_id": 273151,
+      "tmdb_id": 272432,
       "tmdb_type": "tv",
-      "title": "危险关系",
+      "title": "低智商犯罪",
       "sort": 4
-    },
-    {
-      "tmdb_id": 278868,
-      "tmdb_type": "tv",
-      "title": "方圆八百米",
-      "sort": 5
     },
     {
       "tmdb_id": 283952,
       "tmdb_type": "tv",
       "title": "良陈美锦",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 273151,
+      "tmdb_type": "tv",
+      "title": "危险关系",
       "sort": 6
     },
     {
-      "tmdb_id": 281231,
+      "tmdb_id": 278868,
       "tmdb_type": "tv",
-      "title": "蜜语纪",
+      "title": "方圆八百米",
       "sort": 7
     },
     {
@@ -71,51 +71,51 @@
       "sort": 8
     },
     {
+      "tmdb_id": 281231,
+      "tmdb_type": "tv",
+      "title": "蜜语纪",
+      "sort": 9
+    },
+    {
       "tmdb_id": 317948,
       "tmdb_type": "tv",
       "title": "乘风2026",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "奔跑吧 第十季",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 290700,
       "tmdb_type": "tv",
       "title": "重案解密",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 281392,
       "tmdb_type": "tv",
       "title": "钢铁森林",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 279446,
       "tmdb_type": "tv",
       "title": "太平年",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 279388,
       "tmdb_type": "tv",
       "title": "逐玉",
-      "sort": 14
+      "sort": 15
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "哈哈哈哈哈 第六季",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 261675,
-      "tmdb_type": "tv",
-      "title": "家事法庭",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 68034,
-      "tmdb_type": "tv",
-      "title": "大明王朝1566",
-      "sort": 18
-    },
-    {
       "tmdb_id": 21712,
       "tmdb_type": "tv",
       "title": "潜伏",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 261675,
+      "tmdb_type": "tv",
+      "title": "家事法庭",
       "sort": 19
     },
     {
-      "tmdb_id": 97199,
+      "tmdb_id": 68034,
       "tmdb_type": "tv",
-      "title": "妻子的浪漫旅行2026",
+      "title": "大明王朝1566",
       "sort": 20
     }
   ]
