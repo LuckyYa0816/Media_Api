@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-04T23:58:06.604Z",
+  "updated_at": "2026-05-05T10:06:26.509Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -42,57 +42,57 @@
           "sort": 3
         },
         {
+          "tmdb_id": 272432,
+          "tmdb_type": "tv",
+          "title": "低智商犯罪",
+          "sort": 4
+        },
+        {
           "tmdb_id": 278868,
           "tmdb_type": "tv",
           "title": "方圆八百米",
-          "sort": 4
+          "sort": 5
         },
         {
           "tmdb_id": 278275,
           "tmdb_type": "tv",
           "title": "月鳞绮纪",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 290700,
           "tmdb_type": "tv",
           "title": "重案解密",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 258865,
           "tmdb_type": "tv",
           "title": "白日提灯​",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 281392,
           "tmdb_type": "tv",
           "title": "钢铁森林",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 279388,
           "tmdb_type": "tv",
           "title": "逐玉",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 285415,
           "tmdb_type": "tv",
           "title": "着迷",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 320015,
           "tmdb_type": "tv",
           "title": "她的罪名",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 278894,
-          "tmdb_type": "tv",
-          "title": "冰湖重生",
           "sort": 12
         },
         {
@@ -102,27 +102,27 @@
           "sort": 13
         },
         {
+          "tmdb_id": 278894,
+          "tmdb_type": "tv",
+          "title": "冰湖重生",
+          "sort": 14
+        },
+        {
           "tmdb_id": 318840,
           "tmdb_type": "tv",
           "title": "有港回信",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 291602,
           "tmdb_type": "tv",
           "title": "夏末初见",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 277412,
           "tmdb_type": "tv",
           "title": "正义女神",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 281495,
-          "tmdb_type": "tv",
-          "title": "除恶",
           "sort": 17
         },
         {
@@ -155,39 +155,39 @@
           "sort": 1
         },
         {
+          "tmdb_id": 259537,
+          "tmdb_type": "tv",
+          "title": "剑来",
+          "sort": 2
+        },
+        {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 2
+          "sort": 3
         },
         {
           "tmdb_id": 285479,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 259537,
-          "tmdb_type": "tv",
-          "title": "剑来",
           "sort": 4
         },
         {
-          "tmdb_id": 228429,
+          "tmdb_id": 101172,
           "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
+          "title": "吞噬星空",
           "sort": 5
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 6
         },
         {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 7
         },
         {
@@ -197,9 +197,9 @@
           "sort": 8
         },
         {
-          "tmdb_id": 101172,
+          "tmdb_id": 229192,
           "tmdb_type": "tv",
-          "title": "吞噬星空",
+          "title": "沧元图",
           "sort": 9
         },
         {
@@ -227,27 +227,27 @@
           "sort": 13
         },
         {
+          "tmdb_id": 156571,
+          "tmdb_type": "tv",
+          "title": "永生",
+          "sort": 14
+        },
+        {
           "tmdb_id": 235808,
           "tmdb_type": "tv",
           "title": "修罗武神",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 256783,
           "tmdb_type": "tv",
           "title": "成何体统",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 282158,
           "tmdb_type": "tv",
           "title": "择天记",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 156571,
-          "tmdb_type": "tv",
-          "title": "永生",
           "sort": 17
         },
         {
@@ -417,15 +417,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 1677967,
-          "tmdb_type": "movie",
-          "title": "聊斋：魅首诡案",
-          "sort": 5
-        },
-        {
           "tmdb_id": 1654429,
           "tmdb_type": "movie",
           "title": "扫恶",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 1677967,
+          "tmdb_type": "movie",
+          "title": "聊斋：魅首诡案",
           "sort": 6
         },
         {
@@ -477,15 +477,15 @@
           "sort": 14
         },
         {
-          "tmdb_id": 1664636,
-          "tmdb_type": "movie",
-          "title": "阴阳镜",
-          "sort": 15
-        },
-        {
           "tmdb_id": 1615767,
           "tmdb_type": "movie",
           "title": "大劫案",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 1664636,
+          "tmdb_type": "movie",
+          "title": "阴阳镜",
           "sort": 16
         },
         {
