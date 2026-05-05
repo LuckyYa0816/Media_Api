@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-05T10:05:41.162Z",
-  "total": 20,
+  "updated_at": "2026-05-05T23:52:41.894Z",
+  "total": 24,
   "list": [
     {
       "tmdb_id": 76479,
@@ -37,39 +37,39 @@
       "sort": 1
     },
     {
-      "tmdb_id": 223386,
-      "tmdb_type": "tv",
-      "title": "怒火救援",
-      "sort": 2
-    },
-    {
       "tmdb_id": 289219,
       "tmdb_type": "tv",
       "title": "星球大战：摩尔-暗影之王",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 202555,
       "tmdb_type": "tv",
       "title": "夜魔侠：重生",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 136315,
+      "tmdb_type": "tv",
+      "title": "熊家餐馆",
       "sort": 4
+    },
+    {
+      "tmdb_id": 223386,
+      "tmdb_type": "tv",
+      "title": "怒火救援",
+      "sort": 5
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 95557,
       "tmdb_type": "tv",
       "title": "无敌少侠",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 224263,
-      "tmdb_type": "tv",
-      "title": "Stranger Things: Tales from '85",
       "sort": 7
     },
     {
@@ -79,9 +79,9 @@
       "sort": 8
     },
     {
-      "tmdb_id": 154385,
+      "tmdb_id": 114922,
       "tmdb_type": "tv",
-      "title": "怒呛人生",
+      "title": "堡垒",
       "sort": 9
     },
     {
@@ -91,15 +91,15 @@
       "sort": 10
     },
     {
-      "tmdb_id": 111110,
+      "tmdb_id": 56570,
       "tmdb_type": "tv",
-      "title": "ONE PIECE",
+      "title": "古战场传奇",
       "sort": 11
     },
     {
-      "tmdb_id": 114922,
+      "tmdb_id": 111110,
       "tmdb_type": "tv",
-      "title": "堡垒",
+      "title": "ONE PIECE",
       "sort": 12
     },
     {
@@ -109,46 +109,70 @@
       "sort": 13
     },
     {
-      "tmdb_id": 295778,
+      "tmdb_id": 224263,
       "tmdb_type": "tv",
-      "title": "实习医生风云",
+      "title": "Stranger Things: Tales from '85",
       "sort": 14
     },
     {
-      "tmdb_id": 287527,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "证词",
+      "title": "实习医生风云",
       "sort": 15
-    },
-    {
-      "tmdb_id": 226637,
-      "tmdb_type": "tv",
-      "title": "潜能探案组",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 75219,
-      "tmdb_type": "tv",
-      "title": "紧急呼救",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 83295,
-      "tmdb_type": "tv",
-      "title": "贼探",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 56570,
-      "tmdb_type": "tv",
-      "title": "古战场传奇",
-      "sort": 19
     },
     {
       "tmdb_id": 211288,
       "tmdb_type": "tv",
       "title": "寻踪者",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 270572,
+      "tmdb_type": "tv",
+      "title": "蝇王",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 318262,
+      "tmdb_type": "tv",
+      "title": "凶手嫁不嫁：未婚妻搜证实录",
       "sort": 20
+    },
+    {
+      "tmdb_id": 83295,
+      "tmdb_type": "tv",
+      "title": "贼探",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 283657,
+      "tmdb_type": "tv",
+      "title": "拳魂荣耀",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 154385,
+      "tmdb_type": "tv",
+      "title": "怒呛人生",
+      "sort": 24
     }
   ]
 }

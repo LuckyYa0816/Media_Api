@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-05T10:05:43.333Z",
-  "total": 7,
+  "updated_at": "2026-05-05T23:52:44.362Z",
+  "total": 8,
   "list": [
-    {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 1
-    },
     {
       "tmdb_id": 1007757,
       "tmdb_type": "movie",
       "title": "奇幻变身大冒险",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
       "sort": 2
     },
     {
-      "tmdb_id": 1239198,
+      "tmdb_id": 1651233,
       "tmdb_type": "movie",
-      "title": "我亲爱的小姐",
+      "title": "当家好女婿",
       "sort": 3
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1651233,
+      "tmdb_id": 1239198,
       "tmdb_type": "movie",
-      "title": "当家好女婿",
+      "title": "我亲爱的小姐",
       "sort": 5
     },
     {
@@ -62,10 +62,16 @@
       "sort": 6
     },
     {
+      "tmdb_id": 1272837,
+      "tmdb_type": "movie",
+      "title": "惊变28年2：白骨圣殿",
+      "sort": 7
+    },
+    {
       "tmdb_id": 1084242,
       "tmdb_type": "movie",
       "title": "疯狂动物城2",
-      "sort": 7
+      "sort": 8
     }
   ]
 }
