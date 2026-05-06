@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-06T10:21:57.110Z",
+  "updated_at": "2026-05-06T23:54:23.374Z",
   "total": 30,
   "list": [
     {
@@ -147,15 +147,15 @@
       "sort": 21
     },
     {
-      "tmdb_id": 285818,
-      "tmdb_type": "tv",
-      "title": "迦楠大人的白给是恶魔级",
-      "sort": 22
-    },
-    {
       "tmdb_id": 288659,
       "tmdb_type": "tv",
       "title": "春夏秋冬代行者 春之舞",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 285818,
+      "tmdb_type": "tv",
+      "title": "迦楠大人的白给是恶魔级",
       "sort": 23
     },
     {
@@ -171,15 +171,15 @@
       "sort": 25
     },
     {
-      "tmdb_id": 261780,
-      "tmdb_type": "tv",
-      "title": "轮回的花瓣",
-      "sort": 26
-    },
-    {
       "tmdb_id": 274622,
       "tmdb_type": "tv",
       "title": "加油！中村同学！！",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 261780,
+      "tmdb_type": "tv",
+      "title": "轮回的花瓣",
       "sort": 27
     },
     {

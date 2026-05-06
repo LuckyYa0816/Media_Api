@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-06T10:22:02.490Z",
-  "total": 8,
+  "updated_at": "2026-05-06T23:54:28.992Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1007757,
@@ -38,40 +38,34 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1239198,
-      "tmdb_type": "movie",
-      "title": "我亲爱的小姐",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1651233,
-      "tmdb_type": "movie",
-      "title": "当家好女婿",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1084242,
       "tmdb_type": "movie",
       "title": "疯狂动物城2",
-      "sort": 5
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1239198,
+      "tmdb_type": "movie",
+      "title": "我亲爱的小姐",
+      "sort": 4
     },
     {
       "tmdb_id": 829487,
       "tmdb_type": "movie",
       "title": "我叫艾妮塔",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1651233,
+      "tmdb_type": "movie",
+      "title": "当家好女婿",
       "sort": 6
     },
     {
-      "tmdb_id": 1084577,
+      "tmdb_id": 1272837,
       "tmdb_type": "movie",
-      "title": "抖擞",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 7
-    },
-    {
-      "tmdb_id": 1171145,
-      "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
-      "sort": 8
     }
   ]
 }

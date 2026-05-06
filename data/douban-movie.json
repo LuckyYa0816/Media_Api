@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-06T10:22:26.442Z",
+  "updated_at": "2026-05-06T23:54:50.695Z",
   "total": 20,
   "list": [
     {
@@ -29,27 +29,27 @@
       "sort": 1
     },
     {
+      "tmdb_id": 1292695,
+      "tmdb_type": "movie",
+      "title": "杀的就是你",
+      "sort": 2
+    },
+    {
       "tmdb_id": 519185,
       "tmdb_type": "movie",
       "title": "小家伙",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1189794,
       "tmdb_type": "movie",
       "title": "触电",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1242332,
       "tmdb_type": "movie",
       "title": "替补悍警",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1292695,
-      "tmdb_type": "movie",
-      "title": "杀的就是你",
       "sort": 5
     },
     {
@@ -71,33 +71,33 @@
       "sort": 8
     },
     {
+      "tmdb_id": 1325734,
+      "tmdb_type": "movie",
+      "title": "爱情抓马",
+      "sort": 9
+    },
+    {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 1462229,
       "tmdb_type": "movie",
       "title": "飞驰人生3",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 1124566,
       "tmdb_type": "movie",
       "title": "情感价值",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 1497873,
       "tmdb_type": "movie",
       "title": "翠湖",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1245532,
-      "tmdb_type": "movie",
-      "title": "像我这样的爱情",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1198994,
+      "tmdb_id": 1245532,
       "tmdb_type": "movie",
-      "title": "请求救援",
+      "title": "像我这样的爱情",
       "sort": 15
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 1198994,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
+      "title": "请求救援",
       "sort": 16
-    },
-    {
-      "tmdb_id": 1464533,
-      "tmdb_type": "movie",
-      "title": "爆弹",
-      "sort": 17
     },
     {
       "tmdb_id": 1359005,
       "tmdb_type": "movie",
       "title": "星河入梦",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
       "sort": 18
     },
     {
-      "tmdb_id": 1220564,
+      "tmdb_id": 1464533,
       "tmdb_type": "movie",
-      "title": "密探",
+      "title": "爆弹",
       "sort": 19
     },
     {
-      "tmdb_id": 1316092,
+      "tmdb_id": 1368535,
       "tmdb_type": "movie",
-      "title": "呼啸山庄",
+      "title": "他年她日",
       "sort": 20
     }
   ]
