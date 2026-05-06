@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-05T23:52:41.894Z",
-  "total": 24,
+  "updated_at": "2026-05-06T10:21:59.907Z",
+  "total": 23,
   "list": [
     {
       "tmdb_id": 76479,
@@ -37,9 +37,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 289219,
+      "tmdb_id": 114922,
       "tmdb_type": "tv",
-      "title": "星球大战：摩尔-暗影之王",
+      "title": "堡垒",
       "sort": 2
     },
     {
@@ -49,9 +49,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 136315,
+      "tmdb_id": 289219,
       "tmdb_type": "tv",
-      "title": "熊家餐馆",
+      "title": "星球大战：摩尔-暗影之王",
       "sort": 4
     },
     {
@@ -79,33 +79,33 @@
       "sort": 8
     },
     {
-      "tmdb_id": 114922,
+      "tmdb_id": 136315,
       "tmdb_type": "tv",
-      "title": "堡垒",
+      "title": "熊家餐馆",
       "sort": 9
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 287527,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "证词",
       "sort": 10
-    },
-    {
-      "tmdb_id": 56570,
-      "tmdb_type": "tv",
-      "title": "古战场传奇",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 111110,
-      "tmdb_type": "tv",
-      "title": "ONE PIECE",
-      "sort": 12
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 283657,
+      "tmdb_type": "tv",
+      "title": "拳魂荣耀",
       "sort": 13
     },
     {
@@ -115,27 +115,27 @@
       "sort": 14
     },
     {
-      "tmdb_id": 295778,
+      "tmdb_id": 56570,
       "tmdb_type": "tv",
-      "title": "实习医生风云",
+      "title": "古战场传奇",
       "sort": 15
     },
     {
-      "tmdb_id": 211288,
+      "tmdb_id": 154385,
       "tmdb_type": "tv",
-      "title": "寻踪者",
+      "title": "怒呛人生",
       "sort": 16
     },
     {
-      "tmdb_id": 270572,
+      "tmdb_id": 111110,
       "tmdb_type": "tv",
-      "title": "蝇王",
+      "title": "ONE PIECE",
       "sort": 17
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "实习医生风云",
       "sort": 18
     },
     {
@@ -145,34 +145,28 @@
       "sort": 19
     },
     {
-      "tmdb_id": 318262,
+      "tmdb_id": 211288,
       "tmdb_type": "tv",
-      "title": "凶手嫁不嫁：未婚妻搜证实录",
+      "title": "寻踪者",
       "sort": 20
+    },
+    {
+      "tmdb_id": 4614,
+      "tmdb_type": "tv",
+      "title": "海军罪案调查处",
+      "sort": 21
     },
     {
       "tmdb_id": 83295,
       "tmdb_type": "tv",
       "title": "贼探",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 283657,
-      "tmdb_type": "tv",
-      "title": "拳魂荣耀",
       "sort": 22
     },
     {
-      "tmdb_id": 287527,
+      "tmdb_id": 302074,
       "tmdb_type": "tv",
-      "title": "证词",
+      "title": "劣探德克尔",
       "sort": 23
-    },
-    {
-      "tmdb_id": 154385,
-      "tmdb_type": "tv",
-      "title": "怒呛人生",
-      "sort": 24
     }
   ]
 }

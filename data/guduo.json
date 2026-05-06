@@ -18,15 +18,15 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-05T23:53:13.614Z",
+  "updated_at": "2026-05-06T10:22:26.740Z",
   "categories": {
     "剧集": {
       "total": 20,
       "list": [
         {
-          "tmdb_id": 254498,
+          "tmdb_id": 272432,
           "tmdb_type": "tv",
-          "title": "黑夜告白",
+          "title": "低智商犯罪",
           "sort": 1
         },
         {
@@ -36,15 +36,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 283952,
+          "tmdb_id": 254498,
           "tmdb_type": "tv",
-          "title": "良陈美锦",
+          "title": "黑夜告白",
           "sort": 3
         },
         {
-          "tmdb_id": 272432,
+          "tmdb_id": 283952,
           "tmdb_type": "tv",
-          "title": "低智商犯罪",
+          "title": "良陈美锦",
           "sort": 4
         },
         {
@@ -90,27 +90,27 @@
           "sort": 11
         },
         {
-          "tmdb_id": 320015,
-          "tmdb_type": "tv",
-          "title": "她的罪名",
-          "sort": 12
-        },
-        {
           "tmdb_id": 283158,
           "tmdb_type": "tv",
           "title": "人间惊鸿客",
-          "sort": 13
+          "sort": 12
         },
         {
-          "tmdb_id": 278894,
+          "tmdb_id": 320015,
           "tmdb_type": "tv",
-          "title": "冰湖重生",
-          "sort": 14
+          "title": "她的罪名",
+          "sort": 13
         },
         {
           "tmdb_id": 318840,
           "tmdb_type": "tv",
           "title": "有港回信",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 278894,
+          "tmdb_type": "tv",
+          "title": "冰湖重生",
           "sort": 15
         },
         {
@@ -179,27 +179,27 @@
           "sort": 5
         },
         {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 6
+        },
+        {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
           "sort": 9
         },
         {
@@ -286,15 +286,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 196747,
-          "tmdb_type": "tv",
-          "title": "我家那小子",
-          "sort": 3
-        },
-        {
           "tmdb_id": 74561,
           "tmdb_type": "tv",
           "title": "明星大侦探",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 196747,
+          "tmdb_type": "tv",
+          "title": "我家那小子",
           "sort": 4
         },
         {
@@ -453,15 +453,15 @@
           "sort": 10
         },
         {
-          "tmdb_id": 1668585,
-          "tmdb_type": "movie",
-          "title": "捕蛇者说",
-          "sort": 11
-        },
-        {
           "tmdb_id": 1660900,
           "tmdb_type": "movie",
           "title": "盗墓大案",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 1668585,
+          "tmdb_type": "movie",
+          "title": "捕蛇者说",
           "sort": 12
         },
         {
