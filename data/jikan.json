@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-06T23:54:23.374Z",
+  "updated_at": "2026-05-07T10:27:36.970Z",
   "total": 30,
   "list": [
     {
@@ -35,7 +35,7 @@
     {
       "tmdb_id": 72517,
       "tmdb_type": "tv",
-      "title": "欢迎来到实力至上主义教室",
+      "title": "欢迎来到实力至上主义的教室",
       "sort": 3
     },
     {
@@ -63,15 +63,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 154743,
-      "tmdb_type": "tv",
-      "title": "邻家的天使同学",
-      "sort": 8
-    },
-    {
       "tmdb_id": 245842,
       "tmdb_type": "tv",
       "title": "杖与剑的魔剑谭",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 154743,
+      "tmdb_type": "tv",
+      "title": "邻家的天使同学",
       "sort": 9
     },
     {
@@ -87,15 +87,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 91768,
-      "tmdb_type": "tv",
-      "title": "爱书的下克上：为了成为图书管理员不择手段！",
-      "sort": 12
-    },
-    {
       "tmdb_id": 283428,
       "tmdb_type": "tv",
       "title": "冰之城墙",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 91768,
+      "tmdb_type": "tv",
+      "title": "爱书的下克上：为了成为图书管理员不择手段！",
       "sort": 13
     },
     {
@@ -129,15 +129,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 300126,
-      "tmdb_type": "tv",
-      "title": "欺诈游戏",
-      "sort": 19
-    },
-    {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
       "title": "想结束这场“我爱你”的游戏",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 300126,
+      "tmdb_type": "tv",
+      "title": "欺诈游戏",
       "sort": 20
     },
     {
@@ -147,15 +147,15 @@
       "sort": 21
     },
     {
-      "tmdb_id": 288659,
-      "tmdb_type": "tv",
-      "title": "春夏秋冬代行者 春之舞",
-      "sort": 22
-    },
-    {
       "tmdb_id": 285818,
       "tmdb_type": "tv",
       "title": "迦楠大人的白给是恶魔级",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 288659,
+      "tmdb_type": "tv",
+      "title": "春夏秋冬代行者 春之舞",
       "sort": 23
     },
     {

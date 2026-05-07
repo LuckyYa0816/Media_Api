@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-06T23:54:28.992Z",
+  "updated_at": "2026-05-07T10:27:41.393Z",
   "total": 7,
   "list": [
     {
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1651233,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
+      "title": "当家好女婿",
       "sort": 3
     },
     {
@@ -56,15 +56,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1651233,
+      "tmdb_id": 1084242,
       "tmdb_type": "movie",
-      "title": "当家好女婿",
+      "title": "疯狂动物城2",
       "sort": 6
     },
     {
-      "tmdb_id": 1272837,
+      "tmdb_id": 1472638,
       "tmdb_type": "movie",
-      "title": "惊变28年2：白骨圣殿",
+      "title": "寻女朝圣路",
       "sort": 7
     }
   ]
