@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-07T10:27:41.393Z",
-  "total": 7,
+  "updated_at": "2026-05-07T23:56:47.315Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1007757,
@@ -56,16 +56,10 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1171145,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
+      "title": "洛杉矶劫案",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1472638,
-      "tmdb_type": "movie",
-      "title": "寻女朝圣路",
-      "sort": 7
     }
   ]
 }
