@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-07T23:56:42.668Z",
+  "updated_at": "2026-05-08T09:26:02.826Z",
   "total": 30,
   "list": [
     {
@@ -171,21 +171,21 @@
       "sort": 25
     },
     {
-      "tmdb_id": 274622,
-      "tmdb_type": "tv",
-      "title": "加油！中村同学！！",
-      "sort": 26
-    },
-    {
       "tmdb_id": 261780,
       "tmdb_type": "tv",
       "title": "轮回的花瓣",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 274622,
+      "tmdb_type": "tv",
+      "title": "加油！中村同学！！",
       "sort": 27
     },
     {
-      "tmdb_id": 300131,
+      "tmdb_id": 96316,
       "tmdb_type": "tv",
-      "title": "杀手青春",
+      "title": "租借女友",
       "sort": 28
     },
     {
@@ -195,9 +195,9 @@
       "sort": 29
     },
     {
-      "tmdb_id": 96316,
+      "tmdb_id": 300131,
       "tmdb_type": "tv",
-      "title": "租借女友",
+      "title": "杀手青春",
       "sort": 30
     }
   ]

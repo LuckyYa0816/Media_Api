@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-07T23:56:47.315Z",
-  "total": 6,
+  "updated_at": "2026-05-08T09:26:08.737Z",
+  "total": 4,
   "list": [
     {
       "tmdb_id": 1007757,
@@ -38,28 +38,16 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1651233,
-      "tmdb_type": "movie",
-      "title": "当家好女婿",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1239198,
       "tmdb_type": "movie",
       "title": "我亲爱的小姐",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1651233,
+      "tmdb_type": "movie",
+      "title": "当家好女婿",
       "sort": 4
-    },
-    {
-      "tmdb_id": 829487,
-      "tmdb_type": "movie",
-      "title": "我叫艾妮塔",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1171145,
-      "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
-      "sort": 6
     }
   ]
 }
