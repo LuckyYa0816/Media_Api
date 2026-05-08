@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-08T09:26:33.155Z",
+  "updated_at": "2026-05-08T23:59:07.730Z",
   "total": 20,
   "list": [
     {
@@ -59,15 +59,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
       "sort": 8
     },
     {
@@ -101,15 +101,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1124566,
-      "tmdb_type": "movie",
-      "title": "情感价值",
-      "sort": 14
-    },
-    {
       "tmdb_id": 1245532,
       "tmdb_type": "movie",
       "title": "像我这样的爱情",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 1124566,
+      "tmdb_type": "movie",
+      "title": "情感价值",
       "sort": 15
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1464533,
-      "tmdb_type": "movie",
-      "title": "爆弹",
-      "sort": 19
-    },
-    {
       "tmdb_id": 1368535,
       "tmdb_type": "movie",
       "title": "他年她日",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1464533,
+      "tmdb_type": "movie",
+      "title": "爆弹",
       "sort": 20
     }
   ]
