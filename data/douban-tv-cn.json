@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-05-09T09:22:58.761Z",
+  "updated_at": "2026-05-09T23:54:09.050Z",
   "total": 20,
   "list": [
     {
@@ -29,27 +29,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 272715,
-      "tmdb_type": "tv",
-      "title": "佳偶天成",
-      "sort": 2
-    },
-    {
       "tmdb_id": 254498,
       "tmdb_type": "tv",
       "title": "黑夜告白",
-      "sort": 3
+      "sort": 2
     },
     {
-      "tmdb_id": 273129,
+      "tmdb_id": 272715,
       "tmdb_type": "tv",
-      "title": "爱情没有神话",
-      "sort": 4
+      "title": "佳偶天成",
+      "sort": 3
     },
     {
       "tmdb_id": 283952,
       "tmdb_type": "tv",
       "title": "良陈美锦",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 273129,
+      "tmdb_type": "tv",
+      "title": "爱情没有神话",
       "sort": 5
     },
     {
@@ -71,15 +71,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 289624,
-      "tmdb_type": "tv",
-      "title": "八千里路云和月",
-      "sort": 9
-    },
-    {
       "tmdb_id": 281231,
       "tmdb_type": "tv",
       "title": "蜜语纪",
+      "sort": 9
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "奔跑吧 第十季",
       "sort": 10
     },
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "奔跑吧 第十季",
-      "sort": 12
-    },
-    {
       "tmdb_id": 279446,
       "tmdb_type": "tv",
       "title": "太平年",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 97199,
+      "tmdb_type": "tv",
+      "title": "妻子的浪漫旅行2026",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 279388,
       "tmdb_type": "tv",
-      "title": "哈哈哈哈哈 第六季",
+      "title": "逐玉",
       "sort": 15
     },
     {
-      "tmdb_id": 261675,
+      "tmdb_id": 68034,
       "tmdb_type": "tv",
-      "title": "家事法庭",
+      "title": "大明王朝1566",
       "sort": 16
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "哈哈哈哈哈 第六季",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 289624,
+      "tmdb_type": "tv",
+      "title": "八千里路云和月",
+      "sort": 18
     },
     {
       "tmdb_id": 21712,
       "tmdb_type": "tv",
       "title": "潜伏",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 279388,
-      "tmdb_type": "tv",
-      "title": "逐玉",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 97199,
-      "tmdb_type": "tv",
-      "title": "妻子的浪漫旅行2026",
       "sort": 19
     },
     {
-      "tmdb_id": 283961,
+      "tmdb_id": 278275,
       "tmdb_type": "tv",
-      "title": "你是迟来的欢喜",
+      "title": "月鳞绮纪",
       "sort": 20
     }
   ]
