@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-08T23:58:42.181Z",
-  "total": 9,
+  "updated_at": "2026-05-09T09:22:46.988Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1007757,
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1198994,
-      "tmdb_type": "movie",
-      "title": "请求救援",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1630423,
       "tmdb_type": "movie",
       "title": "我的挚爱杀手",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1198994,
+      "tmdb_type": "movie",
+      "title": "请求救援",
       "sort": 4
     },
     {
@@ -68,16 +68,10 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1688652,
+      "tmdb_id": 1084242,
       "tmdb_type": "movie",
-      "title": "加里市",
+      "title": "疯狂动物城2",
       "sort": 8
-    },
-    {
-      "tmdb_id": 1325678,
-      "tmdb_type": "movie",
-      "title": "莎拉的石油",
-      "sort": 9
     }
   ]
 }

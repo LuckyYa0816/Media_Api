@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-08T23:58:37.036Z",
+  "updated_at": "2026-05-09T09:22:41.664Z",
   "total": 30,
   "list": [
     {
@@ -75,15 +75,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 301944,
-      "tmdb_type": "tv",
-      "title": "婚姻剧毒",
-      "sort": 10
-    },
-    {
       "tmdb_id": 290019,
       "tmdb_type": "tv",
       "title": "和班上第二可爱的女孩子成为了朋友",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 301944,
+      "tmdb_type": "tv",
+      "title": "婚姻剧毒",
       "sort": 11
     },
     {
