@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-10T09:40:44.074Z",
+  "updated_at": "2026-05-10T23:56:18.722Z",
   "total": 30,
   "list": [
     {
@@ -141,15 +141,15 @@
       "sort": 20
     },
     {
-      "tmdb_id": 91801,
-      "tmdb_type": "tv",
-      "title": "入间同学入魔了！",
-      "sort": 21
-    },
-    {
       "tmdb_id": 91768,
       "tmdb_type": "tv",
       "title": "爱书的下克上：为了成为图书管理员不择手段！",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 91801,
+      "tmdb_type": "tv",
+      "title": "入间同学入魔了！",
       "sort": 22
     },
     {

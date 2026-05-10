@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-10T09:40:53.757Z",
-  "total": 8,
+  "updated_at": "2026-05-10T23:56:30.947Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1007757,
@@ -44,15 +44,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1630423,
-      "tmdb_type": "movie",
-      "title": "我的挚爱杀手",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1630423,
+      "tmdb_type": "movie",
+      "title": "我的挚爱杀手",
       "sort": 5
     },
     {
@@ -62,16 +62,22 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1239198,
+      "tmdb_id": 1688652,
       "tmdb_type": "movie",
-      "title": "我亲爱的小姐",
+      "title": "加里市",
       "sort": 7
     },
     {
-      "tmdb_id": 1651233,
+      "tmdb_id": 1272837,
       "tmdb_type": "movie",
-      "title": "当家好女婿",
+      "title": "惊变28年2：白骨圣殿",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
+      "sort": 9
     }
   ]
 }

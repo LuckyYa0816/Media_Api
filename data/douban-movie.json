@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-10T09:41:43.960Z",
+  "updated_at": "2026-05-10T23:56:53.854Z",
   "total": 20,
   "list": [
     {
@@ -71,15 +71,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 9
-    },
-    {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
       "sort": 10
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
+      "tmdb_id": 1461254,
+      "tmdb_type": "movie",
+      "title": "杀木地",
+      "sort": 18
+    },
+    {
       "tmdb_id": 1368535,
       "tmdb_type": "movie",
       "title": "他年她日",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": 1464533,
       "tmdb_type": "movie",
       "title": "爆弹",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1461254,
-      "tmdb_type": "movie",
-      "title": "杀木地",
       "sort": 20
     }
   ]
