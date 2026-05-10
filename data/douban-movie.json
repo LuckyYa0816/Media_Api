@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-09T23:54:22.611Z",
-  "total": 19,
+  "updated_at": "2026-05-10T09:41:43.960Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 1317512,
@@ -39,6 +39,12 @@
       "tmdb_type": "movie",
       "title": "平场之月",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1532395,
+      "tmdb_type": "movie",
+      "title": "万事顺利",
+      "sort": 4
     },
     {
       "tmdb_id": 1007757,

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-09T23:53:45.286Z",
+  "updated_at": "2026-05-10T09:40:44.074Z",
   "total": 30,
   "list": [
     {
@@ -75,15 +75,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 283428,
-      "tmdb_type": "tv",
-      "title": "冰之城墙",
-      "sort": 10
-    },
-    {
       "tmdb_id": 309163,
       "tmdb_type": "tv",
       "title": "哪里有温柔对待阿宅的辣妹！？",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 283428,
+      "tmdb_type": "tv",
+      "title": "冰之城墙",
       "sort": 11
     },
     {
@@ -99,39 +99,39 @@
       "sort": 13
     },
     {
-      "tmdb_id": 288659,
-      "tmdb_type": "tv",
-      "title": "春夏秋冬代行者 春之舞",
-      "sort": 14
-    },
-    {
       "tmdb_id": 196285,
       "tmdb_type": "tv",
       "title": "异世界悠闲农家",
-      "sort": 15
+      "sort": 14
     },
     {
-      "tmdb_id": 297438,
+      "tmdb_id": 288659,
       "tmdb_type": "tv",
-      "title": "落语朱音",
-      "sort": 16
+      "title": "春夏秋冬代行者 春之舞",
+      "sort": 15
     },
     {
       "tmdb_id": 293697,
       "tmdb_type": "tv",
       "title": "想结束这场“我爱你”的游戏",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 305329,
-      "tmdb_type": "tv",
-      "title": "主播女孩重度依赖",
-      "sort": 18
+      "sort": 16
     },
     {
       "tmdb_id": 285818,
       "tmdb_type": "tv",
       "title": "迦楠大人的白给是恶魔级",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 297438,
+      "tmdb_type": "tv",
+      "title": "落语朱音",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 305329,
+      "tmdb_type": "tv",
+      "title": "主播女孩重度依赖",
       "sort": 19
     },
     {
@@ -141,15 +141,15 @@
       "sort": 20
     },
     {
-      "tmdb_id": 91768,
-      "tmdb_type": "tv",
-      "title": "爱书的下克上：为了成为图书管理员不择手段！",
-      "sort": 21
-    },
-    {
       "tmdb_id": 91801,
       "tmdb_type": "tv",
       "title": "入间同学入魔了！",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 91768,
+      "tmdb_type": "tv",
+      "title": "爱书的下克上：为了成为图书管理员不择手段！",
       "sort": 22
     },
     {
