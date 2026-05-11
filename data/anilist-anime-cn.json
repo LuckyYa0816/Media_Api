@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-10T23:56:21.604Z",
+  "updated_at": "2026-05-11T11:27:13.567Z",
   "total": 28,
   "list": [
     {
@@ -58,15 +58,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 123542,
-      "tmdb_type": "tv",
-      "title": "时光代理人",
-      "sort": 7
-    },
-    {
       "tmdb_id": 98123,
       "tmdb_type": "tv",
       "title": "仙王的日常生活",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 123542,
+      "tmdb_type": "tv",
+      "title": "时光代理人",
       "sort": 8
     },
     {
