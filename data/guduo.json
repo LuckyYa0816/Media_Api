@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-12T00:02:11.842Z",
+  "updated_at": "2026-05-12T10:35:49.274Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -36,15 +36,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 254498,
-          "tmdb_type": "tv",
-          "title": "黑夜告白",
-          "sort": 3
-        },
-        {
           "tmdb_id": 272715,
           "tmdb_type": "tv",
           "title": "佳偶天成",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 254498,
+          "tmdb_type": "tv",
+          "title": "黑夜告白",
           "sort": 4
         },
         {
@@ -155,21 +155,21 @@
           "sort": 1
         },
         {
+          "tmdb_id": 101172,
+          "tmdb_type": "tv",
+          "title": "吞噬星空",
+          "sort": 2
+        },
+        {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 2
+          "sort": 3
         },
         {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
           "sort": 5
         },
         {
@@ -185,15 +185,15 @@
           "sort": 7
         },
         {
-          "tmdb_id": 236534,
+          "tmdb_id": 229192,
           "tmdb_type": "tv",
-          "title": "牧神记",
+          "title": "沧元图",
           "sort": 8
         },
         {
-          "tmdb_id": 101172,
+          "tmdb_id": 236534,
           "tmdb_type": "tv",
-          "title": "吞噬星空",
+          "title": "牧神记",
           "sort": 9
         },
         {
@@ -215,15 +215,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 198182,
-          "tmdb_type": "tv",
-          "title": "神印王座",
-          "sort": 13
-        },
-        {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 198182,
+          "tmdb_type": "tv",
+          "title": "神印王座",
           "sort": 14
         },
         {
@@ -239,27 +239,27 @@
           "sort": 16
         },
         {
+          "tmdb_id": 298026,
+          "tmdb_type": "tv",
+          "title": "放开那个女巫",
+          "sort": 17
+        },
+        {
           "tmdb_id": 235808,
           "tmdb_type": "tv",
           "title": "修罗武神",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 256783,
           "tmdb_type": "tv",
           "title": "成何体统",
-          "sort": 18
+          "sort": 19
         },
         {
           "tmdb_id": 282158,
           "tmdb_type": "tv",
           "title": "择天记",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 218642,
-          "tmdb_type": "tv",
-          "title": "师兄啊师兄",
           "sort": 20
         }
       ]
@@ -280,21 +280,21 @@
           "sort": 2
         },
         {
+          "tmdb_id": 74561,
+          "tmdb_type": "tv",
+          "title": "明星大侦探",
+          "sort": 3
+        },
+        {
           "tmdb_id": 196747,
           "tmdb_type": "tv",
           "title": "我家那小子",
-          "sort": 3
+          "sort": 4
         },
         {
           "tmdb_id": 97199,
           "tmdb_type": "tv",
           "title": "妻子的浪漫旅行",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 74561,
-          "tmdb_type": "tv",
-          "title": "明星大侦探",
           "sort": 5
         },
         {
@@ -441,21 +441,21 @@
           "sort": 9
         },
         {
+          "tmdb_id": 1689906,
+          "tmdb_type": "movie",
+          "title": "追锋",
+          "sort": 10
+        },
+        {
           "tmdb_id": 683205,
           "tmdb_type": "movie",
           "title": "寻龙诀：觅踪",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 1679434,
           "tmdb_type": "movie",
           "title": "孤雁",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 1689906,
-          "tmdb_type": "movie",
-          "title": "追锋",
           "sort": 12
         },
         {

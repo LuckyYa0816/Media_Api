@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-12T00:01:49.005Z",
+  "updated_at": "2026-05-12T10:35:04.800Z",
   "total": 8,
   "list": [
-    {
-      "tmdb_id": 1330021,
-      "tmdb_type": "movie",
-      "title": "尤为明亮的生物",
-      "sort": 1
-    },
     {
       "tmdb_id": 1007757,
       "tmdb_type": "movie",
       "title": "奇幻变身大冒险",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1330021,
+      "tmdb_type": "movie",
+      "title": "幸运有八只触手",
       "sort": 2
     },
     {
