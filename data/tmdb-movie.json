@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-11T11:27:23.322Z",
+  "updated_at": "2026-05-12T00:01:49.005Z",
   "total": 8,
   "list": [
     {
       "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
+      "title": "尤为明亮的生物",
       "sort": 1
     },
     {
@@ -62,15 +62,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1214931,
-      "tmdb_type": "movie",
-      "title": "纽伦堡",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1688652,
       "tmdb_type": "movie",
       "title": "加里市",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1214931,
+      "tmdb_type": "movie",
+      "title": "纽伦堡",
       "sort": 8
     }
   ]
