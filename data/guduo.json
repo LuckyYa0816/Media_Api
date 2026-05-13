@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-13T00:04:09.315Z",
+  "updated_at": "2026-05-13T10:32:27.361Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -78,15 +78,15 @@
           "sort": 9
         },
         {
-          "tmdb_id": 285415,
+          "tmdb_id": 321749,
           "tmdb_type": "tv",
-          "title": "着迷",
+          "title": "罪无可逃",
           "sort": 10
         },
         {
-          "tmdb_id": 283158,
+          "tmdb_id": 72636,
           "tmdb_type": "tv",
-          "title": "人间惊鸿客",
+          "title": "来自深渊",
           "sort": 11
         },
         {
@@ -96,51 +96,51 @@
           "sort": 12
         },
         {
+          "tmdb_id": 285415,
+          "tmdb_type": "tv",
+          "title": "着迷",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 283158,
+          "tmdb_type": "tv",
+          "title": "人间惊鸿客",
+          "sort": 14
+        },
+        {
           "tmdb_id": 320015,
           "tmdb_type": "tv",
           "title": "她的罪名",
-          "sort": 13
+          "sort": 15
         },
         {
           "tmdb_id": 318840,
           "tmdb_type": "tv",
           "title": "有港回信",
-          "sort": 14
+          "sort": 16
         },
         {
           "tmdb_id": 278894,
           "tmdb_type": "tv",
           "title": "冰湖重生",
-          "sort": 15
+          "sort": 17
         },
         {
           "tmdb_id": 277412,
           "tmdb_type": "tv",
           "title": "正义女神",
-          "sort": 16
+          "sort": 18
         },
         {
           "tmdb_id": 291602,
           "tmdb_type": "tv",
           "title": "夏末初见",
-          "sort": 17
+          "sort": 19
         },
         {
           "tmdb_id": 259554,
           "tmdb_type": "tv",
           "title": "夜色正浓",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 278127,
-          "tmdb_type": "tv",
-          "title": "唐宫奇案之青雾风鸣",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 261676,
-          "tmdb_type": "tv",
-          "title": "风过留痕",
           "sort": 20
         }
       ]
@@ -167,99 +167,99 @@
           "sort": 3
         },
         {
+          "tmdb_id": 224839,
+          "tmdb_type": "tv",
+          "title": "遮天",
+          "sort": 4
+        },
+        {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 259537,
           "tmdb_type": "tv",
           "title": "剑来",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 10
+          "sort": 11
         },
         {
-          "tmdb_id": 67063,
+          "tmdb_id": 153869,
           "tmdb_type": "tv",
-          "title": "一人之下",
-          "sort": 11
+          "title": "紫川",
+          "sort": 12
         },
         {
           "tmdb_id": 283805,
           "tmdb_type": "tv",
           "title": "盘龙",
-          "sort": 12
+          "sort": 13
         },
         {
-          "tmdb_id": 224839,
+          "tmdb_id": 67063,
           "tmdb_type": "tv",
-          "title": "遮天",
-          "sort": 13
+          "title": "一人之下",
+          "sort": 14
         },
         {
           "tmdb_id": 198182,
           "tmdb_type": "tv",
           "title": "神印王座",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 281233,
           "tmdb_type": "tv",
           "title": "光阴之外",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 156571,
           "tmdb_type": "tv",
           "title": "永生",
-          "sort": 16
+          "sort": 17
         },
         {
           "tmdb_id": 298026,
           "tmdb_type": "tv",
           "title": "放开那个女巫",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 235808,
           "tmdb_type": "tv",
           "title": "修罗武神",
-          "sort": 18
+          "sort": 19
         },
         {
           "tmdb_id": 256783,
           "tmdb_type": "tv",
           "title": "成何体统",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 282158,
-          "tmdb_type": "tv",
-          "title": "择天记",
           "sort": 20
         }
       ]
@@ -282,7 +282,7 @@
         {
           "tmdb_id": 74561,
           "tmdb_type": "tv",
-          "title": "明星大侦探",
+          "title": "大侦探",
           "sort": 3
         },
         {
@@ -343,7 +343,7 @@
           "tmdb_id": 231620,
           "tmdb_type": "tv",
           "title": "现在就出发",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 309100,

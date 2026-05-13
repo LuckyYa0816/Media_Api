@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-13T00:03:22.391Z",
+  "updated_at": "2026-05-13T10:31:49.840Z",
   "total": 30,
   "list": [
     {
@@ -63,15 +63,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 301944,
-      "tmdb_type": "tv",
-      "title": "婚姻剧毒",
-      "sort": 8
-    },
-    {
       "tmdb_id": 290019,
       "tmdb_type": "tv",
       "title": "和班上第二可爱的女孩子成为了朋友",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 301944,
+      "tmdb_type": "tv",
+      "title": "婚姻剧毒",
       "sort": 9
     },
     {
@@ -105,21 +105,21 @@
       "sort": 14
     },
     {
+      "tmdb_id": 293697,
+      "tmdb_type": "tv",
+      "title": "想结束这场“我爱你”的游戏",
+      "sort": 15
+    },
+    {
       "tmdb_id": 288659,
       "tmdb_type": "tv",
       "title": "春夏秋冬代行者 春之舞",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 285818,
       "tmdb_type": "tv",
       "title": "迦楠大人的白给是恶魔级",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 293697,
-      "tmdb_type": "tv",
-      "title": "想结束这场“我爱你”的游戏",
       "sort": 17
     },
     {
