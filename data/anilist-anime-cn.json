@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-14T00:04:38.555Z",
+  "updated_at": "2026-05-14T10:22:01.842Z",
   "total": 28,
   "list": [
     {
@@ -184,9 +184,9 @@
       "sort": 27
     },
     {
-      "tmdb_id": 69344,
+      "tmdb_id": 223515,
       "tmdb_type": "tv",
-      "title": "灵契",
+      "title": "爱上她的理由",
       "sort": 28
     }
   ]
