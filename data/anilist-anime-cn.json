@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-13T10:31:51.972Z",
+  "updated_at": "2026-05-14T00:04:38.555Z",
   "total": 28,
   "list": [
     {
@@ -142,15 +142,15 @@
       "sort": 20
     },
     {
-      "tmdb_id": 107255,
-      "tmdb_type": "tv",
-      "title": "龙族",
-      "sort": 21
-    },
-    {
       "tmdb_id": 69203,
       "tmdb_type": "tv",
       "title": "爱神巧克力",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 107255,
+      "tmdb_type": "tv",
+      "title": "龙族",
       "sort": 22
     },
     {
@@ -184,9 +184,9 @@
       "sort": 27
     },
     {
-      "tmdb_id": 223515,
+      "tmdb_id": 69344,
       "tmdb_type": "tv",
-      "title": "爱上她的理由",
+      "title": "灵契",
       "sort": 28
     }
   ]

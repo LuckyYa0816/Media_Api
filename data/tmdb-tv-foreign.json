@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-13T10:31:59.269Z",
-  "total": 21,
+  "updated_at": "2026-05-14T00:04:44.903Z",
+  "total": 22,
   "list": [
     {
       "tmdb_id": 76479,
@@ -67,21 +67,21 @@
       "sort": 6
     },
     {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 7
+    },
+    {
       "tmdb_id": 127865,
       "tmdb_type": "tv",
       "title": "Kastanjemanden",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 136315,
       "tmdb_type": "tv",
       "title": "熊家餐馆",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 259702,
-      "tmdb_type": "tv",
-      "title": "幽灵之家",
       "sort": 9
     },
     {
@@ -91,9 +91,9 @@
       "sort": 10
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 259702,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "幽灵之家",
       "sort": 11
     },
     {
@@ -109,52 +109,58 @@
       "sort": 13
     },
     {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 14
-    },
-    {
       "tmdb_id": 111110,
       "tmdb_type": "tv",
       "title": "ONE PIECE",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 56570,
       "tmdb_type": "tv",
       "title": "古战场传奇",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
       "sort": 16
     },
     {
-      "tmdb_id": 211288,
+      "tmdb_id": 270572,
       "tmdb_type": "tv",
-      "title": "寻踪者",
+      "title": "蝇王",
       "sort": 17
     },
     {
-      "tmdb_id": 4614,
+      "tmdb_id": 1416,
       "tmdb_type": "tv",
-      "title": "海军罪案调查处",
+      "title": "实习医生格蕾",
       "sort": 18
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
+      "sort": 19
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 302074,
-      "tmdb_type": "tv",
-      "title": "劣探德克尔",
       "sort": 20
     },
     {
-      "tmdb_id": 75219,
+      "tmdb_id": 211288,
       "tmdb_type": "tv",
-      "title": "紧急呼救",
+      "title": "寻踪者",
       "sort": 21
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 22
     }
   ]
 }

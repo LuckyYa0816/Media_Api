@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-13T10:32:02.070Z",
+  "updated_at": "2026-05-14T00:04:47.316Z",
   "total": 8,
   "list": [
     {
       "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "尤为明亮的生物",
+      "title": "幸运有八只触手",
       "sort": 1
     },
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1317448,
-      "tmdb_type": "movie",
-      "title": "无处单身",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1317448,
+      "tmdb_type": "movie",
+      "title": "无处单身",
       "sort": 6
     },
     {
