@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-14T10:22:38.305Z",
+  "updated_at": "2026-05-15T00:01:02.066Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
+      "tmdb_id": 543628,
+      "tmdb_type": "movie",
+      "title": "把哥哥带走",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1269644,
       "tmdb_type": "movie",
       "title": "阿姆鲁姆",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1259443,
       "tmdb_type": "movie",
       "title": "南方时光",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1390382,
-      "tmdb_type": "movie",
-      "title": "时装",
       "sort": 5
     },
     {
@@ -107,21 +107,21 @@
       "sort": 14
     },
     {
+      "tmdb_id": 1007757,
+      "tmdb_type": "movie",
+      "title": "奇幻变身大冒险",
+      "sort": 15
+    },
+    {
       "tmdb_id": 1245532,
       "tmdb_type": "movie",
       "title": "像我这样的爱情",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 1124566,
       "tmdb_type": "movie",
       "title": "情感价值",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
       "sort": 17
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1198994,
+      "tmdb_id": 508747,
       "tmdb_type": "movie",
-      "title": "请求救援",
+      "title": "后来的我们",
       "sort": 20
     }
   ]

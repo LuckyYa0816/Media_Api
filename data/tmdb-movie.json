@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-14T10:22:11.009Z",
-  "total": 8,
+  "updated_at": "2026-05-15T00:00:39.833Z",
+  "total": 7,
   "list": [
-    {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
-      "sort": 1
-    },
     {
       "tmdb_id": 1330021,
       "tmdb_type": "movie",
       "title": "幸运有八只触手",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1007757,
+      "tmdb_type": "movie",
+      "title": "奇幻变身大冒险",
       "sort": 2
     },
     {
@@ -44,34 +44,28 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1630423,
-      "tmdb_type": "movie",
-      "title": "我的挚爱杀手",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1317448,
-      "tmdb_type": "movie",
-      "title": "无处单身",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
-      "sort": 6
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1630423,
+      "tmdb_type": "movie",
+      "title": "我的挚爱杀手",
+      "sort": 5
     },
     {
       "tmdb_id": 1688652,
       "tmdb_type": "movie",
       "title": "加里市",
-      "sort": 7
+      "sort": 6
     },
     {
-      "tmdb_id": 1214931,
+      "tmdb_id": 1317448,
       "tmdb_type": "movie",
-      "title": "纽伦堡",
-      "sort": 8
+      "title": "无处单身",
+      "sort": 7
     }
   ]
 }
