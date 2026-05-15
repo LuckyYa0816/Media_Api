@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-15T10:27:33.991Z",
-  "total": 22,
+  "updated_at": "2026-05-15T23:57:35.673Z",
+  "total": 23,
   "list": [
     {
       "tmdb_id": 76479,
@@ -43,9 +43,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 114922,
+      "tmdb_id": 235930,
       "tmdb_type": "tv",
-      "title": "堡垒",
+      "title": "Devil May Cry",
       "sort": 3
     },
     {
@@ -61,75 +61,75 @@
       "sort": 5
     },
     {
-      "tmdb_id": 235930,
-      "tmdb_type": "tv",
-      "title": "Devil May Cry",
-      "sort": 6
-    },
-    {
       "tmdb_id": 208921,
       "tmdb_type": "tv",
       "title": "对手",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 114922,
+      "tmdb_type": "tv",
+      "title": "堡垒",
       "sort": 7
-    },
-    {
-      "tmdb_id": 262280,
-      "tmdb_type": "tv",
-      "title": "无名传奇",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 127865,
-      "tmdb_type": "tv",
-      "title": "Kastanjemanden",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 136315,
-      "tmdb_type": "tv",
-      "title": "熊家餐馆",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 56570,
-      "tmdb_type": "tv",
-      "title": "古战场传奇",
-      "sort": 12
     },
     {
       "tmdb_id": 95557,
       "tmdb_type": "tv",
       "title": "无敌少侠",
-      "sort": 13
+      "sort": 8
     },
     {
-      "tmdb_id": 223386,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "怒火救援",
-      "sort": 14
+      "title": "菜鸟老警",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 56570,
+      "tmdb_type": "tv",
+      "title": "古战场传奇",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 262280,
+      "tmdb_type": "tv",
+      "title": "无名传奇",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 127865,
+      "tmdb_type": "tv",
+      "title": "Kastanjemanden",
+      "sort": 12
     },
     {
       "tmdb_id": 259702,
       "tmdb_type": "tv",
       "title": "幽灵之家",
-      "sort": 15
+      "sort": 13
     },
     {
-      "tmdb_id": 126929,
+      "tmdb_id": 136315,
       "tmdb_type": "tv",
-      "title": "小球会大明星",
-      "sort": 16
+      "title": "熊家餐馆",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
+      "sort": 15
     },
     {
       "tmdb_id": 287527,
       "tmdb_type": "tv",
       "title": "证词",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
       "sort": 17
     },
     {
@@ -145,22 +145,28 @@
       "sort": 19
     },
     {
-      "tmdb_id": 111110,
+      "tmdb_id": 223386,
       "tmdb_type": "tv",
-      "title": "ONE PIECE",
+      "title": "怒火救援",
       "sort": 20
     },
     {
-      "tmdb_id": 75219,
+      "tmdb_id": 111110,
       "tmdb_type": "tv",
-      "title": "紧急呼救",
+      "title": "ONE PIECE",
       "sort": 21
     },
     {
-      "tmdb_id": 1434,
+      "tmdb_id": 224263,
       "tmdb_type": "tv",
-      "title": "恶搞之家",
+      "title": "Stranger Things: Tales from '85",
       "sort": 22
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 23
     }
   ]
 }
