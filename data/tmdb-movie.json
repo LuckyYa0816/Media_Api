@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-15T23:57:38.317Z",
-  "total": 8,
+  "updated_at": "2026-05-16T09:43:05.427Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1439930,
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1198994,
-      "tmdb_type": "movie",
-      "title": "请求救援",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1630423,
       "tmdb_type": "movie",
       "title": "我的挚爱杀手",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1198994,
+      "tmdb_type": "movie",
+      "title": "请求救援",
       "sort": 6
     },
     {
@@ -72,6 +72,12 @@
       "tmdb_type": "movie",
       "title": "奇迹梦之队",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1688652,
+      "tmdb_type": "movie",
+      "title": "加里市",
+      "sort": 9
     }
   ]
 }
