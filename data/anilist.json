@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-16T23:56:59.182Z",
+  "updated_at": "2026-05-17T09:49:04.427Z",
   "total": 30,
   "list": [
     {
@@ -27,15 +27,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 82684,
-      "tmdb_type": "tv",
-      "title": "关于我转生变成史莱姆这档事",
-      "sort": 2
-    },
-    {
       "tmdb_id": 260463,
       "tmdb_type": "tv",
       "title": "黄泉的使者",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 82684,
+      "tmdb_type": "tv",
+      "title": "关于我转生变成史莱姆这档事",
       "sort": 3
     },
     {
