@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-17T23:59:43.220Z",
+  "updated_at": "2026-05-18T11:46:40.306Z",
   "total": 28,
   "list": [
     {
@@ -136,21 +136,21 @@
       "sort": 19
     },
     {
+      "tmdb_id": 107255,
+      "tmdb_type": "tv",
+      "title": "龙族",
+      "sort": 20
+    },
+    {
       "tmdb_id": 71194,
       "tmdb_type": "tv",
       "title": "全职高手",
-      "sort": 20
+      "sort": 21
     },
     {
       "tmdb_id": 69203,
       "tmdb_type": "tv",
       "title": "爱神巧克力",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 107255,
-      "tmdb_type": "tv",
-      "title": "龙族",
       "sort": 22
     },
     {
