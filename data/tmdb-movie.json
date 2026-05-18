@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-17T09:49:16.041Z",
+  "updated_at": "2026-05-17T23:59:52.273Z",
   "total": 11,
   "list": [
     {
@@ -56,9 +56,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1630423,
+      "tmdb_id": 1582770,
       "tmdb_type": "movie",
-      "title": "我的挚爱杀手",
+      "title": "征服者2",
       "sort": 6
     },
     {
@@ -80,15 +80,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 1688652,
+      "tmdb_id": 1214931,
       "tmdb_type": "movie",
-      "title": "加里市",
+      "title": "纽伦堡",
       "sort": 10
     },
     {
-      "tmdb_id": 1317448,
+      "tmdb_id": 1630423,
       "tmdb_type": "movie",
-      "title": "无处单身",
+      "title": "我的挚爱杀手",
       "sort": 11
     }
   ]

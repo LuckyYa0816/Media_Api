@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-17T09:49:41.465Z",
+  "updated_at": "2026-05-18T00:00:23.661Z",
   "total": 20,
   "list": [
     {
@@ -83,27 +83,27 @@
       "sort": 10
     },
     {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 11
-    },
-    {
       "tmdb_id": 1497788,
       "tmdb_type": "movie",
       "title": "长夜将尽",
-      "sort": 12
+      "sort": 11
     },
     {
-      "tmdb_id": 1462229,
+      "tmdb_id": 1318447,
       "tmdb_type": "movie",
-      "title": "飞驰人生3",
-      "sort": 13
+      "title": "巅峰猎杀",
+      "sort": 12
     },
     {
       "tmdb_id": 1266127,
       "tmdb_type": "movie",
       "title": "准备好了没2：我来了",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1462229,
+      "tmdb_type": "movie",
+      "title": "飞驰人生3",
       "sort": 14
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1124566,
-      "tmdb_type": "movie",
-      "title": "情感价值",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
       "title": "杀木地",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1124566,
+      "tmdb_type": "movie",
+      "title": "情感价值",
       "sort": 19
     },
     {
-      "tmdb_id": 1245532,
+      "tmdb_id": 1084577,
       "tmdb_type": "movie",
-      "title": "像我这样的爱情",
+      "title": "抖擞",
       "sort": 20
     }
   ]

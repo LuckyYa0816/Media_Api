@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-17T09:49:06.784Z",
+  "updated_at": "2026-05-17T23:59:43.220Z",
   "total": 28,
   "list": [
     {
@@ -94,15 +94,15 @@
       "sort": 12
     },
     {
-      "tmdb_id": 70311,
-      "tmdb_type": "tv",
-      "title": "全职法师",
-      "sort": 13
-    },
-    {
       "tmdb_id": 146339,
       "tmdb_type": "tv",
       "title": "大王饶命",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 70311,
+      "tmdb_type": "tv",
+      "title": "全职法师",
       "sort": 14
     },
     {
