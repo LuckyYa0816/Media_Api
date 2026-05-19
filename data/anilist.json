@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-19T00:12:14.340Z",
+  "updated_at": "2026-05-19T11:22:29.921Z",
   "total": 30,
   "list": [
     {
@@ -123,9 +123,9 @@
       "sort": 17
     },
     {
-      "tmdb_id": 305329,
+      "tmdb_id": 300126,
       "tmdb_type": "tv",
-      "title": "主播女孩重度依赖",
+      "title": "欺诈游戏",
       "sort": 18
     },
     {
@@ -135,9 +135,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 300126,
+      "tmdb_id": 305329,
       "tmdb_type": "tv",
-      "title": "欺诈游戏",
+      "title": "主播女孩重度依赖",
       "sort": 20
     },
     {
