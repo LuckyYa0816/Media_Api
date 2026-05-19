@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-18T11:46:47.933Z",
+  "updated_at": "2026-05-19T00:12:24.294Z",
   "total": 9,
   "list": [
     {
@@ -44,39 +44,39 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1582770,
       "tmdb_type": "movie",
       "title": "征服者2",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1198994,
-      "tmdb_type": "movie",
-      "title": "请求救援",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1628367,
-      "tmdb_type": "movie",
-      "title": "执法交叉点",
-      "sort": 7
+      "sort": 4
     },
     {
       "tmdb_id": 1684226,
       "tmdb_type": "movie",
       "title": "年度最佳新娘",
-      "sort": 8
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
+      "sort": 6
     },
     {
       "tmdb_id": 1297842,
       "tmdb_type": "movie",
       "title": "奇迹梦之队",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1198994,
+      "tmdb_type": "movie",
+      "title": "请求救援",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1630423,
+      "tmdb_type": "movie",
+      "title": "我的挚爱杀手",
       "sort": 9
     }
   ]
