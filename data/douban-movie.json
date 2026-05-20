@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-20T00:10:46.821Z",
-  "total": 16,
+  "updated_at": "2026-05-20T10:55:01.613Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 1325734,
@@ -47,6 +47,12 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1330021,
+      "tmdb_type": "movie",
+      "title": "幸运有八只触手",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1546855,
       "tmdb_type": "movie",
       "title": "我，许可",
@@ -69,6 +75,12 @@
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
       "sort": 9
+    },
+    {
+      "tmdb_id": 1321179,
+      "tmdb_type": "movie",
+      "title": "与王生活的男人",
+      "sort": 10
     },
     {
       "tmdb_id": 687163,
@@ -95,6 +107,12 @@
       "sort": 14
     },
     {
+      "tmdb_id": 1007757,
+      "tmdb_type": "movie",
+      "title": "奇幻变身大冒险",
+      "sort": 15
+    },
+    {
       "tmdb_id": 1462229,
       "tmdb_type": "movie",
       "title": "飞驰人生3",
@@ -111,6 +129,12 @@
       "tmdb_type": "movie",
       "title": "翠湖",
       "sort": 18
+    },
+    {
+      "tmdb_id": 1532395,
+      "tmdb_type": "movie",
+      "title": "万事顺利",
+      "sort": 19
     },
     {
       "tmdb_id": 1084577,

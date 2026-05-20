@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-20T00:10:17.860Z",
+  "updated_at": "2026-05-20T10:54:05.671Z",
   "total": 30,
   "list": [
     {
@@ -70,18 +70,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 86031
-      },
-      "tmdb_type": "tv",
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
         "tv": 290019
       },
       "tmdb_type": "tv",
       "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "sort": 7
+    },
+    {
+      "tmdb_id": {
+        "tv": 86031
+      },
+      "tmdb_type": "tv",
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
       "sort": 8
     },
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 297438
-      },
-      "tmdb_type": "tv",
-      "title": "Akane-banashi",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 305329
       },
       "tmdb_type": "tv",
       "title": "NEEDY GIRL OVERDOSE",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 297438
+      },
+      "tmdb_type": "tv",
+      "title": "Akane-banashi",
       "sort": 20
     },
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283905
-      },
-      "tmdb_type": "tv",
-      "title": "Botan Kamiina Fully Blossoms When Drunk",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 288551
       },
       "tmdb_type": "tv",
       "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
+        "tv": 283905
+      },
+      "tmdb_type": "tv",
+      "title": "Botan Kamiina Fully Blossoms When Drunk",
       "sort": 26
     },
     {

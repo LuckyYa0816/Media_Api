@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-20T00:10:23.034Z",
+  "updated_at": "2026-05-20T10:54:10.626Z",
   "total": 30,
   "list": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 91768
-      },
-      "tmdb_type": "tv",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 273467
       },
       "tmdb_type": "tv",
       "title": "The Warrior Princess and the Barbaric King",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 91768
+      },
+      "tmdb_type": "tv",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "sort": 15
     },
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 274671
-      },
-      "tmdb_type": "tv",
-      "title": "The Beginning After the End Season 2",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 285818
       },
       "tmdb_type": "tv",
       "title": "Mistress Kanan is Devilishly Easy",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 274671
+      },
+      "tmdb_type": "tv",
+      "title": "The Beginning After the End Season 2",
       "sort": 23
     },
     {
@@ -230,26 +230,26 @@
     },
     {
       "tmdb_id": {
-        "tv": 274622
-      },
-      "tmdb_type": "tv",
-      "title": "Go For It, Nakamura-kun!!",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 261780
       },
       "tmdb_type": "tv",
       "title": "Petals of Reincarnation",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 274622
+      },
+      "tmdb_type": "tv",
+      "title": "Go For It, Nakamura-kun!!",
       "sort": 28
     },
     {
       "tmdb_id": {
-        "tv": 96316
+        "tv": 288551
       },
       "tmdb_type": "tv",
-      "title": "Rent-a-Girlfriend Season 5",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "sort": 29
     },
     {
