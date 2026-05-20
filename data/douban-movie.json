@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-05-19T11:23:28.766Z",
-  "total": 20,
+  "updated_at": "2026-05-20T00:10:46.821Z",
+  "total": 16,
   "list": [
-    {
-      "tmdb_id": 1317512,
-      "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 1
-    },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
       "sort": 2
     },
     {
@@ -47,75 +47,57 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1330021,
+      "tmdb_id": 1546855,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
-      "sort": 5
+      "title": "我，许可",
+      "sort": 6
     },
     {
       "tmdb_id": 1566589,
       "tmdb_type": "movie",
       "title": "蜂蜜的针",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1292695,
       "tmdb_type": "movie",
       "title": "杀的就是你",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1321179,
-      "tmdb_type": "movie",
-      "title": "与王生活的男人",
       "sort": 9
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 1497788,
       "tmdb_type": "movie",
       "title": "长夜将尽",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 1318447,
       "tmdb_type": "movie",
       "title": "巅峰猎杀",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 1266127,
       "tmdb_type": "movie",
       "title": "准备好了没2：我来了",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 1462229,
       "tmdb_type": "movie",
       "title": "飞驰人生3",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1497873,
-      "tmdb_type": "movie",
-      "title": "翠湖",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
       "sort": 16
     },
     {
@@ -125,16 +107,10 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1461254,
+      "tmdb_id": 1497873,
       "tmdb_type": "movie",
-      "title": "杀木地",
+      "title": "翠湖",
       "sort": 18
-    },
-    {
-      "tmdb_id": 1124566,
-      "tmdb_type": "movie",
-      "title": "情感价值",
-      "sort": 19
     },
     {
       "tmdb_id": 1084577,

@@ -18,175 +18,231 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-19T11:22:31.501Z",
+  "updated_at": "2026-05-20T00:10:19.406Z",
   "total": 28,
   "list": [
     {
-      "tmdb_id": 123542,
+      "tmdb_id": {
+        "tv": 123542
+      },
       "tmdb_type": "tv",
-      "title": "时光代理人",
+      "title": "Link Click",
       "sort": 1
     },
     {
-      "tmdb_id": 98123,
+      "tmdb_id": {
+        "tv": 98123
+      },
       "tmdb_type": "tv",
-      "title": "仙王的日常生活",
+      "title": "The Daily Life of the Immortal King",
       "sort": 2
     },
     {
-      "tmdb_id": 272059,
+      "tmdb_id": {
+        "tv": 272059
+      },
       "tmdb_type": "tv",
-      "title": "凸变英雄X",
+      "title": "To Be Hero X",
       "sort": 3
     },
     {
-      "tmdb_id": 232230,
+      "tmdb_id": {
+        "tv": 232230
+      },
       "tmdb_type": "tv",
-      "title": "诡秘之主",
+      "title": "Lord of Mysteries",
       "sort": 4
     },
     {
-      "tmdb_id": 71194,
+      "tmdb_id": {
+        "tv": 71194
+      },
       "tmdb_type": "tv",
-      "title": "全职高手",
+      "title": "The King's Avatar",
       "sort": 5
     },
     {
-      "tmdb_id": 80732,
+      "tmdb_id": {
+        "tv": 80732
+      },
       "tmdb_type": "tv",
-      "title": "魔道祖师",
+      "title": "The Founder of Diabolism",
       "sort": 6
     },
     {
-      "tmdb_id": 98123,
+      "tmdb_id": {
+        "tv": 98123
+      },
       "tmdb_type": "tv",
-      "title": "仙王的日常生活",
+      "title": "The Daily Life of the Immortal King Season 2",
       "sort": 7
     },
     {
-      "tmdb_id": 123542,
+      "tmdb_id": {
+        "tv": 123542
+      },
       "tmdb_type": "tv",
-      "title": "时光代理人",
+      "title": "Link Click Season 2",
       "sort": 8
     },
     {
-      "tmdb_id": 112398,
+      "tmdb_id": {
+        "tv": 112398
+      },
       "tmdb_type": "tv",
-      "title": "天官赐福",
+      "title": "Heaven Official's Blessing",
       "sort": 9
     },
     {
-      "tmdb_id": 79141,
+      "tmdb_id": {
+        "tv": 79141
+      },
       "tmdb_type": "tv",
-      "title": "刺客伍六七",
+      "title": "Scissor Seven",
       "sort": 10
     },
     {
-      "tmdb_id": 67063,
+      "tmdb_id": {
+        "tv": 67063
+      },
       "tmdb_type": "tv",
-      "title": "一人之下",
+      "title": "Hitori no Shita - The Outcast",
       "sort": 11
     },
     {
-      "tmdb_id": 98123,
+      "tmdb_id": {
+        "tv": 98123
+      },
       "tmdb_type": "tv",
-      "title": "仙王的日常生活",
+      "title": "The Daily Life of the Immortal King Season 3",
       "sort": 12
     },
     {
-      "tmdb_id": 146339,
+      "tmdb_id": {
+        "tv": 146339
+      },
       "tmdb_type": "tv",
-      "title": "大王饶命",
+      "title": "Dawang Raoming",
       "sort": 13
     },
     {
-      "tmdb_id": 70311,
+      "tmdb_id": {
+        "tv": 70311
+      },
       "tmdb_type": "tv",
-      "title": "全职法师",
+      "title": "Full-Time Magister",
       "sort": 14
     },
     {
-      "tmdb_id": 71194,
+      "tmdb_id": {
+        "tv": 71194
+      },
       "tmdb_type": "tv",
-      "title": "全职高手",
+      "title": "The King's Avatar S2",
       "sort": 15
     },
     {
-      "tmdb_id": 80732,
+      "tmdb_id": {
+        "tv": 80732
+      },
       "tmdb_type": "tv",
-      "title": "魔道祖师",
+      "title": "The Founder of Diabolism 2",
       "sort": 16
     },
     {
-      "tmdb_id": 79141,
+      "tmdb_id": {
+        "tv": 79141
+      },
       "tmdb_type": "tv",
-      "title": "刺客伍六七",
+      "title": "Scissor Seven Season 2",
       "sort": 17
     },
     {
-      "tmdb_id": 123542,
+      "tmdb_id": {
+        "tv": 123542
+      },
       "tmdb_type": "tv",
-      "title": "时光代理人",
+      "title": "Link Click: Bridon Arc",
       "sort": 18
     },
     {
-      "tmdb_id": 79141,
+      "tmdb_id": {
+        "tv": 79141
+      },
       "tmdb_type": "tv",
-      "title": "刺客伍六七",
+      "title": "Scissor Seven Season 3",
       "sort": 19
     },
     {
-      "tmdb_id": 107255,
+      "tmdb_id": {
+        "tv": 69203
+      },
       "tmdb_type": "tv",
-      "title": "龙族",
+      "title": "Aishen Qiaokeli-ING...",
       "sort": 20
     },
     {
-      "tmdb_id": 71194,
+      "tmdb_id": {
+        "tv": 107255
+      },
       "tmdb_type": "tv",
-      "title": "全职高手",
+      "title": "Dragon Raja -The Blazing Dawn-",
       "sort": 21
     },
     {
-      "tmdb_id": 69203,
+      "tmdb_id": {
+        "tv": 71194
+      },
       "tmdb_type": "tv",
-      "title": "爱神巧克力",
+      "title": "Quanzhi Gaoshou Specials",
       "sort": 22
     },
     {
-      "tmdb_id": 102927,
+      "tmdb_id": {
+        "tv": 102927
+      },
       "tmdb_type": "tv",
-      "title": "最后的召唤师",
+      "title": "THE LAST SUMMONER",
       "sort": 23
     },
     {
-      "tmdb_id": 98123,
+      "tmdb_id": {
+        "tv": 98123
+      },
       "tmdb_type": "tv",
-      "title": "仙王的日常生活",
+      "title": "The Daily Life of the Immortal King Season 4",
       "sort": 24
     },
     {
-      "tmdb_id": 80732,
+      "tmdb_id": {
+        "tv": 80732
+      },
       "tmdb_type": "tv",
-      "title": "魔道祖师",
+      "title": "The Founder of Diabolism: Final Season",
       "sort": 25
     },
     {
-      "tmdb_id": 262453,
+      "tmdb_id": {
+        "tv": 262453
+      },
       "tmdb_type": "tv",
-      "title": "魔法公主的小烦恼",
+      "title": "The Fated Magical Princess: Who Made Me a Princess",
       "sort": 26
     },
     {
-      "tmdb_id": 112398,
+      "tmdb_id": {
+        "tv": 112398
+      },
       "tmdb_type": "tv",
-      "title": "天官赐福",
+      "title": "Heaven Official's Blessing Season 2",
       "sort": 27
     },
     {
-      "tmdb_id": 223515,
+      "tmdb_id": {
+        "tv": 223515
+      },
       "tmdb_type": "tv",
-      "title": "爱上她的理由",
+      "title": "The Girl Downstairs",
       "sort": 28
     }
   ]

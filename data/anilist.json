@@ -17,187 +17,247 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-19T11:22:29.921Z",
+  "updated_at": "2026-05-20T00:10:17.860Z",
   "total": 30,
   "list": [
     {
-      "tmdb_id": 65942,
+      "tmdb_id": {
+        "tv": 65942
+      },
       "tmdb_type": "tv",
-      "title": "Re：从零开始的异世界生活",
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
       "sort": 1
     },
     {
-      "tmdb_id": 260463,
+      "tmdb_id": {
+        "tv": 260463
+      },
       "tmdb_type": "tv",
-      "title": "黄泉的使者",
+      "title": "Daemons of the Shadow Realm",
       "sort": 2
     },
     {
-      "tmdb_id": 82684,
+      "tmdb_id": {
+        "tv": 82684
+      },
       "tmdb_type": "tv",
-      "title": "关于我转生变成史莱姆这档事",
+      "title": "That Time I Got Reincarnated as a Slime Season 4",
       "sort": 3
     },
     {
-      "tmdb_id": 72517,
+      "tmdb_id": {
+        "tv": 72517
+      },
       "tmdb_type": "tv",
-      "title": "欢迎来到实力至上主义教室",
+      "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
       "sort": 4
     },
     {
-      "tmdb_id": 245842,
+      "tmdb_id": {
+        "tv": 245842
+      },
       "tmdb_type": "tv",
-      "title": "杖与剑的魔剑谭",
+      "title": "Wistoria: Wand and Sword Season 2",
       "sort": 5
     },
     {
-      "tmdb_id": 154743,
+      "tmdb_id": {
+        "tv": 154743
+      },
       "tmdb_type": "tv",
-      "title": "邻家的天使同学",
+      "title": "The Angel Next Door Spoils Me Rotten2",
       "sort": 6
     },
     {
-      "tmdb_id": 86031,
+      "tmdb_id": {
+        "tv": 86031
+      },
       "tmdb_type": "tv",
-      "title": "石纪元",
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
       "sort": 7
     },
     {
-      "tmdb_id": 290019,
+      "tmdb_id": {
+        "tv": 290019
+      },
       "tmdb_type": "tv",
-      "title": "和班上第二可爱的女孩子成为了朋友",
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
       "sort": 8
     },
     {
-      "tmdb_id": 301944,
+      "tmdb_id": {
+        "tv": 301944
+      },
       "tmdb_type": "tv",
-      "title": "婚姻剧毒",
+      "title": "MARRIAGETOXIN",
       "sort": 9
     },
     {
-      "tmdb_id": 309163,
+      "tmdb_id": {
+        "tv": 309163
+      },
       "tmdb_type": "tv",
-      "title": "哪里有温柔对待阿宅的辣妹！？",
+      "title": "Gals Can't Be Kind to Otaku!?",
       "sort": 10
     },
     {
-      "tmdb_id": 283428,
+      "tmdb_id": {
+        "tv": 283428
+      },
       "tmdb_type": "tv",
-      "title": "冰之城墙",
+      "title": "The Ramparts of Ice",
       "sort": 11
     },
     {
-      "tmdb_id": 273467,
+      "tmdb_id": {
+        "tv": 273467
+      },
       "tmdb_type": "tv",
-      "title": "女骑士成为蛮族新娘",
+      "title": "The Warrior Princess and the Barbaric King",
       "sort": 12
     },
     {
-      "tmdb_id": 196285,
+      "tmdb_id": {
+        "tv": 196285
+      },
       "tmdb_type": "tv",
-      "title": "异世界悠闲农家",
+      "title": "Farming Life in Another World 2",
       "sort": 13
     },
     {
-      "tmdb_id": 274671,
+      "tmdb_id": {
+        "tv": 274671
+      },
       "tmdb_type": "tv",
-      "title": "最强王者的第二人生",
+      "title": "The Beginning After the End Season 2",
       "sort": 14
     },
     {
-      "tmdb_id": 293697,
+      "tmdb_id": {
+        "tv": 293697
+      },
       "tmdb_type": "tv",
-      "title": "想结束这场“我爱你”的游戏",
+      "title": "I Want to End this Love Game",
       "sort": 15
     },
     {
-      "tmdb_id": 285818,
+      "tmdb_id": {
+        "tv": 285818
+      },
       "tmdb_type": "tv",
-      "title": "迦楠大人的白给是恶魔级",
+      "title": "Mistress Kanan is Devilishly Easy",
       "sort": 16
     },
     {
-      "tmdb_id": 288659,
+      "tmdb_id": {
+        "tv": 288659
+      },
       "tmdb_type": "tv",
-      "title": "春夏秋冬代行者 春之舞",
+      "title": "Agents of the Four Seasons: Dance of Spring",
       "sort": 17
     },
     {
-      "tmdb_id": 300126,
+      "tmdb_id": {
+        "tv": 300126
+      },
       "tmdb_type": "tv",
-      "title": "欺诈游戏",
+      "title": "LIAR GAME",
       "sort": 18
     },
     {
-      "tmdb_id": 297438,
+      "tmdb_id": {
+        "tv": 297438
+      },
       "tmdb_type": "tv",
-      "title": "落语朱音",
+      "title": "Akane-banashi",
       "sort": 19
     },
     {
-      "tmdb_id": 305329,
+      "tmdb_id": {
+        "tv": 305329
+      },
       "tmdb_type": "tv",
-      "title": "主播女孩重度依赖",
+      "title": "NEEDY GIRL OVERDOSE",
       "sort": 20
     },
     {
-      "tmdb_id": 91801,
+      "tmdb_id": {
+        "tv": 91801
+      },
       "tmdb_type": "tv",
-      "title": "入间同学入魔了！",
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
       "sort": 21
     },
     {
-      "tmdb_id": 91768,
+      "tmdb_id": {
+        "tv": 91768
+      },
       "tmdb_type": "tv",
-      "title": "爱书的下克上：为了成为图书管理员不择手段！",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "sort": 22
     },
     {
-      "tmdb_id": 261780,
+      "tmdb_id": {
+        "tv": 261780
+      },
       "tmdb_type": "tv",
-      "title": "轮回的花瓣",
+      "title": "Petals of Reincarnation",
       "sort": 23
     },
     {
-      "tmdb_id": 300131,
+      "tmdb_id": {
+        "tv": 300131
+      },
       "tmdb_type": "tv",
-      "title": "杀手青春",
+      "title": "KILL BLUE",
       "sort": 24
     },
     {
-      "tmdb_id": 283905,
+      "tmdb_id": {
+        "tv": 283905
+      },
       "tmdb_type": "tv",
-      "title": "上伊那牡丹，酒醉身姿似百合花般",
+      "title": "Botan Kamiina Fully Blossoms When Drunk",
       "sort": 25
     },
     {
-      "tmdb_id": 288551,
+      "tmdb_id": {
+        "tv": 288551
+      },
       "tmdb_type": "tv",
-      "title": "木头风纪委员和迷你裙JK的故事",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "sort": 26
     },
     {
-      "tmdb_id": 259819,
+      "tmdb_id": {
+        "tv": 259819
+      },
       "tmdb_type": "tv",
-      "title": "公鸡斗士",
+      "title": "Rooster Fighter",
       "sort": 27
     },
     {
-      "tmdb_id": 216467,
+      "tmdb_id": {
+        "tv": 216467
+      },
       "tmdb_type": "tv",
-      "title": "夜樱家的大作战",
+      "title": "Mission: Yozakura Family Season 2",
       "sort": 28
     },
     {
-      "tmdb_id": 284447,
+      "tmdb_id": {
+        "tv": 284447
+      },
       "tmdb_type": "tv",
-      "title": "弱弱老师",
+      "title": "Yowayowa Sensei",
       "sort": 29
     },
     {
-      "tmdb_id": 316424,
+      "tmdb_id": {
+        "tv": 316424
+      },
       "tmdb_type": "tv",
-      "title": "灰原同学重返过去，开启所向无敌的第二轮青春游戏",
+      "title": "Haibara's Teenage New Game+",
       "sort": 30
     }
   ]
