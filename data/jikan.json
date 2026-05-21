@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-20T10:54:10.626Z",
+  "updated_at": "2026-05-21T00:10:20.411Z",
   "total": 30,
   "list": [
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 285818
-      },
-      "tmdb_type": "tv",
-      "title": "Mistress Kanan is Devilishly Easy",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 274671
       },
       "tmdb_type": "tv",
       "title": "The Beginning After the End Season 2",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 285818
+      },
+      "tmdb_type": "tv",
+      "title": "Mistress Kanan is Devilishly Easy",
       "sort": 23
     },
     {
@@ -230,18 +230,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 261780
-      },
-      "tmdb_type": "tv",
-      "title": "Petals of Reincarnation",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 274622
       },
       "tmdb_type": "tv",
       "title": "Go For It, Nakamura-kun!!",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 261780
+      },
+      "tmdb_type": "tv",
+      "title": "Petals of Reincarnation",
       "sort": 28
     },
     {

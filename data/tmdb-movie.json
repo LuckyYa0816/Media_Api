@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-20T10:54:14.747Z",
+  "updated_at": "2026-05-21T00:10:24.533Z",
   "total": 10,
   "list": [
     {
@@ -38,39 +38,39 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1330021,
-      "tmdb_type": "movie",
-      "title": "幸运有八只触手",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1318447,
       "tmdb_type": "movie",
       "title": "巅峰猎杀",
-      "sort": 4
+      "sort": 3
     },
     {
-      "tmdb_id": 1582770,
+      "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "征服者2",
-      "sort": 5
+      "title": "幸运有八只触手",
+      "sort": 4
     },
     {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1662317,
       "tmdb_type": "movie",
       "title": "致命撞击：青春情杀案",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1582770,
+      "tmdb_type": "movie",
+      "title": "征服者2",
       "sort": 7
     },
     {
-      "tmdb_id": 1297842,
+      "tmdb_id": 1630423,
       "tmdb_type": "movie",
-      "title": "奇迹梦之队",
+      "title": "我的挚爱杀手",
       "sort": 8
     },
     {
@@ -80,9 +80,9 @@
       "sort": 9
     },
     {
-      "tmdb_id": 1084242,
+      "tmdb_id": 1297842,
       "tmdb_type": "movie",
-      "title": "疯狂动物城2",
+      "title": "奇迹梦之队",
       "sort": 10
     }
   ]
