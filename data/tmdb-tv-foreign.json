@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-21T00:10:22.589Z",
-  "total": 22,
+  "updated_at": "2026-05-21T11:29:13.520Z",
+  "total": 21,
   "list": [
     {
       "tmdb_id": 76479,
@@ -37,15 +37,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 308014,
-      "tmdb_type": "tv",
-      "title": "柏林：抱银貂的女子",
-      "sort": 2
-    },
-    {
       "tmdb_id": 273240,
       "tmdb_type": "tv",
       "title": "校园之外",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 308014,
+      "tmdb_type": "tv",
+      "title": "柏林：抱银貂的女子",
       "sort": 3
     },
     {
@@ -55,15 +55,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 56570,
-      "tmdb_type": "tv",
-      "title": "古战场传奇",
-      "sort": 5
-    },
-    {
       "tmdb_id": 71915,
       "tmdb_type": "tv",
       "title": "好兆头",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
       "sort": 6
     },
     {
@@ -73,39 +73,39 @@
       "sort": 7
     },
     {
-      "tmdb_id": 235930,
+      "tmdb_id": 56570,
       "tmdb_type": "tv",
-      "title": "Devil May Cry",
+      "title": "古战场传奇",
       "sort": 8
     },
     {
-      "tmdb_id": 287527,
+      "tmdb_id": 235930,
       "tmdb_type": "tv",
-      "title": "证词",
+      "title": "Devil May Cry",
       "sort": 9
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 262280,
-      "tmdb_type": "tv",
-      "title": "无名传奇",
-      "sort": 11
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
-      "sort": 12
+      "sort": 10
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 11
     },
     {
       "tmdb_id": 208921,
       "tmdb_type": "tv",
       "title": "对手",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
       "sort": 13
     },
     {
@@ -115,52 +115,46 @@
       "sort": 14
     },
     {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 15
-    },
-    {
       "tmdb_id": 60625,
       "tmdb_type": "tv",
       "title": "瑞克和莫蒂",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 262280,
+      "tmdb_type": "tv",
+      "title": "无名传奇",
       "sort": 16
     },
     {
-      "tmdb_id": 127865,
+      "tmdb_id": 66732,
       "tmdb_type": "tv",
-      "title": "Kastanjemanden",
+      "title": "怪奇物语",
       "sort": 17
+    },
+    {
+      "tmdb_id": 106379,
+      "tmdb_type": "tv",
+      "title": "辐射",
+      "sort": 18
     },
     {
       "tmdb_id": 313721,
       "tmdb_type": "tv",
       "title": "亲爱的杀手保姆们",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": 114922,
       "tmdb_type": "tv",
       "title": "堡垒",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
       "sort": 20
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 21
     },
     {
       "tmdb_id": 211288,
       "tmdb_type": "tv",
       "title": "寻踪者",
-      "sort": 22
+      "sort": 21
     }
   ]
 }

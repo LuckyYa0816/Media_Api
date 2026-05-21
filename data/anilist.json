@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-21T00:10:15.818Z",
+  "updated_at": "2026-05-21T11:29:06.337Z",
   "total": 30,
   "list": [
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 305329
-      },
-      "tmdb_type": "tv",
-      "title": "NEEDY GIRL OVERDOSE",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 297438
       },
       "tmdb_type": "tv",
       "title": "Akane-banashi",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 305329
+      },
+      "tmdb_type": "tv",
+      "title": "NEEDY GIRL OVERDOSE",
       "sort": 20
     },
     {
