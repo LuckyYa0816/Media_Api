@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-05-22T00:06:53.650Z",
+  "updated_at": "2026-05-22T10:53:42.428Z",
   "total": 28,
   "list": [
     {
@@ -175,18 +175,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 69203
-      },
-      "tmdb_type": "tv",
-      "title": "Aishen Qiaokeli-ING...",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 107255
       },
       "tmdb_type": "tv",
       "title": "Dragon Raja -The Blazing Dawn-",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 69203
+      },
+      "tmdb_type": "tv",
+      "title": "Aishen Qiaokeli-ING...",
       "sort": 21
     },
     {

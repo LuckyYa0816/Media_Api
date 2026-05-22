@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-22T00:07:40.074Z",
+  "updated_at": "2026-05-22T10:54:31.879Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -262,51 +262,51 @@
       "total": 18,
       "list": [
         {
+          "tmdb_id": 74561,
+          "tmdb_type": "tv",
+          "title": "明星大侦探",
+          "sort": 1
+        },
+        {
           "tmdb_id": 112732,
           "tmdb_type": "tv",
           "title": "哈哈哈哈哈",
-          "sort": 1
+          "sort": 2
         },
         {
           "tmdb_id": 104716,
           "tmdb_type": "tv",
           "title": "乘风",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 126398,
-          "tmdb_type": "tv",
-          "title": "五十公里桃花坞",
           "sort": 3
-        },
-        {
-          "tmdb_id": 74561,
-          "tmdb_type": "tv",
-          "title": "明星大侦探",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 196747,
-          "tmdb_type": "tv",
-          "title": "我家那小子",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 219934,
-          "tmdb_type": "tv",
-          "title": "种地吧",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 206122,
-          "tmdb_type": "tv",
-          "title": "怦然心动20岁",
-          "sort": 7
         },
         {
           "tmdb_id": 97199,
           "tmdb_type": "tv",
           "title": "妻子的浪漫旅行",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 126398,
+          "tmdb_type": "tv",
+          "title": "五十公里桃花坞",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 196747,
+          "tmdb_type": "tv",
+          "title": "我家那小子",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 219934,
+          "tmdb_type": "tv",
+          "title": "种地吧",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 206122,
+          "tmdb_type": "tv",
+          "title": "怦然心动20岁",
           "sort": 8
         },
         {
