@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-22T10:53:49.786Z",
-  "total": 8,
+  "updated_at": "2026-05-23T00:10:59.483Z",
+  "total": 11,
   "list": [
     {
       "tmdb_id": 1380291,
@@ -44,21 +44,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1330021,
-      "tmdb_type": "movie",
-      "title": "幸运有八只触手",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1318447,
       "tmdb_type": "movie",
       "title": "巅峰猎杀",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1330021,
+      "tmdb_type": "movie",
+      "title": "幸运有八只触手",
       "sort": 5
     },
     {
-      "tmdb_id": 1662317,
+      "tmdb_id": 1198984,
       "tmdb_type": "movie",
-      "title": "致命撞击：青春情杀案",
+      "title": "我们埋葬死者",
       "sort": 6
     },
     {
@@ -68,10 +68,28 @@
       "sort": 7
     },
     {
+      "tmdb_id": 1662317,
+      "tmdb_type": "movie",
+      "title": "致命撞击：青春情杀案",
+      "sort": 8
+    },
+    {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
-      "sort": 8
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1684226,
+      "tmdb_type": "movie",
+      "title": "年度最佳新娘",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1297842,
+      "tmdb_type": "movie",
+      "title": "奇迹梦之队",
+      "sort": 11
     }
   ]
 }
