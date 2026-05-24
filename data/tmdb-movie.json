@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-24T00:00:36.755Z",
-  "total": 9,
+  "updated_at": "2026-05-24T09:58:00.421Z",
+  "total": 12,
   "list": [
     {
       "tmdb_id": 1380291,
@@ -56,28 +56,46 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1330021,
-      "tmdb_type": "movie",
-      "title": "幸运有八只触手",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1662317,
       "tmdb_type": "movie",
       "title": "致命撞击：青春情杀案",
-      "sort": 7
+      "sort": 6
     },
     {
-      "tmdb_id": 1198994,
+      "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "请求救援",
-      "sort": 8
+      "title": "幸运有八只触手",
+      "sort": 7
     },
     {
       "tmdb_id": 1297842,
       "tmdb_type": "movie",
       "title": "奇迹梦之队",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1198994,
+      "tmdb_type": "movie",
+      "title": "请求救援",
       "sort": 9
+    },
+    {
+      "tmdb_id": 1628367,
+      "tmdb_type": "movie",
+      "title": "执法交叉点",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1582770,
+      "tmdb_type": "movie",
+      "title": "征服者2",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1684226,
+      "tmdb_type": "movie",
+      "title": "年度最佳新娘",
+      "sort": 12
     }
   ]
 }

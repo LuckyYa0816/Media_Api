@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-24T00:00:27.425Z",
+  "updated_at": "2026-05-24T09:57:49.516Z",
   "total": 30,
   "list": [
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288551
-      },
-      "tmdb_type": "tv",
-      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 283905
       },
       "tmdb_type": "tv",
       "title": "Botan Kamiina Fully Blossoms When Drunk",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
+        "tv": 288551
+      },
+      "tmdb_type": "tv",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "sort": 26
     },
     {
