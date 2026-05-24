@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-23T09:56:49.663Z",
-  "total": 13,
+  "updated_at": "2026-05-24T00:00:36.755Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1380291,
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1007757,
+      "tmdb_id": 1368881,
       "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
+      "title": "女士优先",
       "sort": 3
     },
     {
-      "tmdb_id": 1330021,
+      "tmdb_id": 1007757,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
+      "title": "奇幻变身大冒险",
       "sort": 4
     },
     {
@@ -56,52 +56,28 @@
       "sort": 5
     },
     {
+      "tmdb_id": 1330021,
+      "tmdb_type": "movie",
+      "title": "幸运有八只触手",
+      "sort": 6
+    },
+    {
       "tmdb_id": 1662317,
       "tmdb_type": "movie",
       "title": "致命撞击：青春情杀案",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1084242,
-      "tmdb_type": "movie",
-      "title": "疯狂动物城2",
       "sort": 8
-    },
-    {
-      "tmdb_id": 1582770,
-      "tmdb_type": "movie",
-      "title": "征服者2",
-      "sort": 9
     },
     {
       "tmdb_id": 1297842,
       "tmdb_type": "movie",
       "title": "奇迹梦之队",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1628367,
-      "tmdb_type": "movie",
-      "title": "执法交叉点",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1684226,
-      "tmdb_type": "movie",
-      "title": "年度最佳新娘",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1630423,
-      "tmdb_type": "movie",
-      "title": "我的挚爱杀手",
-      "sort": 13
+      "sort": 9
     }
   ]
 }
