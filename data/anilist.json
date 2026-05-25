@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-25T00:03:44.567Z",
+  "updated_at": "2026-05-25T11:54:58.242Z",
   "total": 30,
   "list": [
     {
@@ -230,18 +230,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 259819
-      },
-      "tmdb_type": "tv",
-      "title": "Rooster Fighter",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 216467
       },
       "tmdb_type": "tv",
       "title": "Mission: Yozakura Family Season 2",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 259819
+      },
+      "tmdb_type": "tv",
+      "title": "Rooster Fighter",
       "sort": 28
     },
     {
