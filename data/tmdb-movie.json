@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-24T09:58:00.421Z",
-  "total": 12,
+  "updated_at": "2026-05-25T00:03:54.033Z",
+  "total": 11,
   "list": [
     {
       "tmdb_id": 1380291,
@@ -50,52 +50,46 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1662317,
       "tmdb_type": "movie",
       "title": "致命撞击：青春情杀案",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1330021,
-      "tmdb_type": "movie",
-      "title": "幸运有八只触手",
-      "sort": 7
+      "sort": 5
     },
     {
       "tmdb_id": 1297842,
       "tmdb_type": "movie",
       "title": "奇迹梦之队",
-      "sort": 8
+      "sort": 6
     },
     {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1330021,
+      "tmdb_type": "movie",
+      "title": "幸运有八只触手",
       "sort": 9
     },
     {
-      "tmdb_id": 1628367,
+      "tmdb_id": 1198984,
       "tmdb_type": "movie",
-      "title": "执法交叉点",
+      "title": "我们埋葬死者",
       "sort": 10
     },
     {
-      "tmdb_id": 1582770,
+      "tmdb_id": 1084242,
       "tmdb_type": "movie",
-      "title": "征服者2",
+      "title": "疯狂动物城2",
       "sort": 11
-    },
-    {
-      "tmdb_id": 1684226,
-      "tmdb_type": "movie",
-      "title": "年度最佳新娘",
-      "sort": 12
     }
   ]
 }
