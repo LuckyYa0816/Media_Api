@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-05-25T11:55:31.133Z",
+  "updated_at": "2026-05-26T00:09:44.731Z",
   "total": 20,
   "list": [
     {
@@ -29,15 +29,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 272432,
-      "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 2
-    },
-    {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
       "sort": 3
     },
     {
@@ -47,27 +47,27 @@
       "sort": 4
     },
     {
-      "tmdb_id": 322628,
-      "tmdb_type": "tv",
-      "title": "歌手2026",
-      "sort": 5
-    },
-    {
       "tmdb_id": 254498,
       "tmdb_type": "tv",
       "title": "黑夜告白",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 283952,
       "tmdb_type": "tv",
       "title": "良陈美锦",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": 289209,
       "tmdb_type": "tv",
       "title": "大唐迷雾",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 322628,
+      "tmdb_type": "tv",
+      "title": "歌手2026",
       "sort": 8
     },
     {
@@ -107,9 +107,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 21712,
+      "tmdb_id": 279446,
       "tmdb_type": "tv",
-      "title": "潜伏",
+      "title": "太平年",
       "sort": 15
     },
     {
@@ -119,9 +119,9 @@
       "sort": 16
     },
     {
-      "tmdb_id": 279446,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "太平年",
+      "title": "潜伏",
       "sort": 17
     },
     {
@@ -131,9 +131,9 @@
       "sort": 18
     },
     {
-      "tmdb_id": 282558,
+      "tmdb_id": 279388,
       "tmdb_type": "tv",
-      "title": "生命树",
+      "title": "逐玉",
       "sort": 19
     },
     {
