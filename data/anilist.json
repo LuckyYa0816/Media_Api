@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-05-27T00:11:01.775Z",
+  "updated_at": "2026-05-27T11:40:14.595Z",
   "total": 30,
   "list": [
     {
@@ -78,18 +78,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 86031
-      },
-      "tmdb_type": "tv",
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
         "tv": 301944
       },
       "tmdb_type": "tv",
       "title": "MARRIAGETOXIN",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 86031
+      },
+      "tmdb_type": "tv",
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
       "sort": 9
     },
     {

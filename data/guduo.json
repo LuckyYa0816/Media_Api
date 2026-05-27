@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-27T00:11:49.425Z",
+  "updated_at": "2026-05-27T11:41:12.993Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -149,7 +149,7 @@
       "total": 18,
       "list": [
         {
-          "tmdb_id": 233291,
+          "tmdb_id": 317329,
           "tmdb_type": "tv",
           "title": "搜神记",
           "sort": 1
@@ -292,9 +292,9 @@
           "sort": 5
         },
         {
-          "tmdb_id": 196747,
+          "tmdb_id": 206122,
           "tmdb_type": "tv",
-          "title": "我家那小子",
+          "title": "怦然心动20岁",
           "sort": 6
         },
         {
@@ -304,15 +304,15 @@
           "sort": 7
         },
         {
-          "tmdb_id": 97199,
+          "tmdb_id": 196747,
           "tmdb_type": "tv",
-          "title": "妻子的浪漫旅行",
+          "title": "我家那小子",
           "sort": 8
         },
         {
-          "tmdb_id": 206122,
+          "tmdb_id": 97199,
           "tmdb_type": "tv",
-          "title": "怦然心动20岁",
+          "title": "妻子的浪漫旅行",
           "sort": 9
         },
         {
@@ -343,7 +343,7 @@
           "tmdb_id": 312878,
           "tmdb_type": "tv",
           "title": "周五晚高疯",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 317458,
@@ -384,7 +384,7 @@
           "tmdb_id": 1698215,
           "tmdb_type": "movie",
           "title": "血战青龙寨",
-          "sort": 3
+          "sort": 2
         },
         {
           "tmdb_id": 1687111,
@@ -393,15 +393,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 1654429,
-          "tmdb_type": "movie",
-          "title": "扫恶",
-          "sort": 5
-        },
-        {
           "tmdb_id": 1688304,
           "tmdb_type": "movie",
           "title": "红石滩阻击战",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 1654429,
+          "tmdb_type": "movie",
+          "title": "扫恶",
           "sort": 6
         },
         {
@@ -414,7 +414,7 @@
           "tmdb_id": 1691129,
           "tmdb_type": "movie",
           "title": "木兰：血刃",
-          "sort": 10
+          "sort": 9
         },
         {
           "tmdb_id": 1238046,
