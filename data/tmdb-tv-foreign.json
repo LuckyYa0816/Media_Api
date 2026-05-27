@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-05-26T00:09:31.072Z",
-  "total": 28,
+  "updated_at": "2026-05-27T00:11:09.104Z",
+  "total": 24,
   "list": [
     {
       "tmdb_id": 76479,
@@ -37,15 +37,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 273240,
-      "tmdb_type": "tv",
-      "title": "校园之外",
-      "sort": 2
-    },
-    {
       "tmdb_id": 224941,
       "tmdb_type": "tv",
       "title": "怪奇退休镇",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 273240,
+      "tmdb_type": "tv",
+      "title": "校园之外",
       "sort": 3
     },
     {
@@ -61,27 +61,27 @@
       "sort": 5
     },
     {
-      "tmdb_id": 202555,
-      "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
-      "sort": 6
-    },
-    {
       "tmdb_id": 285807,
       "tmdb_type": "tv",
       "title": "宿敌交锋",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 290295,
-      "tmdb_type": "tv",
-      "title": "寻爱交配季",
-      "sort": 8
+      "sort": 6
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 211288,
+      "tmdb_type": "tv",
+      "title": "寻踪者",
       "sort": 9
     },
     {
@@ -91,9 +91,9 @@
       "sort": 10
     },
     {
-      "tmdb_id": 287527,
+      "tmdb_id": 66732,
       "tmdb_type": "tv",
-      "title": "证言",
+      "title": "怪奇物语",
       "sort": 11
     },
     {
@@ -103,9 +103,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 56570,
+      "tmdb_id": 208921,
       "tmdb_type": "tv",
-      "title": "古战场传奇",
+      "title": "对手",
       "sort": 13
     },
     {
@@ -115,57 +115,57 @@
       "sort": 14
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 287527,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "证言",
       "sort": 15
     },
     {
-      "tmdb_id": 615,
+      "tmdb_id": 56570,
       "tmdb_type": "tv",
-      "title": "飞出个未来",
+      "title": "古战场传奇",
       "sort": 16
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 17
     },
     {
       "tmdb_id": 95557,
       "tmdb_type": "tv",
       "title": "无敌少侠",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
       "sort": 18
     },
     {
-      "tmdb_id": 211288,
+      "tmdb_id": 111110,
       "tmdb_type": "tv",
-      "title": "寻踪者",
+      "title": "ONE PIECE",
       "sort": 19
     },
     {
-      "tmdb_id": 235930,
+      "tmdb_id": 289219,
       "tmdb_type": "tv",
-      "title": "Devil May Cry",
+      "title": "星球大战：摩尔-暗影之王",
       "sort": 20
     },
     {
-      "tmdb_id": 136315,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "熊家餐馆",
+      "title": "海绵宝宝",
       "sort": 21
     },
     {
-      "tmdb_id": 106379,
+      "tmdb_id": 251608,
       "tmdb_type": "tv",
-      "title": "辐射",
+      "title": "思想很危险",
       "sort": 22
     },
     {
-      "tmdb_id": 208921,
+      "tmdb_id": 320472,
       "tmdb_type": "tv",
-      "title": "对手",
+      "title": "凯莉·米洛：澳洲天后之路",
       "sort": 23
     },
     {
@@ -173,30 +173,6 @@
       "tmdb_type": "tv",
       "title": "无名传奇",
       "sort": 24
-    },
-    {
-      "tmdb_id": 4614,
-      "tmdb_type": "tv",
-      "title": "海军罪案调查处",
-      "sort": 25
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 26
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 27
-    },
-    {
-      "tmdb_id": 320472,
-      "tmdb_type": "tv",
-      "title": "凯莉·米洛：澳洲天后之路",
-      "sort": 28
     }
   ]
 }

@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-05-26T00:09:55.625Z",
+  "updated_at": "2026-05-27T00:11:49.425Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -96,15 +96,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 290700,
-          "tmdb_type": "tv",
-          "title": "重案解密",
-          "sort": 13
-        },
-        {
           "tmdb_id": 258865,
           "tmdb_type": "tv",
           "title": "白日提灯​",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 290700,
+          "tmdb_type": "tv",
+          "title": "重案解密",
           "sort": 14
         },
         {
@@ -298,15 +298,15 @@
           "sort": 6
         },
         {
-          "tmdb_id": 97199,
-          "tmdb_type": "tv",
-          "title": "妻子的浪漫旅行",
-          "sort": 7
-        },
-        {
           "tmdb_id": 219934,
           "tmdb_type": "tv",
           "title": "种地吧",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 97199,
+          "tmdb_type": "tv",
+          "title": "妻子的浪漫旅行",
           "sort": 8
         },
         {
@@ -384,31 +384,31 @@
           "tmdb_id": 1698215,
           "tmdb_type": "movie",
           "title": "血战青龙寨",
-          "sort": 2
+          "sort": 3
         },
         {
           "tmdb_id": 1687111,
           "tmdb_type": "movie",
           "title": "东北往事·极恶不赦",
-          "sort": 3
+          "sort": 4
         },
         {
           "tmdb_id": 1654429,
           "tmdb_type": "movie",
           "title": "扫恶",
-          "sort": 6
+          "sort": 5
         },
         {
           "tmdb_id": 1688304,
           "tmdb_type": "movie",
           "title": "红石滩阻击战",
-          "sort": 7
+          "sort": 6
         },
         {
           "tmdb_id": 1480790,
           "tmdb_type": "movie",
           "title": "追恶",
-          "sort": 9
+          "sort": 7
         },
         {
           "tmdb_id": 1691129,
@@ -441,39 +441,39 @@
           "sort": 14
         },
         {
-          "tmdb_id": 1691986,
-          "tmdb_type": "movie",
-          "title": "拂晓计划",
-          "sort": 15
-        },
-        {
           "tmdb_id": 1691334,
           "tmdb_type": "movie",
           "title": "盗影迷局",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 1691986,
+          "tmdb_type": "movie",
+          "title": "拂晓计划",
           "sort": 16
-        },
-        {
-          "tmdb_id": 1689906,
-          "tmdb_type": "movie",
-          "title": "追锋",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 683205,
-          "tmdb_type": "movie",
-          "title": "寻龙诀：觅踪",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 484029,
-          "tmdb_type": "movie",
-          "title": "战刀屠狼",
-          "sort": 19
         },
         {
           "tmdb_id": 1679434,
           "tmdb_type": "movie",
           "title": "孤雁",
+          "sort": 17
+        },
+        {
+          "tmdb_id": 1689906,
+          "tmdb_type": "movie",
+          "title": "追锋",
+          "sort": 18
+        },
+        {
+          "tmdb_id": 683205,
+          "tmdb_type": "movie",
+          "title": "寻龙诀：觅踪",
+          "sort": 19
+        },
+        {
+          "tmdb_id": 484029,
+          "tmdb_type": "movie",
+          "title": "战刀屠狼",
           "sort": 20
         }
       ]
