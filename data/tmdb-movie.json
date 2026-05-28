@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-28T00:02:50.431Z",
-  "total": 10,
+  "updated_at": "2026-05-28T11:40:42.733Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1380291,
@@ -44,15 +44,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1318447,
-      "tmdb_type": "movie",
-      "title": "巅峰猎杀",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1007757,
       "tmdb_type": "movie",
       "title": "奇幻变身大冒险",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1214931,
+      "tmdb_type": "movie",
+      "title": "纽伦堡",
       "sort": 5
     },
     {
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1330021,
+      "tmdb_id": 1318447,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
+      "title": "巅峰猎杀",
       "sort": 7
     },
     {
@@ -74,16 +74,10 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1662317,
+      "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "致命撞击：青春情杀案",
+      "title": "幸运有八只触手",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1084242,
-      "tmdb_type": "movie",
-      "title": "疯狂动物城2",
-      "sort": 10
     }
   ]
 }

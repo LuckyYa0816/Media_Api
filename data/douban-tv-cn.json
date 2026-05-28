@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-05-28T00:03:01.640Z",
+  "updated_at": "2026-05-28T11:41:03.913Z",
   "total": 20,
   "list": [
     {
@@ -47,7 +47,7 @@
       "sort": 4
     },
     {
-      "tmdb_id": 256920,
+      "tmdb_id": 287641,
       "tmdb_type": "tv",
       "title": "耀眼",
       "sort": 5
