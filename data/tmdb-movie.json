@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-27T11:40:24.410Z",
-  "total": 8,
+  "updated_at": "2026-05-28T00:02:50.431Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 1380291,
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1582770,
+      "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "征服者2",
+      "title": "幸运有八只触手",
       "sort": 7
     },
     {
@@ -72,6 +72,18 @@
       "tmdb_type": "movie",
       "title": "请求救援",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1662317,
+      "tmdb_type": "movie",
+      "title": "致命撞击：青春情杀案",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1084242,
+      "tmdb_type": "movie",
+      "title": "疯狂动物城2",
+      "sort": 10
     }
   ]
 }
