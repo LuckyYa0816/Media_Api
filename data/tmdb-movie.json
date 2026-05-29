@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-28T11:40:42.733Z",
+  "updated_at": "2026-05-29T00:14:08.614Z",
   "total": 9,
   "list": [
     {
@@ -44,39 +44,39 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1007757,
+      "tmdb_id": 1318447,
       "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
+      "title": "巅峰猎杀",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1214931,
-      "tmdb_type": "movie",
-      "title": "纽伦堡",
-      "sort": 5
     },
     {
       "tmdb_id": 1297842,
       "tmdb_type": "movie",
       "title": "奇迹梦之队",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1007757,
+      "tmdb_type": "movie",
+      "title": "奇幻变身大冒险",
       "sort": 6
     },
     {
-      "tmdb_id": 1318447,
+      "tmdb_id": 1662317,
       "tmdb_type": "movie",
-      "title": "巅峰猎杀",
+      "title": "致命撞击：青春情杀案",
       "sort": 7
     },
     {
-      "tmdb_id": 1198994,
+      "tmdb_id": 1214931,
       "tmdb_type": "movie",
-      "title": "请求救援",
+      "title": "纽伦堡",
       "sort": 8
     },
     {
-      "tmdb_id": 1330021,
+      "tmdb_id": 1198984,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
+      "title": "我们埋葬死者",
       "sort": 9
     }
   ]
