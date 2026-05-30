@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-29T11:32:26.975Z",
-  "total": 9,
+  "updated_at": "2026-05-30T00:11:47.915Z",
+  "total": 8,
   "list": [
-    {
-      "tmdb_id": 1380291,
-      "tmdb_type": "movie",
-      "title": "杰克·莱恩：幽灵之战",
-      "sort": 1
-    },
     {
       "tmdb_id": 1368881,
       "tmdb_type": "movie",
       "title": "女士优先",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1380291,
+      "tmdb_type": "movie",
+      "title": "杰克·莱恩：幽灵之战",
       "sort": 2
     },
     {
@@ -44,21 +44,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1439930,
-      "tmdb_type": "movie",
-      "title": "惩罚者：最后一击",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1007757,
       "tmdb_type": "movie",
       "title": "奇幻变身大冒险",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
       "sort": 5
     },
     {
-      "tmdb_id": 1662317,
+      "tmdb_id": 1297842,
       "tmdb_type": "movie",
-      "title": "致命撞击：青春情杀案",
+      "title": "奇迹梦之队",
       "sort": 6
     },
     {
@@ -68,16 +68,10 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1318447,
+      "tmdb_id": 1662317,
       "tmdb_type": "movie",
-      "title": "巅峰猎杀",
+      "title": "致命撞击：青春情杀案",
       "sort": 8
-    },
-    {
-      "tmdb_id": 1214931,
-      "tmdb_type": "movie",
-      "title": "纽伦堡",
-      "sort": 9
     }
   ]
 }
