@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-05-30T00:11:42.948Z",
+  "updated_at": "2026-05-30T10:02:55.317Z",
   "total": 30,
   "list": [
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 91768
-      },
-      "tmdb_type": "tv",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 312474
       },
       "tmdb_type": "tv",
       "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 91768
+      },
+      "tmdb_type": "tv",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "sort": 16
     },
     {
@@ -254,10 +254,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 96316
+        "tv": 288590
       },
       "tmdb_type": "tv",
-      "title": "Rent-a-Girlfriend Season 5",
+      "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "sort": 30
     }
   ]

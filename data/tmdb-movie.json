@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-30T00:11:47.915Z",
+  "updated_at": "2026-05-30T10:02:59.806Z",
   "total": 8,
   "list": [
-    {
-      "tmdb_id": 1368881,
-      "tmdb_type": "movie",
-      "title": "女士优先",
-      "sort": 1
-    },
     {
       "tmdb_id": 1380291,
       "tmdb_type": "movie",
       "title": "杰克·莱恩：幽灵之战",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1368881,
+      "tmdb_type": "movie",
+      "title": "女士优先",
       "sort": 2
     },
     {
@@ -44,33 +44,33 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1318447,
       "tmdb_type": "movie",
       "title": "巅峰猎杀",
-      "sort": 5
+      "sort": 4
     },
     {
-      "tmdb_id": 1297842,
+      "tmdb_id": 1007757,
       "tmdb_type": "movie",
-      "title": "奇迹梦之队",
-      "sort": 6
+      "title": "奇幻变身大冒险",
+      "sort": 5
     },
     {
       "tmdb_id": 1198994,
       "tmdb_type": "movie",
       "title": "请求救援",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1330021,
+      "tmdb_type": "movie",
+      "title": "幸运有八只触手",
       "sort": 7
     },
     {
-      "tmdb_id": 1662317,
+      "tmdb_id": 1214931,
       "tmdb_type": "movie",
-      "title": "致命撞击：青春情杀案",
+      "title": "纽伦堡",
       "sort": 8
     }
   ]
