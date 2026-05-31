@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-05-31T00:04:23.005Z",
+  "updated_at": "2026-05-31T10:18:26.192Z",
   "total": 8,
   "list": [
     {
@@ -44,21 +44,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1582770,
+      "tmdb_id": 1007757,
       "tmdb_type": "movie",
-      "title": "征服者2",
+      "title": "奇幻变身大冒险",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1297842,
+      "tmdb_type": "movie",
+      "title": "奇迹梦之队",
+      "sort": 5
     },
     {
       "tmdb_id": 1318447,
       "tmdb_type": "movie",
       "title": "巅峰猎杀",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
       "sort": 6
     },
     {
@@ -68,9 +68,9 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1297842,
+      "tmdb_id": 1084242,
       "tmdb_type": "movie",
-      "title": "奇迹梦之队",
+      "title": "疯狂动物城2",
       "sort": 8
     }
   ]
