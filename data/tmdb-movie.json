@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-01T00:10:00.149Z",
+  "updated_at": "2026-06-01T13:39:52.872Z",
   "total": 7,
   "list": [
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1297842,
-      "tmdb_type": "movie",
-      "title": "奇迹梦之队",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1318447,
       "tmdb_type": "movie",
       "title": "巅峰猎杀",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1297842,
+      "tmdb_type": "movie",
+      "title": "奇迹梦之队",
       "sort": 6
     },
     {
