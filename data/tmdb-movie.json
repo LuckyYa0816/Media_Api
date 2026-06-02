@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-02T00:17:10.875Z",
-  "total": 10,
+  "updated_at": "2026-06-02T12:07:07.700Z",
+  "total": 5,
   "list": [
+    {
+      "tmdb_id": 1368881,
+      "tmdb_type": "movie",
+      "title": "女士优先",
+      "sort": 1
+    },
     {
       "tmdb_id": 1380291,
       "tmdb_type": "movie",
       "title": "杰克·莱恩：幽灵之战",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1439930,
       "tmdb_type": "movie",
       "title": "惩罚者：最后一击",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1368881,
-      "tmdb_type": "movie",
-      "title": "女士优先",
       "sort": 3
     },
     {
@@ -54,36 +54,6 @@
       "tmdb_type": "movie",
       "title": "奇幻变身大冒险",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1439930,
-      "tmdb_type": "movie",
-      "title": "惩罚者：最后一击",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1198994,
-      "tmdb_type": "movie",
-      "title": "请求救援",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1297842,
-      "tmdb_type": "movie",
-      "title": "奇迹梦之队",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1084242,
-      "tmdb_type": "movie",
-      "title": "疯狂动物城2",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 1662317,
-      "tmdb_type": "movie",
-      "title": "致命撞击：青春情杀案",
-      "sort": 10
     }
   ]
 }
