@@ -19,25 +19,25 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-01T13:40:19.549Z",
+  "updated_at": "2026-06-02T00:17:21.901Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 284110,
+      "tmdb_type": "tv",
+      "title": "主角",
+      "sort": 1
+    },
     {
       "tmdb_id": 275966,
       "tmdb_type": "tv",
       "title": "家业",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 254486,
       "tmdb_type": "tv",
       "title": "雨霖铃",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 284110,
-      "tmdb_type": "tv",
-      "title": "主角",
       "sort": 3
     },
     {
@@ -59,45 +59,45 @@
       "sort": 6
     },
     {
-      "tmdb_id": 322628,
-      "tmdb_type": "tv",
-      "title": "歌手2026",
-      "sort": 7
-    },
-    {
       "tmdb_id": 254498,
       "tmdb_type": "tv",
       "title": "黑夜告白",
-      "sort": 8
+      "sort": 7
     },
     {
-      "tmdb_id": 289209,
+      "tmdb_id": 322628,
       "tmdb_type": "tv",
-      "title": "大唐迷雾",
-      "sort": 9
+      "title": "歌手2026",
+      "sort": 8
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "开始推理吧 第四季",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 289209,
+      "tmdb_type": "tv",
+      "title": "大唐迷雾",
       "sort": 10
-    },
-    {
-      "tmdb_id": 282558,
-      "tmdb_type": "tv",
-      "title": "生命树",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 279446,
-      "tmdb_type": "tv",
-      "title": "太平年",
-      "sort": 12
     },
     {
       "tmdb_id": 21712,
       "tmdb_type": "tv",
       "title": "潜伏",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 282558,
+      "tmdb_type": "tv",
+      "title": "生命树",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 279446,
+      "tmdb_type": "tv",
+      "title": "太平年",
       "sort": 13
     },
     {
@@ -107,21 +107,21 @@
       "sort": 14
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "奔跑吧 第十季",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 273151,
-      "tmdb_type": "tv",
-      "title": "危险关系",
-      "sort": 16
-    },
-    {
       "tmdb_id": 68034,
       "tmdb_type": "tv",
       "title": "大明王朝1566",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 279388,
+      "tmdb_type": "tv",
+      "title": "逐玉",
+      "sort": 16
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "奔跑吧 第十季",
       "sort": 17
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 273151,
       "tmdb_type": "tv",
-      "title": "五十公里桃花坞6",
+      "title": "危险关系",
       "sort": 20
     }
   ]

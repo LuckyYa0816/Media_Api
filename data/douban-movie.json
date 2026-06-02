@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-01T13:40:44.111Z",
+  "updated_at": "2026-06-02T00:17:32.725Z",
   "total": 20,
   "list": [
     {
@@ -35,33 +35,33 @@
       "sort": 2
     },
     {
+      "tmdb_id": 959646,
+      "tmdb_type": "movie",
+      "title": "佐贺偶像是传奇 梦想银河乐园",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1400357,
       "tmdb_type": "movie",
       "title": "克里斯托弗系列",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1443576,
-      "tmdb_type": "movie",
-      "title": "礼拜天",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1317512,
-      "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 6
     },
     {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
       "title": "杀木地",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
       "sort": 7
     },
     {
@@ -71,15 +71,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1325734,
-      "tmdb_type": "movie",
-      "title": "爱情抓马",
-      "sort": 9
-    },
-    {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1325734,
+      "tmdb_type": "movie",
+      "title": "爱情抓马",
       "sort": 10
     },
     {
@@ -101,21 +101,21 @@
       "sort": 13
     },
     {
+      "tmdb_id": 1497788,
+      "tmdb_type": "movie",
+      "title": "长夜将尽",
+      "sort": 14
+    },
+    {
       "tmdb_id": 1566589,
       "tmdb_type": "movie",
       "title": "蜂蜜的针",
-      "sort": 14
+      "sort": 15
     },
     {
       "tmdb_id": 1292695,
       "tmdb_type": "movie",
       "title": "杀的就是你",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1497788,
-      "tmdb_type": "movie",
-      "title": "长夜将尽",
       "sort": 16
     },
     {
