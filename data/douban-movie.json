@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-02T12:07:42.547Z",
+  "updated_at": "2026-06-03T01:42:16.151Z",
   "total": 20,
   "list": [
     {
@@ -55,25 +55,25 @@
     {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
-      "title": "杀木地",
+      "title": "杀木池",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1317512,
-      "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1546855,
-      "tmdb_type": "movie",
-      "title": "我，许可",
-      "sort": 8
     },
     {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1546855,
+      "tmdb_type": "movie",
+      "title": "我，许可",
       "sort": 9
     },
     {
