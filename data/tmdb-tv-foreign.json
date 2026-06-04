@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-06-04T01:44:00.314Z",
-  "total": 24,
+  "updated_at": "2026-06-04T11:17:24.179Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 220102,
@@ -55,124 +55,100 @@
       "sort": 4
     },
     {
-      "tmdb_id": 218342,
-      "tmdb_type": "tv",
-      "title": "好女孩的谋杀调查报告",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 224941,
-      "tmdb_type": "tv",
-      "title": "怪奇退休镇",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 252372,
-      "tmdb_type": "tv",
-      "title": "正念谋杀",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 202555,
-      "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 292532,
-      "tmdb_type": "tv",
-      "title": "巴西1970：三冠传奇",
-      "sort": 10
-    },
-    {
       "tmdb_id": 135934,
       "tmdb_type": "tv",
       "title": "机械之声的传奇",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 106379,
-      "tmdb_type": "tv",
-      "title": "辐射",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 124101,
-      "tmdb_type": "tv",
-      "title": "绝望写手",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 111110,
-      "tmdb_type": "tv",
-      "title": "ONE PIECE",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 136315,
-      "tmdb_type": "tv",
-      "title": "熊家餐馆",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 95557,
-      "tmdb_type": "tv",
-      "title": "无敌少侠",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 261145,
-      "tmdb_type": "tv",
-      "title": "神奇数字马戏团",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 308014,
-      "tmdb_type": "tv",
-      "title": "柏林：抱银貂的女子",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 90521,
-      "tmdb_type": "tv",
-      "title": "爱情岛",
-      "sort": 19
+      "sort": 5
     },
     {
       "tmdb_id": 117648,
       "tmdb_type": "tv",
       "title": "克拉克森的农场",
-      "sort": 20
+      "sort": 6
     },
     {
-      "tmdb_id": 304597,
+      "tmdb_id": 224941,
       "tmdb_type": "tv",
-      "title": "小钱大事",
-      "sort": 21
+      "title": "怪奇退休镇",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 218342,
+      "tmdb_type": "tv",
+      "title": "好女孩的谋杀调查报告",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 287527,
+      "tmdb_type": "tv",
+      "title": "证词",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 252372,
+      "tmdb_type": "tv",
+      "title": "正念谋杀",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 90521,
+      "tmdb_type": "tv",
+      "title": "爱情岛",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 243316,
+      "tmdb_type": "tv",
+      "title": "他们的春夏秋冬",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 292532,
+      "tmdb_type": "tv",
+      "title": "巴西1970：三冠传奇",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 308014,
+      "tmdb_type": "tv",
+      "title": "柏林：抱银貂的女子",
+      "sort": 16
     },
     {
       "tmdb_id": 4057,
       "tmdb_type": "tv",
       "title": "犯罪心理",
-      "sort": 22
+      "sort": 17
     },
     {
-      "tmdb_id": 1416,
+      "tmdb_id": 304597,
       "tmdb_type": "tv",
-      "title": "实习医生格蕾",
-      "sort": 23
+      "title": "小钱大事",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 124101,
+      "tmdb_type": "tv",
+      "title": "绝望写手",
+      "sort": 19
     },
     {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
-      "sort": 24
+      "sort": 20
     }
   ]
 }
