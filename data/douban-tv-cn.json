@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-04T01:44:14.112Z",
+  "updated_at": "2026-06-05T00:13:50.879Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": 275966,
-      "tmdb_type": "tv",
-      "title": "家业",
-      "sort": 1
-    },
     {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 275966,
+      "tmdb_type": "tv",
+      "title": "家业",
       "sort": 2
     },
     {
@@ -65,21 +65,21 @@
       "sort": 7
     },
     {
+      "tmdb_id": 289147,
+      "tmdb_type": "tv",
+      "title": "灵魂摆渡",
+      "sort": 8
+    },
+    {
       "tmdb_id": 283952,
       "tmdb_type": "tv",
       "title": "良陈美锦",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": 254498,
       "tmdb_type": "tv",
       "title": "黑夜告白",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 289147,
-      "tmdb_type": "tv",
-      "title": "灵魂摆渡",
       "sort": 10
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 289624,
-      "tmdb_type": "tv",
-      "title": "八千里路云和月",
-      "sort": 15
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "哈哈哈哈哈 第六季",
-      "sort": 16
-    },
-    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "开始推理吧 第四季",
-      "sort": 17
+      "sort": 15
     },
     {
       "tmdb_id": 68034,
       "tmdb_type": "tv",
       "title": "大明王朝1566",
-      "sort": 18
+      "sort": 16
     },
     {
-      "tmdb_id": 322628,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "歌手2026",
-      "sort": 19
+      "title": "哈哈哈哈哈 第六季",
+      "sort": 17
     },
     {
       "tmdb_id": 279446,
       "tmdb_type": "tv",
       "title": "太平年",
+      "sort": 18
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "五十公里桃花坞6",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 278868,
+      "tmdb_type": "tv",
+      "title": "方圆八百米",
       "sort": 20
     }
   ]

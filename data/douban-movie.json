@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-04T01:44:25.331Z",
+  "updated_at": "2026-06-05T00:14:04.984Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1472638,
+      "tmdb_id": 1437696,
       "tmdb_type": "movie",
-      "title": "寻女朝圣路",
+      "title": "故土",
       "sort": 3
     },
     {
-      "tmdb_id": 1122573,
+      "tmdb_id": 1472638,
       "tmdb_type": "movie",
-      "title": "金谍行动",
+      "title": "寻女朝圣路",
       "sort": 4
     },
     {
@@ -53,27 +53,27 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1304313,
-      "tmdb_type": "movie",
-      "title": "木乃伊",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
-      "sort": 7
+      "sort": 6
     },
     {
-      "tmdb_id": 1317512,
+      "tmdb_id": 1304313,
       "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 8
+      "title": "木乃伊",
+      "sort": 7
     },
     {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
       "sort": 9
     },
     {
@@ -101,45 +101,45 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1497788,
+      "tmdb_id": 1430077,
       "tmdb_type": "movie",
-      "title": "长夜将尽",
+      "title": "幽旅巫咒",
       "sort": 14
-    },
-    {
-      "tmdb_id": 1566589,
-      "tmdb_type": "movie",
-      "title": "蜂蜜的针",
-      "sort": 15
     },
     {
       "tmdb_id": 1292695,
       "tmdb_type": "movie",
       "title": "杀的就是你",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1497788,
+      "tmdb_type": "movie",
+      "title": "长夜将尽",
       "sort": 16
+    },
+    {
+      "tmdb_id": 1566589,
+      "tmdb_type": "movie",
+      "title": "蜂蜜的针",
+      "sort": 17
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": 1266127,
       "tmdb_type": "movie",
       "title": "准备好了没2：我来了",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
       "sort": 20
     }
   ]
