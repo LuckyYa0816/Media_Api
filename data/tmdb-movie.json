@@ -22,38 +22,26 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-05T00:13:36.349Z",
-  "total": 5,
+  "updated_at": "2026-06-05T11:30:37.357Z",
+  "total": 3,
   "list": [
-    {
-      "tmdb_id": 1439930,
-      "tmdb_type": "movie",
-      "title": "惩罚者：最后一击",
-      "sort": 1
-    },
     {
       "tmdb_id": 1368881,
       "tmdb_type": "movie",
       "title": "女士优先",
-      "sort": 2
+      "sort": 1
     },
     {
       "tmdb_id": 1380291,
       "tmdb_type": "movie",
       "title": "杰克·莱恩：幽灵之战",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1439930,
+      "tmdb_type": "movie",
+      "title": "惩罚者：最后一击",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1084242,
-      "tmdb_type": "movie",
-      "title": "疯狂动物城2",
-      "sort": 5
     }
   ]
 }
