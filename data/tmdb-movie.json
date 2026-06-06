@@ -22,26 +22,38 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-05T11:30:37.357Z",
-  "total": 3,
+  "updated_at": "2026-06-06T00:11:05.179Z",
+  "total": 5,
   "list": [
-    {
-      "tmdb_id": 1368881,
-      "tmdb_type": "movie",
-      "title": "女士优先",
-      "sort": 1
-    },
     {
       "tmdb_id": 1380291,
       "tmdb_type": "movie",
       "title": "杰克·莱恩：幽灵之战",
-      "sort": 2
+      "sort": 1
     },
     {
       "tmdb_id": 1439930,
       "tmdb_type": "movie",
       "title": "惩罚者：最后一击",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1368881,
+      "tmdb_type": "movie",
+      "title": "女士优先",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1628448,
+      "tmdb_type": "movie",
+      "title": "妈呀真乱来",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1318447,
+      "tmdb_type": "movie",
+      "title": "巅峰猎杀",
+      "sort": 5
     }
   ]
 }
