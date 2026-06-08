@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-07T10:31:51.119Z",
+  "updated_at": "2026-06-08T00:13:28.606Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 1318413,
+      "tmdb_type": "movie",
+      "title": "诺曼底72小时",
+      "sort": 1
+    },
     {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 1174334,
-      "tmdb_type": "movie",
-      "title": "大濛",
       "sort": 2
     },
     {
@@ -47,57 +47,57 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1174334,
+      "tmdb_type": "movie",
+      "title": "大濛",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1368881,
       "tmdb_type": "movie",
       "title": "女士优先",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
       "title": "杀木池",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1317512,
       "tmdb_type": "movie",
       "title": "世界的主人",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1304313,
-      "tmdb_type": "movie",
-      "title": "木乃伊",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1325734,
-      "tmdb_type": "movie",
-      "title": "爱情抓马",
-      "sort": 10
     },
     {
       "tmdb_id": 1430077,
       "tmdb_type": "movie",
       "title": "幽旅巫咒",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1325734,
+      "tmdb_type": "movie",
+      "title": "爱情抓马",
       "sort": 11
+    },
+    {
+      "tmdb_id": 1304313,
+      "tmdb_type": "movie",
+      "title": "木乃伊",
+      "sort": 12
     },
     {
       "tmdb_id": 1546855,
       "tmdb_type": "movie",
       "title": "我，许可",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1447971,
-      "tmdb_type": "movie",
-      "title": "惊蛰无声",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1330021,
+      "tmdb_id": 1447971,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
+      "title": "惊蛰无声",
       "sort": 15
     },
     {
-      "tmdb_id": 1292695,
+      "tmdb_id": 1330021,
       "tmdb_type": "movie",
-      "title": "杀的就是你",
+      "title": "幸运有八只触手",
       "sort": 16
-    },
-    {
-      "tmdb_id": 1178620,
-      "tmdb_type": "movie",
-      "title": "蒙特利尔，我的美人",
-      "sort": 17
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1292695,
+      "tmdb_type": "movie",
+      "title": "杀的就是你",
       "sort": 18
     },
     {
-      "tmdb_id": 1566589,
+      "tmdb_id": 1178620,
       "tmdb_type": "movie",
-      "title": "蜂蜜的针",
+      "title": "蒙特利尔，我的美人",
       "sort": 19
     },
     {
-      "tmdb_id": 1266127,
+      "tmdb_id": 1489187,
       "tmdb_type": "movie",
-      "title": "准备好了没2：我来了",
+      "title": "爱上平行时空的你",
       "sort": 20
     }
   ]

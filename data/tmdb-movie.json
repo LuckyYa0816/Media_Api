@@ -22,56 +22,62 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-07T10:31:06.008Z",
-  "total": 8,
+  "updated_at": "2026-06-08T00:12:51.323Z",
+  "total": 9,
   "list": [
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
+      "sort": 1
+    },
     {
       "tmdb_id": 1358005,
       "tmdb_type": "movie",
       "title": "同事以上，恋人未满",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1274706,
       "tmdb_type": "movie",
       "title": "谜印女子",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1380291,
       "tmdb_type": "movie",
       "title": "杰克·莱恩：幽灵之战",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1439930,
       "tmdb_type": "movie",
       "title": "惩罚者：最后一击",
-      "sort": 4
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1380291,
+      "tmdb_type": "movie",
+      "title": "杰克·莱恩：幽灵之战",
+      "sort": 6
     },
     {
       "tmdb_id": 1530510,
       "tmdb_type": "movie",
       "title": "墨西哥 1986：主办大作战",
-      "sort": 5
+      "sort": 7
     },
     {
       "tmdb_id": 1628448,
       "tmdb_type": "movie",
       "title": "妈呀真乱来",
-      "sort": 6
+      "sort": 8
     },
     {
       "tmdb_id": 1368881,
       "tmdb_type": "movie",
       "title": "女士优先",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1007757,
-      "tmdb_type": "movie",
-      "title": "奇幻变身大冒险",
-      "sort": 8
+      "sort": 9
     }
   ]
 }
