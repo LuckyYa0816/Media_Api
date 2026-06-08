@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-08T00:12:46.787Z",
+  "updated_at": "2026-06-08T12:36:20.500Z",
   "total": 30,
   "list": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 273467
-      },
-      "tmdb_type": "tv",
-      "title": "The Warrior Princess and the Barbaric King",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 312474
       },
       "tmdb_type": "tv",
       "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 273467
+      },
+      "tmdb_type": "tv",
+      "title": "The Warrior Princess and the Barbaric King",
       "sort": 15
     },
     {
