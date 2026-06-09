@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-06-08T12:36:23.136Z",
-  "total": 23,
+  "updated_at": "2026-06-09T00:09:35.563Z",
+  "total": 24,
   "list": [
     {
       "tmdb_id": 220102,
@@ -67,21 +67,21 @@
       "sort": 6
     },
     {
-      "tmdb_id": 323111,
-      "tmdb_type": "tv",
-      "title": "迈克尔·杰克逊：裁决",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 224941,
-      "tmdb_type": "tv",
-      "title": "怪奇退休镇",
-      "sort": 8
-    },
-    {
       "tmdb_id": 135934,
       "tmdb_type": "tv",
       "title": "机械之声的传奇",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 117648,
+      "tmdb_type": "tv",
+      "title": "克拉克森的农场",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 323111,
+      "tmdb_type": "tv",
+      "title": "迈克尔·杰克逊：裁决",
       "sort": 9
     },
     {
@@ -91,21 +91,21 @@
       "sort": 10
     },
     {
-      "tmdb_id": 117648,
+      "tmdb_id": 136315,
       "tmdb_type": "tv",
-      "title": "克拉克森的农场",
+      "title": "熊家餐馆",
       "sort": 11
     },
     {
-      "tmdb_id": 128098,
+      "tmdb_id": 224941,
       "tmdb_type": "tv",
-      "title": "夜访吸血鬼",
+      "title": "怪奇退休镇",
       "sort": 12
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 202555,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "夜魔侠：重生",
       "sort": 13
     },
     {
@@ -115,9 +115,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 208921,
+      "tmdb_id": 128098,
       "tmdb_type": "tv",
-      "title": "对手",
+      "title": "夜访吸血鬼",
       "sort": 15
     },
     {
@@ -127,27 +127,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "菜鸟老警",
       "sort": 17
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "海绵宝宝",
       "sort": 18
-    },
-    {
-      "tmdb_id": 4057,
-      "tmdb_type": "tv",
-      "title": "犯罪心理",
-      "sort": 19
     },
     {
       "tmdb_id": 308014,
       "tmdb_type": "tv",
       "title": "柏林：抱银貂的女子",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 95557,
+      "tmdb_type": "tv",
+      "title": "无敌少侠",
       "sort": 20
     },
     {
@@ -157,16 +157,22 @@
       "sort": 21
     },
     {
-      "tmdb_id": 252372,
+      "tmdb_id": 4057,
       "tmdb_type": "tv",
-      "title": "正念谋杀",
+      "title": "犯罪心理",
       "sort": 22
     },
     {
-      "tmdb_id": 202555,
+      "tmdb_id": 259819,
       "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
+      "title": "公鸡斗士",
       "sort": 23
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 24
     }
   ]
 }

@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-08T12:36:26.307Z",
-  "total": 7,
+  "updated_at": "2026-06-09T00:09:37.646Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1358005,
@@ -44,28 +44,22 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1530510,
-      "tmdb_type": "movie",
-      "title": "墨西哥 1986：主办大作战",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1628448,
       "tmdb_type": "movie",
       "title": "妈呀真乱来",
-      "sort": 5
+      "sort": 4
     },
     {
       "tmdb_id": 1380291,
       "tmdb_type": "movie",
       "title": "杰克·莱恩：幽灵之战",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1439930,
       "tmdb_type": "movie",
       "title": "惩罚者：最后一击",
-      "sort": 7
+      "sort": 6
     }
   ]
 }
