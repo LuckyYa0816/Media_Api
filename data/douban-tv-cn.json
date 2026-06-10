@@ -19,67 +19,67 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-09T11:19:23.696Z",
+  "updated_at": "2026-06-10T00:18:37.515Z",
   "total": 20,
   "list": [
     {
-      "tmdb_id": 284110,
+      "tmdb_id": 292696,
       "tmdb_type": "tv",
-      "title": "主角",
+      "title": "莫离",
       "sort": 1
-    },
-    {
-      "tmdb_id": 287641,
-      "tmdb_type": "tv",
-      "title": "耀眼",
-      "sort": 2
     },
     {
       "tmdb_id": 289271,
       "tmdb_type": "tv",
       "title": "翘楚",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 275966,
       "tmdb_type": "tv",
       "title": "家业",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 284110,
+      "tmdb_type": "tv",
+      "title": "主角",
       "sort": 4
+    },
+    {
+      "tmdb_id": 287641,
+      "tmdb_type": "tv",
+      "title": "耀眼",
+      "sort": 5
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 289147,
-      "tmdb_type": "tv",
-      "title": "灵魂摆渡·十年",
       "sort": 6
-    },
-    {
-      "tmdb_id": 254486,
-      "tmdb_type": "tv",
-      "title": "雨霖铃",
-      "sort": 7
     },
     {
       "tmdb_id": 282497,
       "tmdb_type": "tv",
       "title": "迷墙",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 289147,
+      "tmdb_type": "tv",
+      "title": "灵魂摆渡·十年",
       "sort": 8
+    },
+    {
+      "tmdb_id": 254486,
+      "tmdb_type": "tv",
+      "title": "雨霖铃",
+      "sort": 9
     },
     {
       "tmdb_id": 317948,
       "tmdb_type": "tv",
       "title": "乘风2026",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 282558,
-      "tmdb_type": "tv",
-      "title": "生命树",
       "sort": 10
     },
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 289147,
+      "tmdb_id": 282558,
       "tmdb_type": "tv",
-      "title": "灵魂摆渡",
+      "title": "生命树",
       "sort": 12
     },
     {
-      "tmdb_id": 283952,
+      "tmdb_id": 289147,
       "tmdb_type": "tv",
-      "title": "良陈美锦",
+      "title": "灵魂摆渡",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 283952,
       "tmdb_type": "tv",
-      "title": "哈哈哈哈哈 第六季",
+      "title": "良陈美锦",
       "sort": 15
     },
     {
-      "tmdb_id": 254498,
+      "tmdb_id": 279388,
       "tmdb_type": "tv",
-      "title": "黑夜告白",
+      "title": "逐玉",
       "sort": 16
-    },
-    {
-      "tmdb_id": 279446,
-      "tmdb_type": "tv",
-      "title": "太平年",
-      "sort": 17
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "开始推理吧 第四季",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 68034,
-      "tmdb_type": "tv",
-      "title": "大明王朝1566",
-      "sort": 19
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "五十公里桃花坞6",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 254498,
+      "tmdb_type": "tv",
+      "title": "黑夜告白",
+      "sort": 18
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "哈哈哈哈哈 第六季",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 279446,
+      "tmdb_type": "tv",
+      "title": "太平年",
       "sort": 20
     }
   ]

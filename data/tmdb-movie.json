@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-09T11:19:06.853Z",
-  "total": 7,
+  "updated_at": "2026-06-10T00:18:24.572Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1358005,
@@ -44,9 +44,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1530510,
+      "tmdb_id": 1439930,
       "tmdb_type": "movie",
-      "title": "墨西哥 1986：主办大作战",
+      "title": "惩罚者：最后一击",
       "sort": 4
     },
     {
@@ -56,16 +56,22 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1628448,
+      "tmdb_id": 1530510,
       "tmdb_type": "movie",
-      "title": "妈呀真乱来",
+      "title": "墨西哥 1986：主办大作战",
       "sort": 6
     },
     {
-      "tmdb_id": 1439930,
+      "tmdb_id": 1556616,
       "tmdb_type": "movie",
-      "title": "惩罚者：最后一击",
+      "title": "夏日别墅",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1628448,
+      "tmdb_type": "movie",
+      "title": "妈呀真乱来",
+      "sort": 8
     }
   ]
 }
