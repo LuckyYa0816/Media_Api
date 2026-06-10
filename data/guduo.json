@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-06-10T00:18:49.278Z",
+  "updated_at": "2026-06-10T11:41:13.351Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -30,9 +30,9 @@
           "sort": 1
         },
         {
-          "tmdb_id": 289147,
+          "tmdb_id": 292696,
           "tmdb_type": "tv",
-          "title": "灵魂摆渡·十年",
+          "title": "莫离",
           "sort": 2
         },
         {
@@ -42,81 +42,81 @@
           "sort": 3
         },
         {
+          "tmdb_id": 289147,
+          "tmdb_type": "tv",
+          "title": "灵魂摆渡·十年",
+          "sort": 4
+        },
+        {
           "tmdb_id": 272432,
           "tmdb_type": "tv",
           "title": "低智商犯罪",
-          "sort": 4
+          "sort": 5
         },
         {
           "tmdb_id": 289209,
           "tmdb_type": "tv",
           "title": "大唐迷雾",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 283952,
           "tmdb_type": "tv",
           "title": "良陈美锦",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 254498,
           "tmdb_type": "tv",
           "title": "黑夜告白",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 321802,
           "tmdb_type": "tv",
           "title": "盛唐奇案",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 272715,
           "tmdb_type": "tv",
           "title": "佳偶天成",
-          "sort": 9
+          "sort": 10
         },
         {
-          "tmdb_id": 128653,
+          "tmdb_id": 316780,
           "tmdb_type": "tv",
           "title": "樊笼",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 303572,
           "tmdb_type": "tv",
           "title": "欢迎回我的频道",
-          "sort": 11
+          "sort": 12
         },
         {
           "tmdb_id": 323689,
           "tmdb_type": "tv",
           "title": "婚后再心动",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 278275,
           "tmdb_type": "tv",
           "title": "月鳞绮纪",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 281392,
           "tmdb_type": "tv",
           "title": "钢铁森林",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 278868,
           "tmdb_type": "tv",
           "title": "方圆八百米",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 277870,
-          "tmdb_type": "tv",
-          "title": "香港探秘地图",
           "sort": 16
         },
         {
@@ -126,21 +126,21 @@
           "sort": 17
         },
         {
+          "tmdb_id": 277870,
+          "tmdb_type": "tv",
+          "title": "香港探秘地图",
+          "sort": 18
+        },
+        {
           "tmdb_id": 323349,
           "tmdb_type": "tv",
           "title": "危情逆恋",
-          "sort": 18
+          "sort": 19
         },
         {
           "tmdb_id": 290700,
           "tmdb_type": "tv",
           "title": "重案解密",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 321749,
-          "tmdb_type": "tv",
-          "title": "罪无可逃",
           "sort": 20
         }
       ]
@@ -161,57 +161,57 @@
           "sort": 2
         },
         {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 3
-        },
-        {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 5
+          "sort": 3
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 6
+          "sort": 4
+        },
+        {
+          "tmdb_id": 79481,
+          "tmdb_type": "tv",
+          "title": "斗破苍穹",
+          "sort": 5
         },
         {
           "tmdb_id": 259537,
           "tmdb_type": "tv",
           "title": "剑来",
-          "sort": 7
+          "sort": 6
         },
         {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 8
         },
         {
           "tmdb_id": 67063,
           "tmdb_type": "tv",
           "title": "一人之下",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 218642,
+          "tmdb_type": "tv",
+          "title": "师兄啊师兄",
           "sort": 10
         },
         {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 218642,
-          "tmdb_type": "tv",
-          "title": "师兄啊师兄",
           "sort": 12
         },
         {
@@ -227,15 +227,15 @@
           "sort": 14
         },
         {
-          "tmdb_id": 283805,
-          "tmdb_type": "tv",
-          "title": "盘龙",
-          "sort": 15
-        },
-        {
           "tmdb_id": 198182,
           "tmdb_type": "tv",
           "title": "神印王座",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 283805,
+          "tmdb_type": "tv",
+          "title": "盘龙",
           "sort": 16
         },
         {
@@ -328,33 +328,33 @@
           "sort": 10
         },
         {
-          "tmdb_id": 196747,
-          "tmdb_type": "tv",
-          "title": "我家那小子",
-          "sort": 11
-        },
-        {
           "tmdb_id": 124265,
           "tmdb_type": "tv",
           "title": "喜欢你我也是",
-          "sort": 12
+          "sort": 11
         },
         {
-          "tmdb_id": 201781,
+          "tmdb_id": 196747,
           "tmdb_type": "tv",
-          "title": "爸爸当家",
-          "sort": 13
+          "title": "我家那小子",
+          "sort": 12
         },
         {
           "tmdb_id": 163813,
           "tmdb_type": "tv",
           "title": "亲爱的·客栈",
-          "sort": 14
+          "sort": 13
         },
         {
           "tmdb_id": 320614,
           "tmdb_type": "tv",
           "title": "超燃青春的合唱",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 201781,
+          "tmdb_type": "tv",
+          "title": "爸爸当家",
           "sort": 15
         },
         {
@@ -450,7 +450,7 @@
           "tmdb_id": 1238046,
           "tmdb_type": "movie",
           "title": "长白山猎人传说",
-          "sort": 15
+          "sort": 14
         },
         {
           "tmdb_id": 1148319,

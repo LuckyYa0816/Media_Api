@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-10T00:18:49.043Z",
+  "updated_at": "2026-06-10T11:41:12.903Z",
   "total": 20,
   "list": [
     {
@@ -95,51 +95,51 @@
       "sort": 12
     },
     {
-      "tmdb_id": 1273221,
-      "tmdb_type": "movie",
-      "title": "惊声尖笑6",
-      "sort": 13
-    },
-    {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 14
+      "sort": 13
     },
     {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 1447971,
       "tmdb_type": "movie",
       "title": "惊蛰无声",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": 1330021,
       "tmdb_type": "movie",
       "title": "幸运有八只触手",
-      "sort": 17
+      "sort": 16
     },
     {
       "tmdb_id": 1489187,
       "tmdb_type": "movie",
       "title": "爱上平行时空的你",
-      "sort": 18
+      "sort": 17
     },
     {
       "tmdb_id": 931285,
       "tmdb_type": "movie",
       "title": "真人快打2",
-      "sort": 19
+      "sort": 18
     },
     {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1292695,
+      "tmdb_type": "movie",
+      "title": "杀的就是你",
       "sort": 20
     }
   ]

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-10T00:18:15.136Z",
+  "updated_at": "2026-06-10T11:40:31.489Z",
   "total": 30,
   "list": [
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 196285
-      },
-      "tmdb_type": "tv",
-      "title": "Farming Life in Another World 2",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 293697
       },
       "tmdb_type": "tv",
       "title": "I Want to End this Love Game",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 196285
+      },
+      "tmdb_type": "tv",
+      "title": "Farming Life in Another World 2",
       "sort": 14
     },
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 297438
-      },
-      "tmdb_type": "tv",
-      "title": "Akane-banashi",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 305329
       },
       "tmdb_type": "tv",
       "title": "NEEDY GIRL OVERDOSE",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 297438
+      },
+      "tmdb_type": "tv",
+      "title": "Akane-banashi",
       "sort": 20
     },
     {
