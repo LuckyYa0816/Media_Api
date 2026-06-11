@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-10T11:40:59.685Z",
+  "updated_at": "2026-06-11T00:19:30.966Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 275966,
-      "tmdb_type": "tv",
-      "title": "家业",
-      "sort": 3
-    },
-    {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 275966,
+      "tmdb_type": "tv",
+      "title": "家业",
       "sort": 4
     },
     {
@@ -65,15 +65,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 289147,
-      "tmdb_type": "tv",
-      "title": "灵魂摆渡·十年",
-      "sort": 8
-    },
-    {
       "tmdb_id": 254486,
       "tmdb_type": "tv",
       "title": "雨霖铃",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 289147,
+      "tmdb_type": "tv",
+      "title": "灵魂摆渡·十年",
       "sort": 9
     },
     {
@@ -95,27 +95,27 @@
       "sort": 12
     },
     {
-      "tmdb_id": 289147,
+      "tmdb_id": 279388,
       "tmdb_type": "tv",
-      "title": "灵魂摆渡",
+      "title": "逐玉",
       "sort": 13
     },
     {
-      "tmdb_id": 21712,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "潜伏",
+      "title": "半熟恋人 第五季",
       "sort": 14
+    },
+    {
+      "tmdb_id": 289147,
+      "tmdb_type": "tv",
+      "title": "灵魂摆渡",
+      "sort": 15
     },
     {
       "tmdb_id": 283952,
       "tmdb_type": "tv",
       "title": "良陈美锦",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 279388,
-      "tmdb_type": "tv",
-      "title": "逐玉",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 254498,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "黑夜告白",
+      "title": "潜伏",
       "sort": 18
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "哈哈哈哈哈 第六季",
-      "sort": 19
     },
     {
       "tmdb_id": 279446,
       "tmdb_type": "tv",
       "title": "太平年",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 317594,
+      "tmdb_type": "tv",
+      "title": "星月征途",
       "sort": 20
     }
   ]
