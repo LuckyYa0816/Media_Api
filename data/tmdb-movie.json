@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-11T00:19:10.686Z",
-  "total": 7,
+  "updated_at": "2026-06-11T12:12:12.111Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1358005,
@@ -50,22 +50,16 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1628448,
-      "tmdb_type": "movie",
-      "title": "妈呀真乱来",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1556616,
       "tmdb_type": "movie",
       "title": "夏日别墅",
-      "sort": 6
+      "sort": 5
     },
     {
-      "tmdb_id": 1439930,
+      "tmdb_id": 1628448,
       "tmdb_type": "movie",
-      "title": "惩罚者：最后一击",
-      "sort": 7
+      "title": "妈呀真乱来",
+      "sort": 6
     }
   ]
 }
