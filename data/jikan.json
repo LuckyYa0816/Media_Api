@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-11T12:12:06.941Z",
+  "updated_at": "2026-06-12T00:21:01.867Z",
   "total": 30,
   "list": [
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 305329
-      },
-      "tmdb_type": "tv",
-      "title": "Needy Girl Overdose",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 300131
       },
       "tmdb_type": "tv",
       "title": "Kill Blue",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
+        "tv": 305329
+      },
+      "tmdb_type": "tv",
+      "title": "Needy Girl Overdose",
       "sort": 26
     },
     {

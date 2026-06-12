@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-11T12:12:48.120Z",
+  "updated_at": "2026-06-12T00:21:30.134Z",
   "total": 20,
   "list": [
     {
@@ -41,69 +41,69 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1472638,
-      "tmdb_type": "movie",
-      "title": "寻女朝圣路",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1368881,
       "tmdb_type": "movie",
       "title": "女士优先",
-      "sort": 5
+      "sort": 4
     },
     {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1430077,
       "tmdb_type": "movie",
       "title": "幽旅巫咒",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": 1317512,
       "tmdb_type": "movie",
       "title": "世界的主人",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 1249589,
       "tmdb_type": "movie",
       "title": "天才游戏",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": 1304313,
       "tmdb_type": "movie",
       "title": "木乃伊",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1546855,
-      "tmdb_type": "movie",
-      "title": "我，许可",
-      "sort": 12
+      "sort": 10
     },
     {
       "tmdb_id": 931285,
       "tmdb_type": "movie",
       "title": "真人快打2",
-      "sort": 13
+      "sort": 11
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1546855,
+      "tmdb_type": "movie",
+      "title": "我，许可",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1489456,
+      "tmdb_type": "movie",
+      "title": "我住在凡尔赛的日子",
       "sort": 14
     },
     {
@@ -119,9 +119,9 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1489456,
+      "tmdb_id": 1116201,
       "tmdb_type": "movie",
-      "title": "我住在凡尔赛的日子",
+      "title": "铁肺",
       "sort": 17
     },
     {
