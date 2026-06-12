@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-12T00:20:57.292Z",
+  "updated_at": "2026-06-12T11:45:41.742Z",
   "total": 30,
   "list": [
     {
@@ -70,18 +70,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 154743
-      },
-      "tmdb_type": "tv",
-      "title": "The Angel Next Door Spoils Me Rotten2",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
         "tv": 301944
       },
       "tmdb_type": "tv",
       "title": "MARRIAGETOXIN",
+      "sort": 7
+    },
+    {
+      "tmdb_id": {
+        "tv": 154743
+      },
+      "tmdb_type": "tv",
+      "title": "The Angel Next Door Spoils Me Rotten2",
       "sort": 8
     },
     {
@@ -182,18 +182,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 91801
-      },
-      "tmdb_type": "tv",
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
         "tv": 300131
       },
       "tmdb_type": "tv",
       "title": "KILL BLUE",
+      "sort": 21
+    },
+    {
+      "tmdb_id": {
+        "tv": 91801
+      },
+      "tmdb_type": "tv",
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
       "sort": 22
     },
     {

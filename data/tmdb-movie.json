@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-12T00:21:06.962Z",
-  "total": 8,
+  "updated_at": "2026-06-12T11:45:53.080Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1358005,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 1274706,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
+      "title": "谜印女子",
       "sort": 3
     },
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1530510,
-      "tmdb_type": "movie",
-      "title": "墨西哥 1986：主办大作战",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1556616,
       "tmdb_type": "movie",
       "title": "夏日别墅",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1530510,
+      "tmdb_type": "movie",
+      "title": "墨西哥 1986：主办大作战",
       "sort": 6
     },
     {
@@ -66,12 +66,6 @@
       "tmdb_type": "movie",
       "title": "惩罚者：最后一击",
       "sort": 7
-    },
-    {
-      "tmdb_id": 1380291,
-      "tmdb_type": "movie",
-      "title": "杰克·莱恩：幽灵之战",
-      "sort": 8
     }
   ]
 }
