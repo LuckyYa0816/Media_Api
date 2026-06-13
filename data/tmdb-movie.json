@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-13T00:21:49.907Z",
-  "total": 7,
+  "updated_at": "2026-06-13T10:32:19.671Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1358005,
@@ -50,22 +50,16 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1530510,
-      "tmdb_type": "movie",
-      "title": "墨西哥 1986：主办大作战",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1556616,
       "tmdb_type": "movie",
       "title": "夏日别墅",
-      "sort": 6
+      "sort": 5
     },
     {
-      "tmdb_id": 1380291,
+      "tmdb_id": 1530510,
       "tmdb_type": "movie",
-      "title": "杰克·莱恩：幽灵之战",
-      "sort": 7
+      "title": "墨西哥 1986：主办大作战",
+      "sort": 6
     }
   ]
 }

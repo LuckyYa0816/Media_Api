@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-13T00:21:41.077Z",
+  "updated_at": "2026-06-13T10:32:08.522Z",
   "total": 30,
   "list": [
     {
@@ -206,18 +206,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288551
-      },
-      "tmdb_type": "tv",
-      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "sort": 24
-    },
-    {
-      "tmdb_id": {
         "tv": 261780
       },
       "tmdb_type": "tv",
       "title": "Petals of Reincarnation",
+      "sort": 24
+    },
+    {
+      "tmdb_id": {
+        "tv": 288551
+      },
+      "tmdb_type": "tv",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "sort": 25
     },
     {
