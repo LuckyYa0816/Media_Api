@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-12T11:46:17.806Z",
+  "updated_at": "2026-06-13T00:22:30.147Z",
   "total": 20,
   "list": [
     {
@@ -47,15 +47,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1368166,
-      "tmdb_type": "movie",
-      "title": "家弑服务",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1430077,
       "tmdb_type": "movie",
       "title": "幽旅巫咒",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1368166,
+      "tmdb_type": "movie",
+      "title": "家弑服务",
       "sort": 6
     },
     {
@@ -107,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1178620,
-      "tmdb_type": "movie",
-      "title": "蒙特利尔，我的美人",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1489187,
       "tmdb_type": "movie",
       "title": "爱上平行时空的你",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1178620,
+      "tmdb_type": "movie",
+      "title": "蒙特利尔，我的美人",
       "sort": 16
     },
     {

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-12T11:45:47.617Z",
+  "updated_at": "2026-06-13T00:21:45.575Z",
   "total": 30,
   "list": [
     {
@@ -158,18 +158,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 196285
-      },
-      "tmdb_type": "tv",
-      "title": "Farming Life in Another World Season 2",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
         "tv": 293697
       },
       "tmdb_type": "tv",
       "title": "I Want to End This Love Game",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 196285
+      },
+      "tmdb_type": "tv",
+      "title": "Farming Life in Another World Season 2",
       "sort": 19
     },
     {
