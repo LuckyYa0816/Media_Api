@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-13T00:22:10.814Z",
+  "updated_at": "2026-06-14T00:11:57.131Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 278605,
+      "tmdb_type": "tv",
+      "title": "南部档案",
+      "sort": 1
+    },
     {
       "tmdb_id": 292696,
       "tmdb_type": "tv",
       "title": "莫离",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 289271,
-      "tmdb_type": "tv",
-      "title": "翘楚",
       "sort": 2
     },
     {
@@ -41,33 +41,33 @@
       "sort": 3
     },
     {
-      "tmdb_id": 284110,
+      "tmdb_id": 289271,
       "tmdb_type": "tv",
-      "title": "主角",
+      "title": "翘楚",
       "sort": 4
     },
     {
-      "tmdb_id": 275966,
+      "tmdb_id": 284110,
       "tmdb_type": "tv",
-      "title": "家业",
+      "title": "主角",
       "sort": 5
-    },
-    {
-      "tmdb_id": 278605,
-      "tmdb_type": "tv",
-      "title": "南部档案",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 287641,
-      "tmdb_type": "tv",
-      "title": "耀眼",
-      "sort": 7
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 275966,
+      "tmdb_type": "tv",
+      "title": "家业",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 287641,
+      "tmdb_type": "tv",
+      "title": "耀眼",
       "sort": 8
     },
     {
@@ -77,19 +77,19 @@
       "sort": 9
     },
     {
-      "tmdb_id": 289147,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "灵魂摆渡·十年",
+      "title": "凡人修仙传 年番4",
       "sort": 10
     },
     {
-      "tmdb_id": 317948,
+      "tmdb_id": 289147,
       "tmdb_type": "tv",
-      "title": "乘风2026",
+      "title": "灵魂摆渡·十年",
       "sort": 11
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 107463,
       "tmdb_type": "tv",
       "title": "镖人 第二季",
       "sort": 12
@@ -101,45 +101,45 @@
       "sort": 13
     },
     {
-      "tmdb_id": 279388,
+      "tmdb_id": 279446,
       "tmdb_type": "tv",
-      "title": "逐玉",
+      "title": "太平年",
       "sort": 14
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "奔跑吧 第十季",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 289147,
-      "tmdb_type": "tv",
-      "title": "灵魂摆渡",
-      "sort": 16
     },
     {
       "tmdb_id": 317594,
       "tmdb_type": "tv",
       "title": "星月征途",
-      "sort": 17
+      "sort": 15
     },
     {
-      "tmdb_id": 282558,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "生命树",
-      "sort": 18
+      "title": "开始推理吧 第四季",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 68034,
+      "tmdb_type": "tv",
+      "title": "大明王朝1566",
+      "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "半熟恋人 第五季",
+      "sort": 18
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "奔跑吧 第十季",
       "sort": 19
     },
     {
-      "tmdb_id": 50878,
+      "tmdb_id": 279388,
       "tmdb_type": "tv",
-      "title": "后宫·甄嬛传",
+      "title": "逐玉",
       "sort": 20
     }
   ]

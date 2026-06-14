@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-13T00:22:30.147Z",
+  "updated_at": "2026-06-14T00:12:10.497Z",
   "total": 20,
   "list": [
     {
@@ -41,51 +41,51 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1368881,
-      "tmdb_type": "movie",
-      "title": "女士优先",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1430077,
       "tmdb_type": "movie",
       "title": "幽旅巫咒",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1368166,
-      "tmdb_type": "movie",
-      "title": "家弑服务",
-      "sort": 6
+      "sort": 4
     },
     {
       "tmdb_id": 1317512,
       "tmdb_type": "movie",
       "title": "世界的主人",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1368881,
+      "tmdb_type": "movie",
+      "title": "女士优先",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1368166,
+      "tmdb_type": "movie",
+      "title": "家弑服务",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1421609,
+      "tmdb_type": "movie",
+      "title": "我的妈耶",
+      "sort": 8
     },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1249589,
-      "tmdb_type": "movie",
-      "title": "天才游戏",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1304313,
-      "tmdb_type": "movie",
-      "title": "木乃伊",
-      "sort": 10
     },
     {
       "tmdb_id": 931285,
       "tmdb_type": "movie",
       "title": "真人快打2",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1249589,
+      "tmdb_type": "movie",
+      "title": "天才游戏",
       "sort": 11
     },
     {
@@ -95,9 +95,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 1546855,
+      "tmdb_id": 1536559,
       "tmdb_type": "movie",
-      "title": "我，许可",
+      "title": "双喜",
       "sort": 13
     },
     {
@@ -107,9 +107,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1489187,
+      "tmdb_id": 1304313,
       "tmdb_type": "movie",
-      "title": "爱上平行时空的你",
+      "title": "木乃伊",
       "sort": 15
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1116201,
+      "tmdb_id": 1546855,
       "tmdb_type": "movie",
-      "title": "铁肺",
+      "title": "我，许可",
       "sort": 17
     },
     {
-      "tmdb_id": 1330021,
+      "tmdb_id": 1489187,
       "tmdb_type": "movie",
-      "title": "幸运有八只触手",
+      "title": "爱上平行时空的你",
       "sort": 18
     },
     {
-      "tmdb_id": 1447971,
+      "tmdb_id": 936075,
       "tmdb_type": "movie",
-      "title": "惊蛰无声",
+      "title": "迈克尔·杰克逊：巨星之路",
       "sort": 19
     },
     {
-      "tmdb_id": 1292695,
+      "tmdb_id": 1116201,
       "tmdb_type": "movie",
-      "title": "杀的就是你",
+      "title": "铁肺",
       "sort": 20
     }
   ]
