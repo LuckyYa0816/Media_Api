@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-14T00:11:42.619Z",
-  "total": 6,
+  "updated_at": "2026-06-14T10:50:16.852Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1358005,
@@ -50,16 +50,34 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1367220,
+      "tmdb_type": "movie",
+      "title": "卡鲁普",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1556616,
       "tmdb_type": "movie",
       "title": "夏日别墅",
-      "sort": 5
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1501018,
+      "tmdb_type": "movie",
+      "title": "Une Famille de Bâtards",
+      "sort": 7
     },
     {
       "tmdb_id": 1530510,
       "tmdb_type": "movie",
       "title": "墨西哥 1986：主办大作战",
-      "sort": 6
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1380291,
+      "tmdb_type": "movie",
+      "title": "杰克·莱恩：幽灵之战",
+      "sort": 9
     }
   ]
 }
