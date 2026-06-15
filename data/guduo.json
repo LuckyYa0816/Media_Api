@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-06-15T00:16:59.225Z",
+  "updated_at": "2026-06-15T14:26:38.800Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -149,21 +149,21 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 228429,
+          "tmdb_id": 223911,
           "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
+          "title": "仙逆",
           "sort": 1
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 2
         },
         {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 223911,
-          "tmdb_type": "tv",
-          "title": "仙逆",
           "sort": 3
         },
         {
@@ -173,51 +173,51 @@
           "sort": 4
         },
         {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 5
-        },
-        {
           "tmdb_id": 259537,
           "tmdb_type": "tv",
           "title": "剑来",
-          "sort": 6
+          "sort": 5
         },
         {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
-          "sort": 8
+          "sort": 7
         },
         {
           "tmdb_id": 67063,
           "tmdb_type": "tv",
           "title": "一人之下",
-          "sort": 9
+          "sort": 8
         },
         {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 10
+          "sort": 9
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
-          "sort": 11
+          "sort": 10
         },
         {
           "tmdb_id": 70311,
           "tmdb_type": "tv",
           "title": "全职法师",
-          "sort": 12
+          "sort": 11
         },
         {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 13
         },
         {
@@ -245,15 +245,15 @@
           "sort": 17
         },
         {
-          "tmdb_id": 153869,
-          "tmdb_type": "tv",
-          "title": "紫川",
-          "sort": 18
-        },
-        {
           "tmdb_id": 281233,
           "tmdb_type": "tv",
           "title": "光阴之外",
+          "sort": 18
+        },
+        {
+          "tmdb_id": 153869,
+          "tmdb_type": "tv",
+          "title": "紫川",
           "sort": 19
         },
         {
@@ -465,21 +465,21 @@
           "sort": 16
         },
         {
-          "tmdb_id": 1689164,
+          "tmdb_id": 1148319,
           "tmdb_type": "movie",
-          "title": "东北奇妙故事之摇篮曲",
-          "sort": 17
+          "title": "王菲 & 邓丽君 - 清平调",
+          "sort": 18
         },
         {
           "tmdb_id": 1679434,
           "tmdb_type": "movie",
           "title": "孤雁",
-          "sort": 18
+          "sort": 19
         },
         {
-          "tmdb_id": 1148319,
+          "tmdb_id": 1689164,
           "tmdb_type": "movie",
-          "title": "王菲 & 邓丽君 - 清平调",
+          "title": "东北奇妙故事之摇篮曲",
           "sort": 20
         }
       ]

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-15T00:16:13.215Z",
+  "updated_at": "2026-06-15T14:26:03.422Z",
   "total": 30,
   "list": [
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283428
-      },
-      "tmdb_type": "tv",
-      "title": "The Ramparts of Ice",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 309163
       },
       "tmdb_type": "tv",
       "title": "Gals Can't Be Kind to Otaku!?",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 283428
+      },
+      "tmdb_type": "tv",
+      "title": "The Ramparts of Ice",
       "sort": 13
     },
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 274671
-      },
-      "tmdb_type": "tv",
-      "title": "The Beginning After the End Season 2",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 300126
       },
       "tmdb_type": "tv",
       "title": "Liar Game",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 274671
+      },
+      "tmdb_type": "tv",
+      "title": "The Beginning After the End Season 2",
       "sort": 23
     },
     {

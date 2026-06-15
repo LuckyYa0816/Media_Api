@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-15T00:16:17.700Z",
-  "total": 7,
+  "updated_at": "2026-06-15T14:26:08.760Z",
+  "total": 8,
   "list": [
-    {
-      "tmdb_id": 1358005,
-      "tmdb_type": "movie",
-      "title": "同事以上，恋人未满",
-      "sort": 1
-    },
     {
       "tmdb_id": 1560681,
       "tmdb_type": "movie",
       "title": "极恶原色：黑暗谜镇",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1358005,
+      "tmdb_type": "movie",
+      "title": "同事以上，恋人未满",
       "sort": 2
     },
     {
@@ -44,28 +44,34 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 1274706,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
+      "title": "谜印女子",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1699155,
-      "tmdb_type": "movie",
-      "title": "母性本能：得州夺胎案",
-      "sort": 5
     },
     {
       "tmdb_id": 1556616,
       "tmdb_type": "movie",
       "title": "夏日别墅",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1699155,
+      "tmdb_type": "movie",
+      "title": "母性本能：得州夺胎案",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1501018,
+      "tmdb_type": "movie",
+      "title": "Une Famille de Bâtards",
+      "sort": 7
     },
     {
       "tmdb_id": 1367220,
       "tmdb_type": "movie",
       "title": "卡鲁普",
-      "sort": 7
+      "sort": 8
     }
   ]
 }
