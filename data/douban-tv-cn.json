@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-15T14:26:24.945Z",
+  "updated_at": "2026-06-16T01:43:14.561Z",
   "total": 20,
   "list": [
     {
@@ -35,9 +35,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 282497,
+      "tmdb_id": 284110,
       "tmdb_type": "tv",
-      "title": "迷墙",
+      "title": "主角",
       "sort": 3
     },
     {
@@ -47,21 +47,21 @@
       "sort": 4
     },
     {
-      "tmdb_id": 284110,
-      "tmdb_type": "tv",
-      "title": "主角",
-      "sort": 5
-    },
-    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 287641,
+      "tmdb_type": "tv",
+      "title": "耀眼",
       "sort": 6
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 282497,
       "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
+      "title": "迷墙",
       "sort": 7
     },
     {
@@ -71,33 +71,33 @@
       "sort": 8
     },
     {
-      "tmdb_id": 287641,
-      "tmdb_type": "tv",
-      "title": "耀眼",
-      "sort": 9
-    },
-    {
       "tmdb_id": 254486,
       "tmdb_type": "tv",
       "title": "雨霖铃",
+      "sort": 9
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "凡人修仙传 年番4",
       "sort": 10
+    },
+    {
+      "tmdb_id": 230311,
+      "tmdb_type": "tv",
+      "title": "爱情有烟火",
+      "sort": 11
     },
     {
       "tmdb_id": 289147,
       "tmdb_type": "tv",
       "title": "灵魂摆渡·十年",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 107463,
       "tmdb_type": "tv",
       "title": "镖人 第二季",
-      "sort": 12
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "开始推理吧 第四季",
       "sort": 13
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
-      "tmdb_id": 279446,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "太平年",
+      "title": "开始推理吧 第四季",
       "sort": 16
-    },
-    {
-      "tmdb_id": 68034,
-      "tmdb_type": "tv",
-      "title": "大明王朝1566",
-      "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "半熟恋人 第五季",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 68034,
+      "tmdb_type": "tv",
+      "title": "大明王朝1566",
       "sort": 18
+    },
+    {
+      "tmdb_id": 279446,
+      "tmdb_type": "tv",
+      "title": "太平年",
+      "sort": 19
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "奔跑吧 第十季",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 283952,
-      "tmdb_type": "tv",
-      "title": "良陈美锦",
+      "title": "五十公里桃花坞6",
       "sort": 20
     }
   ]
