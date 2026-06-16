@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-06-16T01:42:52.337Z",
+  "updated_at": "2026-06-16T12:56:33.795Z",
   "total": 28,
   "list": [
     {
@@ -191,18 +191,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 71194
-      },
-      "tmdb_type": "tv",
-      "title": "Quanzhi Gaoshou Specials",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 102927
       },
       "tmdb_type": "tv",
       "title": "THE LAST SUMMONER",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 71194
+      },
+      "tmdb_type": "tv",
+      "title": "Quanzhi Gaoshou Specials",
       "sort": 23
     },
     {

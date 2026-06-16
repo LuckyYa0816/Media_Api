@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-16T01:42:50.798Z",
+  "updated_at": "2026-06-16T12:56:32.183Z",
   "total": 30,
   "list": [
     {
@@ -238,18 +238,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 259819
-      },
-      "tmdb_type": "tv",
-      "title": "Rooster Fighter",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
         "tv": 284447
       },
       "tmdb_type": "tv",
       "title": "Yowayowa Sensei",
+      "sort": 28
+    },
+    {
+      "tmdb_id": {
+        "tv": 259819
+      },
+      "tmdb_type": "tv",
+      "title": "Rooster Fighter",
       "sort": 29
     },
     {
