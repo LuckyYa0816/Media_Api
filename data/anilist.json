@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-17T00:20:34.013Z",
+  "updated_at": "2026-06-17T12:18:49.893Z",
   "total": 30,
   "list": [
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 297438
-      },
-      "tmdb_type": "tv",
-      "title": "Akane-banashi",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 300131
       },
       "tmdb_type": "tv",
       "title": "KILL BLUE",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 297438
+      },
+      "tmdb_type": "tv",
+      "title": "Akane-banashi",
       "sort": 21
     },
     {

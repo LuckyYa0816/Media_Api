@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-17T00:20:44.585Z",
+  "updated_at": "2026-06-17T12:18:58.672Z",
   "total": 6,
   "list": [
     {
@@ -32,33 +32,33 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1358005,
+      "tmdb_id": 1560681,
       "tmdb_type": "movie",
-      "title": "同事以上，恋人未满",
+      "title": "极恶原色：黑暗谜镇",
       "sort": 2
     },
     {
-      "tmdb_id": 1380291,
+      "tmdb_id": 1358005,
       "tmdb_type": "movie",
-      "title": "杰克·莱恩：幽灵之战",
+      "title": "同事以上，恋人未满",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1358005,
+      "tmdb_type": "movie",
+      "title": "同事以上，恋人未满",
+      "sort": 4
     },
     {
       "tmdb_id": 1501018,
       "tmdb_type": "movie",
       "title": "Une famille de bâtards",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1274706,
-      "tmdb_type": "movie",
-      "title": "谜印女子",
       "sort": 5
     },
     {
-      "tmdb_id": 1367220,
+      "tmdb_id": 1699155,
       "tmdb_type": "movie",
-      "title": "卡鲁普",
+      "title": "母性本能：得州夺胎案",
       "sort": 6
     }
   ]

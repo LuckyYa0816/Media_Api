@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-06-17T00:21:05.958Z",
+  "updated_at": "2026-06-17T12:19:44.653Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -48,99 +48,99 @@
           "sort": 4
         },
         {
+          "tmdb_id": 288603,
+          "tmdb_type": "tv",
+          "title": "炽夏",
+          "sort": 5
+        },
+        {
           "tmdb_id": 289147,
           "tmdb_type": "tv",
           "title": "灵魂摆渡·十年",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 272432,
           "tmdb_type": "tv",
           "title": "低智商犯罪",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 289209,
           "tmdb_type": "tv",
           "title": "大唐迷雾",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 283952,
           "tmdb_type": "tv",
           "title": "良陈美锦",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 254498,
           "tmdb_type": "tv",
           "title": "黑夜告白",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 321802,
           "tmdb_type": "tv",
           "title": "盛唐奇案",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 272715,
           "tmdb_type": "tv",
           "title": "佳偶天成",
-          "sort": 11
+          "sort": 12
         },
         {
           "tmdb_id": 128653,
           "tmdb_type": "tv",
           "title": "樊笼",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 303572,
           "tmdb_type": "tv",
           "title": "欢迎回我的频道",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 278275,
           "tmdb_type": "tv",
           "title": "月鳞绮纪",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 281392,
           "tmdb_type": "tv",
           "title": "钢铁森林",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 323689,
           "tmdb_type": "tv",
           "title": "婚后再心动",
-          "sort": 16
+          "sort": 17
         },
         {
           "tmdb_id": 278868,
           "tmdb_type": "tv",
           "title": "方圆八百米",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 314834,
           "tmdb_type": "tv",
           "title": "女画师",
-          "sort": 18
+          "sort": 19
         },
         {
           "tmdb_id": 313397,
           "tmdb_type": "tv",
           "title": "借颜",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 277870,
-          "tmdb_type": "tv",
-          "title": "香港探秘地图",
           "sort": 20
         }
       ]
@@ -155,9 +155,9 @@
           "sort": 1
         },
         {
-          "tmdb_id": 79481,
+          "tmdb_id": 101172,
           "tmdb_type": "tv",
-          "title": "斗破苍穹",
+          "title": "吞噬星空",
           "sort": 2
         },
         {
@@ -173,15 +173,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 228429,
+          "tmdb_id": 79481,
           "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
+          "title": "斗破苍穹",
           "sort": 5
         },
         {
-          "tmdb_id": 101172,
+          "tmdb_id": 228429,
           "tmdb_type": "tv",
-          "title": "吞噬星空",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 6
         },
         {
@@ -209,15 +209,15 @@
           "sort": 11
         },
         {
-          "tmdb_id": 70311,
-          "tmdb_type": "tv",
-          "title": "全职法师",
-          "sort": 12
-        },
-        {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 70311,
+          "tmdb_type": "tv",
+          "title": "全职法师",
           "sort": 13
         },
         {
@@ -265,8 +265,117 @@
       ]
     },
     "综艺": {
-      "total": 0,
-      "list": []
+      "total": 18,
+      "list": [
+        {
+          "tmdb_id": 286995,
+          "tmdb_type": "tv",
+          "title": "乘风2025",
+          "sort": 1
+        },
+        {
+          "tmdb_id": 112732,
+          "tmdb_type": "tv",
+          "title": "哈哈哈哈哈",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 203003,
+          "tmdb_type": "tv",
+          "title": "开始推理吧",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 97199,
+          "tmdb_type": "tv",
+          "title": "妻子的浪漫旅行",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 126398,
+          "tmdb_type": "tv",
+          "title": "五十公里桃花坞",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 219934,
+          "tmdb_type": "tv",
+          "title": "种地吧",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 154420,
+          "tmdb_type": "tv",
+          "title": "半熟恋人",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 251718,
+          "tmdb_type": "tv",
+          "title": "这是我的西游",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 124265,
+          "tmdb_type": "tv",
+          "title": "喜欢你我也是",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 325041,
+          "tmdb_type": "tv",
+          "title": "天才厨人",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 74561,
+          "tmdb_type": "tv",
+          "title": "明星大侦探",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 206122,
+          "tmdb_type": "tv",
+          "title": "怦然心动20岁",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 196747,
+          "tmdb_type": "tv",
+          "title": "我家那小子",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 294253,
+          "tmdb_type": "tv",
+          "title": "我们的宿舍",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 201781,
+          "tmdb_type": "tv",
+          "title": "爸爸当家",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 163813,
+          "tmdb_type": "tv",
+          "title": "亲爱的·客栈",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 320614,
+          "tmdb_type": "tv",
+          "title": "超燃青春的合唱",
+          "sort": 17
+        },
+        {
+          "tmdb_id": 317605,
+          "tmdb_type": "tv",
+          "title": "奋斗吧人生-演员篇",
+          "sort": 18
+        }
+      ]
     },
     "电影": {
       "total": 16,
@@ -284,15 +393,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 1660900,
-          "tmdb_type": "movie",
-          "title": "盗墓大案",
-          "sort": 3
-        },
-        {
           "tmdb_id": 1711198,
           "tmdb_type": "movie",
           "title": "恶念",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 1660900,
+          "tmdb_type": "movie",
+          "title": "盗墓大案",
           "sort": 4
         },
         {
