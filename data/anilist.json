@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-18T00:17:51.939Z",
+  "updated_at": "2026-06-18T11:52:24.386Z",
   "total": 30,
   "list": [
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 305329
-      },
-      "tmdb_type": "tv",
-      "title": "NEEDY GIRL OVERDOSE",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 300131
       },
       "tmdb_type": "tv",
       "title": "KILL BLUE",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 305329
+      },
+      "tmdb_type": "tv",
+      "title": "NEEDY GIRL OVERDOSE",
       "sort": 20
     },
     {
