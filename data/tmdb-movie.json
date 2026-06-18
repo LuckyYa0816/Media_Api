@@ -22,44 +22,50 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-17T12:18:58.672Z",
-  "total": 6,
+  "updated_at": "2026-06-18T00:18:03.041Z",
+  "total": 7,
   "list": [
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 1
-    },
     {
       "tmdb_id": 1560681,
       "tmdb_type": "movie",
       "title": "极恶原色：黑暗谜镇",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
       "sort": 2
-    },
-    {
-      "tmdb_id": 1358005,
-      "tmdb_type": "movie",
-      "title": "同事以上，恋人未满",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1358005,
-      "tmdb_type": "movie",
-      "title": "同事以上，恋人未满",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1501018,
-      "tmdb_type": "movie",
-      "title": "Une famille de bâtards",
-      "sort": 5
     },
     {
       "tmdb_id": 1699155,
       "tmdb_type": "movie",
       "title": "母性本能：得州夺胎案",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1239134,
+      "tmdb_type": "movie",
+      "title": "鬼叫你要嫁",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1358005,
+      "tmdb_type": "movie",
+      "title": "同事以上，恋人未满",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1501018,
+      "tmdb_type": "movie",
+      "title": "Une famille de bâtards",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1439930,
+      "tmdb_type": "movie",
+      "title": "惩罚者：最后一击",
+      "sort": 7
     }
   ]
 }
