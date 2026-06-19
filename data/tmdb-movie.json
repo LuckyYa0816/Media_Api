@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-19T01:45:36.049Z",
+  "updated_at": "2026-06-19T12:09:22.690Z",
   "total": 7,
   "list": [
     {
@@ -32,39 +32,39 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1560681,
+      "tmdb_id": 1327819,
       "tmdb_type": "movie",
-      "title": "极恶原色：黑暗谜镇",
+      "title": "河狸变身计划",
       "sort": 2
-    },
-    {
-      "tmdb_id": 1358005,
-      "tmdb_type": "movie",
-      "title": "同事以上，恋人未满",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1239134,
-      "tmdb_type": "movie",
-      "title": "鬼叫你要嫁",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1699155,
-      "tmdb_type": "movie",
-      "title": "母性本能：得州夺胎案",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1274706,
-      "tmdb_type": "movie",
-      "title": "谜印女子",
-      "sort": 6
     },
     {
       "tmdb_id": 1558796,
       "tmdb_type": "movie",
       "title": "永不改变！",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1560681,
+      "tmdb_type": "movie",
+      "title": "极恶原色：黑暗谜镇",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1239134,
+      "tmdb_type": "movie",
+      "title": "鬼叫你要嫁",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1699155,
+      "tmdb_type": "movie",
+      "title": "母性本能：得州夺胎案",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1358005,
+      "tmdb_type": "movie",
+      "title": "同事以上，恋人未满",
       "sort": 7
     }
   ]

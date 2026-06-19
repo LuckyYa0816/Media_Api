@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-06-19T01:45:58.590Z",
+  "updated_at": "2026-06-19T12:09:49.536Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -42,15 +42,15 @@
           "sort": 3
         },
         {
-          "tmdb_id": 287641,
-          "tmdb_type": "tv",
-          "title": "耀眼",
-          "sort": 4
-        },
-        {
           "tmdb_id": 288603,
           "tmdb_type": "tv",
           "title": "炽夏",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 287641,
+          "tmdb_type": "tv",
+          "title": "耀眼",
           "sort": 5
         },
         {
@@ -78,57 +78,57 @@
           "sort": 9
         },
         {
+          "tmdb_id": 325577,
+          "tmdb_type": "tv",
+          "title": "妻本善良",
+          "sort": 10
+        },
+        {
           "tmdb_id": 254498,
           "tmdb_type": "tv",
           "title": "黑夜告白",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 310837,
           "tmdb_type": "tv",
           "title": "心间错",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 321802,
-          "tmdb_type": "tv",
-          "title": "盛唐奇案",
           "sort": 12
-        },
-        {
-          "tmdb_id": 325577,
-          "tmdb_type": "tv",
-          "title": "妻本善良",
-          "sort": 13
         },
         {
           "tmdb_id": 272715,
           "tmdb_type": "tv",
           "title": "佳偶天成",
-          "sort": 14
+          "sort": 13
         },
         {
-          "tmdb_id": 128653,
+          "tmdb_id": 321802,
           "tmdb_type": "tv",
-          "title": "樊笼",
-          "sort": 15
+          "title": "盛唐奇案",
+          "sort": 14
         },
         {
           "tmdb_id": 314834,
           "tmdb_type": "tv",
           "title": "女画师",
-          "sort": 16
+          "sort": 15
         },
         {
-          "tmdb_id": 303572,
+          "tmdb_id": 128653,
           "tmdb_type": "tv",
-          "title": "欢迎回我的频道",
-          "sort": 17
+          "title": "樊笼",
+          "sort": 16
         },
         {
           "tmdb_id": 278275,
           "tmdb_type": "tv",
           "title": "月鳞绮纪",
+          "sort": 17
+        },
+        {
+          "tmdb_id": 303572,
+          "tmdb_type": "tv",
+          "title": "欢迎回我的频道",
           "sort": 18
         },
         {
@@ -161,21 +161,21 @@
           "sort": 2
         },
         {
+          "tmdb_id": 107463,
+          "tmdb_type": "tv",
+          "title": "镖人",
+          "sort": 3
+        },
+        {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
-          "sort": 3
+          "sort": 4
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
           "sort": 5
         },
         {
@@ -185,22 +185,28 @@
           "sort": 6
         },
         {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 7
+        },
+        {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 7
+          "sort": 8
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 8
+          "sort": 9
         },
         {
           "tmdb_id": 259537,
           "tmdb_type": "tv",
           "title": "剑来",
-          "sort": 9
+          "sort": 10
         },
         {
           "tmdb_id": 236534,
@@ -209,27 +215,21 @@
           "sort": 11
         },
         {
-          "tmdb_id": 67063,
+          "tmdb_id": 283805,
           "tmdb_type": "tv",
-          "title": "一人之下",
+          "title": "盘龙",
           "sort": 12
         },
         {
           "tmdb_id": 70311,
           "tmdb_type": "tv",
           "title": "全职法师",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 283805,
-          "tmdb_type": "tv",
-          "title": "盘龙",
           "sort": 14
         },
         {
-          "tmdb_id": 107463,
+          "tmdb_id": 67063,
           "tmdb_type": "tv",
-          "title": "镖人",
+          "title": "一人之下",
           "sort": 15
         },
         {
@@ -292,15 +292,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 97199,
-          "tmdb_type": "tv",
-          "title": "妻子的浪漫旅行",
-          "sort": 5
-        },
-        {
           "tmdb_id": 126398,
           "tmdb_type": "tv",
           "title": "五十公里桃花坞",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 97199,
+          "tmdb_type": "tv",
+          "title": "妻子的浪漫旅行",
           "sort": 6
         },
         {
@@ -334,33 +334,33 @@
           "sort": 11
         },
         {
-          "tmdb_id": 206122,
-          "tmdb_type": "tv",
-          "title": "怦然心动20岁",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 196747,
-          "tmdb_type": "tv",
-          "title": "我家那小子",
-          "sort": 13
-        },
-        {
           "tmdb_id": 294253,
           "tmdb_type": "tv",
           "title": "我们的宿舍",
-          "sort": 14
+          "sort": 12
         },
         {
           "tmdb_id": 201781,
           "tmdb_type": "tv",
           "title": "爸爸当家",
-          "sort": 15
+          "sort": 13
+        },
+        {
+          "tmdb_id": 206122,
+          "tmdb_type": "tv",
+          "title": "怦然心动20岁",
+          "sort": 14
         },
         {
           "tmdb_id": 163813,
           "tmdb_type": "tv",
           "title": "亲爱的·客栈",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 196747,
+          "tmdb_type": "tv",
+          "title": "我家那小子",
           "sort": 16
         },
         {
@@ -411,15 +411,15 @@
           "sort": 5
         },
         {
-          "tmdb_id": 1711198,
-          "tmdb_type": "movie",
-          "title": "恶念",
-          "sort": 7
-        },
-        {
           "tmdb_id": 1654429,
           "tmdb_type": "movie",
           "title": "扫恶",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 1711198,
+          "tmdb_type": "movie",
+          "title": "恶念",
           "sort": 8
         },
         {
