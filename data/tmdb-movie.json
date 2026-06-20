@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-19T12:09:22.690Z",
+  "updated_at": "2026-06-20T00:12:45.939Z",
   "total": 7,
   "list": [
     {
@@ -38,27 +38,27 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1699155,
+      "tmdb_type": "movie",
+      "title": "母性本能：得州夺胎案",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1558796,
       "tmdb_type": "movie",
       "title": "永不改变！",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1560681,
       "tmdb_type": "movie",
       "title": "极恶原色：黑暗谜镇",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 1239134,
       "tmdb_type": "movie",
       "title": "鬼叫你要嫁",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1699155,
-      "tmdb_type": "movie",
-      "title": "母性本能：得州夺胎案",
       "sort": 6
     },
     {

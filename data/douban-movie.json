@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-19T12:09:49.267Z",
+  "updated_at": "2026-06-20T00:13:25.005Z",
   "total": 20,
   "list": [
     {
@@ -71,27 +71,27 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1430077,
-      "tmdb_type": "movie",
-      "title": "幽旅巫咒",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 1461254,
-      "tmdb_type": "movie",
-      "title": "杀木池",
-      "sort": 10
-    },
-    {
       "tmdb_id": 931285,
       "tmdb_type": "movie",
       "title": "真人快打2",
-      "sort": 11
+      "sort": 9
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1461254,
+      "tmdb_type": "movie",
+      "title": "杀木池",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1430077,
+      "tmdb_type": "movie",
+      "title": "幽旅巫咒",
       "sort": 12
     },
     {
@@ -107,21 +107,21 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1368881,
-      "tmdb_type": "movie",
-      "title": "女士优先",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1368881,
+      "tmdb_type": "movie",
+      "title": "女士优先",
       "sort": 17
     },
     {

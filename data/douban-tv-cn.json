@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-19T12:09:36.111Z",
+  "updated_at": "2026-06-20T00:13:05.910Z",
   "total": 20,
   "list": [
     {
@@ -65,39 +65,39 @@
       "sort": 7
     },
     {
-      "tmdb_id": 287641,
-      "tmdb_type": "tv",
-      "title": "耀眼",
-      "sort": 8
-    },
-    {
       "tmdb_id": 233076,
       "tmdb_type": "tv",
       "title": "问心2",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 287641,
+      "tmdb_type": "tv",
+      "title": "耀眼",
       "sort": 9
-    },
-    {
-      "tmdb_id": 275966,
-      "tmdb_type": "tv",
-      "title": "家业",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 254486,
-      "tmdb_type": "tv",
-      "title": "雨霖铃",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 282497,
-      "tmdb_type": "tv",
-      "title": "迷墙",
-      "sort": 12
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "凡人修仙传 年番4",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 275966,
+      "tmdb_type": "tv",
+      "title": "家业",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 254486,
+      "tmdb_type": "tv",
+      "title": "雨霖铃",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 282497,
+      "tmdb_type": "tv",
+      "title": "迷墙",
       "sort": 13
     },
     {
@@ -107,33 +107,33 @@
       "sort": 14
     },
     {
-      "tmdb_id": 289147,
-      "tmdb_type": "tv",
-      "title": "灵魂摆渡·十年",
-      "sort": 15
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "半熟恋人 第五季",
-      "sort": 16
-    },
-    {
       "tmdb_id": 107463,
       "tmdb_type": "tv",
       "title": "镖人 第二季",
-      "sort": 17
+      "sort": 15
+    },
+    {
+      "tmdb_id": 289147,
+      "tmdb_type": "tv",
+      "title": "灵魂摆渡·十年",
+      "sort": 16
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "开始推理吧 第四季",
+      "sort": 17
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "半熟恋人 第五季",
       "sort": 18
     },
     {
-      "tmdb_id": 279446,
+      "tmdb_id": 52461,
       "tmdb_type": "tv",
-      "title": "太平年",
+      "title": "无悔追踪",
       "sort": 19
     },
     {
