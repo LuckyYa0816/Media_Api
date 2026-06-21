@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-21T00:11:46.373Z",
+  "updated_at": "2026-06-21T11:18:25.354Z",
   "total": 30,
   "list": [
     {
@@ -238,18 +238,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288551
-      },
-      "tmdb_type": "tv",
-      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
         "tv": 288590
       },
       "tmdb_type": "tv",
       "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+      "sort": 28
+    },
+    {
+      "tmdb_id": {
+        "tv": 288551
+      },
+      "tmdb_type": "tv",
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "sort": 29
     },
     {
