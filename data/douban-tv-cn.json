@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-21T11:18:44.688Z",
+  "updated_at": "2026-06-22T00:15:29.544Z",
   "total": 20,
   "list": [
     {
@@ -65,39 +65,39 @@
       "sort": 7
     },
     {
-      "tmdb_id": 288603,
+      "tmdb_id": 239901,
       "tmdb_type": "tv",
-      "title": "炽夏",
+      "title": "云秀行",
       "sort": 8
     },
     {
-      "tmdb_id": 289271,
+      "tmdb_id": 288603,
       "tmdb_type": "tv",
-      "title": "翘楚",
+      "title": "炽夏",
       "sort": 9
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
-      "sort": 10
     },
     {
       "tmdb_id": 254486,
       "tmdb_type": "tv",
       "title": "雨霖铃",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 239901,
-      "tmdb_type": "tv",
-      "title": "云秀行",
-      "sort": 12
+      "sort": 10
     },
     {
       "tmdb_id": 52461,
       "tmdb_type": "tv",
       "title": "无悔追踪",
+      "sort": 11
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "凡人修仙传 年番4",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 289271,
+      "tmdb_type": "tv",
+      "title": "翘楚",
       "sort": 13
     },
     {
@@ -119,21 +119,21 @@
       "sort": 16
     },
     {
-      "tmdb_id": 107463,
-      "tmdb_type": "tv",
-      "title": "镖人 第二季",
-      "sort": 17
-    },
-    {
       "tmdb_id": 289147,
       "tmdb_type": "tv",
       "title": "灵魂摆渡·十年",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 107463,
+      "tmdb_type": "tv",
+      "title": "镖人 第二季",
       "sort": 18
     },
     {
-      "tmdb_id": 310837,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "心间错",
+      "title": "潜伏",
       "sort": 19
     },
     {

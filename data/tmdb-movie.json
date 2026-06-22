@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-21T11:18:30.623Z",
-  "total": 9,
+  "updated_at": "2026-06-22T00:15:17.713Z",
+  "total": 7,
   "list": [
     {
-      "tmdb_id": 1451344,
+      "tmdb_id": 614945,
       "tmdb_type": "movie",
-      "title": "人夫总动员",
+      "title": "真爱留声",
       "sort": 1
     },
     {
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 614945,
+      "tmdb_id": 1451344,
       "tmdb_type": "movie",
-      "title": "真爱留声",
+      "title": "人夫总动员",
       "sort": 3
     },
     {
@@ -56,28 +56,16 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1297842,
-      "tmdb_type": "movie",
-      "title": "奇迹梦之队",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1358005,
-      "tmdb_type": "movie",
-      "title": "同事以上，恋人未满",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1501018,
-      "tmdb_type": "movie",
-      "title": "Une Famille De Bâtards",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1558796,
       "tmdb_type": "movie",
       "title": "永不改变！",
-      "sort": 9
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1439930,
+      "tmdb_type": "movie",
+      "title": "惩罚者：最后一击",
+      "sort": 7
     }
   ]
 }

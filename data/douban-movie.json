@@ -19,43 +19,43 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-21T11:18:56.714Z",
+  "updated_at": "2026-06-22T00:15:41.917Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 1340206,
-      "tmdb_type": "movie",
-      "title": "调音师",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1130948,
-      "tmdb_type": "movie",
-      "title": "蔷薇修剪术",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 271917,
-      "tmdb_type": "movie",
-      "title": "配角",
-      "sort": 4
-    },
     {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
-      "sort": 5
+      "sort": 1
     },
     {
       "tmdb_id": 1421609,
       "tmdb_type": "movie",
       "title": "我的妈耶",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1184941,
+      "tmdb_type": "movie",
+      "title": "蓝鹭",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1479333,
+      "tmdb_type": "movie",
+      "title": "隐形女士",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1474628,
+      "tmdb_type": "movie",
+      "title": "噬草者",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1536559,
+      "tmdb_type": "movie",
+      "title": "双喜",
       "sort": 6
     },
     {
@@ -65,57 +65,57 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1536559,
-      "tmdb_type": "movie",
-      "title": "双喜",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1305781,
       "tmdb_type": "movie",
       "title": "镖人：风起大漠",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 1317512,
       "tmdb_type": "movie",
       "title": "世界的主人",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
-      "sort": 12
+      "sort": 11
     },
     {
       "tmdb_id": 931285,
       "tmdb_type": "movie",
       "title": "真人快打2",
-      "sort": 13
+      "sort": 12
     },
     {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
       "title": "杀木池",
-      "sort": 14
+      "sort": 13
     },
     {
       "tmdb_id": 1430077,
       "tmdb_type": "movie",
       "title": "幽旅巫咒",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 936075,
+      "tmdb_type": "movie",
+      "title": "迈克尔·杰克逊：巨星之路",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 936075,
-      "tmdb_type": "movie",
-      "title": "迈克尔·杰克逊：巨星之路",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
-      "sort": 19
+      "sort": 18
     },
     {
       "tmdb_id": 1368881,
       "tmdb_type": "movie",
       "title": "女士优先",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1249589,
+      "tmdb_type": "movie",
+      "title": "天才游戏",
       "sort": 20
     }
   ]
