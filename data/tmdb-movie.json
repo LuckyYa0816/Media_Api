@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-23T00:11:01.359Z",
+  "updated_at": "2026-06-23T11:20:05.901Z",
   "total": 6,
   "list": [
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1439930,
-      "tmdb_type": "movie",
-      "title": "惩罚者：最后一击",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1558796,
       "tmdb_type": "movie",
       "title": "永不改变！",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1239134,
+      "tmdb_type": "movie",
+      "title": "鬼叫你要嫁",
       "sort": 6
     }
   ]

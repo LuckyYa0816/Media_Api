@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-23T00:10:52.897Z",
+  "updated_at": "2026-06-23T11:19:57.265Z",
   "total": 30,
   "list": [
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 274671
-      },
-      "tmdb_type": "tv",
-      "title": "The Beginning After the End Season 2",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 285818
       },
       "tmdb_type": "tv",
       "title": "Mistress Kanan is Devilishly Easy",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 274671
+      },
+      "tmdb_type": "tv",
+      "title": "The Beginning After the End Season 2",
       "sort": 16
     },
     {

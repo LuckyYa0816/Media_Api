@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-23T00:10:57.534Z",
+  "updated_at": "2026-06-23T11:20:02.145Z",
   "total": 30,
   "list": [
     {
@@ -142,18 +142,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 91768
-      },
-      "tmdb_type": "tv",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
         "tv": 91801
       },
       "tmdb_type": "tv",
       "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
+        "tv": 91768
+      },
+      "tmdb_type": "tv",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "sort": 17
     },
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288659
-      },
-      "tmdb_type": "tv",
-      "title": "Agents of the Four Seasons: Dance of Spring",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 285818
       },
       "tmdb_type": "tv",
       "title": "Mistress Kanan is Devilishly Easy",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 288659
+      },
+      "tmdb_type": "tv",
+      "title": "Agents of the Four Seasons: Dance of Spring",
       "sort": 21
     },
     {
