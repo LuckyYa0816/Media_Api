@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-24T00:01:58.715Z",
-  "total": 5,
+  "updated_at": "2026-06-24T10:53:09.635Z",
+  "total": 4,
   "list": [
-    {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 1
-    },
     {
       "tmdb_id": 1451344,
       "tmdb_type": "movie",
       "title": "人夫总动员",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 2
     },
     {
@@ -48,12 +48,6 @@
       "tmdb_type": "movie",
       "title": "河狸变身计划",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1239134,
-      "tmdb_type": "movie",
-      "title": "鬼叫你要嫁",
-      "sort": 5
     }
   ]
 }

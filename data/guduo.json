@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-06-24T00:02:22.426Z",
+  "updated_at": "2026-06-24T10:53:38.311Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -90,15 +90,15 @@
           "sort": 11
         },
         {
-          "tmdb_id": 254498,
-          "tmdb_type": "tv",
-          "title": "黑夜告白",
-          "sort": 12
-        },
-        {
           "tmdb_id": 310837,
           "tmdb_type": "tv",
           "title": "心间错",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 254498,
+          "tmdb_type": "tv",
+          "title": "黑夜告白",
           "sort": 13
         },
         {
@@ -155,39 +155,39 @@
           "sort": 1
         },
         {
-          "tmdb_id": 106449,
+          "tmdb_id": 285479,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
           "sort": 2
         },
         {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 3
-        },
-        {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 6
+          "sort": 3
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 79481,
+          "tmdb_type": "tv",
+          "title": "斗破苍穹",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 7
         },
         {
@@ -215,27 +215,27 @@
           "sort": 12
         },
         {
+          "tmdb_id": 70311,
+          "tmdb_type": "tv",
+          "title": "全职法师",
+          "sort": 13
+        },
+        {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 218642,
           "tmdb_type": "tv",
           "title": "师兄啊师兄",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 283805,
           "tmdb_type": "tv",
           "title": "盘龙",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 70311,
-          "tmdb_type": "tv",
-          "title": "全职法师",
           "sort": 16
         },
         {
@@ -265,18 +265,121 @@
       ]
     },
     "综艺": {
-      "total": 0,
-      "list": []
-    },
-    "电影": {
-      "total": 17,
+      "total": 18,
       "list": [
         {
-          "tmdb_id": 1122573,
-          "tmdb_type": "movie",
-          "title": "金谍行动",
+          "tmdb_id": 286995,
+          "tmdb_type": "tv",
+          "title": "乘风2025",
           "sort": 1
         },
+        {
+          "tmdb_id": 112732,
+          "tmdb_type": "tv",
+          "title": "哈哈哈哈哈",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 154420,
+          "tmdb_type": "tv",
+          "title": "半熟恋人",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 203003,
+          "tmdb_type": "tv",
+          "title": "开始推理吧",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 126398,
+          "tmdb_type": "tv",
+          "title": "五十公里桃花坞",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 251718,
+          "tmdb_type": "tv",
+          "title": "这是我的西游",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 97199,
+          "tmdb_type": "tv",
+          "title": "妻子的浪漫旅行",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 219934,
+          "tmdb_type": "tv",
+          "title": "种地吧",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 294253,
+          "tmdb_type": "tv",
+          "title": "我们的宿舍",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 124265,
+          "tmdb_type": "tv",
+          "title": "喜欢你我也是",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 325041,
+          "tmdb_type": "tv",
+          "title": "天才厨人",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 201781,
+          "tmdb_type": "tv",
+          "title": "爸爸当家",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 206122,
+          "tmdb_type": "tv",
+          "title": "怦然心动20岁",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 74561,
+          "tmdb_type": "tv",
+          "title": "明星大侦探",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 163813,
+          "tmdb_type": "tv",
+          "title": "亲爱的·客栈",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 196747,
+          "tmdb_type": "tv",
+          "title": "我家那小子",
+          "sort": 18
+        },
+        {
+          "tmdb_id": 320614,
+          "tmdb_type": "tv",
+          "title": "超燃青春的合唱",
+          "sort": 19
+        },
+        {
+          "tmdb_id": 317605,
+          "tmdb_type": "tv",
+          "title": "奋斗吧人生-演员篇",
+          "sort": 20
+        }
+      ]
+    },
+    "电影": {
+      "total": 15,
+      "list": [
         {
           "tmdb_id": 1707914,
           "tmdb_type": "movie",
@@ -332,15 +435,15 @@
           "sort": 11
         },
         {
-          "tmdb_id": 1126166,
-          "tmdb_type": "movie",
-          "title": "插翅难飞",
-          "sort": 12
-        },
-        {
           "tmdb_id": 1687111,
           "tmdb_type": "movie",
           "title": "东北往事·极恶不赦",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 1126166,
+          "tmdb_type": "movie",
+          "title": "插翅难飞",
           "sort": 13
         },
         {
@@ -366,12 +469,6 @@
           "tmdb_type": "movie",
           "title": "木兰：血刃",
           "sort": 18
-        },
-        {
-          "tmdb_id": 1238046,
-          "tmdb_type": "movie",
-          "title": "长白山猎人传说",
-          "sort": 20
         }
       ]
     }
