@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-23T11:20:05.901Z",
-  "total": 6,
+  "updated_at": "2026-06-24T00:01:58.715Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 614945,
@@ -50,16 +50,10 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1558796,
-      "tmdb_type": "movie",
-      "title": "永不改变！",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1239134,
       "tmdb_type": "movie",
       "title": "鬼叫你要嫁",
-      "sort": 6
+      "sort": 5
     }
   ]
 }

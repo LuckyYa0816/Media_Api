@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-23T11:20:02.145Z",
+  "updated_at": "2026-06-24T00:01:53.880Z",
   "total": 30,
   "list": [
     {
@@ -142,27 +142,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 91801
-      },
-      "tmdb_type": "tv",
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
         "tv": 91768
       },
       "tmdb_type": "tv",
       "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "sort": 17
+      "sort": 16
     },
     {
       "tmdb_id": {
-        "tv": 293697
+        "tv": 91801
       },
       "tmdb_type": "tv",
-      "title": "I Want to End This Love Game",
-      "sort": 18
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "sort": 17
     },
     {
       "tmdb_id": {
@@ -170,6 +162,14 @@
       },
       "tmdb_type": "tv",
       "title": "Farming Life in Another World Season 2",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 293697
+      },
+      "tmdb_type": "tv",
+      "title": "I Want to End This Love Game",
       "sort": 19
     },
     {
