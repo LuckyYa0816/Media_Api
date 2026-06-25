@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-24T10:53:37.820Z",
-  "total": 20,
+  "updated_at": "2026-06-25T00:17:08.399Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": 1421609,
@@ -35,21 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1510325,
+      "tmdb_id": 1145899,
       "tmdb_type": "movie",
-      "title": "我的喜悦夏天",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1184941,
-      "tmdb_type": "movie",
-      "title": "蓝鹭",
+      "title": "长尾豹马修",
       "sort": 4
     },
     {
-      "tmdb_id": 1363387,
+      "tmdb_id": 614945,
       "tmdb_type": "movie",
-      "title": "糖精",
+      "title": "真爱留声",
       "sort": 5
     },
     {
@@ -65,15 +59,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1317512,
-      "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1122573,
       "tmdb_type": "movie",
       "title": "金谍行动",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
       "sort": 9
     },
     {
@@ -95,21 +89,21 @@
       "sort": 12
     },
     {
+      "tmdb_id": 1178620,
+      "tmdb_type": "movie",
+      "title": "蒙特利尔，我的美人",
+      "sort": 13
+    },
+    {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
       "title": "杀木池",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 936075,
       "tmdb_type": "movie",
       "title": "迈克尔·杰克逊：巨星之路",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1178620,
-      "tmdb_type": "movie",
-      "title": "蒙特利尔，我的美人",
       "sort": 15
     },
     {

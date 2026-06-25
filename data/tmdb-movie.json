@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-24T10:53:09.635Z",
+  "updated_at": "2026-06-25T00:16:31.353Z",
   "total": 4,
   "list": [
-    {
-      "tmdb_id": 1451344,
-      "tmdb_type": "movie",
-      "title": "人夫总动员",
-      "sort": 1
-    },
     {
       "tmdb_id": 614945,
       "tmdb_type": "movie",
       "title": "真爱留声",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1451344,
+      "tmdb_type": "movie",
+      "title": "人夫总动员",
       "sort": 2
     },
     {
