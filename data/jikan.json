@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-25T10:45:21.771Z",
+  "updated_at": "2026-06-26T00:13:27.333Z",
   "total": 30,
   "list": [
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283428
-      },
-      "tmdb_type": "tv",
-      "title": "The Ramparts of Ice",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 309163
       },
       "tmdb_type": "tv",
       "title": "Gals Can't Be Kind to Otaku!?",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 283428
+      },
+      "tmdb_type": "tv",
+      "title": "The Ramparts of Ice",
       "sort": 13
     },
     {
@@ -142,11 +142,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 196285
+      },
+      "tmdb_type": "tv",
+      "title": "Farming Life in Another World Season 2",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
         "tv": 91768
       },
       "tmdb_type": "tv",
       "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-      "sort": 16
+      "sort": 17
     },
     {
       "tmdb_id": {
@@ -154,14 +162,6 @@
       },
       "tmdb_type": "tv",
       "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "sort": 17
-    },
-    {
-      "tmdb_id": {
-        "tv": 196285
-      },
-      "tmdb_type": "tv",
-      "title": "Farming Life in Another World Season 2",
       "sort": 18
     },
     {
@@ -238,18 +238,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288590
-      },
-      "tmdb_type": "tv",
-      "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
         "tv": 288551
       },
       "tmdb_type": "tv",
       "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "sort": 28
+    },
+    {
+      "tmdb_id": {
+        "tv": 288590
+      },
+      "tmdb_type": "tv",
+      "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "sort": 29
     },
     {

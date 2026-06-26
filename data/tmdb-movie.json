@@ -22,32 +22,44 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-25T10:45:27.161Z",
-  "total": 4,
+  "updated_at": "2026-06-26T00:13:32.757Z",
+  "total": 6,
   "list": [
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
+      "sort": 1
+    },
     {
       "tmdb_id": 614945,
       "tmdb_type": "movie",
       "title": "真爱留声",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1451344,
       "tmdb_type": "movie",
       "title": "人夫总动员",
-      "sort": 2
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1020047,
+      "tmdb_type": "movie",
+      "title": "但丁之手",
+      "sort": 4
     },
     {
       "tmdb_id": 1477317,
       "tmdb_type": "movie",
       "title": "你的错误：伦敦版",
-      "sort": 3
+      "sort": 5
     },
     {
       "tmdb_id": 1327819,
       "tmdb_type": "movie",
       "title": "河狸变身计划",
-      "sort": 4
+      "sort": 6
     }
   ]
 }
