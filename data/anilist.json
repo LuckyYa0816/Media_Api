@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-06-26T00:13:21.377Z",
+  "updated_at": "2026-06-26T10:54:05.313Z",
   "total": 30,
   "list": [
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 293697
-      },
-      "tmdb_type": "tv",
-      "title": "I Want to End this Love Game",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 273467
       },
       "tmdb_type": "tv",
       "title": "The Warrior Princess and the Barbaric King",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 293697
+      },
+      "tmdb_type": "tv",
+      "title": "I Want to End this Love Game",
       "sort": 13
     },
     {

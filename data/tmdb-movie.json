@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-26T00:13:32.757Z",
-  "total": 6,
+  "updated_at": "2026-06-26T10:54:13.837Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1301421,
@@ -54,12 +54,6 @@
       "tmdb_type": "movie",
       "title": "你的错误：伦敦版",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 6
     }
   ]
 }
