@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-26T10:54:13.837Z",
-  "total": 5,
+  "updated_at": "2026-06-27T00:12:11.562Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1301421,
@@ -44,16 +44,28 @@
       "sort": 3
     },
     {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1020047,
       "tmdb_type": "movie",
       "title": "但丁之手",
-      "sort": 4
+      "sort": 6
     },
     {
       "tmdb_id": 1477317,
       "tmdb_type": "movie",
       "title": "你的错误：伦敦版",
-      "sort": 5
+      "sort": 7
     }
   ]
 }

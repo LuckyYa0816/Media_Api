@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-26T10:54:33.146Z",
+  "updated_at": "2026-06-27T00:12:34.815Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": 278605,
-      "tmdb_type": "tv",
-      "title": "南部档案",
-      "sort": 1
-    },
     {
       "tmdb_id": 230311,
       "tmdb_type": "tv",
       "title": "爱情有烟火",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 278605,
+      "tmdb_type": "tv",
+      "title": "南部档案",
       "sort": 2
     },
     {
@@ -77,15 +77,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 326189,
-      "tmdb_type": "tv",
-      "title": "种墨园",
-      "sort": 10
-    },
-    {
       "tmdb_id": 239901,
       "tmdb_type": "tv",
       "title": "云秀行",
+      "sort": 10
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "斩神之凡尘神域Ⅱ",
       "sort": 11
     },
     {
@@ -107,9 +107,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 326189,
       "tmdb_type": "tv",
-      "title": "斩神之凡尘神域Ⅱ",
+      "title": "种墨园",
       "sort": 15
     },
     {
@@ -125,9 +125,9 @@
       "sort": 17
     },
     {
-      "tmdb_id": 275966,
+      "tmdb_id": 233076,
       "tmdb_type": "tv",
-      "title": "家业",
+      "title": "问心",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 233076,
+      "tmdb_id": 289147,
       "tmdb_type": "tv",
-      "title": "问心",
+      "title": "灵魂摆渡·十年",
       "sort": 20
     }
   ]
