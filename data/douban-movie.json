@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-27T10:12:44.565Z",
-  "total": 20,
+  "updated_at": "2026-06-28T00:06:15.893Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": 1269075,
@@ -29,105 +29,99 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1536559,
-      "tmdb_type": "movie",
-      "title": "双喜",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1427540,
-      "tmdb_type": "movie",
-      "title": "心门之外",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1145899,
-      "tmdb_type": "movie",
-      "title": "长尾豹马修",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1421609,
-      "tmdb_type": "movie",
-      "title": "我的妈耶",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1305781,
-      "tmdb_type": "movie",
-      "title": "镖人：风起大漠",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 8
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1442669,
+      "tmdb_type": "movie",
+      "title": "电动维纳斯",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1418217,
+      "tmdb_type": "movie",
+      "title": "棋盘上的向日葵",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1536559,
+      "tmdb_type": "movie",
+      "title": "双喜",
+      "sort": 6
     },
     {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1305781,
+      "tmdb_type": "movie",
+      "title": "镖人：风起大漠",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1421609,
+      "tmdb_type": "movie",
+      "title": "我的妈耶",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1122573,
-      "tmdb_type": "movie",
-      "title": "金谍行动",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1317512,
-      "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1321179,
-      "tmdb_type": "movie",
-      "title": "与王生活的男人",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1489456,
-      "tmdb_type": "movie",
-      "title": "我住在凡尔赛的日子",
-      "sort": 13
     },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1122573,
+      "tmdb_type": "movie",
+      "title": "金谍行动",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1489456,
+      "tmdb_type": "movie",
+      "title": "我住在凡尔赛的日子",
       "sort": 14
+    },
+    {
+      "tmdb_id": 1321179,
+      "tmdb_type": "movie",
+      "title": "与王生活的男人",
+      "sort": 15
     },
     {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 931285,
-      "tmdb_type": "movie",
-      "title": "真人快打2",
       "sort": 16
-    },
-    {
-      "tmdb_id": 1461254,
-      "tmdb_type": "movie",
-      "title": "杀木池",
-      "sort": 17
     },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1461254,
+      "tmdb_type": "movie",
+      "title": "杀木池",
       "sort": 18
     },
     {

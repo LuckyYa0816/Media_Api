@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-27T10:11:52.674Z",
+  "updated_at": "2026-06-28T00:05:47.205Z",
   "total": 30,
   "list": [
     {
@@ -150,10 +150,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 91768
+        "tv": 293697
       },
       "tmdb_type": "tv",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "title": "I Want to End This Love Game",
       "sort": 17
     },
     {
@@ -166,10 +166,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 293697
+        "tv": 91768
       },
       "tmdb_type": "tv",
-      "title": "I Want to End This Love Game",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "sort": 19
     },
     {
