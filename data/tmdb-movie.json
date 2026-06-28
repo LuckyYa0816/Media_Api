@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-28T00:05:52.687Z",
-  "total": 8,
+  "updated_at": "2026-06-28T10:29:54.048Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 1301421,
@@ -32,46 +32,58 @@
       "sort": 1
     },
     {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1397385,
       "tmdb_type": "movie",
       "title": "人生大弟震",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 3
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1451344,
-      "tmdb_type": "movie",
-      "title": "人夫总动员",
-      "sort": 5
     },
     {
       "tmdb_id": 1020047,
       "tmdb_type": "movie",
       "title": "但丁之手",
-      "sort": 6
+      "sort": 4
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 83533,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 7
+      "title": "阿凡达：火与烬",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1451344,
+      "tmdb_type": "movie",
+      "title": "人夫总动员",
+      "sort": 6
     },
     {
       "tmdb_id": 1477317,
       "tmdb_type": "movie",
       "title": "你的错误：伦敦版",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1515729,
+      "tmdb_type": "movie",
+      "title": "爆炸",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1061474,
+      "tmdb_type": "movie",
+      "title": "超人",
+      "sort": 10
     }
   ]
 }
