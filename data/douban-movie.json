@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-28T10:30:19.520Z",
+  "updated_at": "2026-06-29T00:12:34.192Z",
   "total": 19,
   "list": [
     {
@@ -29,27 +29,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1442669,
+      "tmdb_id": 1174334,
       "tmdb_type": "movie",
-      "title": "电动维纳斯",
+      "title": "大濛",
       "sort": 2
     },
     {
-      "tmdb_id": 1418217,
+      "tmdb_id": 1238188,
       "tmdb_type": "movie",
-      "title": "棋盘上的向日葵",
+      "title": "被俘的塞万提斯",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1442669,
+      "tmdb_type": "movie",
+      "title": "电动维纳斯",
       "sort": 4
     },
     {
       "tmdb_id": 1536559,
       "tmdb_type": "movie",
       "title": "双喜",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1174334,
-      "tmdb_type": "movie",
-      "title": "大濛",
       "sort": 6
     },
     {
@@ -59,15 +59,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1421609,
-      "tmdb_type": "movie",
-      "title": "我的妈耶",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1421609,
+      "tmdb_type": "movie",
+      "title": "我的妈耶",
       "sort": 9
     },
     {
@@ -131,9 +131,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 931285,
+      "tmdb_id": 1433339,
       "tmdb_type": "movie",
-      "title": "真人快打2",
+      "title": "三声再见",
       "sort": 20
     }
   ]

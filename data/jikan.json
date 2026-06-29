@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-06-28T10:29:48.650Z",
+  "updated_at": "2026-06-29T00:12:04.248Z",
   "total": 30,
   "list": [
     {
@@ -158,18 +158,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 91801
-      },
-      "tmdb_type": "tv",
-      "title": "Welcome to Demon School! Iruma-kun Season 4",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
         "tv": 91768
       },
       "tmdb_type": "tv",
       "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 91801
+      },
+      "tmdb_type": "tv",
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
       "sort": 19
     },
     {

@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-28T10:29:54.048Z",
-  "total": 10,
+  "updated_at": "2026-06-29T00:12:09.890Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1301421,
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1020047,
       "tmdb_type": "movie",
       "title": "但丁之手",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 4
     },
     {
@@ -62,15 +62,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1477317,
-      "tmdb_type": "movie",
-      "title": "你的错误：伦敦版",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1515729,
       "tmdb_type": "movie",
       "title": "爆炸",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1477317,
+      "tmdb_type": "movie",
+      "title": "你的错误：伦敦版",
       "sort": 8
     },
     {
@@ -78,12 +78,6 @@
       "tmdb_type": "movie",
       "title": "河狸变身计划",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1061474,
-      "tmdb_type": "movie",
-      "title": "超人",
-      "sort": 10
     }
   ]
 }
