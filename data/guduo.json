@@ -18,33 +18,33 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-06-30T00:08:50.586Z",
+  "updated_at": "2026-06-30T11:12:47.457Z",
   "categories": {
     "剧集": {
       "total": 20,
       "list": [
         {
-          "tmdb_id": 291947,
-          "tmdb_type": "tv",
-          "title": "昨夜将至",
-          "sort": 1
-        },
-        {
           "tmdb_id": 292696,
           "tmdb_type": "tv",
           "title": "莫离",
-          "sort": 2
+          "sort": 1
         },
         {
-          "tmdb_id": 278605,
+          "tmdb_id": 291947,
           "tmdb_type": "tv",
-          "title": "南部档案",
-          "sort": 3
+          "title": "昨夜将至",
+          "sort": 2
         },
         {
           "tmdb_id": 251600,
           "tmdb_type": "tv",
           "title": "千香",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 278605,
+          "tmdb_type": "tv",
+          "title": "南部档案",
           "sort": 4
         },
         {
@@ -102,33 +102,33 @@
           "sort": 13
         },
         {
+          "tmdb_id": 276239,
+          "tmdb_type": "tv",
+          "title": "非份之罪",
+          "sort": 14
+        },
+        {
           "tmdb_id": 310837,
           "tmdb_type": "tv",
           "title": "心间错",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 254498,
           "tmdb_type": "tv",
           "title": "黑夜告白",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 272715,
           "tmdb_type": "tv",
           "title": "佳偶天成",
-          "sort": 16
+          "sort": 17
         },
         {
           "tmdb_id": 314834,
           "tmdb_type": "tv",
           "title": "女画师",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 326042,
-          "tmdb_type": "tv",
-          "title": "照殿花开",
           "sort": 18
         },
         {
@@ -149,63 +149,63 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 106449,
-          "tmdb_type": "tv",
-          "title": "凡人修仙传",
-          "sort": 1
-        },
-        {
           "tmdb_id": 223911,
           "tmdb_type": "tv",
           "title": "仙逆",
-          "sort": 2
+          "sort": 1
         },
         {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 106449,
+          "tmdb_type": "tv",
+          "title": "凡人修仙传",
           "sort": 3
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 101172,
-          "tmdb_type": "tv",
-          "title": "吞噬星空",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 107463,
-          "tmdb_type": "tv",
-          "title": "镖人",
-          "sort": 10
         },
         {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 101172,
+          "tmdb_type": "tv",
+          "title": "吞噬星空",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 236534,
+          "tmdb_type": "tv",
+          "title": "牧神记",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 107463,
+          "tmdb_type": "tv",
+          "title": "镖人",
           "sort": 11
         },
         {
@@ -227,15 +227,15 @@
           "sort": 14
         },
         {
-          "tmdb_id": 283805,
-          "tmdb_type": "tv",
-          "title": "盘龙",
-          "sort": 15
-        },
-        {
           "tmdb_id": 218642,
           "tmdb_type": "tv",
           "title": "师兄啊师兄",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 283805,
+          "tmdb_type": "tv",
+          "title": "盘龙",
           "sort": 16
         },
         {
@@ -286,27 +286,27 @@
           "sort": 3
         },
         {
+          "tmdb_id": 154420,
+          "tmdb_type": "tv",
+          "title": "半熟恋人",
+          "sort": 4
+        },
+        {
           "tmdb_id": 261471,
           "tmdb_type": "tv",
           "title": "脱口秀和Ta的朋友们",
-          "sort": 4
+          "sort": 5
         },
         {
           "tmdb_id": 203003,
           "tmdb_type": "tv",
           "title": "开始推理吧",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 126398,
           "tmdb_type": "tv",
           "title": "五十公里桃花坞",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 154420,
-          "tmdb_type": "tv",
-          "title": "半熟恋人",
           "sort": 8
         },
         {
@@ -328,21 +328,21 @@
           "sort": 11
         },
         {
+          "tmdb_id": 297509,
+          "tmdb_type": "tv",
+          "title": "食神·百厨大战",
+          "sort": 12
+        },
+        {
           "tmdb_id": 219934,
           "tmdb_type": "tv",
           "title": "种地吧",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 124265,
           "tmdb_type": "tv",
           "title": "喜欢你我也是",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 297509,
-          "tmdb_type": "tv",
-          "title": "食神·百厨大战",
           "sort": 14
         },
         {
@@ -387,15 +387,15 @@
           "sort": 1
         },
         {
-          "tmdb_id": 1720660,
-          "tmdb_type": "movie",
-          "title": "盲蛇",
-          "sort": 2
-        },
-        {
           "tmdb_id": 1719751,
           "tmdb_type": "movie",
           "title": "史诡记之黄泉村",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 1720660,
+          "tmdb_type": "movie",
+          "title": "盲蛇",
           "sort": 3
         },
         {

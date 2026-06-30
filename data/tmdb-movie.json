@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-30T00:08:13.411Z",
+  "updated_at": "2026-06-30T11:11:59.856Z",
   "total": 8,
   "list": [
     {
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 3
-    },
-    {
       "tmdb_id": 83533,
       "tmdb_type": "movie",
       "title": "阿凡达：火与烬",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 4
     },
     {
@@ -56,21 +56,21 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1451344,
+      "tmdb_id": 1239134,
       "tmdb_type": "movie",
-      "title": "人夫总动员",
+      "title": "鬼叫你要嫁",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 7
     },
     {
       "tmdb_id": 1171145,
       "tmdb_type": "movie",
       "title": "洛杉矶劫案",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
       "sort": 8
     }
   ]
