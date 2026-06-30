@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-06-29T12:37:42.388Z",
+  "updated_at": "2026-06-30T00:08:31.853Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 278605,
-      "tmdb_type": "tv",
-      "title": "南部档案",
-      "sort": 3
-    },
-    {
       "tmdb_id": 291947,
       "tmdb_type": "tv",
       "title": "昨夜将至",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 278605,
+      "tmdb_type": "tv",
+      "title": "南部档案",
       "sort": 4
     },
     {
@@ -71,21 +71,21 @@
       "sort": 8
     },
     {
-      "tmdb_id": 288603,
-      "tmdb_type": "tv",
-      "title": "炽夏",
-      "sort": 9
-    },
-    {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 288603,
+      "tmdb_type": "tv",
+      "title": "炽夏",
       "sort": 10
     },
     {
-      "tmdb_id": 239901,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "云秀行",
+      "title": "地球超新鲜 第二季",
       "sort": 11
     },
     {
@@ -95,39 +95,39 @@
       "sort": 12
     },
     {
-      "tmdb_id": 282558,
-      "tmdb_type": "tv",
-      "title": "生命树",
-      "sort": 13
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
-      "sort": 14
-    },
-    {
       "tmdb_id": 52461,
       "tmdb_type": "tv",
       "title": "无悔追踪",
-      "sort": 15
+      "sort": 13
+    },
+    {
+      "tmdb_id": 282558,
+      "tmdb_type": "tv",
+      "title": "生命树",
+      "sort": 14
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "凡人修仙传 年番4",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 239901,
+      "tmdb_type": "tv",
+      "title": "云秀行",
       "sort": 16
+    },
+    {
+      "tmdb_id": 326406,
+      "tmdb_type": "tv",
+      "title": "快乐老家",
+      "sort": 17
     },
     {
       "tmdb_id": 326556,
       "tmdb_type": "tv",
       "title": "斩神之凡尘神域Ⅱ",
-      "sort": 17
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "中餐厅 第十季",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 254486,
+      "tmdb_id": 326694,
       "tmdb_type": "tv",
-      "title": "雨霖铃",
+      "title": "说唱巅峰对决2026",
       "sort": 20
     }
   ]
