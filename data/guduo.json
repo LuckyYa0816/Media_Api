@@ -18,21 +18,21 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-07-01T00:10:33.297Z",
+  "updated_at": "2026-07-01T11:27:31.286Z",
   "categories": {
     "剧集": {
       "total": 20,
       "list": [
         {
-          "tmdb_id": 292696,
-          "tmdb_type": "tv",
-          "title": "莫离",
-          "sort": 1
-        },
-        {
           "tmdb_id": 291947,
           "tmdb_type": "tv",
           "title": "昨夜将至",
+          "sort": 1
+        },
+        {
+          "tmdb_id": 292696,
+          "tmdb_type": "tv",
+          "title": "莫离",
           "sort": 2
         },
         {
@@ -96,15 +96,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 325577,
-          "tmdb_type": "tv",
-          "title": "妻本善良",
-          "sort": 13
-        },
-        {
           "tmdb_id": 276239,
           "tmdb_type": "tv",
           "title": "非份之罪",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 325577,
+          "tmdb_type": "tv",
+          "title": "妻本善良",
           "sort": 14
         },
         {
@@ -161,33 +161,33 @@
           "sort": 2
         },
         {
+          "tmdb_id": 101172,
+          "tmdb_type": "tv",
+          "title": "吞噬星空",
+          "sort": 3
+        },
+        {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 3
+          "sort": 4
         },
         {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 4
+          "sort": 5
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 101172,
-          "tmdb_type": "tv",
-          "title": "吞噬星空",
           "sort": 7
         },
         {
@@ -292,15 +292,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 261471,
-          "tmdb_type": "tv",
-          "title": "脱口秀和Ta的朋友们",
-          "sort": 5
-        },
-        {
           "tmdb_id": 203003,
           "tmdb_type": "tv",
           "title": "开始推理吧",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 261471,
+          "tmdb_type": "tv",
+          "title": "脱口秀和Ta的朋友们",
           "sort": 6
         },
         {
@@ -328,15 +328,15 @@
           "sort": 11
         },
         {
-          "tmdb_id": 297509,
-          "tmdb_type": "tv",
-          "title": "食神·百厨大战",
-          "sort": 12
-        },
-        {
           "tmdb_id": 219934,
           "tmdb_type": "tv",
           "title": "种地吧",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 297509,
+          "tmdb_type": "tv",
+          "title": "炙热游戏：百厨大战",
           "sort": 13
         },
         {

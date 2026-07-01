@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-01T00:09:54.443Z",
-  "total": 6,
+  "updated_at": "2026-07-01T11:26:41.442Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1301421,
@@ -56,10 +56,16 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1171145,
+      "tmdb_id": 1327819,
       "tmdb_type": "movie",
-      "title": "洛杉矶劫案",
+      "title": "河狸变身计划",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1515729,
+      "tmdb_type": "movie",
+      "title": "爆炸",
+      "sort": 7
     }
   ]
 }

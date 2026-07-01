@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-01T00:09:46.081Z",
+  "updated_at": "2026-07-01T11:26:32.224Z",
   "total": 20,
   "list": [
     {
@@ -174,10 +174,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 300267
+        "tv": 296436
       },
       "tmdb_type": "tv",
-      "title": "The World's Strongest Rearguard",
+      "title": "The Oblivious Saint Can't Contain Her Power",
       "sort": 20
     }
   ]
