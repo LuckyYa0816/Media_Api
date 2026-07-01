@@ -19,67 +19,67 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-06-30T11:12:47.249Z",
+  "updated_at": "2026-07-01T00:10:33.081Z",
   "total": 19,
   "list": [
-    {
-      "tmdb_id": 1081003,
-      "tmdb_type": "movie",
-      "title": "超级少女",
-      "sort": 1
-    },
     {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 2
+      "sort": 1
     },
     {
       "tmdb_id": 1238188,
       "tmdb_type": "movie",
       "title": "被俘的塞万提斯",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 1418217,
       "tmdb_type": "movie",
       "title": "棋盘上的向日葵",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1536559,
-      "tmdb_type": "movie",
-      "title": "双喜",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1305781,
-      "tmdb_type": "movie",
-      "title": "镖人：风起大漠",
-      "sort": 8
+      "sort": 5
     },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 9
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1305781,
+      "tmdb_type": "movie",
+      "title": "镖人：风起大漠",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1536559,
+      "tmdb_type": "movie",
+      "title": "双喜",
+      "sort": 8
     },
     {
       "tmdb_id": 1421609,
       "tmdb_type": "movie",
       "title": "我的妈耶",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": 1122573,
       "tmdb_type": "movie",
       "title": "金谍行动",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 11
     },
     {
@@ -89,45 +89,45 @@
       "sort": 12
     },
     {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 13
-    },
-    {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
-      "sort": 14
+      "sort": 13
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
-      "sort": 17
+      "sort": 16
     },
     {
       "tmdb_id": 1461254,
       "tmdb_type": "movie",
       "title": "杀木池",
-      "sort": 18
+      "sort": 17
     },
     {
       "tmdb_id": 936075,
       "tmdb_type": "movie",
       "title": "迈克尔·杰克逊：巨星之路",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1546855,
+      "tmdb_type": "movie",
+      "title": "我，许可",
       "sort": 19
     },
     {

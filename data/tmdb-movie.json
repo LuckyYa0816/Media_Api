@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-06-30T11:11:59.856Z",
-  "total": 8,
+  "updated_at": "2026-07-01T00:09:54.443Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1301421,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 83533,
+      "tmdb_id": 1020047,
       "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
+      "title": "但丁之手",
       "sort": 3
     },
     {
@@ -50,28 +50,16 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1020047,
+      "tmdb_id": 83533,
       "tmdb_type": "movie",
-      "title": "但丁之手",
+      "title": "阿凡达：火与烬",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1239134,
-      "tmdb_type": "movie",
-      "title": "鬼叫你要嫁",
-      "sort": 6
     },
     {
       "tmdb_id": 1171145,
       "tmdb_type": "movie",
       "title": "洛杉矶劫案",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 8
+      "sort": 6
     }
   ]
 }
