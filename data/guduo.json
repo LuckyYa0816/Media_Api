@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-07-02T00:12:39.596Z",
+  "updated_at": "2026-07-02T10:44:09.048Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -30,15 +30,15 @@
           "sort": 1
         },
         {
-          "tmdb_id": 292696,
-          "tmdb_type": "tv",
-          "title": "莫离",
-          "sort": 2
-        },
-        {
           "tmdb_id": 251600,
           "tmdb_type": "tv",
           "title": "千香",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 292696,
+          "tmdb_type": "tv",
+          "title": "莫离",
           "sort": 3
         },
         {
@@ -96,15 +96,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 276239,
+          "tmdb_id": 323146,
           "tmdb_type": "tv",
-          "title": "非份之罪",
+          "title": "谜案拼图",
           "sort": 13
         },
         {
-          "tmdb_id": 325577,
+          "tmdb_id": 276239,
           "tmdb_type": "tv",
-          "title": "妻本善良",
+          "title": "非份之罪",
           "sort": 14
         },
         {
@@ -114,15 +114,15 @@
           "sort": 15
         },
         {
-          "tmdb_id": 254498,
-          "tmdb_type": "tv",
-          "title": "黑夜告白",
-          "sort": 16
-        },
-        {
           "tmdb_id": 272715,
           "tmdb_type": "tv",
           "title": "佳偶天成",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 254498,
+          "tmdb_type": "tv",
+          "title": "黑夜告白",
           "sort": 17
         },
         {
@@ -149,69 +149,69 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 223911,
-          "tmdb_type": "tv",
-          "title": "仙逆",
-          "sort": 1
-        },
-        {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
-          "sort": 2
+          "sort": 1
         },
         {
-          "tmdb_id": 101172,
+          "tmdb_id": 223911,
           "tmdb_type": "tv",
-          "title": "吞噬星空",
-          "sort": 3
+          "title": "仙逆",
+          "sort": 2
         },
         {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 107463,
-          "tmdb_type": "tv",
-          "title": "镖人",
-          "sort": 11
+          "sort": 3
         },
         {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 101172,
+          "tmdb_type": "tv",
+          "title": "吞噬星空",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 79481,
+          "tmdb_type": "tv",
+          "title": "斗破苍穹",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 236534,
+          "tmdb_type": "tv",
+          "title": "牧神记",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 107463,
+          "tmdb_type": "tv",
+          "title": "镖人",
           "sort": 12
         },
         {
@@ -221,15 +221,15 @@
           "sort": 13
         },
         {
-          "tmdb_id": 259537,
-          "tmdb_type": "tv",
-          "title": "剑来",
-          "sort": 14
-        },
-        {
           "tmdb_id": 218642,
           "tmdb_type": "tv",
           "title": "师兄啊师兄",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 259537,
+          "tmdb_type": "tv",
+          "title": "剑来",
           "sort": 15
         },
         {
@@ -280,15 +280,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 112732,
-          "tmdb_type": "tv",
-          "title": "哈哈哈哈哈",
-          "sort": 3
-        },
-        {
           "tmdb_id": 154420,
           "tmdb_type": "tv",
           "title": "半熟恋人",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 112732,
+          "tmdb_type": "tv",
+          "title": "哈哈哈哈哈",
           "sort": 4
         },
         {
@@ -298,45 +298,45 @@
           "sort": 5
         },
         {
-          "tmdb_id": 261471,
-          "tmdb_type": "tv",
-          "title": "脱口秀和Ta的朋友们",
-          "sort": 6
-        },
-        {
           "tmdb_id": 126398,
           "tmdb_type": "tv",
           "title": "五十公里桃花坞",
-          "sort": 8
+          "sort": 6
         },
         {
-          "tmdb_id": 97199,
+          "tmdb_id": 261471,
           "tmdb_type": "tv",
-          "title": "妻子的浪漫旅行",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 251718,
-          "tmdb_type": "tv",
-          "title": "这是我的西游",
-          "sort": 10
+          "title": "脱口秀和Ta的朋友们",
+          "sort": 7
         },
         {
           "tmdb_id": 225861,
           "tmdb_type": "tv",
           "title": "中国说唱巅峰对决",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 97199,
+          "tmdb_type": "tv",
+          "title": "妻子的浪漫旅行",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 297509,
+          "tmdb_type": "tv",
+          "title": "食神·百厨大战",
           "sort": 11
+        },
+        {
+          "tmdb_id": 251718,
+          "tmdb_type": "tv",
+          "title": "这是我的西游",
+          "sort": 12
         },
         {
           "tmdb_id": 219934,
           "tmdb_type": "tv",
           "title": "种地吧",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 297509,
-          "tmdb_type": "tv",
-          "title": "炙热游戏：百厨大战",
           "sort": 13
         },
         {
@@ -378,111 +378,8 @@
       ]
     },
     "电影": {
-      "total": 17,
-      "list": [
-        {
-          "tmdb_id": 264579,
-          "tmdb_type": "movie",
-          "title": "梁婆婆重出江湖",
-          "sort": 1
-        },
-        {
-          "tmdb_id": 1719751,
-          "tmdb_type": "movie",
-          "title": "史诡记之黄泉村",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 1720660,
-          "tmdb_type": "movie",
-          "title": "盲蛇",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 1707914,
-          "tmdb_type": "movie",
-          "title": "卧底神探",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 1717507,
-          "tmdb_type": "movie",
-          "title": "白蛇传之我叫王道灵",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 1718694,
-          "tmdb_type": "movie",
-          "title": "去火星",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 1592031,
-          "tmdb_type": "movie",
-          "title": "伪钞重案",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 1712693,
-          "tmdb_type": "movie",
-          "title": "狄仁杰之血谜棺",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 1480790,
-          "tmdb_type": "movie",
-          "title": "追恶",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 1660900,
-          "tmdb_type": "movie",
-          "title": "盗墓大案",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 1654429,
-          "tmdb_type": "movie",
-          "title": "扫恶",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 1711198,
-          "tmdb_type": "movie",
-          "title": "恶念",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 1687111,
-          "tmdb_type": "movie",
-          "title": "东北往事·极恶不赦",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 1126166,
-          "tmdb_type": "movie",
-          "title": "插翅难飞",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 1688304,
-          "tmdb_type": "movie",
-          "title": "红石滩阻击战",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 1698215,
-          "tmdb_type": "movie",
-          "title": "血战青龙寨",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 1700459,
-          "tmdb_type": "movie",
-          "title": "百万诱惑",
-          "sort": 19
-        }
-      ]
+      "total": 0,
+      "list": []
     }
   }
 }

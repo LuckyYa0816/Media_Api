@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-02T00:12:14.652Z",
-  "total": 17,
+  "updated_at": "2026-07-02T10:43:41.144Z",
+  "total": 12,
   "list": [
     {
       "tmdb_id": 138502,
@@ -73,64 +73,34 @@
       "sort": 7
     },
     {
-      "tmdb_id": 273240,
-      "tmdb_type": "tv",
-      "title": "校园之外",
-      "sort": 8
-    },
-    {
       "tmdb_id": 90521,
       "tmdb_type": "tv",
       "title": "爱情岛",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 273240,
+      "tmdb_type": "tv",
+      "title": "校园之外",
       "sort": 9
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 135934,
-      "tmdb_type": "tv",
-      "title": "机械之声的传奇",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 261145,
-      "tmdb_type": "tv",
-      "title": "神奇数字马戏团",
-      "sort": 14
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
-      "sort": 15
+      "sort": 10
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
-      "sort": 16
+      "sort": 11
     },
     {
-      "tmdb_id": 322430,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "众妻之夫",
-      "sort": 17
+      "title": "辛普森一家",
+      "sort": 12
     }
   ]
 }
