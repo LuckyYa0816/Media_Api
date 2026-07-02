@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-01T11:27:08.148Z",
+  "updated_at": "2026-07-02T00:12:28.443Z",
   "total": 20,
   "list": [
     {
@@ -59,27 +59,27 @@
       "sort": 6
     },
     {
-      "tmdb_id": 272432,
-      "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 7
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 8
-    },
-    {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
-      "sort": 9
+      "sort": 7
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
+      "sort": 8
     },
     {
       "tmdb_id": 288603,
       "tmdb_type": "tv",
       "title": "炽夏",
+      "sort": 9
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 10
     },
     {
@@ -109,37 +109,37 @@
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
+      "title": "半熟恋人 第五季",
       "sort": 15
-    },
-    {
-      "tmdb_id": 239901,
-      "tmdb_type": "tv",
-      "title": "云秀行",
-      "sort": 16
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "半熟恋人 第五季",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 21712,
-      "tmdb_type": "tv",
-      "title": "潜伏",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 254486,
-      "tmdb_type": "tv",
-      "title": "雨霖铃",
-      "sort": 19
+      "title": "凡人修仙传 年番4",
+      "sort": 16
     },
     {
       "tmdb_id": 326556,
       "tmdb_type": "tv",
       "title": "斩神之凡尘神域Ⅱ",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 239901,
+      "tmdb_type": "tv",
+      "title": "云秀行",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 21712,
+      "tmdb_type": "tv",
+      "title": "潜伏",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 303084,
+      "tmdb_type": "tv",
+      "title": "入戏",
       "sort": 20
     }
   ]

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-01T11:26:36.736Z",
+  "updated_at": "2026-07-02T00:12:11.991Z",
   "total": 20,
   "list": [
     {
@@ -113,7 +113,7 @@
         "tv": 312949
       },
       "tmdb_type": "tv",
-      "title": "Yani Neko",
+      "title": "Chainsmoker Cat",
       "sort": 12
     },
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117120
-      },
-      "tmdb_type": "tv",
-      "title": "Young Ladies Don't Play Fighting Games",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 286345
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 117120
+      },
+      "tmdb_type": "tv",
+      "title": "Young Ladies Don't Play Fighting Games",
       "sort": 15
     },
     {
