@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-02T10:44:08.544Z",
+  "updated_at": "2026-07-03T00:11:01.559Z",
   "total": 20,
   "list": [
     {
@@ -29,9 +29,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1318413,
+      "tmdb_id": 1443374,
       "tmdb_type": "movie",
-      "title": "诺曼底72小时",
+      "title": "森中有林",
       "sort": 2
     },
     {
@@ -53,9 +53,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1443374,
+      "tmdb_id": 1318413,
       "tmdb_type": "movie",
-      "title": "森中有林",
+      "title": "诺曼底72小时",
       "sort": 6
     },
     {
@@ -71,15 +71,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1305781,
-      "tmdb_type": "movie",
-      "title": "镖人：风起大漠",
-      "sort": 9
-    },
-    {
       "tmdb_id": 1536559,
       "tmdb_type": "movie",
       "title": "双喜",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1305781,
+      "tmdb_type": "movie",
+      "title": "镖人：风起大漠",
       "sort": 10
     },
     {

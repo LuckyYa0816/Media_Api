@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-02T10:43:38.764Z",
+  "updated_at": "2026-07-03T00:10:15.952Z",
   "total": 20,
   "list": [
     {
@@ -158,18 +158,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 309974
+        "tv": 298994
       },
       "tmdb_type": "tv",
-      "title": "Love Unseen Beneath the Clear Night Sky",
+      "title": "The Villager of Level 999",
       "sort": 18
     },
     {
       "tmdb_id": {
-        "tv": 309974
+        "tv": 298994
       },
       "tmdb_type": "tv",
-      "title": "Love Unseen Beneath the Clear Night Sky",
+      "title": "The Villager of Level 999",
       "sort": 19
     },
     {

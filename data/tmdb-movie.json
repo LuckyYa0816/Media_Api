@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-02T10:43:44.009Z",
-  "total": 6,
+  "updated_at": "2026-07-03T00:10:20.216Z",
+  "total": 9,
   "list": [
+    {
+      "tmdb_id": 1202033,
+      "tmdb_type": "movie",
+      "title": "福尔摩斯小姐3",
+      "sort": 1
+    },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1397385,
       "tmdb_type": "movie",
       "title": "人生大弟震",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1020047,
-      "tmdb_type": "movie",
-      "title": "但丁之手",
       "sort": 3
     },
     {
@@ -60,6 +60,24 @@
       "tmdb_type": "movie",
       "title": "河狸变身计划",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1020047,
+      "tmdb_type": "movie",
+      "title": "但丁之手",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1171145,
+      "tmdb_type": "movie",
+      "title": "洛杉矶劫案",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1515729,
+      "tmdb_type": "movie",
+      "title": "爆炸",
+      "sort": 9
     }
   ]
 }
