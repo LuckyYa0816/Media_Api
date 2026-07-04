@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-04T00:08:35.062Z",
+  "updated_at": "2026-07-04T10:13:15.723Z",
   "total": 20,
   "list": [
     {
@@ -78,35 +78,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 123528
-      },
-      "tmdb_type": "tv",
-      "title": "Skeleton Knight in Another World Season 2",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
-        "tv": 255358
-      },
-      "tmdb_type": "tv",
-      "title": "THE GHOST IN THE SHELL",
-      "sort": 9
-    },
-    {
-      "tmdb_id": {
         "tv": 270603
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 10
+      "sort": 8
     },
     {
       "tmdb_id": {
-        "tv": 260823
+        "tv": 123528
       },
       "tmdb_type": "tv",
-      "title": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "sort": 11
+      "title": "Skeleton Knight in Another World Season 2",
+      "sort": 9
     },
     {
       "tmdb_id": {
@@ -114,6 +98,22 @@
       },
       "tmdb_type": "tv",
       "title": "Chainsmoker Cat",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
+        "tv": 255358
+      },
+      "tmdb_type": "tv",
+      "title": "THE GHOST IN THE SHELL",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 260823
+      },
+      "tmdb_type": "tv",
+      "title": "From Old Country Bumpkin to Master Swordsman Season 2",
       "sort": 12
     },
     {
