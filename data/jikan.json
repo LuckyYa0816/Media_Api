@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-03T10:38:54.713Z",
+  "updated_at": "2026-07-04T00:08:39.087Z",
   "total": 20,
   "list": [
     {
@@ -118,11 +118,27 @@
     },
     {
       "tmdb_id": {
+        "tv": 314554
+      },
+      "tmdb_type": "tv",
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 314554
+      },
+      "tmdb_type": "tv",
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
         "tv": 288971
       },
       "tmdb_type": "tv",
       "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 13
+      "sort": 15
     },
     {
       "tmdb_id": {
@@ -130,7 +146,7 @@
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
-      "sort": 14
+      "sort": 16
     },
     {
       "tmdb_id": {
@@ -138,22 +154,6 @@
       },
       "tmdb_type": "tv",
       "title": "Young Ladies Don't Play Fighting Games",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
-        "tv": 314554
-      },
-      "tmdb_type": "tv",
-      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
-        "tv": 314554
-      },
-      "tmdb_type": "tv",
-      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "sort": 17
     },
     {

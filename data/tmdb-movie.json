@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-03T10:38:59.753Z",
+  "updated_at": "2026-07-04T00:08:43.471Z",
   "total": 8,
   "list": [
     {
@@ -44,27 +44,27 @@
       "sort": 3
     },
     {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
+      "sort": 4
+    },
+    {
       "tmdb_id": 83533,
       "tmdb_type": "movie",
       "title": "阿凡达：火与烬",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 614945,
       "tmdb_type": "movie",
       "title": "真爱留声",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1020047,
       "tmdb_type": "movie",
       "title": "但丁之手",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
       "sort": 7
     },
     {
