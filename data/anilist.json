@@ -17,8 +17,8 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-05T00:04:41.706Z",
-  "total": 20,
+  "updated_at": "2026-07-05T10:17:50.006Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": {
@@ -70,11 +70,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 123528
+      },
+      "tmdb_type": "tv",
+      "title": "Skeleton Knight in Another World Season 2",
+      "sort": 7
+    },
+    {
+      "tmdb_id": {
         "tv": 153217
       },
       "tmdb_type": "tv",
       "title": "Sparks of Tomorrow",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": {
@@ -82,14 +90,6 @@
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
-        "tv": 123528
-      },
-      "tmdb_type": "tv",
-      "title": "Skeleton Knight in Another World Season 2",
       "sort": 9
     },
     {
@@ -102,11 +102,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 285993
+      },
+      "tmdb_type": "tv",
+      "title": "BLACK TORCH",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
         "tv": 255358
       },
       "tmdb_type": "tv",
       "title": "THE GHOST IN THE SHELL",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": {
@@ -114,14 +122,6 @@
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
-        "tv": 285993
-      },
-      "tmdb_type": "tv",
-      "title": "BLACK TORCH",
       "sort": 13
     },
     {
@@ -171,14 +171,6 @@
       "tmdb_type": "tv",
       "title": "The Oblivious Saint Can't Contain Her Power",
       "sort": 19
-    },
-    {
-      "tmdb_id": {
-        "tv": 300267
-      },
-      "tmdb_type": "tv",
-      "title": "The World's Strongest Rearguard",
-      "sort": 20
     }
   ]
 }

@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-05T00:04:50.584Z",
+  "updated_at": "2026-07-05T10:17:58.690Z",
   "total": 9,
   "list": [
     {
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1397385,
-      "tmdb_type": "movie",
-      "title": "人生大弟震",
-      "sort": 3
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1397385,
+      "tmdb_type": "movie",
+      "title": "人生大弟震",
       "sort": 4
     },
     {
@@ -68,15 +68,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1171145,
       "tmdb_type": "movie",
       "title": "洛杉矶劫案",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 9
     }
   ]
