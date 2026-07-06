@@ -17,23 +17,23 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-05T10:17:54.527Z",
+  "updated_at": "2026-07-06T00:10:02.144Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": {
-        "tv": 69346
-      },
-      "tmdb_type": "tv",
-      "title": "Saga of Tanya the Evil II",
-      "sort": 1
-    },
     {
       "tmdb_id": {
         "tv": 94664
       },
       "tmdb_type": "tv",
       "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "sort": 1
+    },
+    {
+      "tmdb_id": {
+        "tv": 69346
+      },
+      "tmdb_type": "tv",
+      "title": "Saga of Tanya the Evil II",
       "sort": 2
     },
     {
@@ -86,27 +86,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 255358
-      },
-      "tmdb_type": "tv",
-      "title": "The Ghost in the Shell",
-      "sort": 9
-    },
-    {
-      "tmdb_id": {
         "tv": 312949
       },
       "tmdb_type": "tv",
       "title": "Chainsmoker Cat",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": {
-        "tv": 270603
+        "tv": 255358
       },
       "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 11
+      "title": "The Ghost in the Shell",
+      "sort": 10
     },
     {
       "tmdb_id": {
@@ -114,14 +106,22 @@
       },
       "tmdb_type": "tv",
       "title": "Black Torch",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 12
     },
     {
       "tmdb_id": {
-        "tv": 314554
+        "tv": 288971
       },
       "tmdb_type": "tv",
-      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "title": "Jaadugar: A Witch in Mongolia",
       "sort": 13
     },
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288971
+        "tv": 314554
       },
       "tmdb_type": "tv",
-      "title": "Jaadugar: A Witch in Mongolia",
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "sort": 15
     },
     {
       "tmdb_id": {
-        "tv": 286345
+        "tv": 298994
       },
       "tmdb_type": "tv",
-      "title": "Though I Am an Inept Villainess",
+      "title": "The Villager of Level 999",
       "sort": 16
     },
     {
@@ -158,10 +158,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 298994
+        "tv": 286345
       },
       "tmdb_type": "tv",
-      "title": "The Villager of Level 999",
+      "title": "Though I Am an Inept Villainess",
       "sort": 18
     },
     {

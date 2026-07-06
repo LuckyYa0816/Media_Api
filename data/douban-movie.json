@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-05T10:18:31.230Z",
+  "updated_at": "2026-07-06T00:10:44.148Z",
   "total": 20,
   "list": [
     {
-      "tmdb_id": 1339713,
+      "tmdb_id": 1353926,
       "tmdb_type": "movie",
-      "title": "痴迷",
+      "title": "特立独行",
       "sort": 1
     },
     {
-      "tmdb_id": 1443374,
+      "tmdb_id": 1315772,
       "tmdb_type": "movie",
-      "title": "森中有林",
+      "title": "小黄人与大怪兽",
       "sort": 2
     },
     {
@@ -41,57 +41,57 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1165366,
+      "tmdb_id": 1339713,
       "tmdb_type": "movie",
-      "title": "戴高乐之战：淬炼时代",
+      "title": "痴迷",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1443374,
+      "tmdb_type": "movie",
+      "title": "森中有林",
+      "sort": 5
     },
     {
       "tmdb_id": 1413976,
       "tmdb_type": "movie",
       "title": "公民义警",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": 1536559,
       "tmdb_type": "movie",
       "title": "双喜",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 614945,
       "tmdb_type": "movie",
       "title": "真爱留声",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1305781,
-      "tmdb_type": "movie",
-      "title": "镖人：风起大漠",
       "sort": 12
     },
     {
@@ -101,15 +101,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1122573,
+      "tmdb_id": 1305781,
       "tmdb_type": "movie",
-      "title": "金谍行动",
+      "title": "镖人：风起大漠",
       "sort": 14
     },
     {
-      "tmdb_id": 1421609,
+      "tmdb_id": 1122573,
       "tmdb_type": "movie",
-      "title": "我的妈耶",
+      "title": "金谍行动",
       "sort": 15
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
+      "tmdb_id": 1421609,
+      "tmdb_type": "movie",
+      "title": "我的妈耶",
+      "sort": 17
+    },
+    {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1178620,
       "tmdb_type": "movie",
       "title": "蒙特利尔，我的美人",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": 1325734,
       "tmdb_type": "movie",
       "title": "爱情抓马",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1339588,
-      "tmdb_type": "movie",
-      "title": "寻找艾米丽",
       "sort": 20
     }
   ]

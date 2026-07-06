@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-05T10:17:58.690Z",
+  "updated_at": "2026-07-06T00:10:05.751Z",
   "total": 9,
   "list": [
     {
@@ -62,21 +62,21 @@
       "sort": 6
     },
     {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
+      "sort": 7
+    },
+    {
       "tmdb_id": 1327819,
       "tmdb_type": "movie",
       "title": "河狸变身计划",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 1171145,
       "tmdb_type": "movie",
       "title": "洛杉矶劫案",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
       "sort": 9
     }
   ]
