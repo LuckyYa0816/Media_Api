@@ -17,8 +17,8 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-06T00:09:58.034Z",
-  "total": 19,
+  "updated_at": "2026-07-06T12:06:45.039Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": {
@@ -62,35 +62,11 @@
     },
     {
       "tmdb_id": {
-        "tv": 139512
-      },
-      "tmdb_type": "tv",
-      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 123528
       },
       "tmdb_type": "tv",
       "title": "Skeleton Knight in Another World Season 2",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
-        "tv": 153217
-      },
-      "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
-        "tv": 270603
-      },
-      "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 9
+      "sort": 6
     },
     {
       "tmdb_id": {
@@ -98,7 +74,7 @@
       },
       "tmdb_type": "tv",
       "title": "Chainsmoker Cat",
-      "sort": 10
+      "sort": 7
     },
     {
       "tmdb_id": {
@@ -106,6 +82,30 @@
       },
       "tmdb_type": "tv",
       "title": "BLACK TORCH",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 139512
+      },
+      "tmdb_type": "tv",
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 9
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
+        "tv": 153217
+      },
+      "tmdb_type": "tv",
+      "title": "Sparks of Tomorrow",
       "sort": 11
     },
     {
@@ -121,7 +121,7 @@
         "tv": 260823
       },
       "tmdb_type": "tv",
-      "title": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "title": "From Old Country Bumpkin to Master Swordsman II",
       "sort": 13
     },
     {
@@ -158,11 +158,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 300267
+      },
+      "tmdb_type": "tv",
+      "title": "The World's Strongest Rearguard",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
         "tv": 309974
       },
       "tmdb_type": "tv",
       "title": "Love Unseen Beneath the Clear Night Sky",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": {
@@ -170,7 +178,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Oblivious Saint Can't Contain Her Power",
-      "sort": 19
+      "sort": 20
     }
   ]
 }

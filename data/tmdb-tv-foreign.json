@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-06T00:10:03.630Z",
-  "total": 13,
+  "updated_at": "2026-07-06T12:06:52.258Z",
+  "total": 14,
   "list": [
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
+      "sort": 1
+    },
     {
       "tmdb_id": 138502,
       "tmdb_type": "tv",
       "title": "X战警97",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 254420,
-      "tmdb_type": "tv",
-      "title": "艾丽",
       "sort": 2
     },
     {
@@ -49,15 +49,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 82452,
+      "tmdb_id": 254420,
       "tmdb_type": "tv",
-      "title": "降世神通：最后的气宗",
+      "title": "艾丽",
       "sort": 4
     },
     {
-      "tmdb_id": 60625,
+      "tmdb_id": 82452,
       "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
+      "title": "降世神通：最后的气宗",
       "sort": 5
     },
     {
@@ -73,40 +73,46 @@
       "sort": 7
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 90521,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "爱情岛",
       "sort": 8
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 287976,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "1936：盛夏尼斯",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 10
     },
     {
       "tmdb_id": 90521,
       "tmdb_type": "tv",
       "title": "爱情岛",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
       "sort": 11
     },
     {
-      "tmdb_id": 273240,
+      "tmdb_id": 287976,
       "tmdb_type": "tv",
-      "title": "校园之外",
+      "title": "1936：盛夏尼斯",
       "sort": 12
     },
     {
-      "tmdb_id": 111110,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "ONE PIECE",
+      "title": "菜鸟老警",
       "sort": 13
+    },
+    {
+      "tmdb_id": 220102,
+      "tmdb_type": "tv",
+      "title": "暗影蜘蛛侠",
+      "sort": 14
     }
   ]
 }
