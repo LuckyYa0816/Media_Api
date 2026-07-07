@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-06T12:06:50.372Z",
+  "updated_at": "2026-07-07T00:11:43.207Z",
   "total": 20,
   "list": [
     {
@@ -78,27 +78,11 @@
     },
     {
       "tmdb_id": {
-        "tv": 260823
-      },
-      "tmdb_type": "tv",
-      "title": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
         "tv": 312949
       },
       "tmdb_type": "tv",
       "title": "Chainsmoker Cat",
-      "sort": 9
-    },
-    {
-      "tmdb_id": {
-        "tv": 255358
-      },
-      "tmdb_type": "tv",
-      "title": "The Ghost in the Shell",
-      "sort": 10
+      "sort": 8
     },
     {
       "tmdb_id": {
@@ -106,7 +90,15 @@
       },
       "tmdb_type": "tv",
       "title": "Black Torch",
-      "sort": 11
+      "sort": 9
+    },
+    {
+      "tmdb_id": {
+        "tv": 260823
+      },
+      "tmdb_type": "tv",
+      "title": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "sort": 10
     },
     {
       "tmdb_id": {
@@ -114,6 +106,14 @@
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 255358
+      },
+      "tmdb_type": "tv",
+      "title": "The Ghost in the Shell",
       "sort": 12
     },
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117120
-      },
-      "tmdb_type": "tv",
-      "title": "Young Ladies Don't Play Fighting Games",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 302051
       },
       "tmdb_type": "tv",
       "title": "I Became a Legend After My 10 Year-Long Last Stand.",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 117120
+      },
+      "tmdb_type": "tv",
+      "title": "Young Ladies Don't Play Fighting Games",
       "sort": 20
     }
   ]

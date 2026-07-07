@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-06T12:06:45.039Z",
+  "updated_at": "2026-07-07T00:11:38.414Z",
   "total": 20,
   "list": [
     {
@@ -62,11 +62,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 153217
+      },
+      "tmdb_type": "tv",
+      "title": "Sparks of Tomorrow",
+      "sort": 6
+    },
+    {
+      "tmdb_id": {
         "tv": 123528
       },
       "tmdb_type": "tv",
       "title": "Skeleton Knight in Another World Season 2",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": {
@@ -74,7 +82,7 @@
       },
       "tmdb_type": "tv",
       "title": "Chainsmoker Cat",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": {
@@ -82,7 +90,7 @@
       },
       "tmdb_type": "tv",
       "title": "BLACK TORCH",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": {
@@ -90,7 +98,7 @@
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": {
@@ -98,14 +106,6 @@
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 10
-    },
-    {
-      "tmdb_id": {
-        "tv": 153217
-      },
-      "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
       "sort": 11
     },
     {

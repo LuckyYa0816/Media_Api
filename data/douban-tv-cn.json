@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-06T12:07:06.942Z",
+  "updated_at": "2026-07-07T00:11:59.362Z",
   "total": 20,
   "list": [
     {
@@ -35,27 +35,27 @@
       "sort": 2
     },
     {
-      "tmdb_id": 251600,
-      "tmdb_type": "tv",
-      "title": "千香",
-      "sort": 3
-    },
-    {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 4
+      "sort": 3
     },
     {
-      "tmdb_id": 230311,
+      "tmdb_id": 251600,
       "tmdb_type": "tv",
-      "title": "爱情有烟火",
-      "sort": 5
+      "title": "千香",
+      "sort": 4
     },
     {
       "tmdb_id": 233076,
       "tmdb_type": "tv",
       "title": "问心2",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 230311,
+      "tmdb_type": "tv",
+      "title": "爱情有烟火",
       "sort": 6
     },
     {
@@ -71,27 +71,27 @@
       "sort": 8
     },
     {
-      "tmdb_id": 319703,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "画梦录",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 9
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 10
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
       "title": "喜剧之王单口季 第三季",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 319703,
+      "tmdb_type": "tv",
+      "title": "画梦录",
       "sort": 12
     },
     {
@@ -113,15 +113,15 @@
       "sort": 15
     },
     {
-      "tmdb_id": 288603,
-      "tmdb_type": "tv",
-      "title": "炽夏",
-      "sort": 16
-    },
-    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "凡人修仙传 年番4",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 288603,
+      "tmdb_type": "tv",
+      "title": "炽夏",
       "sort": 17
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 282558,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "生命树",
+      "title": "半熟恋人 第五季",
       "sort": 19
     },
     {
-      "tmdb_id": 326556,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "斩神之凡尘神域Ⅱ",
+      "title": "潜伏",
       "sort": 20
     }
   ]
