@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-08T00:00:10.767Z",
+  "updated_at": "2026-07-08T10:21:17.065Z",
   "total": 21,
   "list": [
     {
@@ -166,11 +166,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 286345
+        "tv": 309974
       },
       "tmdb_type": "tv",
-      "title": "Though I Am an Inept Villainess",
+      "title": "Love Unseen Beneath the Clear Night Sky",
       "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 309974
+      },
+      "tmdb_type": "tv",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "sort": 20
     },
     {
       "tmdb_id": {
@@ -178,14 +186,6 @@
       },
       "tmdb_type": "tv",
       "title": "I Became a Legend After My 10 Year-Long Last Stand.",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
-        "tv": 117120
-      },
-      "tmdb_type": "tv",
-      "title": "Young Ladies Don't Play Fighting Games",
       "sort": 21
     }
   ]

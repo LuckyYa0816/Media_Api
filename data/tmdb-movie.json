@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-08T00:00:15.475Z",
+  "updated_at": "2026-07-08T10:21:21.355Z",
   "total": 7,
   "list": [
     {
@@ -32,39 +32,39 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 2
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 3
+      "sort": 2
     },
     {
-      "tmdb_id": 1266127,
+      "tmdb_id": 1301421,
       "tmdb_type": "movie",
-      "title": "准备好了没2：我来了",
-      "sort": 4
+      "title": "绵羊侦探团",
+      "sort": 3
     },
     {
       "tmdb_id": 1397385,
       "tmdb_type": "movie",
       "title": "人生大弟震",
-      "sort": 5
+      "sort": 4
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 1266127,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 6
+      "title": "准备好了没2：我来了",
+      "sort": 5
     },
     {
       "tmdb_id": 83533,
       "tmdb_type": "movie",
       "title": "阿凡达：火与烬",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
       "sort": 7
     }
   ]
