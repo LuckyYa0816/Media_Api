@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-08T10:22:04.697Z",
-  "total": 20,
+  "updated_at": "2026-07-09T00:15:09.291Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": 1339713,
@@ -35,33 +35,27 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1398655,
+      "tmdb_id": 1329471,
       "tmdb_type": "movie",
-      "title": "蓝色电影",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1688652,
-      "tmdb_type": "movie",
-      "title": "加里市",
+      "title": "卡罗来纳的卡罗琳",
       "sort": 4
     },
     {
-      "tmdb_id": 1129104,
+      "tmdb_id": 1398655,
       "tmdb_type": "movie",
-      "title": "弗拉维亚",
+      "title": "蓝色电影",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1413976,
-      "tmdb_type": "movie",
-      "title": "公民义警",
-      "sort": 6
     },
     {
       "tmdb_id": 1280738,
       "tmdb_type": "movie",
       "title": "火遮眼",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1413976,
+      "tmdb_type": "movie",
+      "title": "公民义警",
       "sort": 7
     },
     {
@@ -83,15 +77,15 @@
       "sort": 10
     },
     {
-      "tmdb_id": 614945,
+      "tmdb_id": 1368314,
       "tmdb_type": "movie",
-      "title": "真爱留声",
+      "title": "鬼上车",
       "sort": 11
     },
     {
-      "tmdb_id": 1536559,
+      "tmdb_id": 614945,
       "tmdb_type": "movie",
-      "title": "双喜",
+      "title": "真爱留声",
       "sort": 12
     },
     {
@@ -101,9 +95,9 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1368314,
+      "tmdb_id": 1536559,
       "tmdb_type": "movie",
-      "title": "鬼上车",
+      "title": "双喜",
       "sort": 14
     },
     {
@@ -131,15 +125,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1421609,
-      "tmdb_type": "movie",
-      "title": "我的妈耶",
-      "sort": 19
-    },
-    {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1421609,
+      "tmdb_type": "movie",
+      "title": "我的妈耶",
       "sort": 20
     }
   ]

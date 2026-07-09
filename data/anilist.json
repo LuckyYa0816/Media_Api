@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-08T10:21:11.504Z",
+  "updated_at": "2026-07-09T00:14:24.017Z",
   "total": 20,
   "list": [
     {
@@ -62,18 +62,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 285993
-      },
-      "tmdb_type": "tv",
-      "title": "BLACK TORCH",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 153217
       },
       "tmdb_type": "tv",
       "title": "Sparks of Tomorrow",
+      "sort": 6
+    },
+    {
+      "tmdb_id": {
+        "tv": 285993
+      },
+      "tmdb_type": "tv",
+      "title": "BLACK TORCH",
       "sort": 7
     },
     {
@@ -142,11 +142,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 117120
+      },
+      "tmdb_type": "tv",
+      "title": "Young Ladies Don't Play Fighting Games",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
         "tv": 295071
       },
       "tmdb_type": "tv",
       "title": "Goodbye, Lara",
-      "sort": 16
+      "sort": 17
     },
     {
       "tmdb_id": {
@@ -154,14 +162,6 @@
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Rearguard",
-      "sort": 17
-    },
-    {
-      "tmdb_id": {
-        "tv": 117120
-      },
-      "tmdb_type": "tv",
-      "title": "Young Ladies Don't Play Fighting Games",
       "sort": 18
     },
     {

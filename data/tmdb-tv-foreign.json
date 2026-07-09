@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-08T10:21:18.943Z",
+  "updated_at": "2026-07-09T00:14:29.703Z",
   "total": 13,
   "list": [
     {
@@ -37,15 +37,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 254420,
-      "tmdb_type": "tv",
-      "title": "艾丽",
-      "sort": 2
-    },
-    {
       "tmdb_id": 60625,
       "tmdb_type": "tv",
       "title": "瑞克和莫蒂",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 254420,
+      "tmdb_type": "tv",
+      "title": "艾丽",
       "sort": 3
     },
     {
@@ -55,57 +55,57 @@
       "sort": 4
     },
     {
-      "tmdb_id": 82452,
-      "tmdb_type": "tv",
-      "title": "降世神通：最后的气宗",
-      "sort": 5
-    },
-    {
       "tmdb_id": 278178,
       "tmdb_type": "tv",
       "title": "我会找到你",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 90521,
-      "tmdb_type": "tv",
-      "title": "爱情岛",
-      "sort": 8
+      "sort": 5
     },
     {
       "tmdb_id": 76479,
       "tmdb_type": "tv",
       "title": "黑袍纠察队",
-      "sort": 9
+      "sort": 6
+    },
+    {
+      "tmdb_id": 82452,
+      "tmdb_type": "tv",
+      "title": "降世神通：最后的气宗",
+      "sort": 7
     },
     {
       "tmdb_id": 220102,
       "tmdb_type": "tv",
       "title": "暗影蜘蛛侠",
-      "sort": 10
+      "sort": 8
     },
     {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
-      "sort": 11
+      "sort": 9
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 10
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 273240,
+      "tmdb_type": "tv",
+      "title": "校园之外",
       "sort": 12
     },
     {
-      "tmdb_id": 287976,
+      "tmdb_id": 1434,
       "tmdb_type": "tv",
-      "title": "1936：盛夏尼斯",
+      "title": "恶搞之家",
       "sort": 13
     }
   ]

@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-08T10:21:21.355Z",
+  "updated_at": "2026-07-09T00:14:31.821Z",
   "total": 7,
   "list": [
     {
@@ -32,27 +32,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 3
+      "sort": 2
     },
     {
-      "tmdb_id": 1397385,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "人生大弟震",
-      "sort": 4
+      "title": "挽救计划",
+      "sort": 3
     },
     {
       "tmdb_id": 1266127,
       "tmdb_type": "movie",
       "title": "准备好了没2：我来了",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1397385,
+      "tmdb_type": "movie",
+      "title": "人生大弟震",
       "sort": 5
     },
     {
