@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-10T00:08:17.301Z",
+  "updated_at": "2026-07-10T10:57:18.373Z",
   "total": 20,
   "list": [
     {
@@ -70,27 +70,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 153217
-      },
-      "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
         "tv": 139512
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": {
-        "tv": 123528
+        "tv": 153217
       },
       "tmdb_type": "tv",
-      "title": "Skeleton Knight in Another World Season 2",
-      "sort": 9
+      "title": "Sparks of Tomorrow",
+      "sort": 8
     },
     {
       "tmdb_id": {
@@ -98,6 +90,14 @@
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "sort": 9
+    },
+    {
+      "tmdb_id": {
+        "tv": 123528
+      },
+      "tmdb_type": "tv",
+      "title": "Skeleton Knight in Another World Season 2",
       "sort": 10
     },
     {
