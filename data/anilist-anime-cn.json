@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-07-09T00:14:25.577Z",
+  "updated_at": "2026-07-10T00:08:18.891Z",
   "total": 28,
   "list": [
     {
@@ -199,18 +199,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 71194
-      },
-      "tmdb_type": "tv",
-      "title": "Quanzhi Gaoshou Specials",
-      "sort": 23
-    },
-    {
-      "tmdb_id": {
         "tv": 98123
       },
       "tmdb_type": "tv",
       "title": "The Daily Life of the Immortal King Season 4",
+      "sort": 23
+    },
+    {
+      "tmdb_id": {
+        "tv": 71194
+      },
+      "tmdb_type": "tv",
+      "title": "Quanzhi Gaoshou Specials",
       "sort": 24
     },
     {

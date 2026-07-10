@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-09T00:14:28.015Z",
+  "updated_at": "2026-07-10T00:08:21.489Z",
   "total": 20,
   "list": [
     {
@@ -94,27 +94,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 285993
-      },
-      "tmdb_type": "tv",
-      "title": "Black Torch",
-      "sort": 10
-    },
-    {
-      "tmdb_id": {
         "tv": 255358
       },
       "tmdb_type": "tv",
       "title": "The Ghost in the Shell",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": {
-        "tv": 270603
+        "tv": 285993
       },
       "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 12
+      "title": "Black Torch",
+      "sort": 11
     },
     {
       "tmdb_id": {
@@ -122,6 +114,14 @@
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 13
     },
     {

@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-09T00:14:29.703Z",
+  "updated_at": "2026-07-10T00:08:22.799Z",
   "total": 13,
   "list": [
     {
@@ -43,69 +43,69 @@
       "sort": 2
     },
     {
-      "tmdb_id": 254420,
-      "tmdb_type": "tv",
-      "title": "艾丽",
-      "sort": 3
-    },
-    {
       "tmdb_id": 136315,
       "tmdb_type": "tv",
       "title": "熊家餐馆",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 254420,
+      "tmdb_type": "tv",
+      "title": "艾丽",
       "sort": 4
     },
     {
-      "tmdb_id": 278178,
+      "tmdb_id": 290232,
       "tmdb_type": "tv",
-      "title": "我会找到你",
+      "title": "有你，我不怕",
       "sort": 5
-    },
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 6
     },
     {
       "tmdb_id": 82452,
       "tmdb_type": "tv",
       "title": "降世神通：最后的气宗",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 278178,
+      "tmdb_type": "tv",
+      "title": "我会找到你",
       "sort": 7
-    },
-    {
-      "tmdb_id": 220102,
-      "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 9
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 10
+      "sort": 8
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
-      "sort": 11
+      "sort": 9
     },
     {
       "tmdb_id": 273240,
       "tmdb_type": "tv",
       "title": "校园之外",
-      "sort": 12
+      "sort": 10
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 220102,
+      "tmdb_type": "tv",
+      "title": "暗影蜘蛛侠",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
       "sort": 13
     }
   ]

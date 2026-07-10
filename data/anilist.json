@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-09T00:14:24.017Z",
+  "updated_at": "2026-07-10T00:08:17.301Z",
   "total": 20,
   "list": [
     {
@@ -62,35 +62,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 153217
-      },
-      "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 285993
       },
       "tmdb_type": "tv",
       "title": "BLACK TORCH",
+      "sort": 6
+    },
+    {
+      "tmdb_id": {
+        "tv": 153217
+      },
+      "tmdb_type": "tv",
+      "title": "Sparks of Tomorrow",
       "sort": 7
-    },
-    {
-      "tmdb_id": {
-        "tv": 123528
-      },
-      "tmdb_type": "tv",
-      "title": "Skeleton Knight in Another World Season 2",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
-        "tv": 270603
-      },
-      "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 9
     },
     {
       "tmdb_id": {
@@ -98,6 +82,22 @@
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 123528
+      },
+      "tmdb_type": "tv",
+      "title": "Skeleton Knight in Another World Season 2",
+      "sort": 9
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 10
     },
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288971
-      },
-      "tmdb_type": "tv",
-      "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 260823
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman II",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 288971
+      },
+      "tmdb_type": "tv",
+      "title": "Jaadugar: A Witch in Mongolia",
       "sort": 14
     },
     {

@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-09T00:15:09.291Z",
+  "updated_at": "2026-07-10T00:09:02.975Z",
   "total": 19,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1088548,
+      "tmdb_type": "movie",
+      "title": "苦涩的圣诞节",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1329471,
       "tmdb_type": "movie",
       "title": "卡罗来纳的卡罗琳",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1398655,
-      "tmdb_type": "movie",
-      "title": "蓝色电影",
       "sort": 5
     },
     {
@@ -59,15 +59,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1318413,
-      "tmdb_type": "movie",
-      "title": "诺曼底72小时",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1318413,
+      "tmdb_type": "movie",
+      "title": "诺曼底72小时",
       "sort": 9
     },
     {
@@ -83,15 +83,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 12
-    },
-    {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 614945,
+      "tmdb_type": "movie",
+      "title": "真爱留声",
       "sort": 13
     },
     {
@@ -101,15 +101,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1317512,
-      "tmdb_type": "movie",
-      "title": "世界的主人",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1388338,
       "tmdb_type": "movie",
       "title": "女孩不平凡",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1317512,
+      "tmdb_type": "movie",
+      "title": "世界的主人",
       "sort": 16
     },
     {
