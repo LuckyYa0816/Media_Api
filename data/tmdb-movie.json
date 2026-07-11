@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-11T00:01:54.443Z",
-  "total": 8,
+  "updated_at": "2026-07-11T09:40:02.426Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1202033,
@@ -56,9 +56,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1397385,
+      "tmdb_id": 1266127,
       "tmdb_type": "movie",
-      "title": "人生大弟震",
+      "title": "准备好了没2：我来了",
       "sort": 6
     },
     {
@@ -66,12 +66,6 @@
       "tmdb_type": "movie",
       "title": "河狸变身计划",
       "sort": 7
-    },
-    {
-      "tmdb_id": 1266127,
-      "tmdb_type": "movie",
-      "title": "准备好了没2：我来了",
-      "sort": 8
     }
   ]
 }
