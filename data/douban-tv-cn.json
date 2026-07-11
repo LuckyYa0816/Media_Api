@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-10T10:57:41.563Z",
+  "updated_at": "2026-07-11T00:02:05.534Z",
   "total": 20,
   "list": [
     {
@@ -59,15 +59,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 230311,
-      "tmdb_type": "tv",
-      "title": "爱情有烟火",
-      "sort": 7
-    },
-    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 230311,
+      "tmdb_type": "tv",
+      "title": "爱情有烟火",
       "sort": 8
     },
     {
@@ -77,15 +77,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 10
-    },
-    {
       "tmdb_id": 291947,
       "tmdb_type": "tv",
       "title": "昨夜将至",
+      "sort": 10
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 11
     },
     {
@@ -125,9 +125,9 @@
       "sort": 17
     },
     {
-      "tmdb_id": 233076,
+      "tmdb_id": 308085,
       "tmdb_type": "tv",
-      "title": "问心",
+      "title": "反人类暴行",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 288603,
       "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
+      "title": "炽夏",
       "sort": 20
     }
   ]

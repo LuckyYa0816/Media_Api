@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-07-10T10:57:19.932Z",
+  "updated_at": "2026-07-11T00:01:45.319Z",
   "total": 28,
   "list": [
     {
@@ -231,18 +231,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 223515
-      },
-      "tmdb_type": "tv",
-      "title": "The Girl Downstairs",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 112398
       },
       "tmdb_type": "tv",
       "title": "Heaven Official's Blessing Season 2",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 223515
+      },
+      "tmdb_type": "tv",
+      "title": "The Girl Downstairs",
       "sort": 28
     }
   ]
