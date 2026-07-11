@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-11T09:40:14.823Z",
+  "updated_at": "2026-07-11T23:59:21.572Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 273114,
-      "tmdb_type": "tv",
-      "title": "悬案",
-      "sort": 3
-    },
-    {
       "tmdb_id": 286506,
       "tmdb_type": "tv",
       "title": "百花杀",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 273114,
+      "tmdb_type": "tv",
+      "title": "悬案",
       "sort": 4
     },
     {
@@ -59,39 +59,39 @@
       "sort": 6
     },
     {
-      "tmdb_id": 272432,
+      "tmdb_id": 295558,
       "tmdb_type": "tv",
-      "title": "低智商犯罪",
+      "title": "雀骨",
       "sort": 7
     },
     {
-      "tmdb_id": 230311,
+      "tmdb_id": 272432,
       "tmdb_type": "tv",
-      "title": "爱情有烟火",
+      "title": "低智商犯罪",
       "sort": 8
-    },
-    {
-      "tmdb_id": 319703,
-      "tmdb_type": "tv",
-      "title": "画梦录",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 291947,
-      "tmdb_type": "tv",
-      "title": "昨夜将至",
-      "sort": 10
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 11
+      "sort": 9
+    },
+    {
+      "tmdb_id": 230311,
+      "tmdb_type": "tv",
+      "title": "爱情有烟火",
+      "sort": 10
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "喜剧之王单口季 第三季",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 291947,
+      "tmdb_type": "tv",
+      "title": "昨夜将至",
       "sort": 12
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
+      "tmdb_id": 319703,
+      "tmdb_type": "tv",
+      "title": "画梦录",
+      "sort": 15
+    },
+    {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 292696,
       "tmdb_type": "tv",
       "title": "莫离",
-      "sort": 16
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
       "sort": 17
     },
     {
-      "tmdb_id": 308085,
+      "tmdb_id": 326189,
       "tmdb_type": "tv",
-      "title": "反人类暴行",
+      "title": "种墨园",
       "sort": 18
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "半熟恋人 第五季",
+      "title": "地球超新鲜 第二季",
       "sort": 19
     },
     {
-      "tmdb_id": 288603,
+      "tmdb_id": 308085,
       "tmdb_type": "tv",
-      "title": "炽夏",
+      "title": "反人类暴行",
       "sort": 20
     }
   ]

@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-11T09:40:00.012Z",
+  "updated_at": "2026-07-11T23:59:00.760Z",
   "total": 11,
   "list": [
     {
@@ -49,21 +49,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 254420,
-      "tmdb_type": "tv",
-      "title": "艾丽",
-      "sort": 4
-    },
-    {
       "tmdb_id": 136315,
       "tmdb_type": "tv",
       "title": "熊家餐馆",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 278178,
+      "tmdb_type": "tv",
+      "title": "我会找到你",
       "sort": 5
     },
     {
-      "tmdb_id": 76479,
+      "tmdb_id": 254420,
       "tmdb_type": "tv",
-      "title": "黑袍纠察队",
+      "title": "艾丽",
       "sort": 6
     },
     {
@@ -73,27 +73,27 @@
       "sort": 7
     },
     {
-      "tmdb_id": 290232,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "有你，我不怕",
+      "title": "黑袍纠察队",
       "sort": 8
     },
     {
-      "tmdb_id": 273240,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "校园之外",
+      "title": "菜鸟老警",
       "sort": 9
     },
     {
-      "tmdb_id": 90521,
+      "tmdb_id": 290232,
       "tmdb_type": "tv",
-      "title": "爱情岛",
+      "title": "有你，我不怕",
       "sort": 10
     },
     {
-      "tmdb_id": 220102,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
+      "title": "海绵宝宝",
       "sort": 11
     }
   ]

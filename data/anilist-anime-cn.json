@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-07-11T09:39:55.097Z",
+  "updated_at": "2026-07-11T23:58:57.077Z",
   "total": 28,
   "list": [
     {
@@ -167,18 +167,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 107255
-      },
-      "tmdb_type": "tv",
-      "title": "Dragon Raja -The Blazing Dawn-",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 79141
       },
       "tmdb_type": "tv",
       "title": "Scissor Seven Season 3",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 107255
+      },
+      "tmdb_type": "tv",
+      "title": "Dragon Raja -The Blazing Dawn-",
       "sort": 20
     },
     {
@@ -231,18 +231,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 112398
-      },
-      "tmdb_type": "tv",
-      "title": "Heaven Official's Blessing Season 2",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 223515
       },
       "tmdb_type": "tv",
       "title": "The Girl Downstairs",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 112398
+      },
+      "tmdb_type": "tv",
+      "title": "Heaven Official's Blessing Season 2",
       "sort": 28
     }
   ]
