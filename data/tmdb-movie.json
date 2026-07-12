@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-11T23:59:02.675Z",
-  "total": 9,
+  "updated_at": "2026-07-12T09:52:46.565Z",
+  "total": 10,
   "list": [
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 1
-    },
     {
       "tmdb_id": 1202033,
       "tmdb_type": "movie",
       "title": "福尔摩斯小姐3",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 2
     },
     {
@@ -56,28 +56,34 @@
       "sort": 5
     },
     {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 614945,
-      "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1327819,
       "tmdb_type": "movie",
       "title": "河狸变身计划",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1057265,
+      "tmdb_type": "movie",
+      "title": "佩迪",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1266127,
+      "tmdb_type": "movie",
+      "title": "准备好了没2：我来了",
+      "sort": 9
     },
     {
       "tmdb_id": 1397385,
       "tmdb_type": "movie",
       "title": "人生大弟震",
-      "sort": 9
+      "sort": 10
     }
   ]
 }
