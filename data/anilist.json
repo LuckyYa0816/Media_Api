@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-12T09:52:37.913Z",
+  "updated_at": "2026-07-12T23:58:40.673Z",
   "total": 20,
   "list": [
     {
@@ -78,18 +78,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 270603
-      },
-      "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
         "tv": 139512
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 9
     },
     {
