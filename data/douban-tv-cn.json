@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-13T11:14:38.176Z",
+  "updated_at": "2026-07-13T23:56:32.700Z",
   "total": 20,
   "list": [
     {
@@ -29,15 +29,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 285143,
-      "tmdb_type": "tv",
-      "title": "灿如繁星",
-      "sort": 2
-    },
-    {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 285143,
+      "tmdb_type": "tv",
+      "title": "灿如繁星",
       "sort": 3
     },
     {
@@ -83,9 +83,9 @@
       "sort": 10
     },
     {
-      "tmdb_id": 230311,
+      "tmdb_id": 291947,
       "tmdb_type": "tv",
-      "title": "爱情有烟火",
+      "title": "昨夜将至",
       "sort": 11
     },
     {
@@ -95,9 +95,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 291947,
+      "tmdb_id": 230311,
       "tmdb_type": "tv",
-      "title": "昨夜将至",
+      "title": "爱情有烟火",
       "sort": 13
     },
     {
@@ -107,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 278605,
-      "tmdb_type": "tv",
-      "title": "南部档案",
-      "sort": 15
-    },
-    {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 278605,
+      "tmdb_type": "tv",
+      "title": "南部档案",
       "sort": 16
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 292696,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "莫离",
+      "title": "潜伏",
       "sort": 19
     },
     {
-      "tmdb_id": 308085,
+      "tmdb_id": 292696,
       "tmdb_type": "tv",
-      "title": "反人类暴行",
+      "title": "莫离",
       "sort": 20
     }
   ]
