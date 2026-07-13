@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-07-12T23:59:19.436Z",
+  "updated_at": "2026-07-13T11:14:55.768Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -36,15 +36,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 285143,
-          "tmdb_type": "tv",
-          "title": "灿如繁星",
-          "sort": 3
-        },
-        {
           "tmdb_id": 295558,
           "tmdb_type": "tv",
           "title": "雀骨",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 285143,
+          "tmdb_type": "tv",
+          "title": "灿如繁星",
           "sort": 4
         },
         {
@@ -54,21 +54,21 @@
           "sort": 5
         },
         {
-          "tmdb_id": 291947,
-          "tmdb_type": "tv",
-          "title": "昨夜将至",
-          "sort": 6
-        },
-        {
           "tmdb_id": 292696,
           "tmdb_type": "tv",
           "title": "莫离",
-          "sort": 7
+          "sort": 6
         },
         {
           "tmdb_id": 278605,
           "tmdb_type": "tv",
           "title": "南部档案",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 291947,
+          "tmdb_type": "tv",
+          "title": "昨夜将至",
           "sort": 8
         },
         {
@@ -108,33 +108,33 @@
           "sort": 14
         },
         {
+          "tmdb_id": 276567,
+          "tmdb_type": "tv",
+          "title": "夫妻的博弈",
+          "sort": 15
+        },
+        {
           "tmdb_id": 272432,
           "tmdb_type": "tv",
           "title": "低智商犯罪",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 289147,
           "tmdb_type": "tv",
           "title": "灵魂摆渡·十年",
-          "sort": 16
+          "sort": 17
         },
         {
           "tmdb_id": 326886,
           "tmdb_type": "tv",
           "title": "贵人多旺事",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 312534,
           "tmdb_type": "tv",
           "title": "克制升温",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 276567,
-          "tmdb_type": "tv",
-          "title": "夫妻的博弈",
           "sort": 19
         },
         {
@@ -149,39 +149,39 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 106449,
-          "tmdb_type": "tv",
-          "title": "凡人修仙传",
-          "sort": 1
-        },
-        {
-          "tmdb_id": 259231,
-          "tmdb_type": "tv",
-          "title": "斩神之凡尘神域",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 3
-        },
-        {
           "tmdb_id": 223911,
           "tmdb_type": "tv",
           "title": "仙逆",
-          "sort": 4
+          "sort": 1
         },
         {
-          "tmdb_id": 229192,
+          "tmdb_id": 106449,
           "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 5
+          "title": "凡人修仙传",
+          "sort": 2
         },
         {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 259231,
+          "tmdb_type": "tv",
+          "title": "斩神之凡尘神域",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
           "sort": 6
         },
         {
@@ -215,15 +215,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 107463,
-          "tmdb_type": "tv",
-          "title": "镖人",
-          "sort": 13
-        },
-        {
           "tmdb_id": 218642,
           "tmdb_type": "tv",
           "title": "师兄啊师兄",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 107463,
+          "tmdb_type": "tv",
+          "title": "镖人",
           "sort": 14
         },
         {
@@ -265,123 +265,8 @@
       ]
     },
     "综艺": {
-      "total": 19,
-      "list": [
-        {
-          "tmdb_id": 296202,
-          "tmdb_type": "tv",
-          "title": "地球超新鲜",
-          "sort": 1
-        },
-        {
-          "tmdb_id": 261471,
-          "tmdb_type": "tv",
-          "title": "脱口秀和Ta的朋友们",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 225861,
-          "tmdb_type": "tv",
-          "title": "中国说唱巅峰对决",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 203003,
-          "tmdb_type": "tv",
-          "title": "开始推理吧",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 154420,
-          "tmdb_type": "tv",
-          "title": "半熟恋人",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 261391,
-          "tmdb_type": "tv",
-          "title": "喜剧之王单口季",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 89861,
-          "tmdb_type": "tv",
-          "title": "密室大逃脱",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 126398,
-          "tmdb_type": "tv",
-          "title": "五十公里桃花坞",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 124265,
-          "tmdb_type": "tv",
-          "title": "喜欢你我也是",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 251718,
-          "tmdb_type": "tv",
-          "title": "这是我的西游",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 97199,
-          "tmdb_type": "tv",
-          "title": "妻子的浪漫旅行",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 297509,
-          "tmdb_type": "tv",
-          "title": "食神·百厨大战",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 296215,
-          "tmdb_type": "tv",
-          "title": "姐姐当家",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 219934,
-          "tmdb_type": "tv",
-          "title": "种地吧",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 112732,
-          "tmdb_type": "tv",
-          "title": "哈哈哈哈哈",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 286995,
-          "tmdb_type": "tv",
-          "title": "乘风2025",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 294253,
-          "tmdb_type": "tv",
-          "title": "我们的宿舍",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 201781,
-          "tmdb_type": "tv",
-          "title": "爸爸当家",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 326406,
-          "tmdb_type": "tv",
-          "title": "快乐老家",
-          "sort": 20
-        }
-      ]
+      "total": 0,
+      "list": []
     },
     "电影": {
       "total": 16,
@@ -435,15 +320,15 @@
           "sort": 9
         },
         {
-          "tmdb_id": 1713142,
-          "tmdb_type": "movie",
-          "title": "江湖格斗家",
-          "sort": 10
-        },
-        {
           "tmdb_id": 1480790,
           "tmdb_type": "movie",
           "title": "追恶",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 1713142,
+          "tmdb_type": "movie",
+          "title": "江湖格斗家",
           "sort": 11
         },
         {
@@ -453,15 +338,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 1717507,
-          "tmdb_type": "movie",
-          "title": "白蛇传之我叫王道灵",
-          "sort": 14
-        },
-        {
           "tmdb_id": 1718694,
           "tmdb_type": "movie",
           "title": "去火星",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 1717507,
+          "tmdb_type": "movie",
+          "title": "白蛇传之我叫王道灵",
           "sort": 15
         },
         {

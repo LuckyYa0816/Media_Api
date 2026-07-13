@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-12T23:58:46.588Z",
-  "total": 16,
+  "updated_at": "2026-07-13T11:14:20.672Z",
+  "total": 11,
   "list": [
-    {
-      "tmdb_id": 283304,
-      "tmdb_type": "tv",
-      "title": "草原上的小木屋",
-      "sort": 1
-    },
     {
       "tmdb_id": 60625,
       "tmdb_type": "tv",
       "title": "瑞克和莫蒂",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 283304,
+      "tmdb_type": "tv",
+      "title": "草原上的小木屋",
       "sort": 2
     },
     {
@@ -55,15 +55,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 278178,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "我会找到你",
+      "title": "黑袍纠察队",
       "sort": 5
     },
     {
-      "tmdb_id": 82452,
+      "tmdb_id": 290232,
       "tmdb_type": "tv",
-      "title": "降世神通：最后的气宗",
+      "title": "有你，我不怕",
       "sort": 6
     },
     {
@@ -73,58 +73,28 @@
       "sort": 7
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 278178,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "我会找到你",
       "sort": 8
+    },
+    {
+      "tmdb_id": 82452,
+      "tmdb_type": "tv",
+      "title": "降世神通：最后的气宗",
+      "sort": 9
     },
     {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
       "sort": 10
     },
     {
-      "tmdb_id": 220102,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
+      "title": "菜鸟老警",
       "sort": 11
-    },
-    {
-      "tmdb_id": 290232,
-      "tmdb_type": "tv",
-      "title": "有你，我不怕",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 220102,
-      "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 290232,
-      "tmdb_type": "tv",
-      "title": "有你，我不怕",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 16
     }
   ]
 }
