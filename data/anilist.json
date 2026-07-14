@@ -17,8 +17,8 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-14T10:00:38.465Z",
-  "total": 20,
+  "updated_at": "2026-07-14T23:55:04.231Z",
+  "total": 24,
   "list": [
     {
       "tmdb_id": {
@@ -62,27 +62,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 285574
-      },
-      "tmdb_type": "tv",
-      "title": "I Want to Love You Till Your Dying Day",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 153217
       },
       "tmdb_type": "tv",
       "title": "Sparks of Tomorrow",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": {
-        "tv": 270603
+        "tv": 285574
       },
       "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 8
+      "title": "I Want to Love You Till Your Dying Day",
+      "sort": 7
     },
     {
       "tmdb_id": {
@@ -90,6 +82,14 @@
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 9
     },
     {
@@ -118,11 +118,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 258348
+      },
+      "tmdb_type": "tv",
+      "title": "Clevatess Season 2",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
         "tv": 260823
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman II",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": {
@@ -130,7 +138,7 @@
       },
       "tmdb_type": "tv",
       "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 14
+      "sort": 15
     },
     {
       "tmdb_id": {
@@ -138,7 +146,15 @@
       },
       "tmdb_type": "tv",
       "title": "Love Unseen Beneath the Clear Night Sky",
-      "sort": 15
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
+        "tv": 250008
+      },
+      "tmdb_type": "tv",
+      "title": "Oh Boy, Was I Wrong About Her",
+      "sort": 17
     },
     {
       "tmdb_id": {
@@ -146,7 +162,7 @@
       },
       "tmdb_type": "tv",
       "title": "Young Ladies Don't Play Fighting Games",
-      "sort": 16
+      "sort": 18
     },
     {
       "tmdb_id": {
@@ -154,7 +170,15 @@
       },
       "tmdb_type": "tv",
       "title": "Goodbye, Lara",
-      "sort": 17
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 222623
+      },
+      "tmdb_type": "tv",
+      "title": "The Elusive Samurai Season 2",
+      "sort": 20
     },
     {
       "tmdb_id": {
@@ -162,7 +186,7 @@
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
-      "sort": 18
+      "sort": 21
     },
     {
       "tmdb_id": {
@@ -170,7 +194,15 @@
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Rearguard",
-      "sort": 19
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 284581
+      },
+      "tmdb_type": "tv",
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
+      "sort": 23
     },
     {
       "tmdb_id": {
@@ -178,7 +210,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Oblivious Saint Can't Contain Her Power",
-      "sort": 20
+      "sort": 24
     }
   ]
 }

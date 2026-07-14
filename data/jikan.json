@@ -17,8 +17,8 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "jikan",
-  "updated_at": "2026-07-14T10:00:42.584Z",
-  "total": 20,
+  "updated_at": "2026-07-14T23:55:08.910Z",
+  "total": 23,
   "list": [
     {
       "tmdb_id": {
@@ -94,11 +94,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 258348
+      },
+      "tmdb_type": "tv",
+      "title": "Clevatess Season 2",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
         "tv": 255358
       },
       "tmdb_type": "tv",
       "title": "The Ghost in the Shell",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": {
@@ -106,7 +114,7 @@
       },
       "tmdb_type": "tv",
       "title": "Black Torch",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": {
@@ -114,7 +122,7 @@
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman Season 2",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": {
@@ -122,7 +130,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": {
@@ -130,14 +138,6 @@
       },
       "tmdb_type": "tv",
       "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
-        "tv": 309974
-      },
-      "tmdb_type": "tv",
-      "title": "Love Unseen Beneath the Clear Night Sky",
       "sort": 15
     },
     {
@@ -150,27 +150,43 @@
     },
     {
       "tmdb_id": {
-        "tv": 314554
+        "tv": 309974
       },
       "tmdb_type": "tv",
-      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "title": "Love Unseen Beneath the Clear Night Sky",
       "sort": 17
     },
     {
       "tmdb_id": {
-        "tv": 314554
+        "tv": 222623
       },
       "tmdb_type": "tv",
-      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "title": "The Elusive Samurai Season 2",
       "sort": 18
     },
     {
       "tmdb_id": {
-        "tv": 298994
+        "tv": 314554
       },
       "tmdb_type": "tv",
-      "title": "The Villager of Level 999",
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 314554
+      },
+      "tmdb_type": "tv",
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 250008
+      },
+      "tmdb_type": "tv",
+      "title": "Oh Boy, Was I Wrong About Her",
+      "sort": 21
     },
     {
       "tmdb_id": {
@@ -178,7 +194,15 @@
       },
       "tmdb_type": "tv",
       "title": "The Villager of Level 999",
-      "sort": 20
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 298994
+      },
+      "tmdb_type": "tv",
+      "title": "The Villager of Level 999",
+      "sort": 23
     }
   ]
 }

@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-14T10:01:08.607Z",
+  "updated_at": "2026-07-14T23:55:27.500Z",
   "total": 20,
   "list": [
     {
@@ -59,33 +59,33 @@
       "sort": 6
     },
     {
-      "tmdb_id": 233076,
-      "tmdb_type": "tv",
-      "title": "问心2",
-      "sort": 7
-    },
-    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 233076,
+      "tmdb_type": "tv",
+      "title": "问心2",
       "sort": 8
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 296003,
       "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
+      "title": "小芳",
       "sort": 9
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "喜剧之王单口季 第三季",
       "sort": 10
     },
     {
-      "tmdb_id": 291947,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "昨夜将至",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 11
     },
     {
@@ -95,9 +95,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 230311,
+      "tmdb_id": 291947,
       "tmdb_type": "tv",
-      "title": "爱情有烟火",
+      "title": "昨夜将至",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
+      "tmdb_id": 230311,
+      "tmdb_type": "tv",
+      "title": "爱情有烟火",
+      "sort": 15
+    },
+    {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 278605,
       "tmdb_type": "tv",
       "title": "南部档案",
-      "sort": 16
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
       "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
+      "title": "地球超新鲜 第二季",
       "sort": 18
-    },
-    {
-      "tmdb_id": 21712,
-      "tmdb_type": "tv",
-      "title": "潜伏",
-      "sort": 19
     },
     {
       "tmdb_id": 292696,
       "tmdb_type": "tv",
       "title": "莫离",
+      "sort": 19
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "半熟恋人 第五季",
       "sort": 20
     }
   ]
