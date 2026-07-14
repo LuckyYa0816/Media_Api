@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-13T23:56:10.090Z",
+  "updated_at": "2026-07-14T10:00:38.465Z",
   "total": 20,
   "list": [
     {
@@ -62,27 +62,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 153217
-      },
-      "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 285574
       },
       "tmdb_type": "tv",
       "title": "I Want to Love You Till Your Dying Day",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": {
-        "tv": 139512
+        "tv": 153217
       },
       "tmdb_type": "tv",
-      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "sort": 8
+      "title": "Sparks of Tomorrow",
+      "sort": 7
     },
     {
       "tmdb_id": {
@@ -90,15 +82,15 @@
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": {
-        "tv": 255358
+        "tv": 139512
       },
       "tmdb_type": "tv",
-      "title": "THE GHOST IN THE SHELL",
-      "sort": 10
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 9
     },
     {
       "tmdb_id": {
@@ -106,6 +98,14 @@
       },
       "tmdb_type": "tv",
       "title": "Skeleton Knight in Another World Season 2",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
+        "tv": 255358
+      },
+      "tmdb_type": "tv",
+      "title": "THE GHOST IN THE SHELL",
       "sort": 11
     },
     {
@@ -158,18 +158,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 300267
-      },
-      "tmdb_type": "tv",
-      "title": "The World's Strongest Rearguard",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
         "tv": 286345
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 300267
+      },
+      "tmdb_type": "tv",
+      "title": "The World's Strongest Rearguard",
       "sort": 19
     },
     {
