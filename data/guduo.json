@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-07-14T23:55:41.513Z",
+  "updated_at": "2026-07-15T10:05:54.330Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -66,15 +66,15 @@
           "sort": 7
         },
         {
-          "tmdb_id": 291947,
-          "tmdb_type": "tv",
-          "title": "昨夜将至",
-          "sort": 8
-        },
-        {
           "tmdb_id": 301345,
           "tmdb_type": "tv",
           "title": "京城奇探",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 291947,
+          "tmdb_type": "tv",
+          "title": "昨夜将至",
           "sort": 9
         },
         {
@@ -155,51 +155,51 @@
           "sort": 1
         },
         {
-          "tmdb_id": 106449,
-          "tmdb_type": "tv",
-          "title": "凡人修仙传",
-          "sort": 2
-        },
-        {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 8
+          "sort": 2
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 106449,
+          "tmdb_type": "tv",
+          "title": "凡人修仙传",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 79481,
+          "tmdb_type": "tv",
+          "title": "斗破苍穹",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 236534,
+          "tmdb_type": "tv",
+          "title": "牧神记",
           "sort": 9
         },
         {
@@ -239,21 +239,21 @@
           "sort": 16
         },
         {
+          "tmdb_id": 281233,
+          "tmdb_type": "tv",
+          "title": "光阴之外",
+          "sort": 17
+        },
+        {
           "tmdb_id": 70311,
           "tmdb_type": "tv",
           "title": "全职法师",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 283805,
           "tmdb_type": "tv",
           "title": "盘龙",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 281233,
-          "tmdb_type": "tv",
-          "title": "光阴之外",
           "sort": 19
         },
         {
@@ -268,15 +268,15 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 296202,
-          "tmdb_type": "tv",
-          "title": "地球超新鲜",
-          "sort": 1
-        },
-        {
           "tmdb_id": 154420,
           "tmdb_type": "tv",
           "title": "半熟恋人",
+          "sort": 1
+        },
+        {
+          "tmdb_id": 296202,
+          "tmdb_type": "tv",
+          "title": "地球超新鲜",
           "sort": 2
         },
         {
@@ -286,57 +286,57 @@
           "sort": 3
         },
         {
-          "tmdb_id": 225861,
-          "tmdb_type": "tv",
-          "title": "中国说唱巅峰对决",
-          "sort": 5
-        },
-        {
           "tmdb_id": 89861,
           "tmdb_type": "tv",
           "title": "密室大逃脱",
-          "sort": 6
+          "sort": 5
         },
         {
           "tmdb_id": 261471,
           "tmdb_type": "tv",
           "title": "脱口秀和Ta的朋友们",
-          "sort": 7
+          "sort": 6
         },
         {
           "tmdb_id": 261391,
           "tmdb_type": "tv",
           "title": "喜剧之王单口季",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 225861,
+          "tmdb_type": "tv",
+          "title": "中国说唱巅峰对决",
           "sort": 8
-        },
-        {
-          "tmdb_id": 126398,
-          "tmdb_type": "tv",
-          "title": "五十公里桃花坞",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 124265,
-          "tmdb_type": "tv",
-          "title": "喜欢你我也是",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 251718,
-          "tmdb_type": "tv",
-          "title": "这是我的西游",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 97199,
-          "tmdb_type": "tv",
-          "title": "妻子的浪漫旅行",
-          "sort": 12
         },
         {
           "tmdb_id": 296215,
           "tmdb_type": "tv",
           "title": "姐姐当家",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 126398,
+          "tmdb_type": "tv",
+          "title": "五十公里桃花坞",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 124265,
+          "tmdb_type": "tv",
+          "title": "喜欢你我也是",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 251718,
+          "tmdb_type": "tv",
+          "title": "这是我的西游",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 97199,
+          "tmdb_type": "tv",
+          "title": "妻子的浪漫旅行",
           "sort": 13
         },
         {
@@ -405,27 +405,27 @@
           "sort": 4
         },
         {
-          "tmdb_id": 1730250,
+          "tmdb_id": 1731443,
           "tmdb_type": "movie",
-          "title": "逃出夺命镇",
+          "title": "狄仁杰之督龙锏",
           "sort": 5
-        },
-        {
-          "tmdb_id": 812573,
-          "tmdb_type": "movie",
-          "title": "长白·太岁",
-          "sort": 6
         },
         {
           "tmdb_id": 1731001,
           "tmdb_type": "movie",
           "title": "蚌家镇怪谈",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 812573,
+          "tmdb_type": "movie",
+          "title": "长白·太岁",
           "sort": 7
         },
         {
-          "tmdb_id": 1726224,
+          "tmdb_id": 1730250,
           "tmdb_type": "movie",
-          "title": "入凶宅",
+          "title": "逃出夺命镇",
           "sort": 8
         },
         {
@@ -435,57 +435,57 @@
           "sort": 9
         },
         {
+          "tmdb_id": 1726224,
+          "tmdb_type": "movie",
+          "title": "入凶宅",
+          "sort": 10
+        },
+        {
           "tmdb_id": 1726230,
           "tmdb_type": "movie",
           "title": "青丘奇缘",
-          "sort": 10
+          "sort": 11
         },
         {
           "tmdb_id": 264579,
           "tmdb_type": "movie",
           "title": "梁婆婆重出江湖",
-          "sort": 11
+          "sort": 12
         },
         {
           "tmdb_id": 1720660,
           "tmdb_type": "movie",
           "title": "盲蛇",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 1480790,
           "tmdb_type": "movie",
           "title": "追恶",
-          "sort": 13
+          "sort": 14
         },
         {
           "tmdb_id": 1713142,
           "tmdb_type": "movie",
           "title": "江湖格斗家",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 1719751,
           "tmdb_type": "movie",
           "title": "史诡记之黄泉村",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 1718694,
           "tmdb_type": "movie",
           "title": "去火星",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 1717507,
           "tmdb_type": "movie",
           "title": "白蛇传之我叫王道灵",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 1592031,
-          "tmdb_type": "movie",
-          "title": "伪钞重案",
           "sort": 19
         }
       ]

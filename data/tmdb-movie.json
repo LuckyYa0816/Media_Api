@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-14T23:55:13.338Z",
-  "total": 10,
+  "updated_at": "2026-07-15T10:05:15.826Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 687163,
@@ -56,34 +56,16 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1595852,
       "tmdb_type": "movie",
       "title": "碎梦大道",
-      "sort": 8
+      "sort": 6
     },
     {
-      "tmdb_id": 1266127,
+      "tmdb_id": 1327819,
       "tmdb_type": "movie",
-      "title": "准备好了没2：我来了",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 1397201,
-      "tmdb_type": "movie",
-      "title": "黄金神威：网走监狱袭击篇",
-      "sort": 10
+      "title": "河狸变身计划",
+      "sort": 7
     }
   ]
 }

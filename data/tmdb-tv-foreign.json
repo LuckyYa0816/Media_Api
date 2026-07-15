@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-14T23:55:10.776Z",
-  "total": 13,
+  "updated_at": "2026-07-15T10:05:13.414Z",
+  "total": 16,
   "list": [
     {
       "tmdb_id": 125988,
@@ -37,21 +37,21 @@
       "sort": 1
     },
     {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 2
-    },
-    {
       "tmdb_id": 283304,
       "tmdb_type": "tv",
       "title": "草原上的小木屋",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 138502,
       "tmdb_type": "tv",
       "title": "X战警97",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
       "sort": 4
     },
     {
@@ -61,15 +61,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 290232,
+      "tmdb_id": 82452,
       "tmdb_type": "tv",
-      "title": "有你，我不怕",
+      "title": "降世神通：最后的气宗",
       "sort": 6
     },
     {
-      "tmdb_id": 220102,
+      "tmdb_id": 278178,
       "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
+      "title": "我会找到你",
       "sort": 7
     },
     {
@@ -79,34 +79,52 @@
       "sort": 8
     },
     {
-      "tmdb_id": 278178,
+      "tmdb_id": 220102,
       "tmdb_type": "tv",
-      "title": "我会找到你",
+      "title": "暗影蜘蛛侠",
       "sort": 9
     },
     {
-      "tmdb_id": 82452,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "降世神通：最后的气宗",
+      "title": "黑袍纠察队",
       "sort": 10
-    },
-    {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 11
     },
     {
       "tmdb_id": 273240,
       "tmdb_type": "tv",
       "title": "校园之外",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 220102,
+      "tmdb_type": "tv",
+      "title": "暗影蜘蛛侠",
       "sort": 12
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "黑袍纠察队",
       "sort": 13
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 90521,
+      "tmdb_type": "tv",
+      "title": "爱情岛",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 16
     }
   ]
 }
