@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-15T10:05:53.847Z",
-  "total": 19,
+  "updated_at": "2026-07-16T00:01:44.400Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 1339713,
@@ -35,16 +35,22 @@
       "sort": 2
     },
     {
+      "tmdb_id": 412166,
+      "tmdb_type": "movie",
+      "title": "晚餐",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1154728,
       "tmdb_type": "movie",
       "title": "春中六日",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1315657,
       "tmdb_type": "movie",
       "title": "告知信",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 1280738,
@@ -95,15 +101,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1489456,
-      "tmdb_type": "movie",
-      "title": "我住在凡尔赛的日子",
-      "sort": 14
-    },
-    {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 1489456,
+      "tmdb_type": "movie",
+      "title": "我住在凡尔赛的日子",
       "sort": 15
     },
     {
@@ -113,15 +119,15 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1388338,
-      "tmdb_type": "movie",
-      "title": "女孩不平凡",
-      "sort": 17
-    },
-    {
       "tmdb_id": 1317512,
       "tmdb_type": "movie",
       "title": "世界的主人",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1388338,
+      "tmdb_type": "movie",
+      "title": "女孩不平凡",
       "sort": 18
     },
     {

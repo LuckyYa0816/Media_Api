@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-15T10:05:07.057Z",
+  "updated_at": "2026-07-16T00:01:12.012Z",
   "total": 24,
   "list": [
     {
@@ -62,18 +62,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 285574
-      },
-      "tmdb_type": "tv",
-      "title": "I Want to Love You Till Your Dying Day",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 153217
       },
       "tmdb_type": "tv",
       "title": "Sparks of Tomorrow",
+      "sort": 6
+    },
+    {
+      "tmdb_id": {
+        "tv": 285574
+      },
+      "tmdb_type": "tv",
+      "title": "I Want to Love You Till Your Dying Day",
       "sort": 7
     },
     {
@@ -158,18 +158,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 295071
-      },
-      "tmdb_type": "tv",
-      "title": "Goodbye, Lara",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
         "tv": 117120
       },
       "tmdb_type": "tv",
       "title": "Young Ladies Don't Play Fighting Games",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 295071
+      },
+      "tmdb_type": "tv",
+      "title": "Goodbye, Lara",
       "sort": 19
     },
     {
