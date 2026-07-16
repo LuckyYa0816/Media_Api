@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-16T00:01:12.012Z",
+  "updated_at": "2026-07-16T10:10:41.061Z",
   "total": 24,
   "list": [
     {
@@ -62,27 +62,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 153217
-      },
-      "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 285574
       },
       "tmdb_type": "tv",
       "title": "I Want to Love You Till Your Dying Day",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": {
-        "tv": 270603
+        "tv": 153217
       },
       "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 8
+      "title": "Sparks of Tomorrow",
+      "sort": 7
     },
     {
       "tmdb_id": {
@@ -90,6 +82,14 @@
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 9
     },
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 79166
-      },
-      "tmdb_type": "tv",
-      "title": "Grand Blue Dreaming Season 3",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 258348
       },
       "tmdb_type": "tv",
       "title": "Clevatess Season 2",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 79166
+      },
+      "tmdb_type": "tv",
+      "title": "Grand Blue Dreaming Season 3",
       "sort": 13
     },
     {
