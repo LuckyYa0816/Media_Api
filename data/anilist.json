@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-17T00:01:26.498Z",
+  "updated_at": "2026-07-17T10:00:17.562Z",
   "total": 24,
   "list": [
     {
@@ -78,18 +78,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 139512
-      },
-      "tmdb_type": "tv",
-      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
         "tv": 270603
       },
       "tmdb_type": "tv",
       "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 139512
+      },
+      "tmdb_type": "tv",
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
       "sort": 9
     },
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 79166
-      },
-      "tmdb_type": "tv",
-      "title": "Grand Blue Dreaming Season 3",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 260823
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman II",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 79166
+      },
+      "tmdb_type": "tv",
+      "title": "Grand Blue Dreaming Season 3",
       "sort": 14
     },
     {
@@ -182,18 +182,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 222623
-      },
-      "tmdb_type": "tv",
-      "title": "The Elusive Samurai Season 2",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
         "tv": 300267
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Rearguard",
+      "sort": 21
+    },
+    {
+      "tmdb_id": {
+        "tv": 222623
+      },
+      "tmdb_type": "tv",
+      "title": "The Elusive Samurai Season 2",
       "sort": 22
     },
     {

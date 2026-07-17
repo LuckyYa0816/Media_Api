@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-17T00:01:34.858Z",
-  "total": 8,
+  "updated_at": "2026-07-17T10:00:26.438Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 687163,
@@ -44,34 +44,28 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1484913,
-      "tmdb_type": "movie",
-      "title": "最后王牌",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1595852,
       "tmdb_type": "movie",
       "title": "碎梦大道",
-      "sort": 6
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1484913,
+      "tmdb_type": "movie",
+      "title": "最后王牌",
+      "sort": 5
     },
     {
       "tmdb_id": 1710008,
       "tmdb_type": "movie",
       "title": "爱无退路",
-      "sort": 7
+      "sort": 6
     },
     {
-      "tmdb_id": 614945,
+      "tmdb_id": 1327819,
       "tmdb_type": "movie",
-      "title": "真爱留声",
-      "sort": 8
+      "title": "河狸变身计划",
+      "sort": 7
     }
   ]
 }
