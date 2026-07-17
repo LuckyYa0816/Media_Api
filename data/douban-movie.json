@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-16T10:11:55.038Z",
+  "updated_at": "2026-07-17T00:02:12.760Z",
   "total": 20,
   "list": [
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
+      "sort": 15
+    },
+    {
       "tmdb_id": 1489456,
       "tmdb_type": "movie",
       "title": "我住在凡尔赛的日子",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 614945,
       "tmdb_type": "movie",
       "title": "真爱留声",
-      "sort": 16
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1275779,
+      "tmdb_type": "movie",
+      "title": "揭秘日",
+      "sort": 18
     },
     {
       "tmdb_id": 1317512,
       "tmdb_type": "movie",
       "title": "世界的主人",
-      "sort": 17
+      "sort": 19
     },
     {
       "tmdb_id": 1388338,
       "tmdb_type": "movie",
       "title": "女孩不平凡",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1536559,
-      "tmdb_type": "movie",
-      "title": "双喜",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1088548,
-      "tmdb_type": "movie",
-      "title": "苦涩的圣诞节",
       "sort": 20
     }
   ]

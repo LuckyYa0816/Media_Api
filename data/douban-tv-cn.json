@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-16T10:11:43.222Z",
+  "updated_at": "2026-07-17T00:01:53.908Z",
   "total": 20,
   "list": [
     {
@@ -53,15 +53,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 251600,
-      "tmdb_type": "tv",
-      "title": "千香",
-      "sort": 6
-    },
-    {
       "tmdb_id": 296003,
       "tmdb_type": "tv",
       "title": "小芳",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 251600,
+      "tmdb_type": "tv",
+      "title": "千香",
       "sort": 7
     },
     {
@@ -77,9 +77,9 @@
       "sort": 9
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 292696,
       "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
+      "title": "莫离",
       "sort": 10
     },
     {
@@ -91,43 +91,43 @@
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "喜剧之王单口季 第三季",
       "sort": 12
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "脱口秀和Ta的朋友们 第三季",
+      "sort": 13
     },
     {
       "tmdb_id": 291947,
       "tmdb_type": "tv",
       "title": "昨夜将至",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 230311,
-      "tmdb_type": "tv",
-      "title": "爱情有烟火",
       "sort": 15
-    },
-    {
-      "tmdb_id": 319703,
-      "tmdb_type": "tv",
-      "title": "画梦录",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 278605,
-      "tmdb_type": "tv",
-      "title": "南部档案",
-      "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "地球超新鲜 第二季",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 278127,
+      "tmdb_type": "tv",
+      "title": "唐宫奇案之青雾风鸣",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 278605,
+      "tmdb_type": "tv",
+      "title": "南部档案",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 292696,
+      "tmdb_id": 230311,
       "tmdb_type": "tv",
-      "title": "莫离",
+      "title": "爱情有烟火",
       "sort": 20
     }
   ]

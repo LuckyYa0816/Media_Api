@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-16T00:01:21.587Z",
-  "total": 9,
+  "updated_at": "2026-07-17T00:01:34.858Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 687163,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1202033,
-      "tmdb_type": "movie",
-      "title": "福尔摩斯小姐3",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1202033,
+      "tmdb_type": "movie",
+      "title": "福尔摩斯小姐3",
       "sort": 3
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1710008,
+      "tmdb_id": 1327819,
       "tmdb_type": "movie",
-      "title": "爱无退路",
+      "title": "河狸变身计划",
       "sort": 5
     },
     {
@@ -62,22 +62,16 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1397201,
+      "tmdb_id": 1710008,
       "tmdb_type": "movie",
-      "title": "黄金神威：网走监狱袭击篇",
+      "title": "爱无退路",
       "sort": 7
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 614945,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
+      "title": "真爱留声",
       "sort": 8
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 9
     }
   ]
 }
