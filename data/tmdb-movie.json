@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-17T10:00:26.438Z",
-  "total": 7,
+  "updated_at": "2026-07-17T23:55:40.351Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 687163,
@@ -38,27 +38,27 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1202033,
-      "tmdb_type": "movie",
-      "title": "福尔摩斯小姐3",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1595852,
       "tmdb_type": "movie",
       "title": "碎梦大道",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1484913,
       "tmdb_type": "movie",
       "title": "最后王牌",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1202033,
+      "tmdb_type": "movie",
+      "title": "福尔摩斯小姐3",
       "sort": 5
     },
     {
-      "tmdb_id": 1710008,
+      "tmdb_id": 1616674,
       "tmdb_type": "movie",
-      "title": "爱无退路",
+      "title": "亲情习作",
       "sort": 6
     },
     {
@@ -66,6 +66,18 @@
       "tmdb_type": "movie",
       "title": "河狸变身计划",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1710008,
+      "tmdb_type": "movie",
+      "title": "爱无退路",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
+      "sort": 9
     }
   ]
 }
