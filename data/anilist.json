@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-17T23:55:30.731Z",
+  "updated_at": "2026-07-18T09:36:17.518Z",
   "total": 24,
   "list": [
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 295071
-      },
-      "tmdb_type": "tv",
-      "title": "Goodbye, Lara",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 286345
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 295071
+      },
+      "tmdb_type": "tv",
+      "title": "Goodbye, Lara",
       "sort": 20
     },
     {
