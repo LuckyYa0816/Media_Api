@@ -22,50 +22,80 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-18T09:36:26.696Z",
-  "total": 7,
+  "updated_at": "2026-07-18T23:56:47.432Z",
+  "total": 12,
   "list": [
+    {
+      "tmdb_id": 1318621,
+      "tmdb_type": "movie",
+      "title": "星光继承者：暗黑仙境",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1468683,
+      "tmdb_type": "movie",
+      "title": "心跳为你停：直到永远",
+      "sort": 2
+    },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 1595852,
-      "tmdb_type": "movie",
-      "title": "碎梦大道",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1595852,
-      "tmdb_type": "movie",
-      "title": "碎梦大道",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1668364,
+      "tmdb_type": "movie",
+      "title": "欲海暗涌",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1656220,
+      "tmdb_type": "movie",
+      "title": "破浪救援",
+      "sort": 6
     },
     {
       "tmdb_id": 1202033,
       "tmdb_type": "movie",
       "title": "福尔摩斯小姐3",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1484913,
-      "tmdb_type": "movie",
-      "title": "最后王牌",
-      "sort": 5
+      "sort": 7
     },
     {
       "tmdb_id": 1616674,
       "tmdb_type": "movie",
       "title": "亲情习作",
-      "sort": 6
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1595852,
+      "tmdb_type": "movie",
+      "title": "碎梦大道",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1484913,
+      "tmdb_type": "movie",
+      "title": "最后王牌",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1710008,
+      "tmdb_type": "movie",
+      "title": "爱无退路",
+      "sort": 11
     },
     {
       "tmdb_id": 1327819,
       "tmdb_type": "movie",
       "title": "河狸变身计划",
-      "sort": 7
+      "sort": 12
     }
   ]
 }
