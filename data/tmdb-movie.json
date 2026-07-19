@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-18T23:56:47.432Z",
-  "total": 12,
+  "updated_at": "2026-07-19T09:53:39.219Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 1318621,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1468683,
-      "tmdb_type": "movie",
-      "title": "心跳为你停：直到永远",
-      "sort": 2
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1468683,
+      "tmdb_type": "movie",
+      "title": "心跳为你停：直到永远",
       "sort": 3
     },
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1656220,
       "tmdb_type": "movie",
       "title": "破浪救援",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
       "sort": 6
     },
     {
@@ -68,15 +68,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1616674,
-      "tmdb_type": "movie",
-      "title": "亲情习作",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1595852,
       "tmdb_type": "movie",
       "title": "碎梦大道",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1616674,
+      "tmdb_type": "movie",
+      "title": "亲情习作",
       "sort": 9
     },
     {
@@ -84,18 +84,6 @@
       "tmdb_type": "movie",
       "title": "最后王牌",
       "sort": 10
-    },
-    {
-      "tmdb_id": 1710008,
-      "tmdb_type": "movie",
-      "title": "爱无退路",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1327819,
-      "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 12
     }
   ]
 }
