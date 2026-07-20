@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-20T00:00:49.510Z",
-  "total": 11,
+  "updated_at": "2026-07-20T10:54:45.292Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 1318621,
@@ -32,27 +32,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1468683,
       "tmdb_type": "movie",
       "title": "永远心跳漏一拍",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1656220,
+      "tmdb_type": "movie",
+      "title": "破浪救援",
       "sort": 3
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 4
     },
     {
       "tmdb_id": 1668364,
       "tmdb_type": "movie",
       "title": "欲海暗涌",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
       "sort": 5
     },
     {
@@ -62,34 +62,28 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1656220,
-      "tmdb_type": "movie",
-      "title": "23000条生命",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1616674,
       "tmdb_type": "movie",
       "title": "亲情习作",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": 1202033,
       "tmdb_type": "movie",
       "title": "福尔摩斯小姐3",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 1595852,
       "tmdb_type": "movie",
       "title": "碎梦大道",
-      "sort": 10
+      "sort": 9
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 83533,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 11
+      "title": "阿凡达：火与烬",
+      "sort": 10
     }
   ]
 }
