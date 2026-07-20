@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-07-19T09:53:30.018Z",
+  "updated_at": "2026-07-20T00:00:39.731Z",
   "total": 24,
   "list": [
     {
@@ -70,18 +70,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 270603
-      },
-      "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
         "tv": 153217
       },
       "tmdb_type": "tv",
       "title": "Sparks of Tomorrow",
+      "sort": 7
+    },
+    {
+      "tmdb_id": {
+        "tv": 270603
+      },
+      "tmdb_type": "tv",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
       "sort": 8
     },
     {

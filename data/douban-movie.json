@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-19T09:54:24.643Z",
+  "updated_at": "2026-07-20T00:01:11.233Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1365378,
+      "tmdb_type": "movie",
+      "title": "扣篮梦工厂",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1245119,
       "tmdb_type": "movie",
       "title": "黄色领带",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1542261,
       "tmdb_type": "movie",
       "title": "哆啦A梦：新·大雄的海底鬼岩城",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 412166,
-      "tmdb_type": "movie",
-      "title": "晚餐",
       "sort": 5
     },
     {
@@ -59,45 +59,45 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1443374,
-      "tmdb_type": "movie",
-      "title": "森中有林",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1368314,
       "tmdb_type": "movie",
       "title": "鬼上车",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1443374,
+      "tmdb_type": "movie",
+      "title": "森中有林",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1413976,
-      "tmdb_type": "movie",
-      "title": "公民义警",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1318413,
-      "tmdb_type": "movie",
-      "title": "诺曼底72小时",
-      "sort": 12
     },
     {
       "tmdb_id": 1492501,
       "tmdb_type": "movie",
       "title": "10间敢死队",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1413976,
+      "tmdb_type": "movie",
+      "title": "公民义警",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1318413,
+      "tmdb_type": "movie",
+      "title": "诺曼底72小时",
       "sort": 13
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1202033,
-      "tmdb_type": "movie",
-      "title": "福尔摩斯小姐3",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1088548,
       "tmdb_type": "movie",
       "title": "苦涩的圣诞节",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1202033,
+      "tmdb_type": "movie",
+      "title": "福尔摩斯小姐3",
       "sort": 19
     },
     {
-      "tmdb_id": 614945,
+      "tmdb_id": 1536559,
       "tmdb_type": "movie",
-      "title": "真爱留声",
+      "title": "双喜",
       "sort": 20
     }
   ]
