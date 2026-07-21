@@ -18,132 +18,11 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-07-20T23:59:45.238Z",
+  "updated_at": "2026-07-21T10:27:27.925Z",
   "categories": {
     "剧集": {
-      "total": 20,
-      "list": [
-        {
-          "tmdb_id": 286506,
-          "tmdb_type": "tv",
-          "title": "百花杀",
-          "sort": 1
-        },
-        {
-          "tmdb_id": 295558,
-          "tmdb_type": "tv",
-          "title": "雀骨",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 291392,
-          "tmdb_type": "tv",
-          "title": "野狗骨头",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 289139,
-          "tmdb_type": "tv",
-          "title": "这一秒过火",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 285143,
-          "tmdb_type": "tv",
-          "title": "灿如繁星",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 251600,
-          "tmdb_type": "tv",
-          "title": "千香",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 301345,
-          "tmdb_type": "tv",
-          "title": "京城奇探",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 278605,
-          "tmdb_type": "tv",
-          "title": "南部档案",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 292696,
-          "tmdb_type": "tv",
-          "title": "莫离",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 291947,
-          "tmdb_type": "tv",
-          "title": "昨夜将至",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 239901,
-          "tmdb_type": "tv",
-          "title": "云秀行",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 288603,
-          "tmdb_type": "tv",
-          "title": "炽夏",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 289271,
-          "tmdb_type": "tv",
-          "title": "翘楚",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 276567,
-          "tmdb_type": "tv",
-          "title": "夫妻的博弈",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 287641,
-          "tmdb_type": "tv",
-          "title": "耀眼",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 326898,
-          "tmdb_type": "tv",
-          "title": "逆时追捕",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 272432,
-          "tmdb_type": "tv",
-          "title": "低智商犯罪",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 289147,
-          "tmdb_type": "tv",
-          "title": "灵魂摆渡·十年",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 321075,
-          "tmdb_type": "tv",
-          "title": "北派寻宝笔记",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 283952,
-          "tmdb_type": "tv",
-          "title": "良陈美锦",
-          "sort": 20
-        }
-      ]
+      "total": 0,
+      "list": []
     },
     "动漫": {
       "total": 19,
@@ -161,46 +40,46 @@
           "sort": 2
         },
         {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 3
-        },
-        {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
-          "sort": 4
+          "sort": 3
         },
         {
-          "tmdb_id": 236534,
+          "tmdb_id": 79481,
           "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 5
+          "title": "斗破苍穹",
+          "sort": 4
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 7
+          "sort": 5
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 8
+          "sort": 6
+        },
+        {
+          "tmdb_id": 236534,
+          "tmdb_type": "tv",
+          "title": "牧神记",
+          "sort": 7
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
-          "sort": 10
+          "sort": 8
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 9
         },
         {
           "tmdb_id": 224839,
@@ -268,22 +147,22 @@
       "total": 19,
       "list": [
         {
+          "tmdb_id": 154420,
+          "tmdb_type": "tv",
+          "title": "半熟恋人",
+          "sort": 1
+        },
+        {
           "tmdb_id": 296202,
           "tmdb_type": "tv",
           "title": "地球超新鲜",
-          "sort": 1
+          "sort": 2
         },
         {
           "tmdb_id": 203003,
           "tmdb_type": "tv",
           "title": "开始推理吧",
-          "sort": 2
-        },
-        {
-          "tmdb_id": 154420,
-          "tmdb_type": "tv",
-          "title": "半熟恋人",
-          "sort": 3
+          "sort": 4
         },
         {
           "tmdb_id": 261471,
@@ -298,15 +177,15 @@
           "sort": 6
         },
         {
-          "tmdb_id": 261391,
-          "tmdb_type": "tv",
-          "title": "喜剧之王单口季",
-          "sort": 7
-        },
-        {
           "tmdb_id": 225861,
           "tmdb_type": "tv",
           "title": "中国说唱巅峰对决",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 261391,
+          "tmdb_type": "tv",
+          "title": "喜剧之王单口季",
           "sort": 8
         },
         {

@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-20T23:59:05.735Z",
-  "total": 9,
+  "updated_at": "2026-07-21T10:27:02.676Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1318621,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1668364,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "欲海暗涌",
       "sort": 3
     },
     {
@@ -50,34 +50,22 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1668364,
-      "tmdb_type": "movie",
-      "title": "欲海暗涌",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1616674,
       "tmdb_type": "movie",
       "title": "亲情习作",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1595852,
-      "tmdb_type": "movie",
-      "title": "碎梦大道",
-      "sort": 8
+      "sort": 6
     },
     {
       "tmdb_id": 1202033,
       "tmdb_type": "movie",
       "title": "福尔摩斯小姐3",
-      "sort": 9
+      "sort": 7
     }
   ]
 }
