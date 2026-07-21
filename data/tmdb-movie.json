@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-21T10:27:02.676Z",
-  "total": 7,
+  "updated_at": "2026-07-21T23:57:25.504Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1318621,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1668364,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "欲海暗涌",
+      "title": "挽救计划",
       "sort": 3
     },
     {
@@ -56,16 +56,22 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1616674,
-      "tmdb_type": "movie",
-      "title": "亲情习作",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1202033,
       "tmdb_type": "movie",
       "title": "福尔摩斯小姐3",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1616674,
+      "tmdb_type": "movie",
+      "title": "亲情习作",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1327819,
+      "tmdb_type": "movie",
+      "title": "河狸变身计划",
+      "sort": 8
     }
   ]
 }

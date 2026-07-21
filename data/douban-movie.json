@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-21T10:27:27.456Z",
+  "updated_at": "2026-07-21T23:57:47.105Z",
   "total": 20,
   "list": [
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 1413976,
-      "tmdb_type": "movie",
-      "title": "公民义警",
-      "sort": 12
-    },
-    {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1413976,
+      "tmdb_type": "movie",
+      "title": "公民义警",
       "sort": 13
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1088548,
-      "tmdb_type": "movie",
-      "title": "苦涩的圣诞节",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1638171,
       "tmdb_type": "movie",
       "title": "女子当参政",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1088548,
+      "tmdb_type": "movie",
+      "title": "苦涩的圣诞节",
       "sort": 19
     },
     {

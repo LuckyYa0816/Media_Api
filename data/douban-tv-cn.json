@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-21T10:27:15.556Z",
+  "updated_at": "2026-07-21T23:57:36.324Z",
   "total": 20,
   "list": [
     {
@@ -71,21 +71,21 @@
       "sort": 8
     },
     {
-      "tmdb_id": 251600,
-      "tmdb_type": "tv",
-      "title": "千香",
-      "sort": 9
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
-      "sort": 10
-    },
-    {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 251600,
+      "tmdb_type": "tv",
+      "title": "千香",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 284110,
+      "tmdb_type": "tv",
+      "title": "主角",
       "sort": 11
     },
     {
@@ -101,21 +101,21 @@
       "sort": 13
     },
     {
-      "tmdb_id": 284110,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "主角",
+      "title": "喜剧之王单口季 第三季",
       "sort": 14
     },
     {
-      "tmdb_id": 292696,
+      "tmdb_id": 329132,
       "tmdb_type": "tv",
-      "title": "莫离",
+      "title": "江海潮生",
       "sort": 15
     },
     {
-      "tmdb_id": 230311,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "爱情有烟火",
+      "title": "潜伏",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 21712,
+      "tmdb_id": 292696,
       "tmdb_type": "tv",
-      "title": "潜伏",
+      "title": "莫离",
       "sort": 18
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
+      "title": "密室大逃脱 第八季",
       "sort": 19
     },
     {
-      "tmdb_id": 291947,
+      "tmdb_id": 230311,
       "tmdb_type": "tv",
-      "title": "昨夜将至",
+      "title": "爱情有烟火",
       "sort": 20
     }
   ]

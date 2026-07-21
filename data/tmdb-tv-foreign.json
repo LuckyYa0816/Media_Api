@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-21T10:26:59.502Z",
-  "total": 17,
+  "updated_at": "2026-07-21T23:57:22.379Z",
+  "total": 18,
   "list": [
-    {
-      "tmdb_id": 125988,
-      "tmdb_type": "tv",
-      "title": "末日地堡",
-      "sort": 1
-    },
     {
       "tmdb_id": 60625,
       "tmdb_type": "tv",
       "title": "瑞克和莫蒂",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 125988,
+      "tmdb_type": "tv",
+      "title": "末日地堡",
       "sort": 2
     },
     {
@@ -61,21 +61,21 @@
       "sort": 5
     },
     {
-      "tmdb_id": 288671,
-      "tmdb_type": "tv",
-      "title": "愿望地图",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 7
-    },
-    {
       "tmdb_id": 138502,
       "tmdb_type": "tv",
       "title": "X战警97",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 136315,
+      "tmdb_type": "tv",
+      "title": "熊家餐馆",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 288671,
+      "tmdb_type": "tv",
+      "title": "愿望地图",
       "sort": 8
     },
     {
@@ -85,52 +85,58 @@
       "sort": 9
     },
     {
-      "tmdb_id": 136315,
+      "tmdb_id": 283304,
       "tmdb_type": "tv",
-      "title": "熊家餐馆",
+      "title": "草原上的小木屋",
       "sort": 10
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 12
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
       "sort": 13
-    },
-    {
-      "tmdb_id": 283304,
-      "tmdb_type": "tv",
-      "title": "草原上的小木屋",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 82452,
-      "tmdb_type": "tv",
-      "title": "降世神通：最后的气宗",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 283304,
-      "tmdb_type": "tv",
-      "title": "草原上的小木屋",
-      "sort": 16
     },
     {
       "tmdb_id": 278178,
       "tmdb_type": "tv",
       "title": "我会找到你",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 84773,
+      "tmdb_type": "tv",
+      "title": "指环王：力量之戒",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 82452,
+      "tmdb_type": "tv",
+      "title": "降世神通：最后的气宗",
       "sort": 17
+    },
+    {
+      "tmdb_id": 108978,
+      "tmdb_type": "tv",
+      "title": "侠探杰克",
+      "sort": 18
     }
   ]
 }
