@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-07-21T23:57:16.582Z",
+  "updated_at": "2026-07-22T10:27:26.752Z",
   "total": 28,
   "list": [
     {
@@ -151,18 +151,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 79141
-      },
-      "tmdb_type": "tv",
-      "title": "Scissor Seven Season 2",
-      "sort": 17
-    },
-    {
-      "tmdb_id": {
         "tv": 123542
       },
       "tmdb_type": "tv",
       "title": "Link Click: Bridon Arc",
+      "sort": 17
+    },
+    {
+      "tmdb_id": {
+        "tv": 79141
+      },
+      "tmdb_type": "tv",
+      "title": "Scissor Seven Season 2",
       "sort": 18
     },
     {
