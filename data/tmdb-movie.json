@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-22T10:27:34.640Z",
+  "updated_at": "2026-07-23T00:02:32.045Z",
   "total": 8,
   "list": [
     {
@@ -40,19 +40,19 @@
     {
       "tmdb_id": 1468683,
       "tmdb_type": "movie",
-      "title": "心跳为你停：直到永远",
+      "title": "永远心跳漏一拍",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1656220,
-      "tmdb_type": "movie",
-      "title": "破浪救援",
-      "sort": 4
     },
     {
       "tmdb_id": 1668364,
       "tmdb_type": "movie",
       "title": "欲海暗涌",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1656220,
+      "tmdb_type": "movie",
+      "title": "破浪救援",
       "sort": 5
     },
     {
@@ -62,15 +62,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1616674,
-      "tmdb_type": "movie",
-      "title": "亲情习作",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1202033,
       "tmdb_type": "movie",
       "title": "福尔摩斯小姐3",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1616674,
+      "tmdb_type": "movie",
+      "title": "亲情习作",
       "sort": 8
     }
   ]

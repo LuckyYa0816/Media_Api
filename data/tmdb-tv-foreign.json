@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-22T10:27:32.066Z",
-  "total": 17,
+  "updated_at": "2026-07-23T00:02:29.333Z",
+  "total": 21,
   "list": [
     {
       "tmdb_id": 125988,
@@ -49,27 +49,27 @@
       "sort": 3
     },
     {
-      "tmdb_id": 241882,
-      "tmdb_type": "tv",
-      "title": "亡命闺蜜",
-      "sort": 4
-    },
-    {
       "tmdb_id": 138502,
       "tmdb_type": "tv",
       "title": "X战警97",
-      "sort": 5
+      "sort": 4
     },
     {
-      "tmdb_id": 288671,
+      "tmdb_id": 241882,
       "tmdb_type": "tv",
-      "title": "愿望地图",
-      "sort": 6
+      "title": "亡命闺蜜",
+      "sort": 5
     },
     {
       "tmdb_id": 76479,
       "tmdb_type": "tv",
       "title": "黑袍纠察队",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 235884,
+      "tmdb_type": "tv",
+      "title": "厨房噩梦",
       "sort": 7
     },
     {
@@ -79,15 +79,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 136315,
+      "tmdb_id": 288671,
       "tmdb_type": "tv",
-      "title": "熊家餐馆",
+      "title": "愿望地图",
       "sort": 9
     },
     {
-      "tmdb_id": 283304,
+      "tmdb_id": 235884,
       "tmdb_type": "tv",
-      "title": "草原上的小木屋",
+      "title": "厨房噩梦",
       "sort": 10
     },
     {
@@ -97,21 +97,21 @@
       "sort": 11
     },
     {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 4057,
-      "tmdb_type": "tv",
-      "title": "犯罪心理",
-      "sort": 13
-    },
-    {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 136315,
+      "tmdb_type": "tv",
+      "title": "熊家餐馆",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
       "sort": 14
     },
     {
@@ -121,16 +121,40 @@
       "sort": 15
     },
     {
-      "tmdb_id": 82452,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "降世神通：最后的气宗",
+      "title": "菜鸟老警",
       "sort": 16
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 84773,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "指环王：力量之戒",
       "sort": 17
+    },
+    {
+      "tmdb_id": 220102,
+      "tmdb_type": "tv",
+      "title": "暗影蜘蛛侠",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 283304,
+      "tmdb_type": "tv",
+      "title": "草原上的小木屋",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 254420,
+      "tmdb_type": "tv",
+      "title": "艾丽",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 108978,
+      "tmdb_type": "tv",
+      "title": "侠探杰克",
+      "sort": 21
     }
   ]
 }
