@@ -22,31 +22,31 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-23T00:02:32.045Z",
-  "total": 8,
+  "updated_at": "2026-07-23T10:25:11.261Z",
+  "total": 7,
   "list": [
+    {
+      "tmdb_id": 454639,
+      "tmdb_type": "movie",
+      "title": "宇宙巨人：希曼崛起",
+      "sort": 1
+    },
     {
       "tmdb_id": 1318621,
       "tmdb_type": "movie",
       "title": "星光继承者：暗黑仙境",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1468683,
       "tmdb_type": "movie",
       "title": "永远心跳漏一拍",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1668364,
-      "tmdb_type": "movie",
-      "title": "欲海暗涌",
       "sort": 4
     },
     {
@@ -56,22 +56,16 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1301421,
+      "tmdb_id": 1668364,
       "tmdb_type": "movie",
-      "title": "绵羊侦探团",
+      "title": "欲海暗涌",
       "sort": 6
     },
     {
-      "tmdb_id": 1202033,
+      "tmdb_id": 1301421,
       "tmdb_type": "movie",
-      "title": "福尔摩斯小姐3",
+      "title": "绵羊侦探团",
       "sort": 7
-    },
-    {
-      "tmdb_id": 1616674,
-      "tmdb_type": "movie",
-      "title": "亲情习作",
-      "sort": 8
     }
   ]
 }
