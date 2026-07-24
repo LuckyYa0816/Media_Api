@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-23T10:25:57.841Z",
+  "updated_at": "2026-07-24T00:04:30.843Z",
   "total": 20,
   "list": [
     {
@@ -71,15 +71,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1443374,
+      "tmdb_id": 1275779,
       "tmdb_type": "movie",
-      "title": "森中有林",
+      "title": "揭秘日",
       "sort": 9
     },
     {
-      "tmdb_id": 1368314,
+      "tmdb_id": 1443374,
       "tmdb_type": "movie",
-      "title": "鬼上车",
+      "title": "森中有林",
       "sort": 10
     },
     {
@@ -89,39 +89,39 @@
       "sort": 11
     },
     {
+      "tmdb_id": 1368314,
+      "tmdb_type": "movie",
+      "title": "鬼上车",
+      "sort": 12
+    },
+    {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 1413976,
       "tmdb_type": "movie",
       "title": "公民义警",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1275779,
-      "tmdb_type": "movie",
-      "title": "揭秘日",
       "sort": 15
-    },
-    {
-      "tmdb_id": 1314481,
-      "tmdb_type": "movie",
-      "title": "穿普拉达的女王2",
-      "sort": 16
     },
     {
       "tmdb_id": 1273221,
       "tmdb_type": "movie",
       "title": "惊声尖笑6",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
       "sort": 17
     },
     {

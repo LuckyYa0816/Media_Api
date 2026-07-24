@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-23T10:25:32.906Z",
+  "updated_at": "2026-07-24T00:04:08.970Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 291392,
-      "tmdb_type": "tv",
-      "title": "野狗骨头",
-      "sort": 3
-    },
-    {
       "tmdb_id": 285143,
       "tmdb_type": "tv",
       "title": "灿如繁星",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 286506,
       "tmdb_type": "tv",
       "title": "百花杀",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 291392,
+      "tmdb_type": "tv",
+      "title": "野狗骨头",
       "sort": 5
     },
     {
@@ -77,45 +77,45 @@
       "sort": 9
     },
     {
-      "tmdb_id": 301345,
-      "tmdb_type": "tv",
-      "title": "京城奇探",
-      "sort": 10
-    },
-    {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
-      "sort": 11
+      "sort": 10
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 301345,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 12
+      "title": "京城奇探",
+      "sort": 11
     },
     {
       "tmdb_id": 233076,
       "tmdb_type": "tv",
       "title": "问心2",
-      "sort": 13
+      "sort": 12
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "密室大逃脱 第八季",
-      "sort": 14
+      "sort": 13
     },
     {
-      "tmdb_id": 251600,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "千香",
-      "sort": 15
+      "title": "脱口秀和Ta的朋友们 第三季",
+      "sort": 14
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "喜剧之王单口季 第三季",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 251600,
+      "tmdb_type": "tv",
+      "title": "千香",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
+      "tmdb_id": 296915,
+      "tmdb_type": "tv",
+      "title": "依然的喜事",
+      "sort": 18
+    },
+    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "地球超新鲜 第二季",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": 21712,
       "tmdb_type": "tv",
       "title": "潜伏",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 296915,
-      "tmdb_type": "tv",
-      "title": "依然的喜事",
       "sort": 20
     }
   ]
