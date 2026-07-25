@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-25T00:07:29.313Z",
-  "total": 9,
+  "updated_at": "2026-07-25T09:51:05.471Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 454639,
@@ -38,33 +38,33 @@
       "sort": 2
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1630409,
       "tmdb_type": "movie",
       "title": "末路讨债人",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1487861,
       "tmdb_type": "movie",
       "title": "暗影伊莉丝",
-      "sort": 5
+      "sort": 4
     },
     {
-      "tmdb_id": 1468683,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "永远心跳漏一拍",
-      "sort": 6
+      "title": "挽救计划",
+      "sort": 5
     },
     {
       "tmdb_id": 1668364,
       "tmdb_type": "movie",
       "title": "欲海暗涌",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1468683,
+      "tmdb_type": "movie",
+      "title": "永远心跳漏一拍",
       "sort": 7
     },
     {
@@ -78,6 +78,12 @@
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
       "sort": 9
+    },
+    {
+      "tmdb_id": 1620682,
+      "tmdb_type": "movie",
+      "title": "真心慢动作",
+      "sort": 10
     }
   ]
 }
