@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-25T09:51:05.471Z",
-  "total": 10,
+  "updated_at": "2026-07-26T00:02:03.451Z",
+  "total": 11,
   "list": [
     {
       "tmdb_id": 454639,
@@ -32,27 +32,27 @@
       "sort": 1
     },
     {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 949838,
+      "tmdb_type": "movie",
+      "title": "72小时",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1318621,
       "tmdb_type": "movie",
       "title": "星光继承者：暗黑仙境",
-      "sort": 2
+      "sort": 4
     },
     {
       "tmdb_id": 1630409,
       "tmdb_type": "movie",
       "title": "末路讨债人",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1487861,
-      "tmdb_type": "movie",
-      "title": "暗影伊莉丝",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
       "sort": 5
     },
     {
@@ -62,28 +62,34 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1468683,
+      "tmdb_id": 1659155,
       "tmdb_type": "movie",
-      "title": "永远心跳漏一拍",
+      "title": "深信之渊",
       "sort": 7
     },
     {
-      "tmdb_id": 1656220,
+      "tmdb_id": 1487861,
       "tmdb_type": "movie",
-      "title": "破浪救援",
+      "title": "暗影伊莉丝",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1468683,
+      "tmdb_type": "movie",
+      "title": "永远心跳漏一拍",
+      "sort": 9
     },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 9
+      "sort": 10
     },
     {
-      "tmdb_id": 1620682,
+      "tmdb_id": 1656220,
       "tmdb_type": "movie",
-      "title": "真心慢动作",
-      "sort": 10
+      "title": "破浪救援",
+      "sort": 11
     }
   ]
 }
