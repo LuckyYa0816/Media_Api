@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-27T00:02:32.409Z",
-  "total": 12,
+  "updated_at": "2026-07-27T11:26:43.610Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 454639,
@@ -34,25 +34,25 @@
     {
       "tmdb_id": 949838,
       "tmdb_type": "movie",
-      "title": "72小时",
+      "title": "大叔乱入72小时",
       "sort": 2
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 3
     },
     {
       "tmdb_id": 1630409,
       "tmdb_type": "movie",
       "title": "末路讨债人",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1659155,
+      "tmdb_type": "movie",
+      "title": "深信之渊",
       "sort": 4
     },
     {
-      "tmdb_id": 1318621,
+      "tmdb_id": 1659155,
       "tmdb_type": "movie",
-      "title": "星光继承者：暗黑仙境",
+      "title": "深信之渊",
       "sort": 5
     },
     {
@@ -62,40 +62,16 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1668364,
+      "tmdb_id": 1318621,
       "tmdb_type": "movie",
-      "title": "欲海暗涌",
+      "title": "星光继承者：暗黑仙境",
       "sort": 7
     },
     {
-      "tmdb_id": 1659155,
+      "tmdb_id": 1668364,
       "tmdb_type": "movie",
-      "title": "深信之渊",
+      "title": "欲海暗涌",
       "sort": 8
-    },
-    {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1202033,
-      "tmdb_type": "movie",
-      "title": "福尔摩斯小姐3",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1468683,
-      "tmdb_type": "movie",
-      "title": "永远心跳漏一拍",
-      "sort": 12
     }
   ]
 }
