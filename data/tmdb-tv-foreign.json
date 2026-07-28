@@ -27,25 +27,25 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-07-28T00:04:37.023Z",
-  "total": 24,
+  "updated_at": "2026-07-28T10:37:39.284Z",
+  "total": 20,
   "list": [
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 1
-    },
     {
       "tmdb_id": 125988,
       "tmdb_type": "tv",
       "title": "末日地堡",
-      "sort": 2
+      "sort": 1
     },
     {
       "tmdb_id": 281281,
       "tmdb_type": "tv",
       "title": "GIGN：精英部队",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
       "sort": 3
     },
     {
@@ -55,124 +55,100 @@
       "sort": 4
     },
     {
+      "tmdb_id": 240993,
+      "tmdb_type": "tv",
+      "title": "兰森峡谷",
+      "sort": 5
+    },
+    {
       "tmdb_id": 138502,
       "tmdb_type": "tv",
       "title": "X战警97",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 241882,
-      "tmdb_type": "tv",
-      "title": "亡命闺蜜",
       "sort": 7
-    },
-    {
-      "tmdb_id": 240993,
-      "tmdb_type": "tv",
-      "title": "兰森峡谷",
-      "sort": 8
     },
     {
       "tmdb_id": 66732,
       "tmdb_type": "tv",
       "title": "怪奇物语",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 2122,
-      "tmdb_type": "tv",
-      "title": "山丘之王",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 254528,
-      "tmdb_type": "tv",
-      "title": "高球鹰雄",
-      "sort": 12
+      "sort": 8
     },
     {
       "tmdb_id": 324434,
       "tmdb_type": "tv",
       "title": "露娜：重返轮滑",
-      "sort": 13
+      "sort": 9
     },
     {
-      "tmdb_id": 84773,
+      "tmdb_id": 4057,
       "tmdb_type": "tv",
-      "title": "指环王：力量之戒",
-      "sort": 14
+      "title": "犯罪心理",
+      "sort": 10
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 136315,
-      "tmdb_type": "tv",
-      "title": "熊家餐馆",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 323411,
-      "tmdb_type": "tv",
-      "title": "吸血鬼莱斯特",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 220102,
-      "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
-      "sort": 20
+      "title": "黑袍纠察队",
+      "sort": 11
     },
     {
       "tmdb_id": 277640,
       "tmdb_type": "tv",
       "title": "寻迹庞贝古城：与汤姆·希德勒斯顿同行",
-      "sort": 21
+      "sort": 12
     },
     {
-      "tmdb_id": 278178,
+      "tmdb_id": 615,
       "tmdb_type": "tv",
-      "title": "我会找到你",
-      "sort": 22
+      "title": "飞出个未来",
+      "sort": 13
     },
     {
-      "tmdb_id": 273240,
+      "tmdb_id": 323411,
       "tmdb_type": "tv",
-      "title": "校园之外",
-      "sort": 23
+      "title": "吸血鬼莱斯特",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 323411,
+      "tmdb_type": "tv",
+      "title": "吸血鬼莱斯特",
+      "sort": 15
     },
     {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
-      "sort": 24
+      "sort": 16
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 136315,
+      "tmdb_type": "tv",
+      "title": "熊家餐馆",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 254528,
+      "tmdb_type": "tv",
+      "title": "高球鹰雄",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 2122,
+      "tmdb_type": "tv",
+      "title": "山丘之王",
+      "sort": 20
     }
   ]
 }

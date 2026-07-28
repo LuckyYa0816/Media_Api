@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-28T00:04:39.919Z",
-  "total": 10,
+  "updated_at": "2026-07-28T10:37:41.260Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 454639,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1630409,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "末路讨债人",
       "sort": 3
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1630409,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "末路讨债人",
+      "title": "挽救计划",
       "sort": 5
     },
     {
@@ -68,22 +68,10 @@
       "sort": 7
     },
     {
-      "tmdb_id": 83533,
+      "tmdb_id": 1620682,
       "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
+      "title": "真心慢动作",
       "sort": 8
-    },
-    {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 1061474,
-      "tmdb_type": "movie",
-      "title": "超人",
-      "sort": 10
     }
   ]
 }
