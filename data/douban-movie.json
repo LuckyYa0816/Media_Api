@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-28T10:38:33.762Z",
+  "updated_at": "2026-07-29T00:00:32.458Z",
   "total": 20,
   "list": [
     {
@@ -89,51 +89,51 @@
       "sort": 11
     },
     {
+      "tmdb_id": 1488778,
+      "tmdb_type": "movie",
+      "title": "今晚正好",
+      "sort": 12
+    },
+    {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
-      "sort": 12
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1081003,
+      "tmdb_type": "movie",
+      "title": "超级少女",
+      "sort": 14
     },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 13
+      "sort": 15
     },
     {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
-      "sort": 14
+      "sort": 16
     },
     {
       "tmdb_id": 1443374,
       "tmdb_type": "movie",
       "title": "森中有林",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1488778,
-      "tmdb_type": "movie",
-      "title": "今晚正好",
-      "sort": 16
+      "sort": 17
     },
     {
       "tmdb_id": 1273221,
       "tmdb_type": "movie",
       "title": "惊声尖笑6",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1368314,
-      "tmdb_type": "movie",
-      "title": "鬼上车",
       "sort": 19
     },
     {

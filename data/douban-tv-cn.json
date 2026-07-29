@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-28T10:38:06.620Z",
+  "updated_at": "2026-07-29T00:00:21.297Z",
   "total": 20,
   "list": [
     {
@@ -59,87 +59,87 @@
       "sort": 6
     },
     {
+      "tmdb_id": 295599,
+      "tmdb_type": "tv",
+      "title": "御廷谣",
+      "sort": 7
+    },
+    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 7
+      "sort": 8
+    },
+    {
+      "tmdb_id": 280735,
+      "tmdb_type": "tv",
+      "title": "春日之地",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 296915,
+      "tmdb_type": "tv",
+      "title": "依然的喜事",
+      "sort": 10
     },
     {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
-      "sort": 8
+      "sort": 11
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 9
+      "sort": 12
     },
     {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
-      "sort": 10
+      "sort": 13
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "地球超新鲜 第二季",
-      "sort": 11
+      "sort": 14
     },
     {
       "tmdb_id": 296003,
       "tmdb_type": "tv",
       "title": "小芳",
-      "sort": 12
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "密室大逃脱 第八季",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 251600,
-      "tmdb_type": "tv",
-      "title": "千香",
-      "sort": 14
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
       "sort": 15
     },
     {
-      "tmdb_id": 283780,
+      "tmdb_id": 278605,
       "tmdb_type": "tv",
-      "title": "兵自风中来",
+      "title": "南部档案",
       "sort": 16
-    },
-    {
-      "tmdb_id": 319703,
-      "tmdb_type": "tv",
-      "title": "画梦录",
-      "sort": 17
     },
     {
       "tmdb_id": 73028,
       "tmdb_type": "tv",
       "title": "我的前半生",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 283780,
+      "tmdb_type": "tv",
+      "title": "兵自风中来",
       "sort": 18
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "茶啊二中 第六季",
+      "title": "密室大逃脱 第八季",
       "sort": 19
     },
     {
-      "tmdb_id": 21712,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "潜伏",
+      "title": "喜剧之王单口季 第三季",
       "sort": 20
     }
   ]
