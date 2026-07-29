@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-29T00:00:10.027Z",
-  "total": 7,
+  "updated_at": "2026-07-29T10:41:11.564Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 454639,
@@ -44,15 +44,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1659155,
-      "tmdb_type": "movie",
-      "title": "深信之渊",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1630409,
       "tmdb_type": "movie",
       "title": "末路讨债人",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1659155,
+      "tmdb_type": "movie",
+      "title": "深信之渊",
       "sort": 5
     },
     {
@@ -66,6 +66,12 @@
       "tmdb_type": "movie",
       "title": "星光继承者：暗黑仙境",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1620682,
+      "tmdb_type": "movie",
+      "title": "真心慢动作",
+      "sort": 8
     }
   ]
 }
