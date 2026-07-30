@@ -19,67 +19,67 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-29T10:41:25.160Z",
+  "updated_at": "2026-07-30T00:03:09.205Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 273114,
+      "tmdb_type": "tv",
+      "title": "悬案",
+      "sort": 1
+    },
     {
       "tmdb_id": 289139,
       "tmdb_type": "tv",
       "title": "这一秒过火",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 273114,
-      "tmdb_type": "tv",
-      "title": "悬案",
       "sort": 3
-    },
-    {
-      "tmdb_id": 291392,
-      "tmdb_type": "tv",
-      "title": "野狗骨头",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 286506,
-      "tmdb_type": "tv",
-      "title": "百花杀",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 285143,
-      "tmdb_type": "tv",
-      "title": "灿如繁星",
-      "sort": 6
     },
     {
       "tmdb_id": 295599,
       "tmdb_type": "tv",
       "title": "御廷谣",
-      "sort": 7
+      "sort": 4
     },
     {
-      "tmdb_id": 272432,
+      "tmdb_id": 291392,
       "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 8
+      "title": "野狗骨头",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 286506,
+      "tmdb_type": "tv",
+      "title": "百花杀",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 285143,
+      "tmdb_type": "tv",
+      "title": "灿如繁星",
+      "sort": 7
     },
     {
       "tmdb_id": 280735,
       "tmdb_type": "tv",
       "title": "春日之地",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 296915,
       "tmdb_type": "tv",
       "title": "依然的喜事",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
       "sort": 10
     },
     {
@@ -89,57 +89,57 @@
       "sort": 11
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
-      "sort": 12
-    },
-    {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
-      "sort": 13
+      "sort": 12
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 296003,
-      "tmdb_type": "tv",
-      "title": "小芳",
-      "sort": 15
+      "title": "脱口秀和Ta的朋友们 第三季",
+      "sort": 13
     },
     {
       "tmdb_id": 278605,
       "tmdb_type": "tv",
       "title": "南部档案",
-      "sort": 16
+      "sort": 14
     },
     {
       "tmdb_id": 73028,
       "tmdb_type": "tv",
       "title": "我的前半生",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 283780,
-      "tmdb_type": "tv",
-      "title": "兵自风中来",
-      "sort": 18
+      "sort": 15
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "密室大逃脱 第八季",
-      "sort": 19
+      "sort": 16
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "半熟恋人 第五季",
+      "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "喜剧之王单口季 第三季",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 283780,
+      "tmdb_type": "tv",
+      "title": "兵自风中来",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 233076,
+      "tmdb_type": "tv",
+      "title": "问心2",
       "sort": 20
     }
   ]

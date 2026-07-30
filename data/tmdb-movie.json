@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-29T10:41:11.564Z",
+  "updated_at": "2026-07-30T00:02:59.082Z",
   "total": 8,
   "list": [
     {
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 949838,
-      "tmdb_type": "movie",
-      "title": "大叔乱入72小时",
-      "sort": 2
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 949838,
+      "tmdb_type": "movie",
+      "title": "大叔乱入72小时",
       "sort": 3
     },
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1659155,
-      "tmdb_type": "movie",
-      "title": "深信之渊",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1487861,
       "tmdb_type": "movie",
       "title": "暗影伊莉丝",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1659155,
+      "tmdb_type": "movie",
+      "title": "深信之疑",
       "sort": 6
     },
     {
@@ -68,9 +68,9 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1620682,
+      "tmdb_id": 83533,
       "tmdb_type": "movie",
-      "title": "真心慢动作",
+      "title": "阿凡达：火与烬",
       "sort": 8
     }
   ]
