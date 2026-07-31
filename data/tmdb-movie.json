@@ -22,56 +22,68 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-07-30T00:02:59.082Z",
-  "total": 8,
+  "updated_at": "2026-07-31T00:05:12.671Z",
+  "total": 10,
   "list": [
+    {
+      "tmdb_id": 1481343,
+      "tmdb_type": "movie",
+      "title": "恶魔之口",
+      "sort": 1
+    },
     {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
-      "sort": 1
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 949838,
+      "tmdb_type": "movie",
+      "title": "72小时",
+      "sort": 4
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 949838,
-      "tmdb_type": "movie",
-      "title": "大叔乱入72小时",
-      "sort": 3
+      "sort": 5
     },
     {
       "tmdb_id": 1630409,
       "tmdb_type": "movie",
       "title": "末路讨债人",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1487861,
-      "tmdb_type": "movie",
-      "title": "暗影伊莉丝",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1659155,
       "tmdb_type": "movie",
       "title": "深信之疑",
-      "sort": 6
+      "sort": 7
     },
     {
-      "tmdb_id": 1318621,
+      "tmdb_id": 1487861,
       "tmdb_type": "movie",
-      "title": "星光继承者：暗黑仙境",
-      "sort": 7
+      "title": "暗影伊莉丝",
+      "sort": 8
     },
     {
       "tmdb_id": 83533,
       "tmdb_type": "movie",
       "title": "阿凡达：火与烬",
-      "sort": 8
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1439930,
+      "tmdb_type": "movie",
+      "title": "惩罚者：最后一击",
+      "sort": 10
     }
   ]
 }

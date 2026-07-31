@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-30T10:27:50.895Z",
+  "updated_at": "2026-07-31T00:05:31.807Z",
   "total": 20,
   "list": [
     {
@@ -41,39 +41,39 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1468683,
-      "tmdb_type": "movie",
-      "title": "永远心跳漏一拍",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1397485,
-      "tmdb_type": "movie",
-      "title": "互爱女孩",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1083381,
       "tmdb_type": "movie",
       "title": "后室",
-      "sort": 6
+      "sort": 4
     },
     {
       "tmdb_id": 1499071,
       "tmdb_type": "movie",
       "title": "寒战1994",
-      "sort": 7
+      "sort": 5
     },
     {
       "tmdb_id": 1275779,
       "tmdb_type": "movie",
       "title": "揭秘日",
-      "sort": 8
+      "sort": 6
     },
     {
       "tmdb_id": 1492501,
       "tmdb_type": "movie",
       "title": "10间敢死队",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1468683,
+      "tmdb_type": "movie",
+      "title": "永远心跳漏一拍",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1488778,
+      "tmdb_type": "movie",
+      "title": "今晚正好",
       "sort": 9
     },
     {
@@ -83,15 +83,15 @@
       "sort": 10
     },
     {
-      "tmdb_id": 1488778,
-      "tmdb_type": "movie",
-      "title": "今晚正好",
-      "sort": 11
-    },
-    {
       "tmdb_id": 1081003,
       "tmdb_type": "movie",
       "title": "超级少女",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1564614,
+      "tmdb_type": "movie",
+      "title": "利未记",
       "sort": 12
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1564614,
-      "tmdb_type": "movie",
-      "title": "利未记",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": 1301421,
       "tmdb_type": "movie",
       "title": "绵羊侦探团",
-      "sort": 17
+      "sort": 16
     },
     {
       "tmdb_id": 1273221,
       "tmdb_type": "movie",
       "title": "惊声尖笑6",
-      "sort": 18
+      "sort": 17
     },
     {
       "tmdb_id": 1443374,
       "tmdb_type": "movie",
       "title": "森中有林",
-      "sort": 19
+      "sort": 18
     },
     {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
       "sort": 20
     }
   ]
