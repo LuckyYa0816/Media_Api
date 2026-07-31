@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-31T00:05:22.222Z",
+  "updated_at": "2026-07-31T10:41:48.903Z",
   "total": 20,
   "list": [
     {
@@ -35,7 +35,7 @@
       "sort": 2
     },
     {
-      "tmdb_id": 67868,
+      "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
       "sort": 3
