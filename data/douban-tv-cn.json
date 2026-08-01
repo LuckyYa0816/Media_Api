@@ -19,13 +19,13 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-07-31T10:41:48.903Z",
+  "updated_at": "2026-08-01T00:04:03.599Z",
   "total": 20,
   "list": [
     {
-      "tmdb_id": 295599,
+      "tmdb_id": 271016,
       "tmdb_type": "tv",
-      "title": "御廷谣",
+      "title": "九门",
       "sort": 1
     },
     {
@@ -35,9 +35,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 271016,
+      "tmdb_id": 295599,
       "tmdb_type": "tv",
-      "title": "九门",
+      "title": "御廷谣",
       "sort": 3
     },
     {
@@ -71,27 +71,27 @@
       "sort": 8
     },
     {
-      "tmdb_id": 285143,
-      "tmdb_type": "tv",
-      "title": "灿如繁星",
-      "sort": 9
-    },
-    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 10
+      "sort": 9
     },
     {
-      "tmdb_id": 301345,
+      "tmdb_id": 285143,
       "tmdb_type": "tv",
-      "title": "京城奇探",
-      "sort": 11
+      "title": "灿如繁星",
+      "sort": 10
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "一饭封神2",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 301345,
+      "tmdb_type": "tv",
+      "title": "京城奇探",
       "sort": 12
     },
     {
@@ -109,37 +109,37 @@
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "半熟恋人 第五季",
       "sort": 15
     },
     {
-      "tmdb_id": 280735,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "春日之地",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 16
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "密室大逃脱 第八季",
-      "sort": 17
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "半熟恋人 第五季",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 73028,
-      "tmdb_type": "tv",
-      "title": "我的前半生",
-      "sort": 19
     },
     {
       "tmdb_id": 278605,
       "tmdb_type": "tv",
       "title": "南部档案",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 73028,
+      "tmdb_type": "tv",
+      "title": "我的前半生",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 280735,
+      "tmdb_type": "tv",
+      "title": "春日之地",
+      "sort": 19
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "开始推理吧 第四季",
       "sort": 20
     }
   ]

@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-07-31T10:41:59.810Z",
+  "updated_at": "2026-08-01T00:04:14.181Z",
   "total": 20,
   "list": [
     {
@@ -41,15 +41,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1083381,
-      "tmdb_type": "movie",
-      "title": "后室",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1499071,
       "tmdb_type": "movie",
       "title": "寒战1994",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1083381,
+      "tmdb_type": "movie",
+      "title": "后室",
       "sort": 5
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1443374,
-      "tmdb_type": "movie",
-      "title": "森中有林",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1321179,
       "tmdb_type": "movie",
       "title": "与王生活的男人",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1443374,
+      "tmdb_type": "movie",
+      "title": "森中有林",
       "sort": 19
     },
     {
