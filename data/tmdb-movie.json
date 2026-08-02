@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-01T23:59:18.717Z",
+  "updated_at": "2026-08-02T09:59:45.771Z",
   "total": 9,
   "list": [
     {
@@ -44,21 +44,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 5
     },
     {
-      "tmdb_id": 1659155,
+      "tmdb_id": 1396749,
       "tmdb_type": "movie",
-      "title": "深信之疑",
+      "title": "狂唱下半场",
       "sort": 6
     },
     {
@@ -68,15 +68,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1396749,
+      "tmdb_id": 1659155,
       "tmdb_type": "movie",
-      "title": "狂唱下半场",
+      "title": "深信之疑",
       "sort": 8
     },
     {
-      "tmdb_id": 1487861,
+      "tmdb_id": 83533,
       "tmdb_type": "movie",
-      "title": "暗影伊莉丝",
+      "title": "阿凡达：火与烬",
       "sort": 9
     }
   ]

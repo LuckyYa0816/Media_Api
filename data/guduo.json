@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-08-01T23:59:56.680Z",
+  "updated_at": "2026-08-02T10:00:15.448Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -36,15 +36,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 286506,
-          "tmdb_type": "tv",
-          "title": "百花杀",
-          "sort": 3
-        },
-        {
           "tmdb_id": 289139,
           "tmdb_type": "tv",
           "title": "这一秒过火",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 286506,
+          "tmdb_type": "tv",
+          "title": "百花杀",
           "sort": 4
         },
         {
@@ -84,15 +84,15 @@
           "sort": 10
         },
         {
-          "tmdb_id": 285143,
-          "tmdb_type": "tv",
-          "title": "灿如繁星",
-          "sort": 11
-        },
-        {
           "tmdb_id": 251600,
           "tmdb_type": "tv",
           "title": "千香",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 285143,
+          "tmdb_type": "tv",
+          "title": "灿如繁星",
           "sort": 12
         },
         {
