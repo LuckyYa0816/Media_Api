@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-08-03T00:00:41.808Z",
+  "updated_at": "2026-08-03T11:27:07.195Z",
   "total": 28,
   "list": [
     {
@@ -223,18 +223,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 80732
-      },
-      "tmdb_type": "tv",
-      "title": "The Founder of Diabolism: Final Season",
-      "sort": 26
-    },
-    {
-      "tmdb_id": {
         "tv": 223515
       },
       "tmdb_type": "tv",
       "title": "The Girl Downstairs",
+      "sort": 26
+    },
+    {
+      "tmdb_id": {
+        "tv": 80732
+      },
+      "tmdb_type": "tv",
+      "title": "The Founder of Diabolism: Final Season",
       "sort": 27
     },
     {
