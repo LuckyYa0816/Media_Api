@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-02T10:00:02.436Z",
+  "updated_at": "2026-08-03T00:01:00.921Z",
   "total": 20,
   "list": [
     {
@@ -29,57 +29,57 @@
       "sort": 1
     },
     {
-      "tmdb_id": 273114,
-      "tmdb_type": "tv",
-      "title": "悬案",
-      "sort": 2
-    },
-    {
       "tmdb_id": 330465,
       "tmdb_type": "tv",
       "title": "莫得闲",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 273114,
+      "tmdb_type": "tv",
+      "title": "悬案",
       "sort": 3
+    },
+    {
+      "tmdb_id": 289116,
+      "tmdb_type": "tv",
+      "title": "天才，女友",
+      "sort": 4
     },
     {
       "tmdb_id": 289139,
       "tmdb_type": "tv",
       "title": "这一秒过火",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 295599,
       "tmdb_type": "tv",
       "title": "御廷谣",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 291392,
       "tmdb_type": "tv",
       "title": "野狗骨头",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 286506,
       "tmdb_type": "tv",
       "title": "百花杀",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 296915,
-      "tmdb_type": "tv",
-      "title": "依然的喜事",
       "sort": 10
     },
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 284110,
+      "tmdb_id": 296915,
       "tmdb_type": "tv",
-      "title": "主角",
+      "title": "依然的喜事",
       "sort": 12
     },
     {
-      "tmdb_id": 285143,
+      "tmdb_id": 284110,
       "tmdb_type": "tv",
-      "title": "灿如繁星",
+      "title": "主角",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 285143,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "灿如繁星",
       "sort": 15
     },
     {
-      "tmdb_id": 73028,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "我的前半生",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 16
-    },
-    {
-      "tmdb_id": 283780,
-      "tmdb_type": "tv",
-      "title": "兵自风中来",
-      "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "喜剧之王单口季 第三季",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 283780,
+      "tmdb_type": "tv",
+      "title": "兵自风中来",
       "sort": 18
     },
     {
-      "tmdb_id": 21712,
+      "tmdb_id": 73028,
       "tmdb_type": "tv",
-      "title": "潜伏",
+      "title": "我的前半生",
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 67868,
       "tmdb_type": "tv",
-      "title": "密室大逃脱 第八季",
+      "title": "老九门",
       "sort": 20
     }
   ]
