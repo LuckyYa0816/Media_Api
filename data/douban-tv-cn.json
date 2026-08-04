@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-03T11:27:28.874Z",
+  "updated_at": "2026-08-04T00:11:27.111Z",
   "total": 20,
   "list": [
     {
@@ -29,9 +29,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 330465,
+      "tmdb_id": 289116,
       "tmdb_type": "tv",
-      "title": "莫得闲",
+      "title": "天才，女友",
       "sort": 2
     },
     {
@@ -41,9 +41,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 289116,
+      "tmdb_id": 330465,
       "tmdb_type": "tv",
-      "title": "天才，女友",
+      "title": "莫得闲",
       "sort": 4
     },
     {
@@ -53,63 +53,63 @@
       "sort": 5
     },
     {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "中餐厅 第十季",
+      "sort": 6
+    },
+    {
       "tmdb_id": 295599,
       "tmdb_type": "tv",
       "title": "御廷谣",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 291392,
       "tmdb_type": "tv",
       "title": "野狗骨头",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": 286506,
       "tmdb_type": "tv",
       "title": "百花杀",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 10
+      "sort": 11
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 280564,
       "tmdb_type": "tv",
-      "title": "一饭封神2",
-      "sort": 11
+      "title": "记忆管理局",
+      "sort": 12
     },
     {
       "tmdb_id": 296915,
       "tmdb_type": "tv",
       "title": "依然的喜事",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 301345,
-      "tmdb_type": "tv",
-      "title": "京城奇探",
       "sort": 14
     },
     {
-      "tmdb_id": 285143,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "灿如繁星",
+      "title": "一饭封神2",
       "sort": 15
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
+      "tmdb_id": 67868,
+      "tmdb_type": "tv",
+      "title": "老九门",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 301345,
+      "tmdb_type": "tv",
+      "title": "京城奇探",
+      "sort": 18
+    },
+    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "喜剧之王单口季 第三季",
-      "sort": 17
+      "sort": 19
     },
     {
       "tmdb_id": 283780,
       "tmdb_type": "tv",
       "title": "兵自风中来",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 73028,
-      "tmdb_type": "tv",
-      "title": "我的前半生",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 67868,
-      "tmdb_type": "tv",
-      "title": "老九门",
       "sort": 20
     }
   ]

@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-03T11:27:42.469Z",
+  "updated_at": "2026-08-04T00:11:37.411Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1399525,
+      "tmdb_id": 1433601,
       "tmdb_type": "movie",
-      "title": "内华达之瑰",
+      "title": "无界之环",
       "sort": 3
     },
     {
-      "tmdb_id": 1241574,
+      "tmdb_id": 1630409,
       "tmdb_type": "movie",
-      "title": "男人没有好东西",
+      "title": "末路讨债人",
       "sort": 4
     },
     {
-      "tmdb_id": 1586876,
+      "tmdb_id": 1399525,
       "tmdb_type": "movie",
-      "title": "吉伊卡哇：人鱼之岛的秘密",
+      "title": "内华达之瑰",
       "sort": 5
     },
     {
@@ -59,15 +59,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1275779,
+      "tmdb_id": 210577,
       "tmdb_type": "movie",
-      "title": "揭秘日",
+      "title": "消失的人",
       "sort": 7
     },
     {
-      "tmdb_id": 1083381,
+      "tmdb_id": 1275779,
       "tmdb_type": "movie",
-      "title": "后室",
+      "title": "揭秘日",
       "sort": 8
     },
     {
@@ -77,21 +77,21 @@
       "sort": 9
     },
     {
-      "tmdb_id": 210577,
+      "tmdb_id": 1083381,
       "tmdb_type": "movie",
-      "title": "消失的人",
+      "title": "后室",
       "sort": 10
-    },
-    {
-      "tmdb_id": 1081003,
-      "tmdb_type": "movie",
-      "title": "超级少女",
-      "sort": 11
     },
     {
       "tmdb_id": 1488778,
       "tmdb_type": "movie",
       "title": "今晚正好",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1081003,
+      "tmdb_type": "movie",
+      "title": "超级少女",
       "sort": 12
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 19
-    },
-    {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
       "sort": 20
     }
   ]
