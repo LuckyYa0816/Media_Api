@@ -27,55 +27,55 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-08-04T00:11:13.840Z",
-  "total": 28,
+  "updated_at": "2026-08-04T10:41:46.568Z",
+  "total": 23,
   "list": [
+    {
+      "tmdb_id": 125988,
+      "tmdb_type": "tv",
+      "title": "末日地堡",
+      "sort": 1
+    },
     {
       "tmdb_id": 615,
       "tmdb_type": "tv",
       "title": "飞出个未来",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 113962,
       "tmdb_type": "tv",
       "title": "特别行动：母狮",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 125988,
-      "tmdb_type": "tv",
-      "title": "末日地堡",
       "sort": 3
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 4
     },
     {
       "tmdb_id": 287238,
       "tmdb_type": "tv",
       "title": "狂怒追缉",
-      "sort": 5
+      "sort": 4
     },
     {
       "tmdb_id": 125909,
       "tmdb_type": "tv",
       "title": "蝙蝠侠：披风斗士",
-      "sort": 6
+      "sort": 5
     },
     {
-      "tmdb_id": 97546,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "Ted Lasso",
-      "sort": 7
+      "title": "瑞克和莫蒂",
+      "sort": 6
     },
     {
       "tmdb_id": 194583,
       "tmdb_type": "tv",
       "title": "行尸走肉：死亡之城",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 97546,
+      "tmdb_type": "tv",
+      "title": "Ted Lasso",
       "sort": 8
     },
     {
@@ -85,9 +85,9 @@
       "sort": 9
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 281281,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "GIGN：精英部队",
       "sort": 10
     },
     {
@@ -97,15 +97,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 12
-    },
-    {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 313101,
+      "tmdb_type": "tv",
+      "title": "爱旅咖啡店",
       "sort": 13
     },
     {
@@ -115,27 +115,27 @@
       "sort": 14
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "菜鸟老警",
       "sort": 15
     },
     {
-      "tmdb_id": 76479,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "黑袍纠察队",
+      "title": "海绵宝宝",
       "sort": 16
     },
     {
-      "tmdb_id": 111110,
+      "tmdb_id": 327814,
       "tmdb_type": "tv",
-      "title": "ONE PIECE",
+      "title": "终极反击计划",
       "sort": 17
     },
     {
-      "tmdb_id": 281281,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "GIGN：精英部队",
+      "title": "辛普森一家",
       "sort": 18
     },
     {
@@ -145,15 +145,15 @@
       "sort": 19
     },
     {
-      "tmdb_id": 241882,
+      "tmdb_id": 111110,
       "tmdb_type": "tv",
-      "title": "亡命闺蜜",
+      "title": "ONE PIECE",
       "sort": 20
     },
     {
-      "tmdb_id": 327814,
+      "tmdb_id": 136315,
       "tmdb_type": "tv",
-      "title": "终极反击计划",
+      "title": "熊家餐馆",
       "sort": 21
     },
     {
@@ -163,40 +163,10 @@
       "sort": 22
     },
     {
-      "tmdb_id": 136315,
-      "tmdb_type": "tv",
-      "title": "熊家餐馆",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 100757,
-      "tmdb_type": "tv",
-      "title": "外滩探秘",
-      "sort": 24
-    },
-    {
       "tmdb_id": 328735,
       "tmdb_type": "tv",
       "title": "爱达荷州血案：大学梦魇",
-      "sort": 25
-    },
-    {
-      "tmdb_id": 240993,
-      "tmdb_type": "tv",
-      "title": "兰森峡谷",
-      "sort": 26
-    },
-    {
-      "tmdb_id": 260458,
-      "tmdb_type": "tv",
-      "title": "成年大朋友",
-      "sort": 27
-    },
-    {
-      "tmdb_id": 273240,
-      "tmdb_type": "tv",
-      "title": "校园之外",
-      "sort": 28
+      "sort": 23
     }
   ]
 }
