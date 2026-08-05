@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-05T00:06:54.661Z",
+  "updated_at": "2026-08-05T10:38:29.815Z",
   "total": 20,
   "list": [
     {
@@ -125,7 +125,7 @@
       "sort": 17
     },
     {
-      "tmdb_id": 2260,
+      "tmdb_id": 273119,
       "tmdb_type": "tv",
       "title": "人鱼",
       "sort": 18

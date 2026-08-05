@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-05T00:06:41.875Z",
-  "total": 6,
+  "updated_at": "2026-08-05T10:38:07.927Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1481343,
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1314481,
-      "tmdb_type": "movie",
-      "title": "穿普拉达的女王2",
-      "sort": 3
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
       "sort": 4
     },
     {
@@ -56,10 +56,16 @@
       "sort": 5
     },
     {
+      "tmdb_id": 1318621,
+      "tmdb_type": "movie",
+      "title": "星光继承者：暗黑仙境",
+      "sort": 6
+    },
+    {
       "tmdb_id": 1396749,
       "tmdb_type": "movie",
       "title": "狂唱下半场",
-      "sort": 6
+      "sort": 7
     }
   ]
 }
