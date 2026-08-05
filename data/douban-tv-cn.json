@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-04T10:42:13.500Z",
+  "updated_at": "2026-08-05T00:06:54.661Z",
   "total": 20,
   "list": [
     {
@@ -41,21 +41,21 @@
       "sort": 3
     },
     {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "中餐厅 第十季",
+      "sort": 4
+    },
+    {
       "tmdb_id": 330465,
       "tmdb_type": "tv",
       "title": "莫得闲",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 289139,
       "tmdb_type": "tv",
       "title": "这一秒过火",
-      "sort": 5
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "中餐厅 第十季",
       "sort": 6
     },
     {
@@ -77,27 +77,27 @@
       "sort": 9
     },
     {
-      "tmdb_id": 286506,
-      "tmdb_type": "tv",
-      "title": "百花杀",
-      "sort": 10
-    },
-    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 11
+      "sort": 10
     },
     {
-      "tmdb_id": 280564,
+      "tmdb_id": 286506,
       "tmdb_type": "tv",
-      "title": "记忆管理局",
-      "sort": 12
+      "title": "百花杀",
+      "sort": 11
     },
     {
       "tmdb_id": 296915,
       "tmdb_type": "tv",
       "title": "依然的喜事",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 280564,
+      "tmdb_type": "tv",
+      "title": "记忆管理局",
       "sort": 13
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 73028,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "我的前半生",
       "sort": 16
     },
     {
-      "tmdb_id": 67868,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "老九门",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 17
+    },
+    {
+      "tmdb_id": 2260,
+      "tmdb_type": "tv",
+      "title": "人鱼",
+      "sort": 18
     },
     {
       "tmdb_id": 301345,
       "tmdb_type": "tv",
       "title": "京城奇探",
-      "sort": 18
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
       "sort": 19
     },
     {
-      "tmdb_id": 283780,
+      "tmdb_id": 67868,
       "tmdb_type": "tv",
-      "title": "兵自风中来",
+      "title": "老九门",
       "sort": 20
     }
   ]

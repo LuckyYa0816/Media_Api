@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-04T10:41:48.906Z",
-  "total": 8,
+  "updated_at": "2026-08-05T00:06:41.875Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1481343,
@@ -56,22 +56,10 @@
       "sort": 5
     },
     {
-      "tmdb_id": 949838,
-      "tmdb_type": "movie",
-      "title": "72小时",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1396749,
       "tmdb_type": "movie",
       "title": "狂唱下半场",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 8
+      "sort": 6
     }
   ]
 }

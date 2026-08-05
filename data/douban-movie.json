@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-04T10:42:35.193Z",
+  "updated_at": "2026-08-05T00:07:07.560Z",
   "total": 20,
   "list": [
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1301421,
+      "tmdb_id": 1586876,
       "tmdb_type": "movie",
-      "title": "绵羊侦探团",
+      "title": "吉伊卡哇：人鱼之岛的秘密",
       "sort": 20
     }
   ]
