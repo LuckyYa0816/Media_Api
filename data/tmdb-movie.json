@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-06T00:02:04.767Z",
-  "total": 7,
+  "updated_at": "2026-08-06T10:41:36.068Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1481343,
@@ -60,12 +60,6 @@
       "tmdb_type": "movie",
       "title": "狂唱下半场",
       "sort": 6
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 7
     }
   ]
 }
