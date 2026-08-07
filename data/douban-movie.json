@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-06T10:42:02.988Z",
+  "updated_at": "2026-08-07T01:42:43.542Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1396749,
+      "tmdb_id": 980431,
       "tmdb_type": "movie",
-      "title": "狂唱下半场",
+      "title": "安昂传奇：最后的气宗",
       "sort": 3
     },
     {
-      "tmdb_id": 1433601,
+      "tmdb_id": 1307118,
       "tmdb_type": "movie",
-      "title": "无界之环",
+      "title": "灵魂伴侣",
       "sort": 4
     },
     {
-      "tmdb_id": 1630409,
+      "tmdb_id": 1396749,
       "tmdb_type": "movie",
-      "title": "末路讨债人",
+      "title": "狂唱下半场",
       "sort": 5
     },
     {
@@ -71,21 +71,21 @@
       "sort": 8
     },
     {
+      "tmdb_id": 1212763,
+      "tmdb_type": "movie",
+      "title": "鬼玩人6：炼狱",
+      "sort": 9
+    },
+    {
       "tmdb_id": 1275779,
       "tmdb_type": "movie",
       "title": "揭秘日",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 1083381,
       "tmdb_type": "movie",
       "title": "后室",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 1212763,
-      "tmdb_type": "movie",
-      "title": "鬼玩人6：炼狱",
       "sort": 11
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
-      "tmdb_id": 1307118,
-      "tmdb_type": "movie",
-      "title": "灵魂伴侣",
-      "sort": 16
-    },
-    {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
-      "sort": 17
+      "sort": 16
     },
     {
       "tmdb_id": 1492501,
       "tmdb_type": "movie",
       "title": "10间敢死队",
-      "sort": 18
+      "sort": 17
     },
     {
       "tmdb_id": 1468683,
       "tmdb_type": "movie",
       "title": "永远心跳漏一拍",
-      "sort": 19
+      "sort": 18
     },
     {
       "tmdb_id": 1318413,
       "tmdb_type": "movie",
       "title": "诺曼底72小时",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
       "sort": 20
     }
   ]

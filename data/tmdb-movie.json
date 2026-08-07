@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-06T10:41:36.068Z",
-  "total": 6,
+  "updated_at": "2026-08-07T01:42:09.875Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1481343,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 454639,
-      "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
-      "sort": 2
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 454639,
+      "tmdb_type": "movie",
+      "title": "宇宙巨人：希曼崛起",
       "sort": 3
     },
     {
@@ -50,16 +50,28 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1439930,
+      "tmdb_type": "movie",
+      "title": "惩罚者：最后一击",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
+      "sort": 6
+    },
+    {
       "tmdb_id": 949838,
       "tmdb_type": "movie",
       "title": "72小时",
-      "sort": 5
+      "sort": 7
     },
     {
       "tmdb_id": 1396749,
       "tmdb_type": "movie",
       "title": "狂唱下半场",
-      "sort": 6
+      "sort": 8
     }
   ]
 }
