@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-08T08:44:53.123Z",
+  "updated_at": "2026-08-08T23:32:22.446Z",
   "total": 20,
   "list": [
     {
@@ -29,15 +29,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 289116,
-      "tmdb_type": "tv",
-      "title": "天才，女友",
-      "sort": 2
-    },
-    {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 289116,
+      "tmdb_type": "tv",
+      "title": "天才，女友",
       "sort": 3
     },
     {
@@ -59,87 +59,87 @@
       "sort": 6
     },
     {
-      "tmdb_id": 330465,
-      "tmdb_type": "tv",
-      "title": "莫得闲",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 286506,
-      "tmdb_type": "tv",
-      "title": "百花杀",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 296915,
-      "tmdb_type": "tv",
-      "title": "依然的喜事",
-      "sort": 9
-    },
-    {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 291392,
-      "tmdb_type": "tv",
-      "title": "野狗骨头",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 272432,
-      "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 12
+      "sort": 7
     },
     {
       "tmdb_id": 327916,
       "tmdb_type": "tv",
       "title": "凛冬下的罪恶",
-      "sort": 13
+      "sort": 8
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 272432,
       "tmdb_type": "tv",
-      "title": "中餐厅 第十季",
-      "sort": 14
+      "title": "低智商犯罪",
+      "sort": 9
     },
     {
-      "tmdb_id": 318903,
+      "tmdb_id": 296915,
       "tmdb_type": "tv",
-      "title": "盲盒",
-      "sort": 15
+      "title": "依然的喜事",
+      "sort": 10
     },
     {
-      "tmdb_id": 73028,
+      "tmdb_id": 286506,
       "tmdb_type": "tv",
-      "title": "我的前半生",
-      "sort": 16
+      "title": "百花杀",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 291392,
+      "tmdb_type": "tv",
+      "title": "野狗骨头",
+      "sort": 12
     },
     {
       "tmdb_id": 284110,
       "tmdb_type": "tv",
       "title": "主角",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 73028,
+      "tmdb_type": "tv",
+      "title": "我的前半生",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 330465,
+      "tmdb_type": "tv",
+      "title": "莫得闲",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 294635,
+      "tmdb_type": "tv",
+      "title": "我的鸵鸟先生",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 283780,
+      "tmdb_type": "tv",
+      "title": "兵自风中来",
       "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "一饭封神2",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 18
     },
     {
-      "tmdb_id": 301345,
+      "tmdb_id": 318903,
       "tmdb_type": "tv",
-      "title": "京城奇探",
+      "title": "盲盒",
       "sort": 19
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "一饭封神2",
       "sort": 20
     }
   ]

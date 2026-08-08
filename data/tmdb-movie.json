@@ -22,44 +22,50 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-08T08:44:24.935Z",
-  "total": 6,
+  "updated_at": "2026-08-08T23:32:11.971Z",
+  "total": 7,
   "list": [
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1284041,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "最后孤屋",
       "sort": 1
-    },
-    {
-      "tmdb_id": 1481343,
-      "tmdb_type": "movie",
-      "title": "恶魔之口",
-      "sort": 2
     },
     {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1263532,
+      "tmdb_type": "movie",
+      "title": "野兽赛跑",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1481343,
+      "tmdb_type": "movie",
+      "title": "恶魔之口",
+      "sort": 5
     },
     {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
-      "sort": 4
+      "sort": 6
     },
     {
       "tmdb_id": 949838,
       "tmdb_type": "movie",
       "title": "72小时",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1396749,
-      "tmdb_type": "movie",
-      "title": "狂唱下半场",
-      "sort": 6
+      "sort": 7
     }
   ]
 }
