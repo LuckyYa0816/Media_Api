@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-08-09T08:45:34.904Z",
+  "updated_at": "2026-08-09T23:34:21.363Z",
   "total": 28,
   "list": [
     {
@@ -63,18 +63,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 80732
-      },
-      "tmdb_type": "tv",
-      "title": "The Founder of Diabolism",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
         "tv": 98123
       },
       "tmdb_type": "tv",
       "title": "The Daily Life of the Immortal King Season 2",
+      "sort": 6
+    },
+    {
+      "tmdb_id": {
+        "tv": 80732
+      },
+      "tmdb_type": "tv",
+      "title": "The Founder of Diabolism",
       "sort": 7
     },
     {

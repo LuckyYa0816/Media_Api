@@ -19,31 +19,31 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-09T08:46:07.334Z",
+  "updated_at": "2026-08-09T23:34:40.612Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 287496,
+      "tmdb_type": "tv",
+      "title": "花开锦绣",
+      "sort": 1
+    },
     {
       "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 289116,
       "tmdb_type": "tv",
       "title": "天才，女友",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 289139,
-      "tmdb_type": "tv",
-      "title": "这一秒过火",
       "sort": 4
     },
     {
@@ -53,39 +53,39 @@
       "sort": 5
     },
     {
-      "tmdb_id": 295599,
+      "tmdb_id": 327916,
       "tmdb_type": "tv",
-      "title": "御廷谣",
+      "title": "凛冬下的罪恶",
       "sort": 6
+    },
+    {
+      "tmdb_id": 289139,
+      "tmdb_type": "tv",
+      "title": "这一秒过火",
+      "sort": 7
     },
     {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 327916,
-      "tmdb_type": "tv",
-      "title": "凛冬下的罪恶",
       "sort": 8
-    },
-    {
-      "tmdb_id": 272432,
-      "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 9
     },
     {
       "tmdb_id": 296915,
       "tmdb_type": "tv",
       "title": "依然的喜事",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
       "sort": 10
     },
     {
-      "tmdb_id": 286506,
+      "tmdb_id": 295599,
       "tmdb_type": "tv",
-      "title": "百花杀",
+      "title": "御廷谣",
       "sort": 11
     },
     {
@@ -95,9 +95,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 284110,
+      "tmdb_id": 286506,
       "tmdb_type": "tv",
-      "title": "主角",
+      "title": "百花杀",
       "sort": 13
     },
     {
@@ -107,33 +107,33 @@
       "sort": 14
     },
     {
-      "tmdb_id": 330465,
+      "tmdb_id": 284110,
       "tmdb_type": "tv",
-      "title": "莫得闲",
+      "title": "主角",
       "sort": 15
-    },
-    {
-      "tmdb_id": 294635,
-      "tmdb_type": "tv",
-      "title": "我的鸵鸟先生",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 283780,
-      "tmdb_type": "tv",
-      "title": "兵自风中来",
-      "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "脱口秀和Ta的朋友们 第三季",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 294635,
+      "tmdb_type": "tv",
+      "title": "我的鸵鸟先生",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 283780,
+      "tmdb_type": "tv",
+      "title": "兵自风中来",
       "sort": 18
     },
     {
-      "tmdb_id": 318903,
+      "tmdb_id": 254486,
       "tmdb_type": "tv",
-      "title": "盲盒",
+      "title": "雨霖铃",
       "sort": 19
     },
     {
