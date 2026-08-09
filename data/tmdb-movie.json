@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-08T23:32:11.971Z",
-  "total": 7,
+  "updated_at": "2026-08-09T08:45:42.260Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1284041,
@@ -32,21 +32,21 @@
       "sort": 1
     },
     {
-      "tmdb_id": 454639,
-      "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
-      "sort": 2
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 1263532,
       "tmdb_type": "movie",
       "title": "野兽赛跑",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 454639,
+      "tmdb_type": "movie",
+      "title": "宇宙巨人：希曼崛起",
       "sort": 4
     },
     {
@@ -66,6 +66,12 @@
       "tmdb_type": "movie",
       "title": "72小时",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1318621,
+      "tmdb_type": "movie",
+      "title": "星光继承者：暗黑仙境",
+      "sort": 8
     }
   ]
 }
