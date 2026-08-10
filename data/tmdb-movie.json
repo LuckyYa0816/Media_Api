@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-09T23:34:29.202Z",
-  "total": 7,
+  "updated_at": "2026-08-10T09:25:09.686Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1284041,
@@ -40,32 +40,38 @@
     {
       "tmdb_id": 1679730,
       "tmdb_type": "movie",
-      "title": "缎带英雄",
+      "title": "缎带骑士",
       "sort": 3
-    },
-    {
-      "tmdb_id": 454639,
-      "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
-      "sort": 4
     },
     {
       "tmdb_id": 1263532,
       "tmdb_type": "movie",
       "title": "野兽赛跑",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 454639,
+      "tmdb_type": "movie",
+      "title": "宇宙巨人：希曼崛起",
       "sort": 5
+    },
+    {
+      "tmdb_id": 454639,
+      "tmdb_type": "movie",
+      "title": "宇宙巨人：希曼崛起",
+      "sort": 6
     },
     {
       "tmdb_id": 1481343,
       "tmdb_type": "movie",
       "title": "恶魔之口",
-      "sort": 6
+      "sort": 7
     },
     {
-      "tmdb_id": 949838,
+      "tmdb_id": 1314481,
       "tmdb_type": "movie",
-      "title": "72小时",
-      "sort": 7
+      "title": "穿普拉达的女王2",
+      "sort": 8
     }
   ]
 }
