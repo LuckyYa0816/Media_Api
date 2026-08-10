@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-10T09:25:09.686Z",
+  "updated_at": "2026-08-10T23:37:58.094Z",
   "total": 8,
   "list": [
     {
@@ -38,39 +38,39 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1679730,
+      "tmdb_id": 1263532,
       "tmdb_type": "movie",
-      "title": "缎带骑士",
+      "title": "残酷兽竞",
       "sort": 3
     },
     {
-      "tmdb_id": 1263532,
+      "tmdb_id": 454639,
       "tmdb_type": "movie",
-      "title": "野兽赛跑",
+      "title": "宇宙巨人：希曼崛起",
       "sort": 4
     },
     {
-      "tmdb_id": 454639,
+      "tmdb_id": 1679730,
       "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
+      "title": "缎带英雄",
       "sort": 5
-    },
-    {
-      "tmdb_id": 454639,
-      "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
-      "sort": 6
     },
     {
       "tmdb_id": 1481343,
       "tmdb_type": "movie",
       "title": "恶魔之口",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
       "sort": 8
     }
   ]
