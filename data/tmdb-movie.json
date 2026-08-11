@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-10T23:37:58.094Z",
+  "updated_at": "2026-08-11T08:59:46.285Z",
   "total": 8,
   "list": [
     {
@@ -32,45 +32,45 @@
       "sort": 1
     },
     {
+      "tmdb_id": 1679730,
+      "tmdb_type": "movie",
+      "title": "缎带英雄",
+      "sort": 2
+    },
+    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1263532,
       "tmdb_type": "movie",
       "title": "残酷兽竞",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1679730,
-      "tmdb_type": "movie",
-      "title": "缎带英雄",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1481343,
-      "tmdb_type": "movie",
-      "title": "恶魔之口",
-      "sort": 6
     },
     {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1481343,
+      "tmdb_type": "movie",
+      "title": "恶魔之口",
       "sort": 7
     },
     {
-      "tmdb_id": 83533,
+      "tmdb_id": 1266127,
       "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
+      "title": "准备好了没2：我来了",
       "sort": 8
     }
   ]
