@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-11T09:00:04.399Z",
+  "updated_at": "2026-08-11T23:44:06.685Z",
   "total": 20,
   "list": [
     {
@@ -29,27 +29,27 @@
       "sort": 1
     },
     {
+      "tmdb_id": 291856,
+      "tmdb_type": "tv",
+      "title": "重器",
+      "sort": 2
+    },
+    {
       "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 289116,
       "tmdb_type": "tv",
       "title": "天才，女友",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 291856,
-      "tmdb_type": "tv",
-      "title": "重器",
       "sort": 5
     },
     {
@@ -71,51 +71,51 @@
       "sort": 8
     },
     {
-      "tmdb_id": 295558,
-      "tmdb_type": "tv",
-      "title": "雀骨",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 296915,
-      "tmdb_type": "tv",
-      "title": "依然的喜事",
-      "sort": 10
-    },
-    {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 11
+      "sort": 9
+    },
+    {
+      "tmdb_id": 295558,
+      "tmdb_type": "tv",
+      "title": "雀骨",
+      "sort": 10
     },
     {
       "tmdb_id": 295599,
       "tmdb_type": "tv",
       "title": "御廷谣",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 291392,
-      "tmdb_type": "tv",
-      "title": "野狗骨头",
-      "sort": 13
+      "sort": 11
     },
     {
       "tmdb_id": 294635,
       "tmdb_type": "tv",
       "title": "我的鸵鸟先生",
-      "sort": 14
+      "sort": 12
+    },
+    {
+      "tmdb_id": 296915,
+      "tmdb_type": "tv",
+      "title": "依然的喜事",
+      "sort": 13
     },
     {
       "tmdb_id": 73028,
       "tmdb_type": "tv",
       "title": "我的前半生",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 286506,
       "tmdb_type": "tv",
       "title": "百花杀",
+      "sort": 15
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "地球超新鲜 第二季",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 291392,
       "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
+      "title": "野狗骨头",
       "sort": 18
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 254486,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "雨霖铃",
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "中餐厅 第十季",
+      "title": "潜伏",
       "sort": 20
     }
   ]

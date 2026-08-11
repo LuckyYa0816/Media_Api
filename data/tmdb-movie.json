@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-11T08:59:46.285Z",
-  "total": 8,
+  "updated_at": "2026-08-11T23:43:51.234Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1284041,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1679730,
-      "tmdb_type": "movie",
-      "title": "缎带英雄",
-      "sort": 2
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1679730,
+      "tmdb_type": "movie",
+      "title": "缎带英雄",
       "sort": 3
     },
     {
@@ -50,28 +50,16 @@
       "sort": 4
     },
     {
-      "tmdb_id": 454639,
-      "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1481343,
       "tmdb_type": "movie",
       "title": "恶魔之口",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1266127,
-      "tmdb_type": "movie",
-      "title": "准备好了没2：我来了",
-      "sort": 8
+      "sort": 6
     }
   ]
 }
