@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-12T09:13:28.363Z",
+  "updated_at": "2026-08-12T23:45:19.950Z",
   "total": 7,
   "list": [
     {
@@ -46,7 +46,7 @@
     {
       "tmdb_id": 1263532,
       "tmdb_type": "movie",
-      "title": "残酷兽竞",
+      "title": "野兽赛跑",
       "sort": 4
     },
     {
@@ -56,15 +56,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1314481,
-      "tmdb_type": "movie",
-      "title": "穿普拉达的女王2",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1481343,
       "tmdb_type": "movie",
       "title": "恶魔之口",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
       "sort": 7
     }
   ]
