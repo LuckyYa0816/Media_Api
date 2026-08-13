@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-08-12T23:45:17.109Z",
+  "updated_at": "2026-08-13T09:14:36.695Z",
   "total": 23,
   "list": [
     {
@@ -37,15 +37,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 138502,
-      "tmdb_type": "tv",
-      "title": "X战警97",
-      "sort": 2
-    },
-    {
       "tmdb_id": 97546,
       "tmdb_type": "tv",
       "title": "Ted Lasso",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 298168,
+      "tmdb_type": "tv",
+      "title": "青春碎片",
       "sort": 3
     },
     {
@@ -61,33 +61,33 @@
       "sort": 5
     },
     {
+      "tmdb_id": 138502,
+      "tmdb_type": "tv",
+      "title": "X战警97",
+      "sort": 6
+    },
+    {
       "tmdb_id": 113962,
       "tmdb_type": "tv",
       "title": "特别行动：母狮",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 615,
       "tmdb_type": "tv",
       "title": "飞出个未来",
-      "sort": 7
+      "sort": 8
     },
     {
-      "tmdb_id": 298168,
+      "tmdb_id": 300480,
       "tmdb_type": "tv",
-      "title": "青春碎片",
-      "sort": 8
+      "title": "瑞奇·热维斯之街猫一族",
+      "sort": 9
     },
     {
       "tmdb_id": 207333,
       "tmdb_type": "tv",
       "title": "百年孤独",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 199001,
-      "tmdb_type": "tv",
-      "title": "我与沃尔特家男孩的生活",
       "sort": 10
     },
     {
@@ -97,15 +97,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 300480,
+      "tmdb_id": 287238,
       "tmdb_type": "tv",
-      "title": "瑞奇·热维斯之街猫一族",
+      "title": "狂怒追缉",
       "sort": 12
     },
     {
-      "tmdb_id": 329274,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "若泽·穆里尼奥：特立之道",
+      "title": "菜鸟老警",
       "sort": 13
     },
     {
@@ -115,57 +115,57 @@
       "sort": 14
     },
     {
-      "tmdb_id": 194583,
+      "tmdb_id": 329274,
       "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
+      "title": "若泽·穆里尼奥：特立之道",
       "sort": 15
     },
     {
-      "tmdb_id": 287238,
+      "tmdb_id": 194583,
       "tmdb_type": "tv",
-      "title": "狂怒追缉",
+      "title": "行尸走肉：死亡之城",
       "sort": 16
-    },
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 19
     },
     {
       "tmdb_id": 284753,
       "tmdb_type": "tv",
       "title": "白海行动：最高空军任务",
-      "sort": 20
+      "sort": 17
     },
     {
-      "tmdb_id": 136315,
+      "tmdb_id": 84773,
       "tmdb_type": "tv",
-      "title": "熊家餐馆",
-      "sort": 21
+      "title": "指环王：力量之戒",
+      "sort": 18
     },
     {
-      "tmdb_id": 220102,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "暗影蜘蛛侠",
-      "sort": 22
+      "title": "海绵宝宝",
+      "sort": 19
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 241882,
+      "tmdb_type": "tv",
+      "title": "亡命闺蜜",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
       "sort": 23
     }
   ]
