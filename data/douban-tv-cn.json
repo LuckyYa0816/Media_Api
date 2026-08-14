@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-14T09:09:27.266Z",
+  "updated_at": "2026-08-14T23:25:13.765Z",
   "total": 20,
   "list": [
     {
@@ -77,9 +77,9 @@
       "sort": 9
     },
     {
-      "tmdb_id": 295599,
+      "tmdb_id": 296915,
       "tmdb_type": "tv",
-      "title": "御廷谣",
+      "title": "依然的喜事",
       "sort": 10
     },
     {
@@ -89,27 +89,27 @@
       "sort": 11
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "中餐厅 第十季",
-      "sort": 12
-    },
-    {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
-      "sort": 13
+      "sort": 12
     },
     {
       "tmdb_id": 73028,
       "tmdb_type": "tv",
       "title": "我的前半生",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 295599,
+      "tmdb_type": "tv",
+      "title": "御廷谣",
       "sort": 14
     },
     {
-      "tmdb_id": 296915,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "依然的喜事",
+      "title": "中餐厅 第十季",
       "sort": 15
     },
     {
@@ -131,9 +131,9 @@
       "sort": 18
     },
     {
-      "tmdb_id": 286506,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "百花杀",
+      "title": "潜伏",
       "sort": 19
     },
     {

@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-14T09:09:42.059Z",
+  "updated_at": "2026-08-14T23:25:28.370Z",
   "total": 20,
   "list": [
     {
@@ -101,15 +101,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1083381,
-      "tmdb_type": "movie",
-      "title": "后室",
-      "sort": 14
-    },
-    {
       "tmdb_id": 1307118,
       "tmdb_type": "movie",
       "title": "灵魂伴侣",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 1083381,
+      "tmdb_type": "movie",
+      "title": "后室",
       "sort": 15
     },
     {
@@ -119,15 +119,15 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1081003,
-      "tmdb_type": "movie",
-      "title": "超级少女",
-      "sort": 17
-    },
-    {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1081003,
+      "tmdb_type": "movie",
+      "title": "超级少女",
       "sort": 18
     },
     {
