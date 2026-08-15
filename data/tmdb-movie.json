@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-15T08:31:36.612Z",
+  "updated_at": "2026-08-15T23:22:45.515Z",
   "total": 10,
   "list": [
     {
@@ -32,57 +32,57 @@
       "sort": 1
     },
     {
+      "tmdb_id": 1493400,
+      "tmdb_type": "movie",
+      "title": "摇滚夏令营3",
+      "sort": 2
+    },
+    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 2
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1504358,
+      "tmdb_type": "movie",
+      "title": "别祝我好运",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1589248,
+      "tmdb_type": "movie",
+      "title": "我的死党恋爱了",
+      "sort": 5
     },
     {
       "tmdb_id": 1679730,
       "tmdb_type": "movie",
       "title": "缎带英雄",
-      "sort": 3
+      "sort": 6
     },
     {
       "tmdb_id": 1263532,
       "tmdb_type": "movie",
       "title": "残酷兽竞",
-      "sort": 4
+      "sort": 7
     },
     {
       "tmdb_id": 1487864,
       "tmdb_type": "movie",
       "title": "街角少年电影版：南多的两个世界",
-      "sort": 5
+      "sort": 8
     },
     {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
-      "sort": 6
+      "sort": 9
     },
     {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1481343,
-      "tmdb_type": "movie",
-      "title": "恶魔之口",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 83533,
-      "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 1632473,
-      "tmdb_type": "movie",
-      "title": "我家这本难念的经",
       "sort": 10
     }
   ]
