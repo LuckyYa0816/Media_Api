@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-14T23:24:51.554Z",
-  "total": 7,
+  "updated_at": "2026-08-15T08:31:36.612Z",
+  "total": 10,
   "list": [
     {
       "tmdb_id": 1284041,
@@ -44,15 +44,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1487864,
-      "tmdb_type": "movie",
-      "title": "街角少年电影版：南多的两个世界",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1263532,
       "tmdb_type": "movie",
       "title": "残酷兽竞",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1487864,
+      "tmdb_type": "movie",
+      "title": "街角少年电影版：南多的两个世界",
       "sort": 5
     },
     {
@@ -66,6 +66,24 @@
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1481343,
+      "tmdb_type": "movie",
+      "title": "恶魔之口",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1632473,
+      "tmdb_type": "movie",
+      "title": "我家这本难念的经",
+      "sort": 10
     }
   ]
 }
