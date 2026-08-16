@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-16T08:32:13.616Z",
+  "updated_at": "2026-08-16T23:22:51.841Z",
   "total": 20,
   "list": [
     {
@@ -35,63 +35,63 @@
       "sort": 2
     },
     {
+      "tmdb_id": 331830,
+      "tmdb_type": "tv",
+      "title": "我们的少年时代2",
+      "sort": 3
+    },
+    {
       "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 289116,
       "tmdb_type": "tv",
       "title": "天才，女友",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 289139,
-      "tmdb_type": "tv",
-      "title": "这一秒过火",
       "sort": 6
-    },
-    {
-      "tmdb_id": 273119,
-      "tmdb_type": "tv",
-      "title": "人鱼",
-      "sort": 7
     },
     {
       "tmdb_id": 295558,
       "tmdb_type": "tv",
       "title": "雀骨",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 273119,
+      "tmdb_type": "tv",
+      "title": "人鱼",
       "sort": 8
     },
     {
-      "tmdb_id": 327916,
+      "tmdb_id": 289139,
       "tmdb_type": "tv",
-      "title": "凛冬下的罪恶",
+      "title": "这一秒过火",
       "sort": 9
-    },
-    {
-      "tmdb_id": 295599,
-      "tmdb_type": "tv",
-      "title": "御廷谣",
-      "sort": 10
     },
     {
       "tmdb_id": 296915,
       "tmdb_type": "tv",
       "title": "依然的喜事",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 327916,
+      "tmdb_type": "tv",
+      "title": "凛冬下的罪恶",
       "sort": 12
     },
     {
@@ -101,45 +101,45 @@
       "sort": 13
     },
     {
-      "tmdb_id": 73028,
+      "tmdb_id": 295599,
       "tmdb_type": "tv",
-      "title": "我的前半生",
+      "title": "御廷谣",
       "sort": 14
     },
     {
-      "tmdb_id": 123542,
+      "tmdb_id": 73028,
       "tmdb_type": "tv",
-      "title": "时光代理人 第三季",
+      "title": "我的前半生",
       "sort": 15
     },
     {
-      "tmdb_id": 291392,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "野狗骨头",
+      "title": "披荆斩棘2026",
       "sort": 16
-    },
-    {
-      "tmdb_id": 286506,
-      "tmdb_type": "tv",
-      "title": "百花杀",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 284110,
-      "tmdb_type": "tv",
-      "title": "主角",
-      "sort": 18
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "地球超新鲜 第二季",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 291392,
+      "tmdb_type": "tv",
+      "title": "野狗骨头",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 284110,
+      "tmdb_type": "tv",
+      "title": "主角",
       "sort": 19
     },
     {
-      "tmdb_id": 308085,
+      "tmdb_id": 286506,
       "tmdb_type": "tv",
-      "title": "反人类暴行",
+      "title": "百花杀",
       "sort": 20
     }
   ]
