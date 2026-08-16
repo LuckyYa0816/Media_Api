@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-15T23:22:45.515Z",
+  "updated_at": "2026-08-16T08:31:56.510Z",
   "total": 10,
   "list": [
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1589248,
+      "tmdb_id": 454639,
       "tmdb_type": "movie",
-      "title": "我的死党恋爱了",
+      "title": "宇宙巨人：希曼崛起",
       "sort": 5
     },
     {
@@ -62,21 +62,21 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1263532,
-      "tmdb_type": "movie",
-      "title": "残酷兽竞",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1487864,
       "tmdb_type": "movie",
       "title": "街角少年电影版：南多的两个世界",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1263532,
+      "tmdb_type": "movie",
+      "title": "残酷兽竞",
       "sort": 8
     },
     {
-      "tmdb_id": 454639,
+      "tmdb_id": 1589248,
       "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
+      "title": "我的死党恋爱了",
       "sort": 9
     },
     {
