@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-08-17T08:45:43.034Z",
-  "total": 23,
+  "updated_at": "2026-08-17T23:26:04.920Z",
+  "total": 24,
   "list": [
     {
       "tmdb_id": 108978,
@@ -37,15 +37,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 138502,
-      "tmdb_type": "tv",
-      "title": "X战警97",
-      "sort": 2
-    },
-    {
       "tmdb_id": 113962,
       "tmdb_type": "tv",
       "title": "特别行动：母狮",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
       "sort": 3
     },
     {
@@ -55,27 +55,27 @@
       "sort": 4
     },
     {
-      "tmdb_id": 615,
+      "tmdb_id": 138502,
       "tmdb_type": "tv",
-      "title": "飞出个未来",
+      "title": "X战警97",
       "sort": 5
-    },
-    {
-      "tmdb_id": 283297,
-      "tmdb_type": "tv",
-      "title": "斯特林角",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 7
     },
     {
       "tmdb_id": 298168,
       "tmdb_type": "tv",
       "title": "青春碎片",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 287238,
+      "tmdb_type": "tv",
+      "title": "狂怒追缉",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 283297,
+      "tmdb_type": "tv",
+      "title": "斯特林角",
       "sort": 8
     },
     {
@@ -85,81 +85,81 @@
       "sort": 9
     },
     {
-      "tmdb_id": 287238,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "狂怒追缉",
+      "title": "瑞克和莫蒂",
       "sort": 10
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 247522,
-      "tmdb_type": "tv",
-      "title": "轮家也疯狂",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 13
     },
     {
       "tmdb_id": 194583,
       "tmdb_type": "tv",
       "title": "行尸走肉：死亡之城",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 329274,
-      "tmdb_type": "tv",
-      "title": "若泽·穆里尼奥：特立之道",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 136315,
-      "tmdb_type": "tv",
-      "title": "熊家餐馆",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 300480,
-      "tmdb_type": "tv",
-      "title": "瑞奇·热维斯之街猫一族",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 202555,
-      "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
-      "sort": 18
+      "sort": 11
     },
     {
       "tmdb_id": 76479,
       "tmdb_type": "tv",
       "title": "黑袍纠察队",
-      "sort": 19
+      "sort": 12
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 247522,
+      "tmdb_type": "tv",
+      "title": "轮家也疯狂",
+      "sort": 14
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 20
+      "sort": 15
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 1413,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 21
+      "title": "美国恐怖故事",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 300480,
+      "tmdb_type": "tv",
+      "title": "瑞奇·热维斯之街猫一族",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 329274,
+      "tmdb_type": "tv",
+      "title": "若泽·穆里尼奥：特立之道",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 114461,
+      "tmdb_type": "tv",
+      "title": "Ahsoka",
+      "sort": 20
     },
     {
       "tmdb_id": 207333,
       "tmdb_type": "tv",
       "title": "百年孤独",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 84773,
+      "tmdb_type": "tv",
+      "title": "指环王：力量之戒",
       "sort": 22
     },
     {
@@ -167,6 +167,12 @@
       "tmdb_type": "tv",
       "title": "我与沃尔特家男孩的生活",
       "sort": 23
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 24
     }
   ]
 }

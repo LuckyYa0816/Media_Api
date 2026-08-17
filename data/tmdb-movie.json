@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-17T08:45:45.993Z",
+  "updated_at": "2026-08-17T23:26:07.783Z",
   "total": 10,
   "list": [
     {
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1504358,
       "tmdb_type": "movie",
       "title": "别祝我好运",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 4
     },
     {
@@ -56,9 +56,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1679730,
+      "tmdb_id": 1314481,
       "tmdb_type": "movie",
-      "title": "缎带英雄",
+      "title": "穿普拉达的女王2",
       "sort": 6
     },
     {
@@ -68,21 +68,21 @@
       "sort": 7
     },
     {
-      "tmdb_id": 454639,
+      "tmdb_id": 1481343,
       "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
+      "title": "恶魔之口",
       "sort": 8
     },
     {
-      "tmdb_id": 1314481,
+      "tmdb_id": 454639,
       "tmdb_type": "movie",
-      "title": "穿普拉达的女王2",
+      "title": "宇宙巨人：希曼崛起",
       "sort": 9
     },
     {
-      "tmdb_id": 1263532,
+      "tmdb_id": 1588838,
       "tmdb_type": "movie",
-      "title": "残酷兽竞",
+      "title": "我们的极限人生",
       "sort": 10
     }
   ]
