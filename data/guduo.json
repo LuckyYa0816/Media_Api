@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-08-18T08:40:08.477Z",
+  "updated_at": "2026-08-18T23:25:18.947Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -48,15 +48,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 327916,
-          "tmdb_type": "tv",
-          "title": "凛冬下的罪恶",
-          "sort": 5
-        },
-        {
           "tmdb_id": 286506,
           "tmdb_type": "tv",
           "title": "百花杀",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 327916,
+          "tmdb_type": "tv",
+          "title": "凛冬下的罪恶",
           "sort": 6
         },
         {
@@ -149,15 +149,15 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 1
-        },
-        {
           "tmdb_id": 223911,
           "tmdb_type": "tv",
           "title": "仙逆",
+          "sort": 1
+        },
+        {
+          "tmdb_id": 236534,
+          "tmdb_type": "tv",
+          "title": "牧神记",
           "sort": 2
         },
         {
@@ -173,63 +173,63 @@
           "sort": 4
         },
         {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 5
-        },
-        {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 6
+          "sort": 5
         },
         {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
-          "sort": 7
+          "sort": 6
         },
         {
-          "tmdb_id": 281233,
+          "tmdb_id": 124003,
           "tmdb_type": "tv",
-          "title": "光阴之外",
-          "sort": 8
+          "title": "完美世界",
+          "sort": 7
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 281233,
+          "tmdb_type": "tv",
+          "title": "光阴之外",
           "sort": 9
-        },
-        {
-          "tmdb_id": 303287,
-          "tmdb_type": "tv",
-          "title": "一斩苍穹",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 123542,
-          "tmdb_type": "tv",
-          "title": "时光代理人",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 224839,
-          "tmdb_type": "tv",
-          "title": "遮天",
-          "sort": 14
         },
         {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 303287,
+          "tmdb_type": "tv",
+          "title": "一斩苍穹",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 123542,
+          "tmdb_type": "tv",
+          "title": "时光代理人",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 224839,
+          "tmdb_type": "tv",
+          "title": "遮天",
           "sort": 15
         },
         {
@@ -251,15 +251,15 @@
           "sort": 18
         },
         {
-          "tmdb_id": 331660,
-          "tmdb_type": "tv",
-          "title": "封天契",
-          "sort": 19
-        },
-        {
           "tmdb_id": 323839,
           "tmdb_type": "tv",
           "title": "东大高武学院",
+          "sort": 19
+        },
+        {
+          "tmdb_id": 331660,
+          "tmdb_type": "tv",
+          "title": "封天契",
           "sort": 20
         }
       ]
@@ -286,15 +286,15 @@
           "sort": 3
         },
         {
-          "tmdb_id": 89861,
-          "tmdb_type": "tv",
-          "title": "密室大逃脱",
-          "sort": 4
-        },
-        {
           "tmdb_id": 103147,
           "tmdb_type": "tv",
           "title": "心动的信号",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 261391,
+          "tmdb_type": "tv",
+          "title": "喜剧之王单口季",
           "sort": 5
         },
         {
@@ -304,27 +304,27 @@
           "sort": 6
         },
         {
-          "tmdb_id": 261391,
-          "tmdb_type": "tv",
-          "title": "喜剧之王单口季",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 261471,
-          "tmdb_type": "tv",
-          "title": "脱口秀和Ta的朋友们",
-          "sort": 8
-        },
-        {
           "tmdb_id": 124265,
           "tmdb_type": "tv",
           "title": "喜欢你我也是",
-          "sort": 9
+          "sort": 7
+        },
+        {
+          "tmdb_id": 89861,
+          "tmdb_type": "tv",
+          "title": "密室大逃脱",
+          "sort": 8
         },
         {
           "tmdb_id": 331649,
           "tmdb_type": "tv",
           "title": "大哥小助理",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 261471,
+          "tmdb_type": "tv",
+          "title": "脱口秀和Ta的朋友们",
           "sort": 10
         },
         {
@@ -334,9 +334,9 @@
           "sort": 11
         },
         {
-          "tmdb_id": 259700,
+          "tmdb_id": 154420,
           "tmdb_type": "tv",
-          "title": "忙忙碌碌寻宝藏",
+          "title": "半熟恋人",
           "sort": 13
         },
         {
@@ -346,33 +346,33 @@
           "sort": 14
         },
         {
-          "tmdb_id": 296215,
-          "tmdb_type": "tv",
-          "title": "姐姐当家",
-          "sort": 15
-        },
-        {
-          "tmdb_id": 154420,
-          "tmdb_type": "tv",
-          "title": "半熟恋人",
-          "sort": 16
-        },
-        {
           "tmdb_id": 330926,
           "tmdb_type": "tv",
           "title": "一路向海的少年",
-          "sort": 17
+          "sort": 15
         },
         {
           "tmdb_id": 219934,
           "tmdb_type": "tv",
           "title": "种地吧",
-          "sort": 18
+          "sort": 16
+        },
+        {
+          "tmdb_id": 296215,
+          "tmdb_type": "tv",
+          "title": "姐姐当家",
+          "sort": 17
         },
         {
           "tmdb_id": 325041,
           "tmdb_type": "tv",
           "title": "天才厨人",
+          "sort": 18
+        },
+        {
+          "tmdb_id": 259700,
+          "tmdb_type": "tv",
+          "title": "忙忙碌碌寻宝藏",
           "sort": 19
         },
         {
@@ -411,27 +411,27 @@
           "sort": 4
         },
         {
-          "tmdb_id": 1743442,
-          "tmdb_type": "movie",
-          "title": "斩毒行动",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 1744232,
-          "tmdb_type": "movie",
-          "title": "民间奇案录",
-          "sort": 6
-        },
-        {
           "tmdb_id": 1750932,
           "tmdb_type": "movie",
           "title": "伏魔战神",
-          "sort": 7
+          "sort": 5
+        },
+        {
+          "tmdb_id": 1743442,
+          "tmdb_type": "movie",
+          "title": "斩毒行动",
+          "sort": 6
         },
         {
           "tmdb_id": 1743624,
           "tmdb_type": "movie",
           "title": "双枪红娘子",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 1744232,
+          "tmdb_type": "movie",
+          "title": "民间奇案录",
           "sort": 8
         },
         {
@@ -459,15 +459,15 @@
           "sort": 12
         },
         {
-          "tmdb_id": 1746656,
-          "tmdb_type": "movie",
-          "title": "海墓寻龙",
-          "sort": 13
-        },
-        {
           "tmdb_id": 1685036,
           "tmdb_type": "movie",
           "title": "浴血困牛山",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 1746656,
+          "tmdb_type": "movie",
+          "title": "海墓寻龙",
           "sort": 14
         },
         {

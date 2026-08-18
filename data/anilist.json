@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-08-18T08:39:09.118Z",
+  "updated_at": "2026-08-18T23:24:32.945Z",
   "total": 24,
   "list": [
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 79166
-      },
-      "tmdb_type": "tv",
-      "title": "Grand Blue Dreaming Season 3",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 309974
       },
       "tmdb_type": "tv",
       "title": "Love Unseen Beneath the Clear Night Sky",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 79166
+      },
+      "tmdb_type": "tv",
+      "title": "Grand Blue Dreaming Season 3",
       "sort": 16
     },
     {
