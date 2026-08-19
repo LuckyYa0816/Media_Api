@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-08-19T08:40:01.294Z",
-  "total": 24,
+  "updated_at": "2026-08-19T23:25:24.285Z",
+  "total": 25,
   "list": [
     {
       "tmdb_id": 108978,
@@ -49,27 +49,27 @@
       "sort": 3
     },
     {
-      "tmdb_id": 138502,
-      "tmdb_type": "tv",
-      "title": "X战警97",
-      "sort": 4
-    },
-    {
       "tmdb_id": 615,
       "tmdb_type": "tv",
       "title": "飞出个未来",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 138502,
+      "tmdb_type": "tv",
+      "title": "X战警97",
       "sort": 5
     },
     {
-      "tmdb_id": 298168,
+      "tmdb_id": 100757,
       "tmdb_type": "tv",
-      "title": "青春碎片",
+      "title": "外滩探秘",
       "sort": 6
     },
     {
-      "tmdb_id": 309798,
+      "tmdb_id": 287238,
       "tmdb_type": "tv",
-      "title": "我的璀璨生涯",
+      "title": "狂怒追缉",
       "sort": 7
     },
     {
@@ -79,9 +79,9 @@
       "sort": 8
     },
     {
-      "tmdb_id": 287238,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "狂怒追缉",
+      "title": "瑞克和莫蒂",
       "sort": 9
     },
     {
@@ -91,27 +91,27 @@
       "sort": 10
     },
     {
-      "tmdb_id": 60625,
+      "tmdb_id": 298168,
       "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
+      "title": "青春碎片",
       "sort": 11
     },
     {
-      "tmdb_id": 287238,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "狂怒追缉",
+      "title": "海绵宝宝",
       "sort": 12
     },
     {
-      "tmdb_id": 2710,
+      "tmdb_id": 66732,
       "tmdb_type": "tv",
-      "title": "费城永远阳光灿烂",
+      "title": "怪奇物语",
       "sort": 13
     },
     {
-      "tmdb_id": 194583,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
+      "title": "辛普森一家",
       "sort": 14
     },
     {
@@ -121,58 +121,64 @@
       "sort": 15
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 2710,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "费城永远阳光灿烂",
       "sort": 16
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 228421,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "平凡的乔",
       "sort": 17
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 194583,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "行尸走肉：死亡之城",
       "sort": 18
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 194583,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "行尸走肉：死亡之城",
       "sort": 19
     },
     {
-      "tmdb_id": 57532,
+      "tmdb_id": 247522,
       "tmdb_type": "tv",
-      "title": "汪汪队立大功",
+      "title": "轮家也疯狂",
       "sort": 20
     },
     {
-      "tmdb_id": 300480,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "瑞奇·热维斯之街猫一族",
+      "title": "菜鸟老警",
       "sort": 21
-    },
-    {
-      "tmdb_id": 284753,
-      "tmdb_type": "tv",
-      "title": "白海行动：最高空军任务",
-      "sort": 22
     },
     {
       "tmdb_id": 202555,
       "tmdb_type": "tv",
       "title": "夜魔侠：重生",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 114461,
+      "tmdb_type": "tv",
+      "title": "Ahsoka",
       "sort": 23
     },
     {
-      "tmdb_id": 1434,
+      "tmdb_id": 273240,
       "tmdb_type": "tv",
-      "title": "恶搞之家",
+      "title": "校园之外",
       "sort": 24
+    },
+    {
+      "tmdb_id": 329274,
+      "tmdb_type": "tv",
+      "title": "若泽·穆里尼奥：特立之道",
+      "sort": 25
     }
   ]
 }
