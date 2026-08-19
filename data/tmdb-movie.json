@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-18T23:24:40.186Z",
+  "updated_at": "2026-08-19T08:40:04.279Z",
   "total": 8,
   "list": [
     {
@@ -56,15 +56,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1487864,
-      "tmdb_type": "movie",
-      "title": "街角少年电影版：南多的两个世界",
-      "sort": 6
-    },
-    {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1487864,
+      "tmdb_type": "movie",
+      "title": "街角少年电影版：南多的两个世界",
       "sort": 7
     },
     {
