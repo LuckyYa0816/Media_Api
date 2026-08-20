@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-08-20T08:40:58.823Z",
+  "updated_at": "2026-08-20T23:27:57.940Z",
   "total": 28,
   "list": [
     {
@@ -191,18 +191,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 69203
-      },
-      "tmdb_type": "tv",
-      "title": "Aishen Qiaokeli-ING...",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 98123
       },
       "tmdb_type": "tv",
       "title": "The Daily Life of the Immortal King Season 4",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 69203
+      },
+      "tmdb_type": "tv",
+      "title": "Aishen Qiaokeli-ING...",
       "sort": 23
     },
     {

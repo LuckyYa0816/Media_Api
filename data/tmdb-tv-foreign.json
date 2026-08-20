@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-08-20T08:41:02.559Z",
-  "total": 22,
+  "updated_at": "2026-08-20T23:28:01.526Z",
+  "total": 25,
   "list": [
     {
       "tmdb_id": 108978,
@@ -49,15 +49,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 113962,
-      "tmdb_type": "tv",
-      "title": "特别行动：母狮",
-      "sort": 4
-    },
-    {
       "tmdb_id": 298168,
       "tmdb_type": "tv",
       "title": "青春碎片",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 113962,
+      "tmdb_type": "tv",
+      "title": "特别行动：母狮",
       "sort": 5
     },
     {
@@ -73,15 +73,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 309798,
+      "tmdb_id": 283297,
       "tmdb_type": "tv",
-      "title": "我的璀璨生涯",
+      "title": "斯特林角",
       "sort": 8
     },
     {
-      "tmdb_id": 60625,
+      "tmdb_id": 287238,
       "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
+      "title": "狂怒追缉",
       "sort": 9
     },
     {
@@ -91,9 +91,9 @@
       "sort": 10
     },
     {
-      "tmdb_id": 2710,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "费城永远阳光灿烂",
+      "title": "瑞克和莫蒂",
       "sort": 11
     },
     {
@@ -109,9 +109,9 @@
       "sort": 13
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 309798,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "我的璀璨生涯",
       "sort": 14
     },
     {
@@ -121,46 +121,64 @@
       "sort": 15
     },
     {
-      "tmdb_id": 329274,
-      "tmdb_type": "tv",
-      "title": "若泽·穆里尼奥：特立之道",
-      "sort": 16
-    },
-    {
       "tmdb_id": 76479,
       "tmdb_type": "tv",
       "title": "黑袍纠察队",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 2710,
+      "tmdb_type": "tv",
+      "title": "费城永远阳光灿烂",
       "sort": 17
-    },
-    {
-      "tmdb_id": 79744,
-      "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 202555,
-      "tmdb_type": "tv",
-      "title": "夜魔侠：重生",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 207333,
-      "tmdb_type": "tv",
-      "title": "百年孤独",
-      "sort": 21
     },
     {
       "tmdb_id": 1434,
       "tmdb_type": "tv",
       "title": "恶搞之家",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 120911,
+      "tmdb_type": "tv",
+      "title": "The Terminal List",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 194583,
+      "tmdb_type": "tv",
+      "title": "行尸走肉：死亡之城",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
       "sort": 22
+    },
+    {
+      "tmdb_id": 202555,
+      "tmdb_type": "tv",
+      "title": "夜魔侠：重生",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 228421,
+      "tmdb_type": "tv",
+      "title": "平凡的乔",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 114461,
+      "tmdb_type": "tv",
+      "title": "Ahsoka",
+      "sort": 25
     }
   ]
 }

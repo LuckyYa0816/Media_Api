@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-20T08:41:05.208Z",
-  "total": 7,
+  "updated_at": "2026-08-20T23:28:03.993Z",
+  "total": 8,
   "list": [
+    {
+      "tmdb_id": 1284041,
+      "tmdb_type": "movie",
+      "title": "最后孤屋",
+      "sort": 1
+    },
     {
       "tmdb_id": 1504358,
       "tmdb_type": "movie",
       "title": "别祝我好运",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1493400,
       "tmdb_type": "movie",
       "title": "摇滚夏令营3",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1284041,
-      "tmdb_type": "movie",
-      "title": "最后孤屋",
       "sort": 3
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1589248,
+      "tmdb_id": 1418582,
       "tmdb_type": "movie",
-      "title": "我的死党恋爱了",
+      "title": "一直在这里",
       "sort": 5
     },
     {
@@ -62,10 +62,16 @@
       "sort": 6
     },
     {
+      "tmdb_id": 1589248,
+      "tmdb_type": "movie",
+      "title": "我的死党恋爱了",
+      "sort": 7
+    },
+    {
       "tmdb_id": 1487864,
       "tmdb_type": "movie",
       "title": "街角少年电影版：南多的两个世界",
-      "sort": 7
+      "sort": 8
     }
   ]
 }

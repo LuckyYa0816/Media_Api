@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-08-20T08:40:57.015Z",
+  "updated_at": "2026-08-20T23:27:55.969Z",
   "total": 24,
   "list": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288971
-      },
-      "tmdb_type": "tv",
-      "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 309974
       },
       "tmdb_type": "tv",
       "title": "Love Unseen Beneath the Clear Night Sky",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 288971
+      },
+      "tmdb_type": "tv",
+      "title": "Jaadugar: A Witch in Mongolia",
       "sort": 15
     },
     {

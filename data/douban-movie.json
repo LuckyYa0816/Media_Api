@@ -19,49 +19,49 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-20T08:41:31.813Z",
+  "updated_at": "2026-08-20T23:28:25.099Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 1567937,
+      "tmdb_type": "movie",
+      "title": "空枪",
+      "sort": 1
+    },
     {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 1
+      "sort": 2
     },
     {
-      "tmdb_id": 950028,
+      "tmdb_id": 1185806,
       "tmdb_type": "movie",
-      "title": "激情邀约",
-      "sort": 2
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "sort": 3
     },
     {
       "tmdb_id": 1361774,
       "tmdb_type": "movie",
       "title": "低弧慢球",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1535951,
-      "tmdb_type": "movie",
-      "title": "潮汐低语",
       "sort": 4
     },
     {
-      "tmdb_id": 1281195,
+      "tmdb_id": 950028,
       "tmdb_type": "movie",
-      "title": "袒露",
+      "title": "激情邀约",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1284041,
-      "tmdb_type": "movie",
-      "title": "最后孤屋",
-      "sort": 6
     },
     {
       "tmdb_id": 1280738,
       "tmdb_type": "movie",
       "title": "火遮眼",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1284041,
+      "tmdb_type": "movie",
+      "title": "最后孤屋",
       "sort": 7
     },
     {
@@ -107,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1275779,
-      "tmdb_type": "movie",
-      "title": "揭秘日",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1275779,
+      "tmdb_type": "movie",
+      "title": "揭秘日",
       "sort": 16
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1307118,
+      "tmdb_id": 1488778,
       "tmdb_type": "movie",
-      "title": "灵魂伴侣",
+      "title": "今晚正好",
       "sort": 20
     }
   ]
