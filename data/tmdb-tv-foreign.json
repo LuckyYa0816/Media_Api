@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-08-21T08:42:31.511Z",
-  "total": 20,
+  "updated_at": "2026-08-21T23:26:33.340Z",
+  "total": 22,
   "list": [
     {
       "tmdb_id": 108978,
@@ -43,15 +43,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 113962,
-      "tmdb_type": "tv",
-      "title": "特别行动：母狮",
-      "sort": 3
-    },
-    {
       "tmdb_id": 97546,
       "tmdb_type": "tv",
       "title": "Ted Lasso",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 113962,
+      "tmdb_type": "tv",
+      "title": "特别行动：母狮",
       "sort": 4
     },
     {
@@ -61,9 +61,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 298168,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "青春碎片",
+      "title": "瑞克和莫蒂",
       "sort": 6
     },
     {
@@ -79,33 +79,33 @@
       "sort": 8
     },
     {
-      "tmdb_id": 283297,
+      "tmdb_id": 2710,
       "tmdb_type": "tv",
-      "title": "斯特林角",
+      "title": "费城永远阳光灿烂",
       "sort": 9
+    },
+    {
+      "tmdb_id": 298168,
+      "tmdb_type": "tv",
+      "title": "青春碎片",
+      "sort": 10
     },
     {
       "tmdb_id": 287238,
       "tmdb_type": "tv",
       "title": "狂怒追缉",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 309798,
-      "tmdb_type": "tv",
-      "title": "我的璀璨生涯",
       "sort": 11
     },
     {
-      "tmdb_id": 2710,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "费城永远阳光灿烂",
+      "title": "黑袍纠察队",
       "sort": 12
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 66732,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "怪奇物语",
       "sort": 13
     },
     {
@@ -115,15 +115,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "辛普森一家",
       "sort": 15
     },
     {
-      "tmdb_id": 228421,
+      "tmdb_id": 309798,
       "tmdb_type": "tv",
-      "title": "平凡的乔",
+      "title": "我的璀璨生涯",
       "sort": 16
     },
     {
@@ -133,9 +133,9 @@
       "sort": 17
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "海绵宝宝",
       "sort": 18
     },
     {
@@ -145,10 +145,22 @@
       "sort": 19
     },
     {
-      "tmdb_id": 114461,
+      "tmdb_id": 202555,
       "tmdb_type": "tv",
-      "title": "Ahsoka",
+      "title": "夜魔侠：重生",
       "sort": 20
+    },
+    {
+      "tmdb_id": 247522,
+      "tmdb_type": "tv",
+      "title": "轮家也疯狂",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 273240,
+      "tmdb_type": "tv",
+      "title": "校园之外",
+      "sort": 22
     }
   ]
 }
