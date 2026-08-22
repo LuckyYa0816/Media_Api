@@ -22,56 +22,62 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-22T08:32:49.711Z",
-  "total": 8,
+  "updated_at": "2026-08-22T23:23:52.777Z",
+  "total": 9,
   "list": [
     {
-      "tmdb_id": 1504358,
+      "tmdb_id": 1621552,
       "tmdb_type": "movie",
-      "title": "别祝我好运",
+      "title": "夜巡毒枭",
       "sort": 1
-    },
-    {
-      "tmdb_id": 1284041,
-      "tmdb_type": "movie",
-      "title": "最后孤屋",
-      "sort": 2
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1284041,
+      "tmdb_type": "movie",
+      "title": "最后孤屋",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1504358,
+      "tmdb_type": "movie",
+      "title": "别祝我好运",
+      "sort": 4
     },
     {
       "tmdb_id": 1493400,
       "tmdb_type": "movie",
       "title": "摇滚夏令营3",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 1418582,
       "tmdb_type": "movie",
       "title": "一直在这里",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1589248,
-      "tmdb_type": "movie",
-      "title": "我的死党恋爱了",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1688804,
-      "tmdb_type": "movie",
-      "title": "一落千丈：波音大调查2",
-      "sort": 7
     },
     {
       "tmdb_id": 454639,
       "tmdb_type": "movie",
       "title": "宇宙巨人：希曼崛起",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1314481,
+      "tmdb_type": "movie",
+      "title": "穿普拉达的女王2",
       "sort": 8
+    },
+    {
+      "tmdb_id": 1589248,
+      "tmdb_type": "movie",
+      "title": "我的死党恋爱了",
+      "sort": 9
     }
   ]
 }
