@@ -22,31 +22,31 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-21T23:26:35.990Z",
-  "total": 7,
+  "updated_at": "2026-08-22T08:32:49.711Z",
+  "total": 8,
   "list": [
+    {
+      "tmdb_id": 1504358,
+      "tmdb_type": "movie",
+      "title": "别祝我好运",
+      "sort": 1
+    },
     {
       "tmdb_id": 1284041,
       "tmdb_type": "movie",
       "title": "最后孤屋",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1493400,
       "tmdb_type": "movie",
       "title": "摇滚夏令营3",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1504358,
-      "tmdb_type": "movie",
-      "title": "别祝我好运",
       "sort": 4
     },
     {
@@ -62,10 +62,16 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1314481,
+      "tmdb_id": 1688804,
       "tmdb_type": "movie",
-      "title": "穿普拉达的女王2",
+      "title": "一落千丈：波音大调查2",
       "sort": 7
+    },
+    {
+      "tmdb_id": 454639,
+      "tmdb_type": "movie",
+      "title": "宇宙巨人：希曼崛起",
+      "sort": 8
     }
   ]
 }
