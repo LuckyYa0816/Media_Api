@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-22T23:23:52.777Z",
-  "total": 9,
+  "updated_at": "2026-08-23T08:32:42.536Z",
+  "total": 10,
   "list": [
-    {
-      "tmdb_id": 1621552,
-      "tmdb_type": "movie",
-      "title": "夜巡毒枭",
-      "sort": 1
-    },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1621552,
+      "tmdb_type": "movie",
+      "title": "夜巡毒枭",
       "sort": 2
     },
     {
@@ -74,10 +74,16 @@
       "sort": 8
     },
     {
+      "tmdb_id": 1588838,
+      "tmdb_type": "movie",
+      "title": "我们的极限人生",
+      "sort": 9
+    },
+    {
       "tmdb_id": 1589248,
       "tmdb_type": "movie",
       "title": "我的死党恋爱了",
-      "sort": 9
+      "sort": 10
     }
   ]
 }
