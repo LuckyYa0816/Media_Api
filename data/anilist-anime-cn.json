@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-08-23T08:32:36.983Z",
+  "updated_at": "2026-08-24T08:50:50.650Z",
   "total": 28,
   "list": [
     {
@@ -207,18 +207,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 71194
-      },
-      "tmdb_type": "tv",
-      "title": "Quanzhi Gaoshou Specials",
-      "sort": 24
-    },
-    {
-      "tmdb_id": {
         "tv": 262453
       },
       "tmdb_type": "tv",
       "title": "The Fated Magical Princess: Who Made Me a Princess",
+      "sort": 24
+    },
+    {
+      "tmdb_id": {
+        "tv": 71194
+      },
+      "tmdb_type": "tv",
+      "title": "Quanzhi Gaoshou Specials",
       "sort": 25
     },
     {
