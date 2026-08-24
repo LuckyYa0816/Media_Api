@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-24T08:50:55.797Z",
-  "total": 9,
+  "updated_at": "2026-08-24T23:24:48.781Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1621552,
@@ -44,40 +44,34 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1504358,
-      "tmdb_type": "movie",
-      "title": "别祝我好运",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1418582,
       "tmdb_type": "movie",
       "title": "一直在这里",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1504358,
+      "tmdb_type": "movie",
+      "title": "别祝我好运",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1493400,
-      "tmdb_type": "movie",
-      "title": "摇滚夏令营3",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1732625,
-      "tmdb_type": "movie",
-      "title": "乐高迪士尼公主：魔法大乱斗",
-      "sort": 7
     },
     {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
-      "sort": 8
+      "sort": 6
     },
     {
-      "tmdb_id": 1327819,
+      "tmdb_id": 1493400,
       "tmdb_type": "movie",
-      "title": "河狸变身计划",
-      "sort": 9
+      "title": "摇滚夏令营3",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1688804,
+      "tmdb_type": "movie",
+      "title": "一落千丈：波音大调查2",
+      "sort": 8
     }
   ]
 }

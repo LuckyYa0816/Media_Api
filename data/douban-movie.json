@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-24T08:51:35.161Z",
+  "updated_at": "2026-08-24T23:25:29.195Z",
   "total": 20,
   "list": [
     {
@@ -83,21 +83,21 @@
       "sort": 10
     },
     {
+      "tmdb_id": 1130948,
+      "tmdb_type": "movie",
+      "title": "蔷薇修剪术",
+      "sort": 11
+    },
+    {
       "tmdb_id": 1658653,
       "tmdb_type": "movie",
       "title": "消失的人",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 1564614,
       "tmdb_type": "movie",
       "title": "利未记",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1130948,
-      "tmdb_type": "movie",
-      "title": "蔷薇修剪术",
       "sort": 13
     },
     {
@@ -113,9 +113,9 @@
       "sort": 15
     },
     {
-      "tmdb_id": 1375646,
+      "tmdb_id": 1291595,
       "tmdb_type": "movie",
-      "title": "群体",
+      "title": "潜伏6",
       "sort": 16
     },
     {
@@ -125,9 +125,9 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1275779,
+      "tmdb_id": 1375646,
       "tmdb_type": "movie",
-      "title": "揭秘日",
+      "title": "群体",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1291595,
+      "tmdb_id": 1393326,
       "tmdb_type": "movie",
-      "title": "潜伏6",
+      "title": "牢笼鬼魂",
       "sort": 20
     }
   ]
