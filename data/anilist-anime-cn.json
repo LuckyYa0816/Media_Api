@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-08-25T08:45:01.194Z",
+  "updated_at": "2026-08-25T23:27:02.788Z",
   "total": 28,
   "list": [
     {
@@ -183,18 +183,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 102927
-      },
-      "tmdb_type": "tv",
-      "title": "THE LAST SUMMONER",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
         "tv": 98123
       },
       "tmdb_type": "tv",
       "title": "The Daily Life of the Immortal King Season 4",
+      "sort": 21
+    },
+    {
+      "tmdb_id": {
+        "tv": 102927
+      },
+      "tmdb_type": "tv",
+      "title": "THE LAST SUMMONER",
       "sort": 22
     },
     {

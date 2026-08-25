@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-25T08:45:19.942Z",
+  "updated_at": "2026-08-25T23:27:28.277Z",
   "total": 20,
   "list": [
     {
@@ -53,93 +53,93 @@
       "sort": 5
     },
     {
+      "tmdb_id": 295558,
+      "tmdb_type": "tv",
+      "title": "雀骨",
+      "sort": 6
+    },
+    {
       "tmdb_id": 280133,
       "tmdb_type": "tv",
       "title": "藏锋",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 7
+      "sort": 8
     },
     {
-      "tmdb_id": 295558,
+      "tmdb_id": 35894,
       "tmdb_type": "tv",
-      "title": "雀骨",
-      "sort": 8
+      "title": "金色",
+      "sort": 9
     },
     {
       "tmdb_id": 317331,
       "tmdb_type": "tv",
       "title": "邻人可疑",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 331830,
       "tmdb_type": "tv",
       "title": "我们的少年时代2",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 73028,
       "tmdb_type": "tv",
       "title": "我的前半生",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 278605,
-      "tmdb_type": "tv",
-      "title": "南部档案",
       "sort": 13
-    },
-    {
-      "tmdb_id": 284110,
-      "tmdb_type": "tv",
-      "title": "主角",
-      "sort": 14
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "披荆斩棘2026",
-      "sort": 15
+      "title": "地球超新鲜 第二季",
+      "sort": 14
     },
     {
       "tmdb_id": 289116,
       "tmdb_type": "tv",
       "title": "天才，女友",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 278605,
+      "tmdb_type": "tv",
+      "title": "南部档案",
       "sort": 16
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "披荆斩棘2026",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 284110,
+      "tmdb_type": "tv",
+      "title": "主角",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 289139,
+      "tmdb_type": "tv",
+      "title": "这一秒过火",
+      "sort": 19
     },
     {
       "tmdb_id": 327916,
       "tmdb_type": "tv",
       "title": "凛冬下的罪恶",
-      "sort": 17
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "灵魂摆渡·蝴蝶梦",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 273119,
-      "tmdb_type": "tv",
-      "title": "人鱼",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 331649,
-      "tmdb_type": "tv",
-      "title": "大哥小助理",
       "sort": 20
     }
   ]
