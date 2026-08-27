@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-08-27T04:24:32.254Z",
+  "updated_at": "2026-08-27T18:57:11.444Z",
   "total": 28,
   "list": [
     {
@@ -71,18 +71,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 80732
-      },
-      "tmdb_type": "tv",
-      "title": "The Founder of Diabolism",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
         "tv": 123542
       },
       "tmdb_type": "tv",
       "title": "Link Click Season 2",
+      "sort": 7
+    },
+    {
+      "tmdb_id": {
+        "tv": 80732
+      },
+      "tmdb_type": "tv",
+      "title": "The Founder of Diabolism",
       "sort": 8
     },
     {

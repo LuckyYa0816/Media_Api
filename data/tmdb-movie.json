@@ -22,50 +22,62 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-27T04:24:37.875Z",
-  "total": 7,
+  "updated_at": "2026-08-27T18:57:18.115Z",
+  "total": 9,
   "list": [
+    {
+      "tmdb_id": 1516698,
+      "tmdb_type": "movie",
+      "title": "最后的曙光",
+      "sort": 1
+    },
     {
       "tmdb_id": 1621552,
       "tmdb_type": "movie",
       "title": "夜巡毒枭",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1284041,
-      "tmdb_type": "movie",
-      "title": "最后孤屋",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1676318,
-      "tmdb_type": "movie",
-      "title": "回到90年代",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1418582,
-      "tmdb_type": "movie",
-      "title": "一直在这里",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1504358,
-      "tmdb_type": "movie",
-      "title": "别祝我好运",
-      "sort": 6
     },
     {
       "tmdb_id": 1314481,
       "tmdb_type": "movie",
       "title": "穿普拉达的女王2",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1418582,
+      "tmdb_type": "movie",
+      "title": "一直在这里",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1284041,
+      "tmdb_type": "movie",
+      "title": "最后孤屋",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1504358,
+      "tmdb_type": "movie",
+      "title": "别祝我好运",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1061474,
+      "tmdb_type": "movie",
+      "title": "超人",
+      "sort": 9
     }
   ]
 }
