@@ -19,15 +19,9 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-28T06:49:41.475Z",
-  "total": 20,
+  "updated_at": "2026-08-28T19:59:22.502Z",
+  "total": 19,
   "list": [
-    {
-      "tmdb_id": 950028,
-      "tmdb_type": "movie",
-      "title": "激情邀约",
-      "sort": 1
-    },
     {
       "tmdb_id": 1280738,
       "tmdb_type": "movie",
@@ -95,15 +89,15 @@
       "sort": 12
     },
     {
-      "tmdb_id": 1212763,
-      "tmdb_type": "movie",
-      "title": "鬼玩人6：炼狱",
-      "sort": 13
-    },
-    {
       "tmdb_id": 1564614,
       "tmdb_type": "movie",
       "title": "利未记",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1212763,
+      "tmdb_type": "movie",
+      "title": "鬼玩人6：炼狱",
       "sort": 14
     },
     {
@@ -119,15 +113,15 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1315772,
-      "tmdb_type": "movie",
-      "title": "小黄人与大怪兽",
-      "sort": 17
-    },
-    {
       "tmdb_id": 910850,
       "tmdb_type": "movie",
       "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1315772,
+      "tmdb_type": "movie",
+      "title": "小黄人与大怪兽",
       "sort": 18
     },
     {

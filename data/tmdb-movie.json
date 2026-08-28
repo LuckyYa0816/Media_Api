@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-28T06:48:55.067Z",
-  "total": 4,
+  "updated_at": "2026-08-28T19:58:57.510Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1516698,
@@ -38,16 +38,28 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1744462,
+      "tmdb_type": "movie",
+      "title": "Grand Theft Auto VI：分量十足的一瞥",
+      "sort": 3
+    },
+    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1284041,
       "tmdb_type": "movie",
       "title": "最后孤屋",
-      "sort": 4
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1676318,
+      "tmdb_type": "movie",
+      "title": "回到90年代",
+      "sort": 6
     }
   ]
 }
