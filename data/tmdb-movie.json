@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-29T04:04:02.792Z",
+  "updated_at": "2026-08-29T13:41:45.968Z",
   "total": 8,
   "list": [
     {
@@ -40,7 +40,7 @@
     {
       "tmdb_id": 1744462,
       "tmdb_type": "movie",
-      "title": "Grand Theft Auto VI：分量十足的一瞥",
+      "title": "侠盗猎车手VI：深度前瞻",
       "sort": 3
     },
     {
@@ -50,27 +50,27 @@
       "sort": 4
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1284041,
       "tmdb_type": "movie",
       "title": "最后孤屋",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1729723,
+      "tmdb_type": "movie",
+      "title": "辛普森一家：黄镜",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1631807,
+      "tmdb_type": "movie",
+      "title": "她的秘密人生",
       "sort": 7
     },
     {
-      "tmdb_id": 1676318,
+      "tmdb_id": 1314481,
       "tmdb_type": "movie",
-      "title": "回到90年代",
+      "title": "穿普拉达的女王2",
       "sort": 8
     }
   ]
