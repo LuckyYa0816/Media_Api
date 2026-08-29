@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-28T19:58:57.510Z",
-  "total": 6,
+  "updated_at": "2026-08-29T04:04:02.792Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1516698,
@@ -50,16 +50,28 @@
       "sort": 4
     },
     {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1301421,
+      "tmdb_type": "movie",
+      "title": "绵羊侦探团",
+      "sort": 6
+    },
+    {
       "tmdb_id": 1284041,
       "tmdb_type": "movie",
       "title": "最后孤屋",
-      "sort": 5
+      "sort": 7
     },
     {
       "tmdb_id": 1676318,
       "tmdb_type": "movie",
       "title": "回到90年代",
-      "sort": 6
+      "sort": 8
     }
   ]
 }
