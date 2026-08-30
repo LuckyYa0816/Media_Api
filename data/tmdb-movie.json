@@ -22,37 +22,37 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-30T01:09:40.355Z",
-  "total": 10,
+  "updated_at": "2026-08-30T13:39:40.804Z",
+  "total": 7,
   "list": [
-    {
-      "tmdb_id": 1516698,
-      "tmdb_type": "movie",
-      "title": "最后的曙光",
-      "sort": 1
-    },
     {
       "tmdb_id": 860508,
       "tmdb_type": "movie",
       "title": "耳语人",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1516698,
+      "tmdb_type": "movie",
+      "title": "最后的曙光",
       "sort": 2
-    },
-    {
-      "tmdb_id": 1744462,
-      "tmdb_type": "movie",
-      "title": "侠盗猎车手VI：分量十足的一瞥",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 4
     },
     {
       "tmdb_id": 1621552,
       "tmdb_type": "movie",
       "title": "夜巡毒枭",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1744462,
+      "tmdb_type": "movie",
+      "title": "侠盗猎车手VI：分量十足的一瞥",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 5
     },
     {
@@ -62,28 +62,10 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1284041,
-      "tmdb_type": "movie",
-      "title": "最后孤屋",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1301421,
-      "tmdb_type": "movie",
-      "title": "绵羊侦探团",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1729723,
       "tmdb_type": "movie",
       "title": "辛普森一家：黄镜",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 454639,
-      "tmdb_type": "movie",
-      "title": "宇宙巨人：希曼崛起",
-      "sort": 10
+      "sort": 7
     }
   ]
 }
