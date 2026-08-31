@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-08-30T13:39:53.633Z",
+  "updated_at": "2026-08-31T01:13:02.347Z",
   "total": 20,
   "list": [
     {
@@ -35,45 +35,45 @@
       "sort": 2
     },
     {
-      "tmdb_id": 272938,
-      "tmdb_type": "tv",
-      "title": "师兄太稳健",
-      "sort": 3
-    },
-    {
       "tmdb_id": 291856,
       "tmdb_type": "tv",
       "title": "重器",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 294487,
       "tmdb_type": "tv",
       "title": "金色",
-      "sort": 5
+      "sort": 4
     },
     {
-      "tmdb_id": 285250,
+      "tmdb_id": 272938,
       "tmdb_type": "tv",
-      "title": "蝉",
-      "sort": 6
+      "title": "师兄太稳健",
+      "sort": 5
     },
     {
       "tmdb_id": 289761,
       "tmdb_type": "tv",
       "title": "醒来",
-      "sort": 7
+      "sort": 6
     },
     {
-      "tmdb_id": 271016,
+      "tmdb_id": 285250,
       "tmdb_type": "tv",
-      "title": "九门",
-      "sort": 8
+      "title": "蝉",
+      "sort": 7
     },
     {
       "tmdb_id": 280133,
       "tmdb_type": "tv",
       "title": "藏锋",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 271016,
+      "tmdb_type": "tv",
+      "title": "九门",
       "sort": 9
     },
     {
@@ -83,15 +83,15 @@
       "sort": 10
     },
     {
-      "tmdb_id": 295558,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "雀骨",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 11
     },
     {
-      "tmdb_id": 317331,
+      "tmdb_id": 295558,
       "tmdb_type": "tv",
-      "title": "邻人可疑",
+      "title": "雀骨",
       "sort": 12
     },
     {
@@ -101,45 +101,45 @@
       "sort": 13
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 317331,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "邻人可疑",
       "sort": 14
-    },
-    {
-      "tmdb_id": 73028,
-      "tmdb_type": "tv",
-      "title": "我的前半生",
-      "sort": 15
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 331649,
-      "tmdb_type": "tv",
-      "title": "大哥小助理",
-      "sort": 17
     },
     {
       "tmdb_id": 232828,
       "tmdb_type": "tv",
       "title": "装腔启示录",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 331649,
+      "tmdb_type": "tv",
+      "title": "大哥小助理",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 280564,
+      "tmdb_type": "tv",
+      "title": "记忆管理局",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 73028,
+      "tmdb_type": "tv",
+      "title": "我的前半生",
       "sort": 18
     },
     {
-      "tmdb_id": 21712,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "潜伏",
+      "title": "凡人修仙传 年番4",
       "sort": 19
     },
     {
-      "tmdb_id": 331830,
+      "tmdb_id": 52461,
       "tmdb_type": "tv",
-      "title": "我们的少年时代2",
+      "title": "无悔追踪",
       "sort": 20
     }
   ]

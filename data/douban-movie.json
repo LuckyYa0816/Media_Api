@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-08-30T13:40:08.024Z",
+  "updated_at": "2026-08-31T01:13:13.664Z",
   "total": 20,
   "list": [
     {
@@ -35,63 +35,63 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1157869,
+      "tmdb_type": "movie",
+      "title": "平行故事",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1433367,
       "tmdb_type": "movie",
       "title": "一夜限定",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1573705,
       "tmdb_type": "movie",
       "title": "UFO离奇命案",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1329016,
-      "tmdb_type": "movie",
-      "title": "托尼",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1280738,
-      "tmdb_type": "movie",
-      "title": "火遮眼",
-      "sort": 6
     },
     {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1280738,
+      "tmdb_type": "movie",
+      "title": "火遮眼",
       "sort": 7
-    },
-    {
-      "tmdb_id": 1130948,
-      "tmdb_type": "movie",
-      "title": "蔷薇修剪术",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 9
     },
     {
       "tmdb_id": 1602727,
       "tmdb_type": "movie",
       "title": "夜王",
-      "sort": 10
+      "sort": 8
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1130948,
       "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 11
+      "title": "蔷薇修剪术",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 1084244,
+      "tmdb_type": "movie",
+      "title": "玩具总动员5",
+      "sort": 10
     },
     {
       "tmdb_id": 1393326,
       "tmdb_type": "movie",
       "title": "牢笼鬼魂",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 12
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1212763,
-      "tmdb_type": "movie",
-      "title": "鬼玩人6：炼狱",
-      "sort": 19
-    },
-    {
       "tmdb_id": 910850,
       "tmdb_type": "movie",
       "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1375646,
+      "tmdb_type": "movie",
+      "title": "群体",
       "sort": 20
     }
   ]
