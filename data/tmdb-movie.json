@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-08-31T15:57:36.351Z",
-  "total": 6,
+  "updated_at": "2026-09-01T01:43:15.429Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 860508,
@@ -44,22 +44,34 @@
       "sort": 3
     },
     {
+      "tmdb_id": 1744462,
+      "tmdb_type": "movie",
+      "title": "侠盗猎车手VI：分量十足的一瞥",
+      "sort": 4
+    },
+    {
       "tmdb_id": 1621552,
       "tmdb_type": "movie",
       "title": "夜巡毒枭",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 5
+      "sort": 6
     },
     {
-      "tmdb_id": 1284041,
+      "tmdb_id": 1729723,
       "tmdb_type": "movie",
-      "title": "最后孤屋",
-      "sort": 6
+      "title": "辛普森一家：黄镜",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 83533,
+      "tmdb_type": "movie",
+      "title": "阿凡达：火与烬",
+      "sort": 8
     }
   ]
 }
