@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-01T01:43:15.429Z",
+  "updated_at": "2026-09-01T13:14:28.117Z",
   "total": 8,
   "list": [
     {
@@ -62,15 +62,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1729723,
+      "tmdb_id": 1284041,
       "tmdb_type": "movie",
-      "title": "辛普森一家：黄镜",
+      "title": "最后孤屋",
       "sort": 7
     },
     {
-      "tmdb_id": 83533,
+      "tmdb_id": 1729723,
       "tmdb_type": "movie",
-      "title": "阿凡达：火与烬",
+      "title": "辛普森一家：黄镜",
       "sort": 8
     }
   ]

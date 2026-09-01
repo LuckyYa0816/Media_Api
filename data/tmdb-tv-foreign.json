@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-01T01:43:12.722Z",
-  "total": 26,
+  "updated_at": "2026-09-01T13:14:25.795Z",
+  "total": 27,
   "list": [
-    {
-      "tmdb_id": 287238,
-      "tmdb_type": "tv",
-      "title": "狂怒追缉",
-      "sort": 1
-    },
     {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 97546,
+      "tmdb_type": "tv",
+      "title": "Ted Lasso",
       "sort": 2
     },
     {
@@ -49,21 +49,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 97546,
-      "tmdb_type": "tv",
-      "title": "Ted Lasso",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 246246,
-      "tmdb_type": "tv",
-      "title": "黑色丽人",
-      "sort": 5
-    },
-    {
       "tmdb_id": 260458,
       "tmdb_type": "tv",
       "title": "成年人",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 287238,
+      "tmdb_type": "tv",
+      "title": "狂怒追缉",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
       "sort": 6
     },
     {
@@ -73,39 +73,39 @@
       "sort": 7
     },
     {
-      "tmdb_id": 615,
+      "tmdb_id": 246246,
       "tmdb_type": "tv",
-      "title": "飞出个未来",
+      "title": "黑色丽人",
       "sort": 8
-    },
-    {
-      "tmdb_id": 331616,
-      "tmdb_type": "tv",
-      "title": "牧师妻之死",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 10
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 331616,
+      "tmdb_type": "tv",
+      "title": "牧师妻之死",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 207333,
+      "tmdb_type": "tv",
+      "title": "百年孤独",
       "sort": 11
     },
     {
-      "tmdb_id": 100757,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "外滩探秘",
+      "title": "瑞克和莫蒂",
       "sort": 12
     },
     {
-      "tmdb_id": 292558,
+      "tmdb_id": 194583,
       "tmdb_type": "tv",
-      "title": "我那些谎言的全部真相",
+      "title": "行尸走肉：死亡之城",
       "sort": 13
     },
     {
@@ -115,76 +115,82 @@
       "sort": 14
     },
     {
-      "tmdb_id": 207333,
+      "tmdb_id": 292558,
       "tmdb_type": "tv",
-      "title": "百年孤独",
+      "title": "我那些谎言的全部真相",
       "sort": 15
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 194583,
-      "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
-      "sort": 17
     },
     {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 303351,
-      "tmdb_type": "tv",
-      "title": "极昼血祭",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 204255,
-      "tmdb_type": "tv",
-      "title": "摧花谜墓",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 138502,
-      "tmdb_type": "tv",
-      "title": "X战警97",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 252751,
-      "tmdb_type": "tv",
-      "title": "欢迎来到蕾安家",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 283297,
-      "tmdb_type": "tv",
-      "title": "斯特林角",
-      "sort": 23
+      "sort": 16
     },
     {
       "tmdb_id": 2710,
       "tmdb_type": "tv",
       "title": "费城永远阳光灿烂",
-      "sort": 24
+      "sort": 17
+    },
+    {
+      "tmdb_id": 303351,
+      "tmdb_type": "tv",
+      "title": "极昼血祭",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 236235,
+      "tmdb_type": "tv",
+      "title": "绅士们",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 2710,
+      "tmdb_type": "tv",
+      "title": "费城永远阳光灿烂",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 204255,
+      "tmdb_type": "tv",
+      "title": "摧花谜墓",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
+      "sort": 22
     },
     {
       "tmdb_id": 79744,
       "tmdb_type": "tv",
       "title": "菜鸟老警",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 111110,
+      "tmdb_type": "tv",
+      "title": "ONE PIECE",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 136315,
+      "tmdb_type": "tv",
+      "title": "熊家餐馆",
       "sort": 25
     },
     {
-      "tmdb_id": 65334,
+      "tmdb_id": 252751,
       "tmdb_type": "tv",
-      "title": "奇迹少女",
+      "title": "欢迎来到蕾安家",
       "sort": 26
+    },
+    {
+      "tmdb_id": 1416,
+      "tmdb_type": "tv",
+      "title": "实习医生格蕾",
+      "sort": 27
     }
   ]
 }

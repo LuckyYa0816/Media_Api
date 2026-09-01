@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-01T01:43:08.208Z",
+  "updated_at": "2026-09-01T13:14:21.566Z",
   "total": 24,
   "list": [
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 260823
-      },
-      "tmdb_type": "tv",
-      "title": "From Old Country Bumpkin to Master Swordsman II",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 309974
       },
       "tmdb_type": "tv",
       "title": "Love Unseen Beneath the Clear Night Sky",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 260823
+      },
+      "tmdb_type": "tv",
+      "title": "From Old Country Bumpkin to Master Swordsman II",
       "sort": 14
     },
     {
