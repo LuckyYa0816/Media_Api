@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-02T12:38:17.188Z",
+  "updated_at": "2026-09-03T01:01:05.613Z",
   "total": 20,
   "list": [
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 12
-    },
-    {
       "tmdb_id": 1481955,
       "tmdb_type": "movie",
       "title": "阳光女子合唱团",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
       "sort": 13
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1658653,
-      "tmdb_type": "movie",
-      "title": "消失的人",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1284041,
-      "tmdb_type": "movie",
-      "title": "最后孤屋",
-      "sort": 19
-    },
-    {
       "tmdb_id": 1269075,
       "tmdb_type": "movie",
       "title": "我看见两朵一样的云",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 210577,
+      "tmdb_type": "movie",
+      "title": "消失的人",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1168719,
+      "tmdb_type": "movie",
+      "title": "寂静的朋友",
       "sort": 20
     }
   ]

@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-02T12:37:48.345Z",
-  "total": 28,
+  "updated_at": "2026-09-03T01:00:40.644Z",
+  "total": 29,
   "list": [
     {
       "tmdb_id": 108978,
@@ -37,81 +37,81 @@
       "sort": 1
     },
     {
-      "tmdb_id": 97546,
-      "tmdb_type": "tv",
-      "title": "Ted Lasso",
-      "sort": 2
-    },
-    {
       "tmdb_id": 196322,
       "tmdb_type": "tv",
       "title": "Dark Matter",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 113962,
-      "tmdb_type": "tv",
-      "title": "特别行动：母狮",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 260458,
-      "tmdb_type": "tv",
-      "title": "成年人",
-      "sort": 6
+      "sort": 2
     },
     {
       "tmdb_id": 287238,
       "tmdb_type": "tv",
       "title": "狂怒追缉",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 246246,
-      "tmdb_type": "tv",
-      "title": "黑色丽人",
-      "sort": 8
+      "sort": 3
     },
     {
       "tmdb_id": 236235,
       "tmdb_type": "tv",
       "title": "绅士们",
-      "sort": 9
+      "sort": 4
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 260458,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 207333,
-      "tmdb_type": "tv",
-      "title": "百年孤独",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 100757,
-      "tmdb_type": "tv",
-      "title": "外滩探秘",
-      "sort": 13
+      "title": "成年人",
+      "sort": 5
     },
     {
       "tmdb_id": 60625,
       "tmdb_type": "tv",
       "title": "瑞克和莫蒂",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 2710,
+      "tmdb_type": "tv",
+      "title": "费城永远阳光灿烂",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 236235,
+      "tmdb_type": "tv",
+      "title": "绅士们",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 207333,
+      "tmdb_type": "tv",
+      "title": "百年孤独",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 292558,
+      "tmdb_type": "tv",
+      "title": "我那些谎言的全部真相",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 298168,
+      "tmdb_type": "tv",
+      "title": "青春碎片",
       "sort": 14
     },
     {
@@ -121,82 +121,88 @@
       "sort": 15
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 1413,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "美国恐怖故事",
       "sort": 16
     },
     {
-      "tmdb_id": 194583,
+      "tmdb_id": 100757,
       "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
+      "title": "外滩探秘",
       "sort": 17
     },
     {
-      "tmdb_id": 298168,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "青春碎片",
+      "title": "菜鸟老警",
       "sort": 18
-    },
-    {
-      "tmdb_id": 292558,
-      "tmdb_type": "tv",
-      "title": "我那些谎言的全部真相",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 292558,
-      "tmdb_type": "tv",
-      "title": "我那些谎言的全部真相",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 303351,
-      "tmdb_type": "tv",
-      "title": "极昼血祭",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 2710,
-      "tmdb_type": "tv",
-      "title": "费城永远阳光灿烂",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 331796,
-      "tmdb_type": "tv",
-      "title": "妈妈神预测？",
-      "sort": 24
-    },
-    {
-      "tmdb_id": 57532,
-      "tmdb_type": "tv",
-      "title": "汪汪队立大功",
-      "sort": 25
     },
     {
       "tmdb_id": 76479,
       "tmdb_type": "tv",
       "title": "黑袍纠察队",
-      "sort": 26
+      "sort": 19
+    },
+    {
+      "tmdb_id": 194583,
+      "tmdb_type": "tv",
+      "title": "行尸走肉：死亡之城",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 22
     },
     {
       "tmdb_id": 283297,
       "tmdb_type": "tv",
       "title": "斯特林角",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 204255,
+      "tmdb_type": "tv",
+      "title": "摧花谜墓",
+      "sort": 25
+    },
+    {
+      "tmdb_id": 1416,
+      "tmdb_type": "tv",
+      "title": "实习医生格蕾",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
       "sort": 27
     },
     {
-      "tmdb_id": 1413,
+      "tmdb_id": 303351,
       "tmdb_type": "tv",
-      "title": "美国恐怖故事",
+      "title": "极昼血祭",
       "sort": 28
+    },
+    {
+      "tmdb_id": 84773,
+      "tmdb_type": "tv",
+      "title": "指环王：力量之戒",
+      "sort": 29
     }
   ]
 }
