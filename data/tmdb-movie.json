@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-03T01:00:43.275Z",
-  "total": 7,
+  "updated_at": "2026-09-03T12:40:50.472Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 860508,
@@ -44,9 +44,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1631807,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "她的秘密人生",
       "sort": 4
     },
     {
@@ -54,18 +54,6 @@
       "tmdb_type": "movie",
       "title": "挽救计划",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1729723,
-      "tmdb_type": "movie",
-      "title": "辛普森一家：黄镜",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1621552,
-      "tmdb_type": "movie",
-      "title": "夜巡毒枭",
-      "sort": 7
     }
   ]
 }
