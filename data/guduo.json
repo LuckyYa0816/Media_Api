@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-09-03T12:41:38.427Z",
+  "updated_at": "2026-09-04T00:51:54.344Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -161,64 +161,64 @@
           "sort": 2
         },
         {
-          "tmdb_id": 101172,
-          "tmdb_type": "tv",
-          "title": "吞噬星空",
-          "sort": 3
-        },
-        {
           "tmdb_id": 236534,
           "tmdb_type": "tv",
           "title": "牧神记",
-          "sort": 4
+          "sort": 3
         },
         {
           "tmdb_id": 281233,
           "tmdb_type": "tv",
           "title": "光阴之外",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 119059,
-          "tmdb_type": "tv",
-          "title": "茶啊二中",
-          "sort": 7
+          "sort": 4
         },
         {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
-          "sort": 8
+          "sort": 5
         },
         {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
-          "sort": 9
+          "sort": 6
         },
         {
-          "tmdb_id": 124003,
+          "tmdb_id": 101172,
           "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 10
+          "title": "吞噬星空",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 119059,
+          "tmdb_type": "tv",
+          "title": "茶啊二中",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 9
         },
         {
           "tmdb_id": 331477,
           "tmdb_type": "tv",
           "title": "一念永恒",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
           "sort": 11
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 12
+          "sort": 13
         },
         {
           "tmdb_id": 79481,
@@ -227,21 +227,21 @@
           "sort": 14
         },
         {
+          "tmdb_id": 218642,
+          "tmdb_type": "tv",
+          "title": "师兄啊师兄",
+          "sort": 15
+        },
+        {
           "tmdb_id": 303287,
           "tmdb_type": "tv",
           "title": "一斩苍穹",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 280564,
           "tmdb_type": "tv",
           "title": "记忆管理局",
-          "sort": 16
-        },
-        {
-          "tmdb_id": 218642,
-          "tmdb_type": "tv",
-          "title": "师兄啊师兄",
           "sort": 17
         },
         {
@@ -274,27 +274,27 @@
           "sort": 1
         },
         {
+          "tmdb_id": 89861,
+          "tmdb_type": "tv",
+          "title": "密室大逃脱",
+          "sort": 2
+        },
+        {
           "tmdb_id": 296202,
           "tmdb_type": "tv",
           "title": "地球超新鲜",
-          "sort": 2
+          "sort": 3
         },
         {
           "tmdb_id": 331649,
           "tmdb_type": "tv",
           "title": "大哥小助理",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 131040,
-          "tmdb_type": "tv",
-          "title": "披荆斩棘",
           "sort": 4
         },
         {
-          "tmdb_id": 89861,
+          "tmdb_id": 296217,
           "tmdb_type": "tv",
-          "title": "密室大逃脱",
+          "title": "一饭封神",
           "sort": 5
         },
         {
@@ -304,21 +304,21 @@
           "sort": 6
         },
         {
-          "tmdb_id": 296217,
+          "tmdb_id": 131040,
           "tmdb_type": "tv",
-          "title": "一饭封神",
+          "title": "披荆斩棘",
           "sort": 7
-        },
-        {
-          "tmdb_id": 225861,
-          "tmdb_type": "tv",
-          "title": "中国说唱巅峰对决",
-          "sort": 8
         },
         {
           "tmdb_id": 261391,
           "tmdb_type": "tv",
           "title": "喜剧之王单口季",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 225861,
+          "tmdb_type": "tv",
+          "title": "中国说唱巅峰对决",
           "sort": 9
         },
         {
@@ -349,24 +349,24 @@
           "tmdb_id": 126490,
           "tmdb_type": "tv",
           "title": "我家那闺女",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 251718,
-          "tmdb_type": "tv",
-          "title": "这是我的西游",
-          "sort": 16
+          "sort": 15
         },
         {
           "tmdb_id": 296215,
           "tmdb_type": "tv",
           "title": "姐姐当家",
-          "sort": 17
+          "sort": 16
         },
         {
           "tmdb_id": 124265,
           "tmdb_type": "tv",
           "title": "喜欢你我也是",
+          "sort": 17
+        },
+        {
+          "tmdb_id": 251718,
+          "tmdb_type": "tv",
+          "title": "这是我的西游",
           "sort": 18
         },
         {

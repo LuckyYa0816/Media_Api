@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-03T12:41:38.186Z",
+  "updated_at": "2026-09-04T00:51:54.018Z",
   "total": 20,
   "list": [
     {
@@ -107,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1339588,
+      "tmdb_id": 1269075,
       "tmdb_type": "movie",
-      "title": "寻找艾米丽",
+      "title": "我看见两朵一样的云",
       "sort": 15
     },
     {
-      "tmdb_id": 1564614,
+      "tmdb_id": 1339588,
       "tmdb_type": "movie",
-      "title": "利未记",
+      "title": "寻找艾米丽",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1269075,
+      "tmdb_id": 1564614,
       "tmdb_type": "movie",
-      "title": "我看见两朵一样的云",
+      "title": "利未记",
       "sort": 18
-    },
-    {
-      "tmdb_id": 210577,
-      "tmdb_type": "movie",
-      "title": "消失的人",
-      "sort": 19
     },
     {
       "tmdb_id": 1168719,
       "tmdb_type": "movie",
       "title": "寂静的朋友",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 210577,
+      "tmdb_type": "movie",
+      "title": "消失的人",
       "sort": 20
     }
   ]

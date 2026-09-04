@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-03T12:40:50.472Z",
-  "total": 5,
+  "updated_at": "2026-09-04T00:51:31.179Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 860508,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1516698,
+      "tmdb_id": 1386315,
       "tmdb_type": "movie",
-      "title": "最后的曙光",
+      "title": "生死时限",
       "sort": 2
     },
     {
-      "tmdb_id": 1744462,
+      "tmdb_id": 1516698,
       "tmdb_type": "movie",
-      "title": "侠盗猎车手VI：分量十足的一瞥",
+      "title": "最后的曙光",
       "sort": 3
     },
     {
@@ -50,10 +50,22 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1744462,
+      "tmdb_type": "movie",
+      "title": "侠盗猎车手VI：分量十足的一瞥",
+      "sort": 5
+    },
+    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 5
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1621552,
+      "tmdb_type": "movie",
+      "title": "夜巡毒枭",
+      "sort": 7
     }
   ]
 }

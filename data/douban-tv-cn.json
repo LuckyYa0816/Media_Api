@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-03T12:41:13.983Z",
+  "updated_at": "2026-09-04T00:51:42.671Z",
   "total": 20,
   "list": [
     {
@@ -29,15 +29,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 287496,
-      "tmdb_type": "tv",
-      "title": "花开锦绣",
-      "sort": 2
-    },
-    {
       "tmdb_id": 294487,
       "tmdb_type": "tv",
       "title": "金色",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 289761,
+      "tmdb_type": "tv",
+      "title": "醒来",
       "sort": 3
     },
     {
@@ -47,9 +47,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 289761,
+      "tmdb_id": 287496,
       "tmdb_type": "tv",
-      "title": "醒来",
+      "title": "花开锦绣",
       "sort": 5
     },
     {
@@ -77,27 +77,27 @@
       "sort": 9
     },
     {
+      "tmdb_id": 280133,
+      "tmdb_type": "tv",
+      "title": "藏锋",
+      "sort": 10
+    },
+    {
       "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 286322,
       "tmdb_type": "tv",
       "title": "囧徒之预演告别",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 280133,
-      "tmdb_type": "tv",
-      "title": "藏锋",
       "sort": 12
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "后西游记 第一季",
+      "title": "花儿与少年 第二季",
       "sort": 13
     },
     {
@@ -109,25 +109,25 @@
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "地球超新鲜 第二季",
+      "title": "后西游记 第一季",
       "sort": 15
-    },
-    {
-      "tmdb_id": 295558,
-      "tmdb_type": "tv",
-      "title": "雀骨",
-      "sort": 16
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "地球超新鲜 第二季",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 286686,
+      "tmdb_type": "tv",
+      "title": "生逢其时",
       "sort": 17
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "花儿与少年 第二季",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 280564,
+      "tmdb_id": 295558,
       "tmdb_type": "tv",
-      "title": "记忆管理局",
+      "title": "雀骨",
       "sort": 20
     }
   ]
