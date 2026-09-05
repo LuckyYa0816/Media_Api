@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-05T00:43:34.261Z",
+  "updated_at": "2026-09-05T11:43:08.555Z",
   "total": 8,
   "list": [
+    {
+      "tmdb_id": 1386315,
+      "tmdb_type": "movie",
+      "title": "逃亡者",
+      "sort": 1
+    },
     {
       "tmdb_id": 860508,
       "tmdb_type": "movie",
       "title": "耳语人",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 1386315,
-      "tmdb_type": "movie",
-      "title": "生死时限",
       "sort": 2
     },
     {
@@ -44,21 +44,21 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1228710,
-      "tmdb_type": "movie",
-      "title": "星球大战：曼达洛人与古古",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1516698,
       "tmdb_type": "movie",
       "title": "最后的曙光",
-      "sort": 5
+      "sort": 4
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1228710,
+      "tmdb_type": "movie",
+      "title": "星球大战：曼达洛人与古古",
       "sort": 6
     },
     {
@@ -68,9 +68,9 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1621552,
+      "tmdb_id": 1731694,
       "tmdb_type": "movie",
-      "title": "夜巡毒枭",
+      "title": "乐高星球大战：曼达洛人",
       "sort": 8
     }
   ]
