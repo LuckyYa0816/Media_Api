@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-04T12:35:17.607Z",
+  "updated_at": "2026-09-05T00:43:57.359Z",
   "total": 20,
   "list": [
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
+      "tmdb_id": 1168719,
+      "tmdb_type": "movie",
+      "title": "寂静的朋友",
+      "sort": 17
+    },
+    {
       "tmdb_id": 1375646,
       "tmdb_type": "movie",
       "title": "群体",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1564614,
       "tmdb_type": "movie",
       "title": "利未记",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1168719,
-      "tmdb_type": "movie",
-      "title": "寂静的朋友",
       "sort": 19
     },
     {
-      "tmdb_id": 210577,
+      "tmdb_id": 1171145,
       "tmdb_type": "movie",
-      "title": "消失的人",
+      "title": "洛杉矶劫案",
       "sort": 20
     }
   ]
