@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-06T00:43:47.937Z",
+  "updated_at": "2026-09-06T12:00:36.663Z",
   "total": 24,
   "list": [
     {
@@ -150,18 +150,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 250008
-      },
-      "tmdb_type": "tv",
-      "title": "Oh Boy, Was I Wrong About Her",
-      "sort": 17
-    },
-    {
-      "tmdb_id": {
         "tv": 286345
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
+      "sort": 17
+    },
+    {
+      "tmdb_id": {
+        "tv": 250008
+      },
+      "tmdb_type": "tv",
+      "title": "Oh Boy, Was I Wrong About Her",
       "sort": 18
     },
     {

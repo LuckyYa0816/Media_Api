@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-06T00:43:56.480Z",
+  "updated_at": "2026-09-06T12:00:43.182Z",
   "total": 8,
   "list": [
     {
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1744462,
+      "tmdb_id": 1631807,
       "tmdb_type": "movie",
-      "title": "侠盗猎车手VI：分量十足的一瞥",
+      "title": "她的秘密人生",
       "sort": 7
     },
     {
