@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-06T12:01:03.322Z",
+  "updated_at": "2026-09-07T14:04:47.630Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 289761,
+      "tmdb_id": 294486,
       "tmdb_type": "tv",
-      "title": "醒来",
+      "title": "交锋",
       "sort": 3
     },
     {
-      "tmdb_id": 287496,
+      "tmdb_id": 289761,
       "tmdb_type": "tv",
-      "title": "花开锦绣",
+      "title": "醒来",
       "sort": 4
     },
     {
@@ -53,9 +53,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 294487,
+      "tmdb_id": 287496,
       "tmdb_type": "tv",
-      "title": "金色",
+      "title": "花开锦绣",
       "sort": 6
     },
     {
@@ -65,9 +65,9 @@
       "sort": 7
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 294487,
       "tmdb_type": "tv",
-      "title": "花儿与少年 第八季",
+      "title": "金色",
       "sort": 8
     },
     {
@@ -77,57 +77,57 @@
       "sort": 9
     },
     {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "花儿与少年 第八季",
+      "sort": 10
+    },
+    {
       "tmdb_id": 272938,
       "tmdb_type": "tv",
       "title": "师兄太稳健",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 286322,
-      "tmdb_type": "tv",
-      "title": "囧徒之预演告别",
       "sort": 12
-    },
-    {
-      "tmdb_id": 280133,
-      "tmdb_type": "tv",
-      "title": "藏锋",
-      "sort": 13
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 14
+      "sort": 13
     },
     {
       "tmdb_id": 285250,
       "tmdb_type": "tv",
       "title": "蝉",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 232828,
       "tmdb_type": "tv",
       "title": "装腔启示录",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "花儿与少年 第二季",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 280133,
+      "tmdb_type": "tv",
+      "title": "藏锋",
       "sort": 17
     },
     {
-      "tmdb_id": 272432,
+      "tmdb_id": 286322,
       "tmdb_type": "tv",
-      "title": "低智商犯罪",
+      "title": "囧徒之预演告别",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 295558,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "雀骨",
+      "title": "喜剧之王单口季 第三季",
       "sort": 20
     }
   ]

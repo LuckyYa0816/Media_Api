@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-07T00:47:07.518Z",
-  "total": 6,
+  "updated_at": "2026-09-07T14:04:31.560Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1386315,
@@ -38,28 +38,40 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1228710,
+      "tmdb_id": 1355228,
       "tmdb_type": "movie",
-      "title": "星球大战：曼达洛人与古古",
+      "title": "蒙眼追凶",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1631807,
-      "tmdb_type": "movie",
-      "title": "她的秘密人生",
-      "sort": 4
     },
     {
       "tmdb_id": 1516698,
       "tmdb_type": "movie",
       "title": "最后的曙光",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1631807,
+      "tmdb_type": "movie",
+      "title": "她的秘密人生",
       "sort": 5
     },
     {
-      "tmdb_id": 1744462,
+      "tmdb_id": 1228710,
       "tmdb_type": "movie",
-      "title": "侠盗猎车手VI：分量十足的一瞥",
+      "title": "星球大战：曼达洛人与古古",
       "sort": 6
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1731694,
+      "tmdb_type": "movie",
+      "title": "乐高星球大战：曼达洛人",
+      "sort": 8
     }
   ]
 }
