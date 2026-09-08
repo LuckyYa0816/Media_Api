@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-07T14:04:47.630Z",
+  "updated_at": "2026-09-08T01:00:29.226Z",
   "total": 20,
   "list": [
     {
@@ -29,15 +29,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 286686,
-      "tmdb_type": "tv",
-      "title": "生逢其时",
-      "sort": 2
-    },
-    {
       "tmdb_id": 294486,
       "tmdb_type": "tv",
       "title": "交锋",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 286686,
+      "tmdb_type": "tv",
+      "title": "生逢其时",
       "sort": 3
     },
     {
@@ -59,9 +59,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 291856,
+      "tmdb_id": 319659,
       "tmdb_type": "tv",
-      "title": "重器",
+      "title": "重案六组：消失的警号",
       "sort": 7
     },
     {
@@ -71,9 +71,9 @@
       "sort": 8
     },
     {
-      "tmdb_id": 319659,
+      "tmdb_id": 291856,
       "tmdb_type": "tv",
-      "title": "重案六组：消失的警号",
+      "title": "重器",
       "sort": 9
     },
     {
@@ -83,27 +83,27 @@
       "sort": 10
     },
     {
+      "tmdb_id": 285250,
+      "tmdb_type": "tv",
+      "title": "蝉",
+      "sort": 11
+    },
+    {
       "tmdb_id": 272938,
       "tmdb_type": "tv",
       "title": "师兄太稳健",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 271016,
       "tmdb_type": "tv",
       "title": "九门",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 285250,
-      "tmdb_type": "tv",
-      "title": "蝉",
       "sort": 14
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 280133,
-      "tmdb_type": "tv",
-      "title": "藏锋",
-      "sort": 17
-    },
-    {
       "tmdb_id": 286322,
       "tmdb_type": "tv",
       "title": "囧徒之预演告别",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 280133,
+      "tmdb_type": "tv",
+      "title": "藏锋",
       "sort": 18
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "喜剧之王单口季 第三季",
       "sort": 19
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
+      "title": "脱口秀和Ta的朋友们 第三季",
       "sort": 20
     }
   ]
