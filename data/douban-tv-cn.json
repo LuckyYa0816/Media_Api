@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-08T12:41:55.844Z",
+  "updated_at": "2026-09-09T01:06:15.540Z",
   "total": 20,
   "list": [
     {
@@ -53,27 +53,27 @@
       "sort": 5
     },
     {
-      "tmdb_id": 287496,
-      "tmdb_type": "tv",
-      "title": "花开锦绣",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 319659,
-      "tmdb_type": "tv",
-      "title": "重案六组：消失的警号",
-      "sort": 7
-    },
-    {
       "tmdb_id": 294487,
       "tmdb_type": "tv",
       "title": "金色",
-      "sort": 8
+      "sort": 6
+    },
+    {
+      "tmdb_id": 287496,
+      "tmdb_type": "tv",
+      "title": "花开锦绣",
+      "sort": 7
     },
     {
       "tmdb_id": 291856,
       "tmdb_type": "tv",
       "title": "重器",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 319659,
+      "tmdb_type": "tv",
+      "title": "重案六组：消失的警号",
       "sort": 9
     },
     {
@@ -95,33 +95,33 @@
       "sort": 12
     },
     {
-      "tmdb_id": 271016,
+      "tmdb_id": 286322,
       "tmdb_type": "tv",
-      "title": "九门",
+      "title": "囧徒之预演告别",
       "sort": 13
-    },
-    {
-      "tmdb_id": 273114,
-      "tmdb_type": "tv",
-      "title": "悬案",
-      "sort": 14
     },
     {
       "tmdb_id": 232828,
       "tmdb_type": "tv",
       "title": "装腔启示录",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "花儿与少年 第二季",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 271016,
+      "tmdb_type": "tv",
+      "title": "九门",
       "sort": 16
     },
     {
-      "tmdb_id": 286322,
+      "tmdb_id": 273114,
       "tmdb_type": "tv",
-      "title": "囧徒之预演告别",
+      "title": "悬案",
       "sort": 17
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 272432,
       "tmdb_type": "tv",
-      "title": "脱口秀和Ta的朋友们 第三季",
+      "title": "低智商犯罪",
       "sort": 20
     }
   ]

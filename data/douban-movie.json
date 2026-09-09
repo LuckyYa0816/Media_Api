@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-08T12:42:08.828Z",
+  "updated_at": "2026-09-09T01:06:29.305Z",
   "total": 20,
   "list": [
     {
@@ -29,75 +29,75 @@
       "sort": 1
     },
     {
+      "tmdb_id": 1137844,
+      "tmdb_type": "movie",
+      "title": "求救信号",
+      "sort": 2
+    },
+    {
       "tmdb_id": 1529024,
       "tmdb_type": "movie",
       "title": "战时离婚指南",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1621552,
       "tmdb_type": "movie",
       "title": "夜巡毒枭",
-      "sort": 3
+      "sort": 4
     },
     {
-      "tmdb_id": 1137844,
+      "tmdb_id": 1418582,
       "tmdb_type": "movie",
-      "title": "求救信号",
-      "sort": 4
+      "title": "一直在这里",
+      "sort": 5
     },
     {
       "tmdb_id": 1353926,
       "tmdb_type": "movie",
       "title": "特立独行",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1288445,
       "tmdb_type": "movie",
       "title": "怒之杀",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1602727,
       "tmdb_type": "movie",
       "title": "夜王",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 950028,
       "tmdb_type": "movie",
       "title": "激情邀约",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": 860508,
       "tmdb_type": "movie",
       "title": "耳语者",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 1393326,
       "tmdb_type": "movie",
       "title": "牢笼鬼魂",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 1269075,
       "tmdb_type": "movie",
       "title": "我看见两朵一样的云",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 13899,
-      "tmdb_type": "movie",
-      "title": "逃亡者",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 13899,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "逃亡者",
       "sort": 15
-    },
-    {
-      "tmdb_id": 1130948,
-      "tmdb_type": "movie",
-      "title": "蔷薇修剪术",
-      "sort": 16
     },
     {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
-      "sort": 17
+      "sort": 16
     },
     {
-      "tmdb_id": 1481955,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "阳光女子合唱团",
-      "sort": 18
+      "title": "挽救计划",
+      "sort": 17
     },
     {
       "tmdb_id": 1171145,
       "tmdb_type": "movie",
       "title": "洛杉矶劫案",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1130948,
+      "tmdb_type": "movie",
+      "title": "蔷薇修剪术",
       "sort": 19
     },
     {
-      "tmdb_id": 1564614,
+      "tmdb_id": 1481955,
       "tmdb_type": "movie",
-      "title": "利未记",
+      "title": "阳光女子合唱团",
       "sort": 20
     }
   ]
