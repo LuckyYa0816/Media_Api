@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-10T00:55:01.512Z",
+  "updated_at": "2026-09-10T12:46:22.594Z",
   "total": 6,
   "list": [
     {
@@ -34,7 +34,7 @@
     {
       "tmdb_id": 860508,
       "tmdb_type": "movie",
-      "title": "耳语者",
+      "title": "耳语人",
       "sort": 2
     },
     {
