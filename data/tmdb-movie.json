@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-09T12:48:11.930Z",
+  "updated_at": "2026-09-10T00:55:01.512Z",
   "total": 6,
   "list": [
     {
@@ -38,27 +38,27 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1355228,
-      "tmdb_type": "movie",
-      "title": "蒙眼追凶",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1228710,
-      "tmdb_type": "movie",
-      "title": "星球大战：曼达洛人与古古",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1731694,
       "tmdb_type": "movie",
       "title": "乐高星球大战：曼达洛人",
-      "sort": 5
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1355228,
+      "tmdb_type": "movie",
+      "title": "蒙眼追凶",
+      "sort": 4
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1228710,
+      "tmdb_type": "movie",
+      "title": "星球大战：曼达洛人与古古",
       "sort": 6
     }
   ]

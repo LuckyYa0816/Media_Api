@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-09T12:48:40.359Z",
+  "updated_at": "2026-09-10T00:55:41.414Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": 1305672,
-      "tmdb_type": "movie",
-      "title": "抓特务",
-      "sort": 1
-    },
     {
       "tmdb_id": 1137844,
       "tmdb_type": "movie",
       "title": "求救信号",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1305672,
+      "tmdb_type": "movie",
+      "title": "抓特务",
       "sort": 2
     },
     {
@@ -131,9 +131,9 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1130948,
+      "tmdb_id": 1564614,
       "tmdb_type": "movie",
-      "title": "蔷薇修剪术",
+      "title": "利未记",
       "sort": 19
     },
     {
