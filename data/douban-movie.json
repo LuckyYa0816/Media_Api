@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-10T00:55:41.414Z",
+  "updated_at": "2026-09-11T00:52:38.269Z",
   "total": 20,
   "list": [
     {
@@ -29,9 +29,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1305672,
+      "tmdb_id": 1353926,
       "tmdb_type": "movie",
-      "title": "抓特务",
+      "title": "特立独行",
       "sort": 2
     },
     {
@@ -53,9 +53,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1353926,
+      "tmdb_id": 1305672,
       "tmdb_type": "movie",
-      "title": "特立独行",
+      "title": "抓特务",
       "sort": 6
     },
     {
@@ -107,33 +107,33 @@
       "sort": 14
     },
     {
+      "tmdb_id": 1553969,
+      "tmdb_type": "movie",
+      "title": "盒子里的羊",
+      "sort": 15
+    },
+    {
       "tmdb_id": 13899,
       "tmdb_type": "movie",
       "title": "逃亡者",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
-      "sort": 16
+      "sort": 17
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1171145,
       "tmdb_type": "movie",
       "title": "洛杉矶劫案",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1564614,
-      "tmdb_type": "movie",
-      "title": "利未记",
       "sort": 19
     },
     {
