@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-11T12:41:05.399Z",
-  "total": 5,
+  "updated_at": "2026-09-12T00:57:29.319Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1386315,
@@ -38,22 +38,34 @@
       "sort": 2
     },
     {
-      "tmdb_id": 860508,
+      "tmdb_id": 1440098,
       "tmdb_type": "movie",
-      "title": "耳语人",
+      "title": "保镖恋人",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1440098,
+      "tmdb_type": "movie",
+      "title": "保镖恋人",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1228710,
+      "tmdb_type": "movie",
+      "title": "星球大战：曼达洛人与古古",
+      "sort": 5
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 4
+      "sort": 6
     },
     {
-      "tmdb_id": 1355228,
+      "tmdb_id": 860508,
       "tmdb_type": "movie",
-      "title": "蒙眼追凶",
-      "sort": 5
+      "title": "耳语者",
+      "sort": 7
     }
   ]
 }
