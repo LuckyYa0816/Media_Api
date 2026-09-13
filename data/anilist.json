@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-13T00:41:13.424Z",
+  "updated_at": "2026-09-13T13:10:42.447Z",
   "total": 30,
   "list": [
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 223564
-      },
-      "tmdb_type": "tv",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 280049
       },
       "tmdb_type": "tv",
       "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 223564
+      },
+      "tmdb_type": "tv",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
       "sort": 23
     },
     {
