@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-12T12:01:21.038Z",
-  "total": 9,
+  "updated_at": "2026-09-13T00:41:20.987Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1386315,
@@ -38,21 +38,21 @@
       "sort": 2
     },
     {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1365884,
       "tmdb_type": "movie",
       "title": "找我经纪人：电影版",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1522689,
       "tmdb_type": "movie",
       "title": "我为什么又结婚了？",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
       "sort": 5
     },
     {
@@ -62,22 +62,10 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1408162,
-      "tmdb_type": "movie",
-      "title": "击中爱情",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1355228,
-      "tmdb_type": "movie",
-      "title": "蒙眼追凶",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1228710,
       "tmdb_type": "movie",
       "title": "星球大战：曼达洛人与古古",
-      "sort": 9
+      "sort": 7
     }
   ]
 }
