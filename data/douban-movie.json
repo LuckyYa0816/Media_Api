@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-13T13:11:15.521Z",
-  "total": 20,
+  "updated_at": "2026-09-14T00:50:14.896Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": 1137844,
@@ -38,18 +38,12 @@
       "tmdb_id": 1694487,
       "tmdb_type": "movie",
       "title": "从邦子开始的故事",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1529024,
       "tmdb_type": "movie",
       "title": "战时离婚指南",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1621552,
-      "tmdb_type": "movie",
-      "title": "夜巡毒枭",
       "sort": 5
     },
     {
@@ -65,27 +59,27 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1288445,
-      "tmdb_type": "movie",
-      "title": "怒之杀",
-      "sort": 8
-    },
-    {
       "tmdb_id": 104819,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 9
+      "sort": 8
     },
     {
-      "tmdb_id": 1602727,
+      "tmdb_id": 1288445,
       "tmdb_type": "movie",
-      "title": "夜王",
-      "sort": 10
+      "title": "怒之杀",
+      "sort": 9
     },
     {
       "tmdb_id": 950028,
       "tmdb_type": "movie",
       "title": "激情邀约",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1602727,
+      "tmdb_type": "movie",
+      "title": "夜王",
       "sort": 11
     },
     {
@@ -95,9 +89,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 860508,
+      "tmdb_id": 1174334,
       "tmdb_type": "movie",
-      "title": "耳语者",
+      "title": "大濛",
       "sort": 13
     },
     {
@@ -107,33 +101,33 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1174334,
-      "tmdb_type": "movie",
-      "title": "大濛",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1269075,
-      "tmdb_type": "movie",
-      "title": "我看见两朵一样的云",
-      "sort": 16
-    },
-    {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
-      "sort": 17
+      "sort": 15
+    },
+    {
+      "tmdb_id": 860508,
+      "tmdb_type": "movie",
+      "title": "耳语者",
+      "sort": 16
     },
     {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
-      "sort": 18
+      "sort": 17
     },
     {
       "tmdb_id": 1275779,
       "tmdb_type": "movie",
       "title": "揭秘日",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1269075,
+      "tmdb_type": "movie",
+      "title": "我看见两朵一样的云",
       "sort": 19
     },
     {

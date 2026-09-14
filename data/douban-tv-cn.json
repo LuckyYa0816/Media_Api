@@ -19,25 +19,25 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-13T13:11:01.937Z",
+  "updated_at": "2026-09-14T00:50:04.533Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 282326,
+      "tmdb_type": "tv",
+      "title": "兰香如故",
+      "sort": 1
+    },
     {
       "tmdb_id": 301489,
       "tmdb_type": "tv",
       "title": "深渊无间",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 299952,
       "tmdb_type": "tv",
       "title": "早春晴朗",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 282326,
-      "tmdb_type": "tv",
-      "title": "兰香如故",
       "sort": 3
     },
     {
@@ -53,15 +53,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "花儿与少年 第八季",
-      "sort": 6
-    },
-    {
       "tmdb_id": 286686,
       "tmdb_type": "tv",
       "title": "生逢其时",
+      "sort": 6
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "花儿与少年 第八季",
       "sort": 7
     },
     {
@@ -77,15 +77,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 286988,
-      "tmdb_type": "tv",
-      "title": "飞到我心上",
-      "sort": 10
-    },
-    {
       "tmdb_id": 289761,
       "tmdb_type": "tv",
       "title": "醒来",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 286988,
+      "tmdb_type": "tv",
+      "title": "飞到我心上",
       "sort": 11
     },
     {
@@ -95,9 +95,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 294487,
+      "tmdb_id": 271016,
       "tmdb_type": "tv",
-      "title": "金色",
+      "title": "九门",
       "sort": 13
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
-      "tmdb_id": 285250,
+      "tmdb_id": 292696,
       "tmdb_type": "tv",
-      "title": "蝉",
+      "title": "莫离",
       "sort": 16
-    },
-    {
-      "tmdb_id": 319659,
-      "tmdb_type": "tv",
-      "title": "重案六组：消失的警号",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 271016,
-      "tmdb_type": "tv",
-      "title": "九门",
-      "sort": 18
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 294487,
+      "tmdb_type": "tv",
+      "title": "金色",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 285250,
+      "tmdb_type": "tv",
+      "title": "蝉",
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 278127,
       "tmdb_type": "tv",
-      "title": "喜剧之王单口季 第三季",
+      "title": "唐宫奇案之青雾风鸣",
       "sort": 20
     }
   ]

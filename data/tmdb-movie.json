@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-13T13:10:50.322Z",
+  "updated_at": "2026-09-14T00:49:53.433Z",
   "total": 8,
   "list": [
     {
@@ -38,39 +38,39 @@
       "sort": 2
     },
     {
-      "tmdb_id": 860508,
-      "tmdb_type": "movie",
-      "title": "耳语者",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1522689,
-      "tmdb_type": "movie",
-      "title": "我为什么又结婚了？",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1365884,
       "tmdb_type": "movie",
       "title": "找我经纪人：电影版",
-      "sort": 5
+      "sort": 3
+    },
+    {
+      "tmdb_id": 860508,
+      "tmdb_type": "movie",
+      "title": "耳语者",
+      "sort": 4
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 6
+      "sort": 5
     },
     {
-      "tmdb_id": 860508,
+      "tmdb_id": 1522689,
       "tmdb_type": "movie",
-      "title": "耳语者",
-      "sort": 7
+      "title": "我为什么又结婚了？",
+      "sort": 6
     },
     {
       "tmdb_id": 1228710,
       "tmdb_type": "movie",
       "title": "星球大战：曼达洛人与古古",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1558568,
+      "tmdb_type": "movie",
+      "title": "团队万岁！",
       "sort": 8
     }
   ]
