@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-14T00:49:45.637Z",
+  "updated_at": "2026-09-14T14:49:46.560Z",
   "total": 30,
   "list": [
     {
@@ -150,27 +150,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 312849
-      },
-      "tmdb_type": "tv",
-      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
-      "sort": 17
-    },
-    {
-      "tmdb_id": {
         "tv": 288971
       },
       "tmdb_type": "tv",
       "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 18
+      "sort": 17
     },
     {
       "tmdb_id": {
-        "tv": 79166
+        "tv": 312849
       },
       "tmdb_type": "tv",
-      "title": "Grand Blue Dreaming Season 3",
-      "sort": 19
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "sort": 18
     },
     {
       "tmdb_id": {
@@ -178,6 +170,14 @@
       },
       "tmdb_type": "tv",
       "title": "Though I Am an Inept Villainess",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 79166
+      },
+      "tmdb_type": "tv",
+      "title": "Grand Blue Dreaming Season 3",
       "sort": 20
     },
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 280049
-      },
-      "tmdb_type": "tv",
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 223564
       },
       "tmdb_type": "tv",
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 280049
+      },
+      "tmdb_type": "tv",
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
       "sort": 23
     },
     {
