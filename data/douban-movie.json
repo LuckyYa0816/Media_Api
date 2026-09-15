@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-14T14:50:34.152Z",
-  "total": 19,
+  "updated_at": "2026-09-15T01:16:36.633Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 1137844,
@@ -38,12 +38,18 @@
       "tmdb_id": 1694487,
       "tmdb_type": "movie",
       "title": "从邦子开始的故事",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1529024,
       "tmdb_type": "movie",
       "title": "战时离婚指南",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1621552,
+      "tmdb_type": "movie",
+      "title": "夜巡毒枭",
       "sort": 5
     },
     {
@@ -101,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1275779,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "揭秘日",
       "sort": 15
     },
     {
-      "tmdb_id": 860508,
+      "tmdb_id": 1084244,
       "tmdb_type": "movie",
-      "title": "耳语者",
+      "title": "玩具总动员5",
       "sort": 16
     },
     {
@@ -119,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1275779,
+      "tmdb_id": 860508,
       "tmdb_type": "movie",
-      "title": "揭秘日",
+      "title": "耳语者",
       "sort": 18
-    },
-    {
-      "tmdb_id": 1269075,
-      "tmdb_type": "movie",
-      "title": "我看见两朵一样的云",
-      "sort": 19
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1269075,
+      "tmdb_type": "movie",
+      "title": "我看见两朵一样的云",
       "sort": 20
     }
   ]
