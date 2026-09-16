@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-15T13:16:54.360Z",
+  "updated_at": "2026-09-16T01:10:40.206Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 299952,
-      "tmdb_type": "tv",
-      "title": "早春晴朗",
-      "sort": 3
-    },
-    {
       "tmdb_id": 294486,
       "tmdb_type": "tv",
       "title": "交锋",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 299952,
+      "tmdb_type": "tv",
+      "title": "早春晴朗",
       "sort": 4
     },
     {
@@ -65,15 +65,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 287496,
-      "tmdb_type": "tv",
-      "title": "花开锦绣",
-      "sort": 8
-    },
-    {
       "tmdb_id": 291856,
       "tmdb_type": "tv",
       "title": "重器",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 287496,
+      "tmdb_type": "tv",
+      "title": "花开锦绣",
       "sort": 9
     },
     {
@@ -83,39 +83,39 @@
       "sort": 10
     },
     {
-      "tmdb_id": 289761,
+      "tmdb_id": 288873,
       "tmdb_type": "tv",
-      "title": "醒来",
+      "title": "云雀叫天录",
       "sort": 11
-    },
-    {
-      "tmdb_id": 295558,
-      "tmdb_type": "tv",
-      "title": "雀骨",
-      "sort": 12
     },
     {
       "tmdb_id": 232828,
       "tmdb_type": "tv",
       "title": "装腔启示录",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 295558,
+      "tmdb_type": "tv",
+      "title": "雀骨",
       "sort": 13
+    },
+    {
+      "tmdb_id": 289761,
+      "tmdb_type": "tv",
+      "title": "醒来",
+      "sort": 14
     },
     {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 292696,
-      "tmdb_type": "tv",
-      "title": "莫离",
       "sort": 15
     },
     {
-      "tmdb_id": 272938,
+      "tmdb_id": 68034,
       "tmdb_type": "tv",
-      "title": "师兄太稳健",
+      "title": "大明王朝1566",
       "sort": 16
     },
     {
@@ -125,21 +125,21 @@
       "sort": 17
     },
     {
-      "tmdb_id": 278127,
+      "tmdb_id": 272938,
       "tmdb_type": "tv",
-      "title": "唐宫奇案之青雾风鸣",
+      "title": "师兄太稳健",
       "sort": 18
     },
     {
-      "tmdb_id": 272432,
+      "tmdb_id": 331649,
       "tmdb_type": "tv",
-      "title": "低智商犯罪",
+      "title": "大哥小助理",
       "sort": 19
     },
     {
-      "tmdb_id": 68034,
+      "tmdb_id": 21712,
       "tmdb_type": "tv",
-      "title": "大明王朝1566",
+      "title": "潜伏",
       "sort": 20
     }
   ]
