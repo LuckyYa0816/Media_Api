@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-16T13:14:41.820Z",
-  "total": 27,
+  "updated_at": "2026-09-17T01:11:00.762Z",
+  "total": 29,
   "list": [
     {
       "tmdb_id": 108978,
@@ -43,69 +43,69 @@
       "sort": 2
     },
     {
-      "tmdb_id": 300507,
+      "tmdb_id": 194583,
       "tmdb_type": "tv",
-      "title": "掌舵少女",
+      "title": "行尸走肉：死亡之城",
       "sort": 3
     },
     {
-      "tmdb_id": 325755,
+      "tmdb_id": 300507,
       "tmdb_type": "tv",
-      "title": "无瑕谎言",
+      "title": "掌舵少女",
       "sort": 4
-    },
-    {
-      "tmdb_id": 196322,
-      "tmdb_type": "tv",
-      "title": "Dark Matter",
-      "sort": 5
     },
     {
       "tmdb_id": 615,
       "tmdb_type": "tv",
       "title": "飞出个未来",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 196322,
+      "tmdb_type": "tv",
+      "title": "Dark Matter",
       "sort": 6
     },
     {
-      "tmdb_id": 194583,
+      "tmdb_id": 304842,
       "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
+      "title": "白粉飞：洛城新章",
       "sort": 7
-    },
-    {
-      "tmdb_id": 194583,
-      "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 329471,
-      "tmdb_type": "tv",
-      "title": "大世界之旅",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 69557,
-      "tmdb_type": "tv",
-      "title": "高墙边的混乱",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 232018,
-      "tmdb_type": "tv",
-      "title": "巴黎陷落",
-      "sort": 11
     },
     {
       "tmdb_id": 298168,
       "tmdb_type": "tv",
       "title": "青春碎片",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 69557,
+      "tmdb_type": "tv",
+      "title": "高墙边的混乱",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 75219,
+      "tmdb_type": "tv",
+      "title": "紧急呼救",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 332863,
+      "tmdb_type": "tv",
+      "title": "命悬一心",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1433,
+      "tmdb_type": "tv",
+      "title": "美国老爹",
       "sort": 12
     },
     {
-      "tmdb_id": 260458,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "成年人",
+      "title": "黑袍纠察队",
       "sort": 13
     },
     {
@@ -115,82 +115,94 @@
       "sort": 14
     },
     {
-      "tmdb_id": 247718,
+      "tmdb_id": 329471,
       "tmdb_type": "tv",
-      "title": "MobLand",
+      "title": "大世界之旅",
       "sort": 15
     },
     {
-      "tmdb_id": 260249,
+      "tmdb_id": 75219,
       "tmdb_type": "tv",
-      "title": "审判",
+      "title": "紧急呼救",
       "sort": 16
     },
     {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 260458,
-      "tmdb_type": "tv",
-      "title": "成年人",
-      "sort": 18
-    },
-    {
       "tmdb_id": 260249,
       "tmdb_type": "tv",
       "title": "审判",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 247718,
-      "tmdb_type": "tv",
-      "title": "MobLand",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 76479,
-      "tmdb_type": "tv",
-      "title": "黑袍纠察队",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 57532,
-      "tmdb_type": "tv",
-      "title": "汪汪队立大功",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 232018,
-      "tmdb_type": "tv",
-      "title": "巴黎陷落",
-      "sort": 24
+      "sort": 17
     },
     {
       "tmdb_id": 332863,
       "tmdb_type": "tv",
       "title": "命悬一心",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 253941,
+      "tmdb_type": "tv",
+      "title": "报社",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1433,
+      "tmdb_type": "tv",
+      "title": "美国老爹",
+      "sort": 20
+    },
+    {
+      "tmdb_id": 76479,
+      "tmdb_type": "tv",
+      "title": "黑袍纠察队",
+      "sort": 21
+    },
+    {
+      "tmdb_id": 302074,
+      "tmdb_type": "tv",
+      "title": "劣探德克尔",
+      "sort": 22
+    },
+    {
+      "tmdb_id": 260458,
+      "tmdb_type": "tv",
+      "title": "成年人",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 329471,
+      "tmdb_type": "tv",
+      "title": "大世界之旅",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
       "sort": 25
+    },
+    {
+      "tmdb_id": 1413,
+      "tmdb_type": "tv",
+      "title": "美国恐怖故事",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 27
     },
     {
       "tmdb_id": 287238,
       "tmdb_type": "tv",
       "title": "狂怒追缉",
-      "sort": 26
+      "sort": 28
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 247168,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 27
+      "title": "查德·鲍尔斯",
+      "sort": 29
     }
   ]
 }
