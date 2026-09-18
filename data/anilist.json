@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-18T01:07:41.953Z",
+  "updated_at": "2026-09-18T12:47:31.094Z",
   "total": 30,
   "list": [
     {
@@ -102,18 +102,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 255358
-      },
-      "tmdb_type": "tv",
-      "title": "THE GHOST IN THE SHELL",
-      "sort": 11
-    },
-    {
-      "tmdb_id": {
         "tv": 139512
       },
       "tmdb_type": "tv",
       "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 255358
+      },
+      "tmdb_type": "tv",
+      "title": "THE GHOST IN THE SHELL",
       "sort": 12
     },
     {
