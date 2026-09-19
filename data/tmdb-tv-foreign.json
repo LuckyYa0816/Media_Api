@@ -27,67 +27,67 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-18T12:47:35.282Z",
-  "total": 30,
+  "updated_at": "2026-09-19T01:03:09.982Z",
+  "total": 27,
   "list": [
-    {
-      "tmdb_id": 247718,
-      "tmdb_type": "tv",
-      "title": "MobLand",
-      "sort": 1
-    },
     {
       "tmdb_id": 273207,
       "tmdb_type": "tv",
-      "title": "内格利",
-      "sort": 2
+      "title": "侠女内莉",
+      "sort": 1
     },
     {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 299939,
+      "tmdb_type": "tv",
+      "title": "怪物：莉齐·博登的故事",
       "sort": 3
     },
     {
-      "tmdb_id": 332401,
+      "tmdb_id": 247718,
       "tmdb_type": "tv",
-      "title": "血色之城",
+      "title": "MobLand",
       "sort": 4
-    },
-    {
-      "tmdb_id": 224263,
-      "tmdb_type": "tv",
-      "title": "Stranger Things: Tales from '85",
-      "sort": 5
     },
     {
       "tmdb_id": 196322,
       "tmdb_type": "tv",
       "title": "Dark Matter",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 332401,
+      "tmdb_type": "tv",
+      "title": "血色之城",
       "sort": 6
-    },
-    {
-      "tmdb_id": 207484,
-      "tmdb_type": "tv",
-      "title": "古战场传奇：吾血之亲",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 236235,
-      "tmdb_type": "tv",
-      "title": "绅士们",
-      "sort": 8
     },
     {
       "tmdb_id": 232018,
       "tmdb_type": "tv",
       "title": "巴黎陷落",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 224263,
+      "tmdb_type": "tv",
+      "title": "Stranger Things: Tales from '85",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 236235,
+      "tmdb_type": "tv",
+      "title": "绅士们",
       "sort": 9
     },
     {
-      "tmdb_id": 194583,
+      "tmdb_id": 207484,
       "tmdb_type": "tv",
-      "title": "行尸走肉：死亡之城",
+      "title": "古战场传奇：吾血之亲",
       "sort": 10
     },
     {
@@ -97,15 +97,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 232018,
+      "tmdb_id": 300507,
       "tmdb_type": "tv",
-      "title": "巴黎陷落",
+      "title": "掌舵少女",
       "sort": 12
     },
     {
-      "tmdb_id": 224263,
+      "tmdb_id": 194583,
       "tmdb_type": "tv",
-      "title": "Stranger Things: Tales from '85",
+      "title": "行尸走肉：死亡之城",
       "sort": 13
     },
     {
@@ -115,27 +115,27 @@
       "sort": 14
     },
     {
-      "tmdb_id": 120911,
+      "tmdb_id": 295089,
       "tmdb_type": "tv",
-      "title": "The Terminal List",
+      "title": "娃娃",
       "sort": 15
     },
     {
-      "tmdb_id": 260458,
+      "tmdb_id": 1413,
       "tmdb_type": "tv",
-      "title": "成年人",
+      "title": "美国恐怖故事",
       "sort": 16
     },
     {
-      "tmdb_id": 69557,
+      "tmdb_id": 320760,
       "tmdb_type": "tv",
-      "title": "高墙边的混乱",
+      "title": "不识陌生人",
       "sort": 17
     },
     {
-      "tmdb_id": 329471,
+      "tmdb_id": 298168,
       "tmdb_type": "tv",
-      "title": "大世界之旅",
+      "title": "青春碎片",
       "sort": 18
     },
     {
@@ -145,70 +145,52 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1413,
+      "tmdb_id": 60625,
       "tmdb_type": "tv",
-      "title": "美国恐怖故事",
+      "title": "瑞克和莫蒂",
       "sort": 20
     },
     {
-      "tmdb_id": 298168,
+      "tmdb_id": 304842,
       "tmdb_type": "tv",
-      "title": "青春碎片",
+      "title": "白粉飞：洛城新章",
       "sort": 21
-    },
-    {
-      "tmdb_id": 232018,
-      "tmdb_type": "tv",
-      "title": "巴黎陷落",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 120911,
-      "tmdb_type": "tv",
-      "title": "The Terminal List",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 260458,
-      "tmdb_type": "tv",
-      "title": "成年人",
-      "sort": 24
     },
     {
       "tmdb_id": 69557,
       "tmdb_type": "tv",
       "title": "高墙边的混乱",
-      "sort": 25
-    },
-    {
-      "tmdb_id": 329471,
-      "tmdb_type": "tv",
-      "title": "大世界之旅",
-      "sort": 26
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 27
-    },
-    {
-      "tmdb_id": 324111,
-      "tmdb_type": "tv",
-      "title": "体能之巅：百人大挑战：意大利篇",
-      "sort": 28
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 29
+      "sort": 22
     },
     {
       "tmdb_id": 260249,
       "tmdb_type": "tv",
       "title": "审判",
-      "sort": 30
+      "sort": 23
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 260458,
+      "tmdb_type": "tv",
+      "title": "成年人",
+      "sort": 25
+    },
+    {
+      "tmdb_id": 286801,
+      "tmdb_type": "tv",
+      "title": "怪物：艾德·盖恩的故事",
+      "sort": 26
+    },
+    {
+      "tmdb_id": 332863,
+      "tmdb_type": "tv",
+      "title": "命悬一心",
+      "sort": 27
     }
   ]
 }

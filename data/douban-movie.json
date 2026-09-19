@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-18T01:08:26.526Z",
+  "updated_at": "2026-09-19T01:03:42.284Z",
   "total": 20,
   "list": [
     {
@@ -35,9 +35,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1244492,
+      "tmdb_id": 1572830,
       "tmdb_type": "movie",
-      "title": "蓦然回首",
+      "title": "不成功穿越指南",
       "sort": 3
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1393326,
-      "tmdb_type": "movie",
-      "title": "牢笼鬼魂",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1339588,
       "tmdb_type": "movie",
       "title": "寻找艾米丽",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1393326,
+      "tmdb_type": "movie",
+      "title": "牢笼鬼魂",
       "sort": 19
     },
     {
