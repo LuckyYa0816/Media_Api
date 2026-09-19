@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-18T01:08:07.763Z",
+  "updated_at": "2026-09-19T12:20:56.388Z",
   "total": 20,
   "list": [
     {
@@ -47,15 +47,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 290863,
-      "tmdb_type": "tv",
-      "title": "冬城猎凶",
-      "sort": 5
-    },
-    {
       "tmdb_id": 294990,
       "tmdb_type": "tv",
       "title": "一瓯春",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 290863,
+      "tmdb_type": "tv",
+      "title": "冬城猎凶",
       "sort": 6
     },
     {
@@ -71,75 +71,75 @@
       "sort": 8
     },
     {
+      "tmdb_id": 286988,
+      "tmdb_type": "tv",
+      "title": "飞到我心上",
+      "sort": 9
+    },
+    {
       "tmdb_id": 287496,
       "tmdb_type": "tv",
       "title": "花开锦绣",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "花儿与少年 第八季",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 286988,
-      "tmdb_type": "tv",
-      "title": "飞到我心上",
       "sort": 11
-    },
-    {
-      "tmdb_id": 273114,
-      "tmdb_type": "tv",
-      "title": "悬案",
-      "sort": 12
     },
     {
       "tmdb_id": 291856,
       "tmdb_type": "tv",
       "title": "重器",
-      "sort": 13
+      "sort": 12
     },
     {
       "tmdb_id": 232828,
       "tmdb_type": "tv",
       "title": "装腔启示录",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 272432,
-      "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 289761,
-      "tmdb_type": "tv",
-      "title": "醒来",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 295558,
-      "tmdb_type": "tv",
-      "title": "雀骨",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 271016,
-      "tmdb_type": "tv",
-      "title": "九门",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 292696,
-      "tmdb_type": "tv",
-      "title": "莫离",
-      "sort": 19
+      "sort": 13
     },
     {
       "tmdb_id": 254486,
       "tmdb_type": "tv",
       "title": "雨霖铃",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 289761,
+      "tmdb_type": "tv",
+      "title": "醒来",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 273114,
+      "tmdb_type": "tv",
+      "title": "悬案",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 292696,
+      "tmdb_type": "tv",
+      "title": "莫离",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 271016,
+      "tmdb_type": "tv",
+      "title": "九门",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 272938,
+      "tmdb_type": "tv",
+      "title": "师兄太稳健",
       "sort": 20
     }
   ]

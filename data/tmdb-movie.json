@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-19T01:03:12.614Z",
-  "total": 4,
+  "updated_at": "2026-09-19T12:20:35.771Z",
+  "total": 5,
   "list": [
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 1
+    },
     {
       "tmdb_id": 1440098,
       "tmdb_type": "movie",
       "title": "保镖恋人",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1386315,
       "tmdb_type": "movie",
       "title": "生死时限",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1558568,
-      "tmdb_type": "movie",
-      "title": "团队万岁！",
       "sort": 3
     },
     {
@@ -48,6 +48,12 @@
       "tmdb_type": "movie",
       "title": "百分之十：电影版",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1558568,
+      "tmdb_type": "movie",
+      "title": "团队万岁！",
+      "sort": 5
     }
   ]
 }

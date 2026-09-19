@@ -27,37 +27,37 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-19T01:03:09.982Z",
-  "total": 27,
+  "updated_at": "2026-09-19T12:20:33.388Z",
+  "total": 25,
   "list": [
-    {
-      "tmdb_id": 273207,
-      "tmdb_type": "tv",
-      "title": "侠女内莉",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 108978,
-      "tmdb_type": "tv",
-      "title": "侠探杰克",
-      "sort": 2
-    },
     {
       "tmdb_id": 299939,
       "tmdb_type": "tv",
       "title": "怪物：莉齐·博登的故事",
-      "sort": 3
+      "sort": 1
+    },
+    {
+      "tmdb_id": 273207,
+      "tmdb_type": "tv",
+      "title": "侠女内莉",
+      "sort": 2
     },
     {
       "tmdb_id": 247718,
       "tmdb_type": "tv",
       "title": "MobLand",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 108978,
+      "tmdb_type": "tv",
+      "title": "侠探杰克",
       "sort": 4
     },
     {
-      "tmdb_id": 196322,
+      "tmdb_id": 207484,
       "tmdb_type": "tv",
-      "title": "Dark Matter",
+      "title": "古战场传奇：吾血之亲",
       "sort": 5
     },
     {
@@ -73,39 +73,39 @@
       "sort": 7
     },
     {
-      "tmdb_id": 224263,
+      "tmdb_id": 196322,
       "tmdb_type": "tv",
-      "title": "Stranger Things: Tales from '85",
+      "title": "Dark Matter",
       "sort": 8
-    },
-    {
-      "tmdb_id": 236235,
-      "tmdb_type": "tv",
-      "title": "绅士们",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 207484,
-      "tmdb_type": "tv",
-      "title": "古战场传奇：吾血之亲",
-      "sort": 10
     },
     {
       "tmdb_id": 615,
       "tmdb_type": "tv",
       "title": "飞出个未来",
-      "sort": 11
+      "sort": 9
     },
     {
-      "tmdb_id": 300507,
+      "tmdb_id": 224263,
       "tmdb_type": "tv",
-      "title": "掌舵少女",
-      "sort": 12
+      "title": "Stranger Things: Tales from '85",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 236235,
+      "tmdb_type": "tv",
+      "title": "绅士们",
+      "sort": 11
     },
     {
       "tmdb_id": 194583,
       "tmdb_type": "tv",
       "title": "行尸走肉：死亡之城",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 295089,
+      "tmdb_type": "tv",
+      "title": "娃娃",
       "sort": 13
     },
     {
@@ -115,9 +115,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 295089,
+      "tmdb_id": 300507,
       "tmdb_type": "tv",
-      "title": "娃娃",
+      "title": "掌舵少女",
       "sort": 15
     },
     {
@@ -127,70 +127,58 @@
       "sort": 16
     },
     {
-      "tmdb_id": 320760,
+      "tmdb_id": 69557,
       "tmdb_type": "tv",
-      "title": "不识陌生人",
+      "title": "高墙边的混乱",
       "sort": 17
-    },
-    {
-      "tmdb_id": 298168,
-      "tmdb_type": "tv",
-      "title": "青春碎片",
-      "sort": 18
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 299255,
+      "tmdb_type": "tv",
+      "title": "不安全狱管",
       "sort": 19
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 304842,
-      "tmdb_type": "tv",
-      "title": "白粉飞：洛城新章",
-      "sort": 21
-    },
-    {
-      "tmdb_id": 69557,
-      "tmdb_type": "tv",
-      "title": "高墙边的混乱",
-      "sort": 22
-    },
-    {
-      "tmdb_id": 260249,
-      "tmdb_type": "tv",
-      "title": "审判",
-      "sort": 23
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 24
     },
     {
       "tmdb_id": 260458,
       "tmdb_type": "tv",
       "title": "成年人",
-      "sort": 25
+      "sort": 20
     },
     {
-      "tmdb_id": 286801,
+      "tmdb_id": 76479,
       "tmdb_type": "tv",
-      "title": "怪物：艾德·盖恩的故事",
-      "sort": 26
+      "title": "黑袍纠察队",
+      "sort": 21
     },
     {
       "tmdb_id": 332863,
       "tmdb_type": "tv",
       "title": "命悬一心",
-      "sort": 27
+      "sort": 22
+    },
+    {
+      "tmdb_id": 320760,
+      "tmdb_type": "tv",
+      "title": "不识陌生人",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 286801,
+      "tmdb_type": "tv",
+      "title": "怪物：艾德·盖恩的故事",
+      "sort": 24
+    },
+    {
+      "tmdb_id": 260249,
+      "tmdb_type": "tv",
+      "title": "审判",
+      "sort": 25
     }
   ]
 }
