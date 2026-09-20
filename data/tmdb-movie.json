@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-19T12:20:35.771Z",
-  "total": 5,
+  "updated_at": "2026-09-20T00:49:30.401Z",
+  "total": 7,
   "list": [
+    {
+      "tmdb_id": 1122030,
+      "tmdb_type": "movie",
+      "title": "无畏双姝",
+      "sort": 1
+    },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1440098,
       "tmdb_type": "movie",
       "title": "保镖恋人",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1386315,
-      "tmdb_type": "movie",
-      "title": "生死时限",
       "sort": 3
     },
     {
@@ -50,10 +50,22 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1440098,
+      "tmdb_type": "movie",
+      "title": "保镖恋人",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1386315,
+      "tmdb_type": "movie",
+      "title": "生死时限",
+      "sort": 6
+    },
+    {
       "tmdb_id": 1558568,
       "tmdb_type": "movie",
       "title": "团队万岁！",
-      "sort": 5
+      "sort": 7
     }
   ]
 }
