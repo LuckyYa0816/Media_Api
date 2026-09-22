@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-22T01:30:06.004Z",
-  "total": 6,
+  "updated_at": "2026-09-22T13:12:09.528Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1641629,
@@ -32,34 +32,28 @@
       "sort": 1
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1514863,
       "tmdb_type": "movie",
       "title": "最佳舞伴",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 1451944,
       "tmdb_type": "movie",
       "title": "爱欲四部曲3",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1440098,
-      "tmdb_type": "movie",
-      "title": "保镖恋人",
-      "sort": 5
+      "sort": 3
     },
     {
       "tmdb_id": 1386315,
       "tmdb_type": "movie",
       "title": "生死时限",
-      "sort": 6
+      "sort": 4
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 5
     }
   ]
 }
