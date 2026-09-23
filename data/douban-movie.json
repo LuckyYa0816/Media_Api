@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-22T13:12:36.159Z",
+  "updated_at": "2026-09-23T01:20:07.239Z",
   "total": 20,
   "list": [
     {
@@ -53,15 +53,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1137844,
-      "tmdb_type": "movie",
-      "title": "求救信号",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1240889,
       "tmdb_type": "movie",
       "title": "瘴气营地的青春性事与死亡",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1137844,
+      "tmdb_type": "movie",
+      "title": "求救信号",
       "sort": 7
     },
     {
@@ -107,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1602727,
-      "tmdb_type": "movie",
-      "title": "夜王",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1572830,
       "tmdb_type": "movie",
       "title": "不成功穿越指南",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1602727,
+      "tmdb_type": "movie",
+      "title": "夜王",
       "sort": 16
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1339588,
+      "tmdb_id": 1433367,
       "tmdb_type": "movie",
-      "title": "寻找艾米丽",
+      "title": "一夜限定",
       "sort": 20
     }
   ]
