@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-23T01:19:36.496Z",
+  "updated_at": "2026-09-23T13:26:36.952Z",
   "total": 30,
   "list": [
     {
@@ -182,18 +182,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 280049
-      },
-      "tmdb_type": "tv",
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
         "tv": 250008
       },
       "tmdb_type": "tv",
       "title": "Oh Boy, Was I Wrong About Her",
+      "sort": 21
+    },
+    {
+      "tmdb_id": {
+        "tv": 280049
+      },
+      "tmdb_type": "tv",
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
       "sort": 22
     },
     {
