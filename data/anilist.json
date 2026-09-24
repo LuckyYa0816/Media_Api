@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-24T01:14:12.869Z",
+  "updated_at": "2026-09-24T13:22:32.895Z",
   "total": 30,
   "list": [
     {
@@ -150,11 +150,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 286345
+      },
+      "tmdb_type": "tv",
+      "title": "Though I Am an Inept Villainess",
+      "sort": 17
+    },
+    {
+      "tmdb_id": {
         "tv": 312849
       },
       "tmdb_type": "tv",
       "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": {
@@ -162,14 +170,6 @@
       },
       "tmdb_type": "tv",
       "title": "Jaadugar: A Witch in Mongolia",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
-        "tv": 286345
-      },
-      "tmdb_type": "tv",
-      "title": "Though I Am an Inept Villainess",
       "sort": 19
     },
     {
