@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-23T13:26:43.802Z",
-  "total": 3,
+  "updated_at": "2026-09-24T01:14:19.766Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1641629,
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1451944,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "爱欲四部曲3",
+      "title": "挽救计划",
       "sort": 2
     },
     {
@@ -42,6 +42,18 @@
       "tmdb_type": "movie",
       "title": "挽救计划",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1451944,
+      "tmdb_type": "movie",
+      "title": "爱欲四部曲3",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1386315,
+      "tmdb_type": "movie",
+      "title": "生死时限",
+      "sort": 5
     }
   ]
 }
