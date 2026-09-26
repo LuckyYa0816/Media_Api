@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-25T13:23:36.783Z",
+  "updated_at": "2026-09-26T01:18:19.460Z",
   "total": 20,
   "list": [
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 1477712,
-      "tmdb_type": "movie",
-      "title": "卖冰淇淋的人",
-      "sort": 12
-    },
-    {
       "tmdb_id": 1396674,
       "tmdb_type": "movie",
       "title": "一个部门的诞生",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1477712,
+      "tmdb_type": "movie",
+      "title": "卖冰淇淋的人",
       "sort": 13
     },
     {
@@ -119,15 +119,15 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1288445,
-      "tmdb_type": "movie",
-      "title": "怒之杀",
-      "sort": 17
-    },
-    {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1288445,
+      "tmdb_type": "movie",
+      "title": "怒之杀",
       "sort": 18
     },
     {

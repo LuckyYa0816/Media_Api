@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-25T13:23:11.561Z",
-  "total": 5,
+  "updated_at": "2026-09-26T01:17:57.737Z",
+  "total": 6,
   "list": [
-    {
-      "tmdb_id": 1641629,
-      "tmdb_type": "movie",
-      "title": "你和我：与世界为敌",
-      "sort": 1
-    },
     {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1641629,
+      "tmdb_type": "movie",
+      "title": "你和我：与世界为敌",
       "sort": 2
     },
     {
@@ -50,10 +50,16 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1386315,
+      "tmdb_type": "movie",
+      "title": "生死时限",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1451944,
       "tmdb_type": "movie",
       "title": "爱欲四部曲3",
-      "sort": 5
+      "sort": 6
     }
   ]
 }
