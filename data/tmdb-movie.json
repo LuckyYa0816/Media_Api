@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-26T01:17:57.737Z",
-  "total": 6,
+  "updated_at": "2026-09-26T12:46:09.457Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1032863,
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1641629,
+      "tmdb_id": 1492640,
       "tmdb_type": "movie",
-      "title": "你和我：与世界为敌",
+      "title": "大学炸弹客",
       "sort": 2
     },
     {
@@ -44,22 +44,28 @@
       "sort": 3
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1641629,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "你和我：与世界为敌",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1514863,
+      "tmdb_type": "movie",
+      "title": "最佳舞伴",
+      "sort": 5
     },
     {
       "tmdb_id": 1386315,
       "tmdb_type": "movie",
       "title": "生死时限",
-      "sort": 5
+      "sort": 6
     },
     {
-      "tmdb_id": 1451944,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "爱欲四部曲3",
-      "sort": 6
+      "title": "挽救计划",
+      "sort": 7
     }
   ]
 }

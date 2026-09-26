@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-26T01:17:49.175Z",
+  "updated_at": "2026-09-26T12:46:02.547Z",
   "total": 30,
   "list": [
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 258348
-      },
-      "tmdb_type": "tv",
-      "title": "Clevatess Season 2",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 260823
       },
       "tmdb_type": "tv",
       "title": "From Old Country Bumpkin to Master Swordsman II",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 258348
+      },
+      "tmdb_type": "tv",
+      "title": "Clevatess Season 2",
       "sort": 16
     },
     {
@@ -182,18 +182,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 250008
-      },
-      "tmdb_type": "tv",
-      "title": "Oh Boy, Was I Wrong About Her",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
         "tv": 280049
       },
       "tmdb_type": "tv",
       "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "sort": 21
+    },
+    {
+      "tmdb_id": {
+        "tv": 250008
+      },
+      "tmdb_type": "tv",
+      "title": "Oh Boy, Was I Wrong About Her",
       "sort": 22
     },
     {
@@ -222,18 +222,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117120
-      },
-      "tmdb_type": "tv",
-      "title": "Young Ladies Don't Play Fighting Games",
-      "sort": 26
-    },
-    {
-      "tmdb_id": {
         "tv": 300267
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Rearguard",
+      "sort": 26
+    },
+    {
+      "tmdb_id": {
+        "tv": 117120
+      },
+      "tmdb_type": "tv",
+      "title": "Young Ladies Don't Play Fighting Games",
       "sort": 27
     },
     {
