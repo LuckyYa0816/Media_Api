@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-27T01:11:28.946Z",
+  "updated_at": "2026-09-27T13:38:28.381Z",
   "total": 30,
   "list": [
     {
@@ -222,18 +222,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 300267
-      },
-      "tmdb_type": "tv",
-      "title": "The World's Strongest Rearguard",
-      "sort": 26
-    },
-    {
-      "tmdb_id": {
         "tv": 117120
       },
       "tmdb_type": "tv",
       "title": "Young Ladies Don't Play Fighting Games",
+      "sort": 26
+    },
+    {
+      "tmdb_id": {
+        "tv": 300267
+      },
+      "tmdb_type": "tv",
+      "title": "The World's Strongest Rearguard",
       "sort": 27
     },
     {
