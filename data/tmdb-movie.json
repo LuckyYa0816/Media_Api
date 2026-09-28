@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-28T01:27:53.826Z",
-  "total": 4,
+  "updated_at": "2026-09-28T16:34:08.915Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1492640,
@@ -44,10 +44,22 @@
       "sort": 3
     },
     {
+      "tmdb_id": 1386315,
+      "tmdb_type": "movie",
+      "title": "生死时限",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1514863,
       "tmdb_type": "movie",
       "title": "最佳舞伴",
-      "sort": 4
+      "sort": 6
     }
   ]
 }
