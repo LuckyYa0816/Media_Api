@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-09-28T16:34:29.392Z",
+  "updated_at": "2026-09-29T02:31:11.925Z",
   "total": 20,
   "list": [
     {
@@ -41,9 +41,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 294990,
+      "tmdb_id": 297982,
       "tmdb_type": "tv",
-      "title": "一瓯春",
+      "title": "无可替代",
       "sort": 4
     },
     {
@@ -53,9 +53,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 301489,
+      "tmdb_id": 294990,
       "tmdb_type": "tv",
-      "title": "深渊无间",
+      "title": "一瓯春",
       "sort": 6
     },
     {
@@ -65,15 +65,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 301489,
       "tmdb_type": "tv",
-      "title": "花儿与少年 第八季",
+      "title": "深渊无间",
       "sort": 8
     },
     {
-      "tmdb_id": 273114,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "悬案",
+      "title": "花儿与少年 第八季",
       "sort": 9
     },
     {
@@ -83,21 +83,21 @@
       "sort": 10
     },
     {
+      "tmdb_id": 2171,
+      "tmdb_type": "tv",
+      "title": "悬案",
+      "sort": 11
+    },
+    {
       "tmdb_id": 288873,
       "tmdb_type": "tv",
       "title": "云雀叫天录",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 336341,
       "tmdb_type": "tv",
       "title": "生死尽头",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 291856,
-      "tmdb_type": "tv",
-      "title": "重器",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 68034,
+      "tmdb_id": 291856,
       "tmdb_type": "tv",
-      "title": "大明王朝1566",
+      "title": "重器",
       "sort": 15
     },
     {
-      "tmdb_id": 272432,
+      "tmdb_id": 68034,
       "tmdb_type": "tv",
-      "title": "低智商犯罪",
+      "title": "大明王朝1566",
       "sort": 16
-    },
-    {
-      "tmdb_id": 286686,
-      "tmdb_type": "tv",
-      "title": "生逢其时",
-      "sort": 17
     },
     {
       "tmdb_id": 21712,
       "tmdb_type": "tv",
       "title": "潜伏",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
       "sort": 18
+    },
+    {
+      "tmdb_id": 286686,
+      "tmdb_type": "tv",
+      "title": "生逢其时",
+      "sort": 19
     },
     {
       "tmdb_id": 287994,
       "tmdb_type": "tv",
       "title": "法医秦明之龙番往事",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 81502,
-      "tmdb_type": "tv",
-      "title": "知否知否应是绿肥红瘦",
       "sort": 20
     }
   ]
