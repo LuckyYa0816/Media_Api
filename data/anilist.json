@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-29T02:30:52.668Z",
+  "updated_at": "2026-09-29T14:41:53.583Z",
   "total": 30,
   "list": [
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 79166
-      },
-      "tmdb_type": "tv",
-      "title": "Grand Blue Dreaming Season 3",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 280049
       },
       "tmdb_type": "tv",
       "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 79166
+      },
+      "tmdb_type": "tv",
+      "title": "Grand Blue Dreaming Season 3",
       "sort": 21
     },
     {
@@ -246,18 +246,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 284581
-      },
-      "tmdb_type": "tv",
-      "title": "The Insipid Prince's Furtive Grab for the Throne",
-      "sort": 29
-    },
-    {
-      "tmdb_id": {
         "tv": 312266
       },
       "tmdb_type": "tv",
       "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "sort": 29
+    },
+    {
+      "tmdb_id": {
+        "tv": 284581
+      },
+      "tmdb_type": "tv",
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
       "sort": 30
     }
   ]
