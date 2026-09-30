@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-30T01:53:44.060Z",
-  "total": 18,
+  "updated_at": "2026-09-30T14:43:40.140Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 299939,
@@ -37,27 +37,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 3
-    },
-    {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
-      "sort": 4
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1413,
+      "tmdb_type": "tv",
+      "title": "美国恐怖故事",
+      "sort": 3
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
       "sort": 5
     },
     {
@@ -67,45 +67,45 @@
       "sort": 6
     },
     {
-      "tmdb_id": 305357,
+      "tmdb_id": 284792,
       "tmdb_type": "tv",
-      "title": "别样世界",
+      "title": "谜样美杜莎",
       "sort": 7
     },
     {
-      "tmdb_id": 308963,
+      "tmdb_id": 273207,
       "tmdb_type": "tv",
-      "title": "人身保护令",
+      "title": "侠女内莉",
       "sort": 8
-    },
-    {
-      "tmdb_id": 310290,
-      "tmdb_type": "tv",
-      "title": "我悲伤的逝者们",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 312557,
-      "tmdb_type": "tv",
-      "title": "密涅瓦学院",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 236235,
-      "tmdb_type": "tv",
-      "title": "绅士们",
-      "sort": 11
     },
     {
       "tmdb_id": 196322,
       "tmdb_type": "tv",
       "title": "Dark Matter",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 308963,
+      "tmdb_type": "tv",
+      "title": "人身保护令",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 232018,
+      "tmdb_type": "tv",
+      "title": "巴黎陷落",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 312557,
+      "tmdb_type": "tv",
+      "title": "密涅瓦学院",
       "sort": 12
     },
     {
-      "tmdb_id": 332401,
+      "tmdb_id": 284792,
       "tmdb_type": "tv",
-      "title": "血色之城",
+      "title": "谜样美杜莎",
       "sort": 13
     },
     {
@@ -115,15 +115,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 84773,
+      "tmdb_id": 312557,
       "tmdb_type": "tv",
-      "title": "指环王：力量之戒",
+      "title": "密涅瓦学院",
       "sort": 15
     },
     {
-      "tmdb_id": 111110,
+      "tmdb_id": 236235,
       "tmdb_type": "tv",
-      "title": "ONE PIECE",
+      "title": "绅士们",
       "sort": 16
     },
     {
@@ -133,10 +133,22 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1434,
+      "tmdb_id": 332401,
       "tmdb_type": "tv",
-      "title": "恶搞之家",
+      "title": "血色之城",
       "sort": 18
+    },
+    {
+      "tmdb_id": 120911,
+      "tmdb_type": "tv",
+      "title": "The Terminal List",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 4614,
+      "tmdb_type": "tv",
+      "title": "海军罪案调查处",
+      "sort": 20
     }
   ]
 }

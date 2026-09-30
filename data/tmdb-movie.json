@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-09-30T01:53:47.211Z",
-  "total": 3,
+  "updated_at": "2026-09-30T14:43:42.805Z",
+  "total": 4,
   "list": [
     {
       "tmdb_id": 1492640,
@@ -38,10 +38,16 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1322562,
+      "tmdb_type": "movie",
+      "title": "物怪第 3 章：蛇神",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1386315,
       "tmdb_type": "movie",
       "title": "生死时限",
-      "sort": 3
+      "sort": 4
     }
   ]
 }
