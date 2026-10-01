@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-01T01:53:16.118Z",
+  "updated_at": "2026-10-01T15:12:46.439Z",
   "total": 25,
   "list": [
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 206630
-      },
-      "tmdb_type": "tv",
-      "title": "Sasaki and Peeps Season 2",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 206630
+      },
+      "tmdb_type": "tv",
+      "title": "Sasaki and Peeps Season 2",
       "sort": 14
     },
     {
