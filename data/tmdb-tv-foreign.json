@@ -27,31 +27,31 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-09-30T14:43:40.140Z",
-  "total": 20,
+  "updated_at": "2026-10-01T01:53:21.558Z",
+  "total": 18,
   "list": [
     {
-      "tmdb_id": 299939,
+      "tmdb_id": 1413,
       "tmdb_type": "tv",
-      "title": "怪物：莉齐·博登的故事",
+      "title": "美国恐怖故事",
       "sort": 1
+    },
+    {
+      "tmdb_id": 290720,
+      "tmdb_type": "tv",
+      "title": "最后一案",
+      "sort": 2
     },
     {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
       "sort": 3
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 299939,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "怪物：莉齐·博登的故事",
       "sort": 4
     },
     {
@@ -61,15 +61,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 290720,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "最后一案",
+      "title": "辛普森一家",
       "sort": 6
     },
     {
-      "tmdb_id": 284792,
+      "tmdb_id": 318918,
       "tmdb_type": "tv",
-      "title": "谜样美杜莎",
+      "title": "乐高航海王",
       "sort": 7
     },
     {
@@ -79,76 +79,64 @@
       "sort": 8
     },
     {
+      "tmdb_id": 232018,
+      "tmdb_type": "tv",
+      "title": "巴黎陷落",
+      "sort": 9
+    },
+    {
       "tmdb_id": 196322,
       "tmdb_type": "tv",
       "title": "Dark Matter",
-      "sort": 9
+      "sort": 10
     },
     {
       "tmdb_id": 308963,
       "tmdb_type": "tv",
       "title": "人身保护令",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 232018,
-      "tmdb_type": "tv",
-      "title": "巴黎陷落",
       "sort": 11
     },
     {
-      "tmdb_id": 312557,
+      "tmdb_id": 310290,
       "tmdb_type": "tv",
-      "title": "密涅瓦学院",
+      "title": "我悲伤的逝者们",
       "sort": 12
     },
     {
-      "tmdb_id": 284792,
-      "tmdb_type": "tv",
-      "title": "谜样美杜莎",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 331979,
-      "tmdb_type": "tv",
-      "title": "死亡幻象",
-      "sort": 14
-    },
-    {
       "tmdb_id": 312557,
       "tmdb_type": "tv",
       "title": "密涅瓦学院",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 260458,
+      "tmdb_type": "tv",
+      "title": "成年人",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 304842,
+      "tmdb_type": "tv",
+      "title": "白粉飞：洛城新章",
       "sort": 15
     },
     {
-      "tmdb_id": 236235,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "绅士们",
+      "title": "菜鸟老警",
       "sort": 16
-    },
-    {
-      "tmdb_id": 207484,
-      "tmdb_type": "tv",
-      "title": "古战场传奇：吾血之亲",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 332401,
-      "tmdb_type": "tv",
-      "title": "血色之城",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 120911,
-      "tmdb_type": "tv",
-      "title": "The Terminal List",
-      "sort": 19
     },
     {
       "tmdb_id": 4614,
       "tmdb_type": "tv",
       "title": "海军罪案调查处",
-      "sort": 20
+      "sort": 17
+    },
+    {
+      "tmdb_id": 255055,
+      "tmdb_type": "tv",
+      "title": "失忆医生",
+      "sort": 18
     }
   ]
 }

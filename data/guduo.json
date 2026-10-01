@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-09-30T14:44:13.785Z",
+  "updated_at": "2026-10-01T01:53:49.182Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -30,117 +30,117 @@
           "sort": 1
         },
         {
-          "tmdb_id": 335024,
-          "tmdb_type": "tv",
-          "title": "黑岛监狱",
-          "sort": 2
-        },
-        {
           "tmdb_id": 294990,
           "tmdb_type": "tv",
           "title": "一瓯春",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 335024,
+          "tmdb_type": "tv",
+          "title": "黑岛监狱",
           "sort": 3
+        },
+        {
+          "tmdb_id": 301494,
+          "tmdb_type": "tv",
+          "title": "余红旧事",
+          "sort": 4
         },
         {
           "tmdb_id": 299952,
           "tmdb_type": "tv",
           "title": "早春晴朗",
-          "sort": 4
+          "sort": 5
+        },
+        {
+          "tmdb_id": 336706,
+          "tmdb_type": "tv",
+          "title": "雷霆令",
+          "sort": 6
         },
         {
           "tmdb_id": 336023,
           "tmdb_type": "tv",
           "title": "法医秦明之天谴者",
-          "sort": 5
+          "sort": 7
         },
         {
           "tmdb_id": 287994,
           "tmdb_type": "tv",
           "title": "法医秦明之龙番往事",
-          "sort": 6
+          "sort": 8
         },
         {
           "tmdb_id": 301489,
           "tmdb_type": "tv",
           "title": "深渊无间",
-          "sort": 7
+          "sort": 9
         },
         {
           "tmdb_id": 319659,
           "tmdb_type": "tv",
           "title": "重案六组：消失的警号",
-          "sort": 8
+          "sort": 10
         },
         {
           "tmdb_id": 272938,
           "tmdb_type": "tv",
           "title": "师兄太稳健",
-          "sort": 9
+          "sort": 11
         },
         {
           "tmdb_id": 335826,
           "tmdb_type": "tv",
           "title": "行镖",
-          "sort": 10
+          "sort": 12
         },
         {
           "tmdb_id": 271016,
           "tmdb_type": "tv",
           "title": "九门",
-          "sort": 11
+          "sort": 13
         },
         {
-          "tmdb_id": 294487,
+          "tmdb_id": 35894,
           "tmdb_type": "tv",
-          "title": "金色",
-          "sort": 12
+          "title": "金童卡修",
+          "sort": 14
         },
         {
           "tmdb_id": 286506,
           "tmdb_type": "tv",
           "title": "百花杀",
-          "sort": 13
+          "sort": 15
         },
         {
           "tmdb_id": 286322,
           "tmdb_type": "tv",
           "title": "囧徒之预演告别",
-          "sort": 14
+          "sort": 16
         },
         {
           "tmdb_id": 273119,
           "tmdb_type": "tv",
           "title": "人鱼",
-          "sort": 15
+          "sort": 17
         },
         {
           "tmdb_id": 295599,
           "tmdb_type": "tv",
           "title": "御廷谣",
-          "sort": 16
+          "sort": 18
         },
         {
           "tmdb_id": 289116,
           "tmdb_type": "tv",
           "title": "天才，女友",
-          "sort": 17
+          "sort": 19
         },
         {
           "tmdb_id": 327916,
           "tmdb_type": "tv",
           "title": "凛冬下的罪恶",
-          "sort": 18
-        },
-        {
-          "tmdb_id": 295558,
-          "tmdb_type": "tv",
-          "title": "雀骨",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 289139,
-          "tmdb_type": "tv",
-          "title": "这一秒过火",
           "sort": 20
         }
       ]
@@ -155,93 +155,93 @@
           "sort": 1
         },
         {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 2
-        },
-        {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 79481,
-          "tmdb_type": "tv",
-          "title": "斗破苍穹",
-          "sort": 4
-        },
-        {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 6
-        },
-        {
-          "tmdb_id": 119059,
-          "tmdb_type": "tv",
-          "title": "茶啊二中",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 229192,
-          "tmdb_type": "tv",
-          "title": "沧元图",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 281233,
-          "tmdb_type": "tv",
-          "title": "光阴之外",
-          "sort": 10
+          "sort": 2
         },
         {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
-          "sort": 11
+          "sort": 3
         },
         {
-          "tmdb_id": 303287,
+          "tmdb_id": 236534,
           "tmdb_type": "tv",
-          "title": "一斩苍穹",
-          "sort": 12
+          "title": "牧神记",
+          "sort": 4
         },
         {
-          "tmdb_id": 297923,
+          "tmdb_id": 79481,
           "tmdb_type": "tv",
-          "title": "灵境行者",
-          "sort": 13
+          "title": "斗破苍穹",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 229192,
+          "tmdb_type": "tv",
+          "title": "沧元图",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 281233,
+          "tmdb_type": "tv",
+          "title": "光阴之外",
+          "sort": 9
         },
         {
           "tmdb_id": 331477,
           "tmdb_type": "tv",
           "title": "一念永恒",
-          "sort": 14
+          "sort": 10
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 119059,
+          "tmdb_type": "tv",
+          "title": "茶啊二中",
+          "sort": 12
         },
         {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
-          "sort": 15
+          "sort": 13
         },
         {
-          "tmdb_id": 336065,
+          "tmdb_id": 303287,
           "tmdb_type": "tv",
-          "title": "狐妖小红娘 黄风岭篇",
-          "sort": 16
+          "title": "一斩苍穹",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 297923,
+          "tmdb_type": "tv",
+          "title": "灵境行者",
+          "sort": 15
         },
         {
           "tmdb_id": 259231,
           "tmdb_type": "tv",
           "title": "斩神之凡尘神域",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 336065,
+          "tmdb_type": "tv",
+          "title": "狐妖小红娘 黄风岭篇",
           "sort": 17
         },
         {
@@ -286,33 +286,33 @@
           "sort": 3
         },
         {
+          "tmdb_id": 296202,
+          "tmdb_type": "tv",
+          "title": "地球超新鲜",
+          "sort": 4
+        },
+        {
           "tmdb_id": 131040,
           "tmdb_type": "tv",
           "title": "披荆斩棘",
-          "sort": 4
+          "sort": 5
         },
         {
           "tmdb_id": 89861,
           "tmdb_type": "tv",
           "title": "密室大逃脱",
-          "sort": 5
+          "sort": 6
         },
         {
           "tmdb_id": 296217,
           "tmdb_type": "tv",
           "title": "一饭封神",
-          "sort": 6
+          "sort": 7
         },
         {
           "tmdb_id": 331306,
           "tmdb_type": "tv",
           "title": "毛雪汪26秋番",
-          "sort": 7
-        },
-        {
-          "tmdb_id": 296202,
-          "tmdb_type": "tv",
-          "title": "地球超新鲜",
           "sort": 8
         },
         {
@@ -435,21 +435,21 @@
           "sort": 9
         },
         {
-          "tmdb_id": 1439930,
-          "tmdb_type": "movie",
-          "title": "惩罚者：最后一击",
-          "sort": 10
-        },
-        {
           "tmdb_id": 1598732,
           "tmdb_type": "movie",
           "title": "完美世界剧场版 九劫焚天",
-          "sort": 11
+          "sort": 10
         },
         {
           "tmdb_id": 1760578,
           "tmdb_type": "movie",
           "title": "和平精英：地铁逃生",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 1439930,
+          "tmdb_type": "movie",
+          "title": "惩罚者：最后一击",
           "sort": 12
         },
         {
@@ -465,15 +465,15 @@
           "sort": 15
         },
         {
-          "tmdb_id": 1770942,
-          "tmdb_type": "movie",
-          "title": "东游令",
-          "sort": 16
-        },
-        {
           "tmdb_id": 1754100,
           "tmdb_type": "movie",
           "title": "灵魂摆渡·蝴蝶梦",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 1770942,
+          "tmdb_type": "movie",
+          "title": "东游令",
           "sort": 17
         },
         {

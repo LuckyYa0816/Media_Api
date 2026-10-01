@@ -17,248 +17,208 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-09-30T14:43:35.237Z",
-  "total": 30,
+  "updated_at": "2026-10-01T01:53:16.118Z",
+  "total": 25,
   "list": [
     {
       "tmdb_id": {
-        "tv": 94664
+        "tv": 220542
       },
       "tmdb_type": "tv",
-      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "title": "The Apothecary Diaries Season 3",
       "sort": 1
     },
     {
       "tmdb_id": {
-        "tv": 296286
+        "tv": 207347
       },
       "tmdb_type": "tv",
-      "title": "Smoking Behind the Supermarket with You",
+      "title": "Blue Box Season 2",
       "sort": 2
     },
     {
       "tmdb_id": {
-        "tv": 69346
+        "tv": 105009
       },
       "tmdb_type": "tv",
-      "title": "Saga of Tanya the Evil Season 2",
+      "title": "Tokyo Revengers: Santen Sensou-hen",
       "sort": 3
     },
     {
       "tmdb_id": {
-        "tv": 30984
+        "tv": 283428
       },
       "tmdb_type": "tv",
-      "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+      "title": "The Ramparts of Ice Season 2",
       "sort": 4
     },
     {
       "tmdb_id": {
-        "tv": 312949
+        "tv": 230050
       },
       "tmdb_type": "tv",
-      "title": "Chainsmoker Cat",
+      "title": "A Returner's Magic Should be Special Season 2",
       "sort": 5
     },
     {
       "tmdb_id": {
-        "tv": 285993
+        "tv": 117061
       },
       "tmdb_type": "tv",
-      "title": "BLACK TORCH",
+      "title": "The Detective Is Already Dead Season 2",
       "sort": 6
     },
     {
       "tmdb_id": {
-        "tv": 270603
+        "tv": 320909
       },
       "tmdb_type": "tv",
-      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "title": "Firefly Wedding",
       "sort": 7
     },
     {
       "tmdb_id": {
-        "tv": 278043
+        "tv": 237150
       },
       "tmdb_type": "tv",
-      "title": "You and I Are Polar Opposites Season 2",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "sort": 8
     },
     {
       "tmdb_id": {
-        "tv": 153217
+        "tv": 283938
       },
       "tmdb_type": "tv",
-      "title": "Sparks of Tomorrow",
+      "title": "Even the Student Council Has Its Holes!",
       "sort": 9
     },
     {
       "tmdb_id": {
-        "tv": 285574
+        "tv": 259140
       },
       "tmdb_type": "tv",
-      "title": "I Want to Love You Till Your Dying Day",
+      "title": "Ranma1/2 (2024) Season 3",
       "sort": 10
     },
     {
       "tmdb_id": {
-        "tv": 139512
+        "tv": 200777
       },
       "tmdb_type": "tv",
-      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
       "sort": 11
     },
     {
       "tmdb_id": {
-        "tv": 255358
+        "tv": 261343
       },
       "tmdb_type": "tv",
-      "title": "THE GHOST IN THE SHELL",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 12
     },
     {
       "tmdb_id": {
-        "tv": 123528
+        "tv": 206630
       },
       "tmdb_type": "tv",
-      "title": "Skeleton Knight in Another World Season 2",
+      "title": "Sasaki and Peeps Season 2",
       "sort": 13
     },
     {
       "tmdb_id": {
-        "tv": 309974
+        "tv": 313068
       },
       "tmdb_type": "tv",
-      "title": "Love Unseen Beneath the Clear Night Sky",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
       "sort": 14
     },
     {
       "tmdb_id": {
-        "tv": 260823
+        "tv": 297903
       },
       "tmdb_type": "tv",
-      "title": "From Old Country Bumpkin to Master Swordsman II",
+      "title": "PSYREN",
       "sort": 15
     },
     {
       "tmdb_id": {
-        "tv": 258348
+        "tv": 283692
       },
       "tmdb_type": "tv",
-      "title": "Clevatess Season 2",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "sort": 16
     },
     {
       "tmdb_id": {
-        "tv": 286345
+        "tv": 312850
       },
       "tmdb_type": "tv",
-      "title": "Though I Am an Inept Villainess",
+      "title": "Nia Liston: The Merciless Maiden",
       "sort": 17
     },
     {
       "tmdb_id": {
-        "tv": 312849
+        "tv": 285899
       },
       "tmdb_type": "tv",
-      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "title": "A Tale of the Secret Saint",
       "sort": 18
     },
     {
       "tmdb_id": {
-        "tv": 288971
+        "tv": 336554
       },
       "tmdb_type": "tv",
-      "title": "Jaadugar: A Witch in Mongolia",
+      "title": "I'm Dating a Dark Summoner",
       "sort": 19
     },
     {
       "tmdb_id": {
-        "tv": 280049
+        "tv": 316891
       },
       "tmdb_type": "tv",
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "title": "The Cold Sato-san is Only Sweet to Me",
       "sort": 20
     },
     {
       "tmdb_id": {
-        "tv": 79166
+        "tv": 284580
       },
       "tmdb_type": "tv",
-      "title": "Grand Blue Dreaming Season 3",
+      "title": "A Certain Dark Item",
       "sort": 21
     },
     {
       "tmdb_id": {
-        "tv": 250008
+        "tv": 313346
       },
       "tmdb_type": "tv",
-      "title": "Oh Boy, Was I Wrong About Her",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "sort": 22
     },
     {
       "tmdb_id": {
-        "tv": 223564
+        "tv": 295420
       },
       "tmdb_type": "tv",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "title": "The Vermilion Mask",
       "sort": 23
     },
     {
       "tmdb_id": {
-        "tv": 308874
+        "tv": 311842
       },
       "tmdb_type": "tv",
-      "title": "KAIJU GIRL CARAMELISE",
+      "title": "FX Fighter Kurumi-chan",
       "sort": 24
     },
     {
       "tmdb_id": {
-        "tv": 295071
+        "tv": 216467
       },
       "tmdb_type": "tv",
-      "title": "Goodbye, Lara",
+      "title": "Mission: Yozakura Family Season 2 Part 2",
       "sort": 25
-    },
-    {
-      "tmdb_id": {
-        "tv": 117120
-      },
-      "tmdb_type": "tv",
-      "title": "Young Ladies Don't Play Fighting Games",
-      "sort": 26
-    },
-    {
-      "tmdb_id": {
-        "tv": 300267
-      },
-      "tmdb_type": "tv",
-      "title": "The World's Strongest Rearguard",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
-        "tv": 222623
-      },
-      "tmdb_type": "tv",
-      "title": "The Elusive Samurai Season 2",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
-        "tv": 312266
-      },
-      "tmdb_type": "tv",
-      "title": "Hanaori-san Still Wants to Fight in the Next Life",
-      "sort": 29
-    },
-    {
-      "tmdb_id": {
-        "tv": 284581
-      },
-      "tmdb_type": "tv",
-      "title": "The Insipid Prince's Furtive Grab for the Throne",
-      "sort": 30
     }
   ]
 }

@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-09-30T14:44:13.527Z",
-  "total": 20,
+  "updated_at": "2026-10-01T01:53:48.891Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": 1541125,
@@ -38,18 +38,12 @@
       "tmdb_id": 1318864,
       "tmdb_type": "movie",
       "title": "我们的救赎",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1598785,
       "tmdb_type": "movie",
       "title": "银河特急 Milky✩Subway 各站停车前往剧场",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1242876,
-      "tmdb_type": "movie",
-      "title": "500英里",
       "sort": 5
     },
     {
@@ -65,39 +59,39 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1101383,
-      "tmdb_type": "movie",
-      "title": "逃出绝命街",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1137844,
       "tmdb_type": "movie",
       "title": "求救信号",
-      "sort": 9
+      "sort": 8
     },
     {
-      "tmdb_id": 1477712,
+      "tmdb_id": 1101383,
       "tmdb_type": "movie",
-      "title": "卖冰淇淋的人",
-      "sort": 10
+      "title": "逃出绝命街",
+      "sort": 9
     },
     {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
-      "sort": 11
+      "sort": 10
     },
     {
-      "tmdb_id": 1401459,
+      "tmdb_id": 1477712,
       "tmdb_type": "movie",
-      "title": "峡湾",
-      "sort": 12
+      "title": "卖冰淇淋的人",
+      "sort": 11
     },
     {
       "tmdb_id": 1257942,
       "tmdb_type": "movie",
       "title": "魔方小姐",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1401459,
+      "tmdb_type": "movie",
+      "title": "峡湾",
       "sort": 13
     },
     {
@@ -137,9 +131,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1602727,
+      "tmdb_id": 1671548,
       "tmdb_type": "movie",
-      "title": "夜王",
+      "title": "给阿嬷的情书",
       "sort": 20
     }
   ]
