@@ -27,13 +27,13 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-10-01T15:12:51.630Z",
-  "total": 20,
+  "updated_at": "2026-10-02T02:03:42.488Z",
+  "total": 19,
   "list": [
     {
-      "tmdb_id": 295778,
+      "tmdb_id": 299939,
       "tmdb_type": "tv",
-      "title": "实习医生风云",
+      "title": "怪物：丽兹·波顿的故事",
       "sort": 1
     },
     {
@@ -49,27 +49,27 @@
       "sort": 3
     },
     {
-      "tmdb_id": 299939,
+      "tmdb_id": 273207,
       "tmdb_type": "tv",
-      "title": "怪物：丽兹·波顿的故事",
+      "title": "内格利",
       "sort": 4
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 5
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 290720,
       "tmdb_type": "tv",
       "title": "最后一案",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 615,
+      "tmdb_type": "tv",
+      "title": "飞出个未来",
       "sort": 7
     },
     {
@@ -91,21 +91,21 @@
       "sort": 10
     },
     {
-      "tmdb_id": 273207,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "侠女内莉",
+      "title": "实习医生风云",
       "sort": 11
-    },
-    {
-      "tmdb_id": 310290,
-      "tmdb_type": "tv",
-      "title": "我悲伤的逝者们",
-      "sort": 12
     },
     {
       "tmdb_id": 196322,
       "tmdb_type": "tv",
       "title": "Dark Matter",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 310290,
+      "tmdb_type": "tv",
+      "title": "我悲伤的逝者们",
       "sort": 13
     },
     {
@@ -115,40 +115,34 @@
       "sort": 14
     },
     {
-      "tmdb_id": 308963,
-      "tmdb_type": "tv",
-      "title": "人身保护令",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 236235,
-      "tmdb_type": "tv",
-      "title": "绅士们",
-      "sort": 16
-    },
-    {
       "tmdb_id": 331979,
       "tmdb_type": "tv",
       "title": "死亡幻象",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 312557,
-      "tmdb_type": "tv",
-      "title": "密涅瓦学院",
-      "sort": 19
+      "sort": 15
     },
     {
       "tmdb_id": 304842,
       "tmdb_type": "tv",
       "title": "白粉飞：洛城新章",
-      "sort": 20
+      "sort": 16
+    },
+    {
+      "tmdb_id": 308963,
+      "tmdb_type": "tv",
+      "title": "人身保护令",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 79744,
+      "tmdb_type": "tv",
+      "title": "菜鸟老警",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 236235,
+      "tmdb_type": "tv",
+      "title": "绅士们",
+      "sort": 19
     }
   ]
 }
