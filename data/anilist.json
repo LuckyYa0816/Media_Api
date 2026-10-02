@@ -17,8 +17,8 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-02T02:03:36.190Z",
-  "total": 25,
+  "updated_at": "2026-10-02T14:32:53.577Z",
+  "total": 24,
   "list": [
     {
       "tmdb_id": {
@@ -158,10 +158,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 285899
+        "tv": 311842
       },
       "tmdb_type": "tv",
-      "title": "A Tale of the Secret Saint",
+      "title": "FX Fighter Kurumi-chan",
       "sort": 18
     },
     {
@@ -174,11 +174,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 285899
+      },
+      "tmdb_type": "tv",
+      "title": "A Tale of the Secret Saint",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
         "tv": 316891
       },
       "tmdb_type": "tv",
       "title": "The Cold Sato-san is Only Sweet to Me",
-      "sort": 20
+      "sort": 21
     },
     {
       "tmdb_id": {
@@ -186,7 +194,7 @@
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
-      "sort": 21
+      "sort": 22
     },
     {
       "tmdb_id": {
@@ -194,7 +202,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "sort": 22
+      "sort": 23
     },
     {
       "tmdb_id": {
@@ -202,23 +210,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Vermilion Mask",
-      "sort": 23
-    },
-    {
-      "tmdb_id": {
-        "tv": 311842
-      },
-      "tmdb_type": "tv",
-      "title": "FX Fighter Kurumi-chan",
       "sort": 24
-    },
-    {
-      "tmdb_id": {
-        "tv": 216467
-      },
-      "tmdb_type": "tv",
-      "title": "Mission: Yozakura Family Season 2 Part 2",
-      "sort": 25
     }
   ]
 }

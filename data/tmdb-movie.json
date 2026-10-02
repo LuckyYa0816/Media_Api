@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-02T02:03:44.826Z",
-  "total": 4,
+  "updated_at": "2026-10-02T14:33:01.179Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1492640,
@@ -38,16 +38,22 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1322562,
-      "tmdb_type": "movie",
-      "title": "物怪第 3 章：蛇神",
-      "sort": 3
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1307118,
+      "tmdb_type": "movie",
+      "title": "灵魂伴侣",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1322562,
+      "tmdb_type": "movie",
+      "title": "物怪第 3 章：蛇神",
+      "sort": 5
     }
   ]
 }
