@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-03T01:48:07.375Z",
-  "total": 19,
+  "updated_at": "2026-10-03T13:09:26.347Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 1439171,
@@ -33,6 +33,12 @@
       "tmdb_type": "movie",
       "title": "野兽之心",
       "sort": 2
+    },
+    {
+      "tmdb_id": 1548708,
+      "tmdb_type": "movie",
+      "title": "坂本日常 真人版",
+      "sort": 3
     },
     {
       "tmdb_id": 1240889,
