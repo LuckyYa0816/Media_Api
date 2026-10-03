@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-10-02T14:32:58.006Z",
+  "updated_at": "2026-10-03T01:47:44.596Z",
   "total": 12,
   "list": [
+    {
+      "tmdb_id": 258165,
+      "tmdb_type": "tv",
+      "title": "伊甸之东",
+      "sort": 1
+    },
     {
       "tmdb_id": 1413,
       "tmdb_type": "tv",
       "title": "美国恐怖故事",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
       "sort": 2
     },
     {
@@ -55,33 +55,33 @@
       "sort": 4
     },
     {
-      "tmdb_id": 295778,
+      "tmdb_id": 615,
       "tmdb_type": "tv",
-      "title": "实习医生风云",
+      "title": "飞出个未来",
       "sort": 5
     },
     {
-      "tmdb_id": 318918,
+      "tmdb_id": 290720,
       "tmdb_type": "tv",
-      "title": "乐高航海王",
+      "title": "最后一案",
       "sort": 6
     },
     {
-      "tmdb_id": 76479,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "黑袍纠察队",
+      "title": "辛普森一家",
       "sort": 7
     },
     {
-      "tmdb_id": 273207,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "内格利",
+      "title": "辛普森一家",
       "sort": 8
     },
     {
-      "tmdb_id": 232018,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "巴黎陷落",
+      "title": "实习医生风云",
       "sort": 9
     },
     {
@@ -91,15 +91,15 @@
       "sort": 10
     },
     {
-      "tmdb_id": 302074,
+      "tmdb_id": 203667,
       "tmdb_type": "tv",
-      "title": "劣探德克尔",
+      "title": "红女王",
       "sort": 11
     },
     {
-      "tmdb_id": 285147,
+      "tmdb_id": 236235,
       "tmdb_type": "tv",
-      "title": "寻女无归途",
+      "title": "绅士们",
       "sort": 12
     }
   ]

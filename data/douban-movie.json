@@ -19,31 +19,31 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-02T14:33:44.843Z",
+  "updated_at": "2026-10-03T01:48:07.375Z",
   "total": 19,
   "list": [
+    {
+      "tmdb_id": 1439171,
+      "tmdb_type": "movie",
+      "title": "神探之痕迹‎",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1263337,
+      "tmdb_type": "movie",
+      "title": "野兽之心",
+      "sort": 2
+    },
     {
       "tmdb_id": 1240889,
       "tmdb_type": "movie",
       "title": "瘴气营地的青春性事与死亡",
-      "sort": 1
+      "sort": 4
     },
     {
       "tmdb_id": 1541125,
       "tmdb_type": "movie",
       "title": "年会不能停！2",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1318864,
-      "tmdb_type": "movie",
-      "title": "我们的救赎",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1598785,
-      "tmdb_type": "movie",
-      "title": "银河特急 Milky✩Subway 各站停车前往剧场",
       "sort": 5
     },
     {
@@ -71,15 +71,15 @@
       "sort": 9
     },
     {
-      "tmdb_id": 1058424,
-      "tmdb_type": "movie",
-      "title": "希望",
-      "sort": 10
-    },
-    {
       "tmdb_id": 1257942,
       "tmdb_type": "movie",
       "title": "魔方小姐",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1058424,
+      "tmdb_type": "movie",
+      "title": "希望",
       "sort": 11
     },
     {
@@ -95,15 +95,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1353926,
-      "tmdb_type": "movie",
-      "title": "特立独行",
-      "sort": 14
-    },
-    {
       "tmdb_id": 1481955,
       "tmdb_type": "movie",
       "title": "阳光女子合唱团",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 1353926,
+      "tmdb_type": "movie",
+      "title": "特立独行",
       "sort": 15
     },
     {
