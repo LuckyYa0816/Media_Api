@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-04T02:27:42.988Z",
-  "total": 6,
+  "updated_at": "2026-10-04T13:48:22.568Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1492640,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1032863,
-      "tmdb_type": "movie",
-      "title": "爱情假说",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1458857,
       "tmdb_type": "movie",
       "title": "只要活下去",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1032863,
+      "tmdb_type": "movie",
+      "title": "爱情假说",
       "sort": 3
     },
     {
@@ -50,16 +50,28 @@
       "sort": 4
     },
     {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1322562,
       "tmdb_type": "movie",
       "title": "物怪第 3 章：蛇神",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1269325,
+      "tmdb_type": "movie",
+      "title": "误杀瞒天记3",
       "sort": 6
+    },
+    {
+      "tmdb_id": 687163,
+      "tmdb_type": "movie",
+      "title": "挽救计划",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1386315,
+      "tmdb_type": "movie",
+      "title": "生死时限",
+      "sort": 8
     }
   ]
 }
