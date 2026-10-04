@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-03T13:08:46.976Z",
+  "updated_at": "2026-10-04T02:27:36.035Z",
   "total": 24,
   "list": [
     {
@@ -182,19 +182,11 @@
     },
     {
       "tmdb_id": {
-        "tv": 285899
-      },
-      "tmdb_type": "tv",
-      "title": "A Tale of the Secret Saint",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
         "tv": 284580
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
-      "sort": 22
+      "sort": 21
     },
     {
       "tmdb_id": {
@@ -202,7 +194,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "sort": 23
+      "sort": 22
     },
     {
       "tmdb_id": {
@@ -210,6 +202,14 @@
       },
       "tmdb_type": "tv",
       "title": "The Vermilion Mask",
+      "sort": 23
+    },
+    {
+      "tmdb_id": {
+        "tv": 216467
+      },
+      "tmdb_type": "tv",
+      "title": "Mission: Yozakura Family Season 2 Part 2",
       "sort": 24
     }
   ]

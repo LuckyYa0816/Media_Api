@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-03T13:08:53.767Z",
+  "updated_at": "2026-10-04T02:27:42.988Z",
   "total": 6,
   "list": [
     {
@@ -44,9 +44,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1386315,
+      "tmdb_id": 1307118,
       "tmdb_type": "movie",
-      "title": "生死时限",
+      "title": "灵魂伴侣",
       "sort": 4
     },
     {
