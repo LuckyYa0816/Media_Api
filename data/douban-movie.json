@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-04T13:48:54.138Z",
+  "updated_at": "2026-10-05T01:45:05.754Z",
   "total": 20,
   "list": [
     {
@@ -35,33 +35,33 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1465063,
+      "tmdb_type": "movie",
+      "title": "忘却之岛",
+      "sort": 3
+    },
+    {
       "tmdb_id": 977942,
       "tmdb_type": "movie",
       "title": "起义",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1473148,
       "tmdb_type": "movie",
       "title": "温柔的怪物",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1492640,
-      "tmdb_type": "movie",
-      "title": "大学炸弹客",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1240889,
-      "tmdb_type": "movie",
-      "title": "瘴气营地的青春性事与死亡",
-      "sort": 6
     },
     {
       "tmdb_id": 1396674,
       "tmdb_type": "movie",
       "title": "一个部门的诞生",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1240889,
+      "tmdb_type": "movie",
+      "title": "瘴气营地的青春性事与死亡",
       "sort": 7
     },
     {
@@ -77,27 +77,27 @@
       "sort": 9
     },
     {
+      "tmdb_id": 1491920,
+      "tmdb_type": "movie",
+      "title": "功夫女足",
+      "sort": 10
+    },
+    {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
-      "sort": 10
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1248832,
+      "tmdb_type": "movie",
+      "title": "挖掘者",
+      "sort": 12
     },
     {
       "tmdb_id": 1137844,
       "tmdb_type": "movie",
       "title": "求救信号",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 1257942,
-      "tmdb_type": "movie",
-      "title": "魔方小姐",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 1058424,
-      "tmdb_type": "movie",
-      "title": "希望",
       "sort": 13
     },
     {
@@ -107,21 +107,21 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1401459,
+      "tmdb_id": 1257942,
       "tmdb_type": "movie",
-      "title": "峡湾",
+      "title": "魔方小姐",
       "sort": 15
     },
     {
-      "tmdb_id": 1477712,
+      "tmdb_id": 1283515,
       "tmdb_type": "movie",
-      "title": "卖冰淇淋的人",
+      "title": "不存在的罪人",
       "sort": 16
     },
     {
-      "tmdb_id": 1101383,
+      "tmdb_id": 1058424,
       "tmdb_type": "movie",
-      "title": "逃出绝命街",
+      "title": "希望",
       "sort": 17
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1248832,
+      "tmdb_id": 1401459,
       "tmdb_type": "movie",
-      "title": "挖掘者",
+      "title": "峡湾",
       "sort": 19
     },
     {
-      "tmdb_id": 1283515,
+      "tmdb_id": 1477712,
       "tmdb_type": "movie",
-      "title": "不存在的罪人",
+      "title": "卖冰淇淋的人",
       "sort": 20
     }
   ]

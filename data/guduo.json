@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-10-04T13:48:54.335Z",
+  "updated_at": "2026-10-05T01:45:06.048Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -48,9 +48,9 @@
           "sort": 4
         },
         {
-          "tmdb_id": 336023,
+          "tmdb_id": 299952,
           "tmdb_type": "tv",
-          "title": "法医秦明之天谴者",
+          "title": "早春晴朗",
           "sort": 5
         },
         {
@@ -60,15 +60,15 @@
           "sort": 6
         },
         {
-          "tmdb_id": 335024,
+          "tmdb_id": 336023,
           "tmdb_type": "tv",
-          "title": "黑岛监狱",
+          "title": "法医秦明之天谴者",
           "sort": 7
         },
         {
-          "tmdb_id": 299952,
+          "tmdb_id": 335024,
           "tmdb_type": "tv",
-          "title": "早春晴朗",
+          "title": "黑岛监狱",
           "sort": 8
         },
         {
@@ -268,27 +268,27 @@
       "total": 19,
       "list": [
         {
-          "tmdb_id": 103147,
-          "tmdb_type": "tv",
-          "title": "心动的信号",
-          "sort": 1
-        },
-        {
           "tmdb_id": 131040,
           "tmdb_type": "tv",
           "title": "披荆斩棘",
-          "sort": 2
+          "sort": 1
         },
         {
-          "tmdb_id": 89861,
+          "tmdb_id": 103147,
           "tmdb_type": "tv",
-          "title": "密室大逃脱",
-          "sort": 3
+          "title": "心动的信号",
+          "sort": 2
         },
         {
           "tmdb_id": 331649,
           "tmdb_type": "tv",
           "title": "大哥小助理",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 89861,
+          "tmdb_type": "tv",
+          "title": "密室大逃脱",
           "sort": 4
         },
         {
@@ -310,15 +310,15 @@
           "sort": 7
         },
         {
-          "tmdb_id": 330926,
-          "tmdb_type": "tv",
-          "title": "一路向海的少年",
-          "sort": 8
-        },
-        {
           "tmdb_id": 331306,
           "tmdb_type": "tv",
           "title": "毛雪汪26秋番",
+          "sort": 8
+        },
+        {
+          "tmdb_id": 330926,
+          "tmdb_type": "tv",
+          "title": "一路向海的少年",
           "sort": 9
         },
         {
