@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-06T02:45:41.881Z",
+  "updated_at": "2026-10-06T14:51:55.417Z",
   "total": 23,
   "list": [
     {
@@ -78,26 +78,26 @@
     },
     {
       "tmdb_id": {
-        "tv": 117061
-      },
-      "tmdb_type": "tv",
-      "title": "The Detective Is Already Dead Season 2",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
         "tv": 237150
       },
       "tmdb_type": "tv",
       "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 117061
+      },
+      "tmdb_type": "tv",
+      "title": "The Detective Is Already Dead Season 2",
       "sort": 9
     },
     {
       "tmdb_id": {
-        "tv": 259140
+        "tv": 336554
       },
       "tmdb_type": "tv",
-      "title": "Ranma1/2 (2024) Season 3",
+      "title": "I'm Dating a Dark Summoner",
       "sort": 10
     },
     {
@@ -110,51 +110,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 336554
-      },
-      "tmdb_type": "tv",
-      "title": "I'm Dating a Dark Summoner",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
-        "tv": 311842
-      },
-      "tmdb_type": "tv",
-      "title": "FX Fighter Kurumi-chan",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-      "sort": 14
+      "sort": 12
     },
     {
       "tmdb_id": {
-        "tv": 200777
+        "tv": 259140
       },
       "tmdb_type": "tv",
-      "title": "The Iceblade Sorcerer Shall Rule the World II",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
-        "tv": 206630
-      },
-      "tmdb_type": "tv",
-      "title": "Sasaki and Peeps Season 2",
-      "sort": 17
+      "title": "Ranma1/2 (2024) Season 3",
+      "sort": 13
     },
     {
       "tmdb_id": {
@@ -162,6 +130,38 @@
       },
       "tmdb_type": "tv",
       "title": "PSYREN",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 311842
+      },
+      "tmdb_type": "tv",
+      "title": "FX Fighter Kurumi-chan",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 200777
+      },
+      "tmdb_type": "tv",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
+      "sort": 17
+    },
+    {
+      "tmdb_id": {
+        "tv": 206630
+      },
+      "tmdb_type": "tv",
+      "title": "Sasaki and Peeps Season 2",
       "sort": 18
     },
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 301139
+        "tv": 303060
       },
       "tmdb_type": "tv",
-      "title": "#I'm Looking For a Zombie",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
       "sort": 22
     },
     {
       "tmdb_id": {
-        "tv": 313346
+        "tv": 301139
       },
       "tmdb_type": "tv",
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "title": "#I'm Looking For a Zombie",
       "sort": 23
     }
   ]

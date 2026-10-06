@@ -22,56 +22,38 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-06T02:45:48.900Z",
-  "total": 8,
+  "updated_at": "2026-10-06T14:52:03.177Z",
+  "total": 5,
   "list": [
-    {
-      "tmdb_id": 1492640,
-      "tmdb_type": "movie",
-      "title": "大学炸弹客",
-      "sort": 1
-    },
-    {
-      "tmdb_id": 1032863,
-      "tmdb_type": "movie",
-      "title": "爱情假说",
-      "sort": 2
-    },
     {
       "tmdb_id": 1458857,
       "tmdb_type": "movie",
       "title": "只要活下去",
-      "sort": 3
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1492640,
+      "tmdb_type": "movie",
+      "title": "大学炸弹客",
+      "sort": 2
     },
     {
       "tmdb_id": 1307118,
       "tmdb_type": "movie",
       "title": "灵魂伴侣",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1269325,
-      "tmdb_type": "movie",
-      "title": "误杀瞒天记3",
-      "sort": 6
+      "sort": 4
     },
     {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1322562,
-      "tmdb_type": "movie",
-      "title": "物怪第 3 章：蛇神",
-      "sort": 8
+      "sort": 5
     }
   ]
 }
