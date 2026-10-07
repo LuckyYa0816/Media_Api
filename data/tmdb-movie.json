@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-06T14:52:03.177Z",
+  "updated_at": "2026-10-07T02:10:18.811Z",
   "total": 5,
   "list": [
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1322562,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "物怪第 3 章：蛇神",
       "sort": 5
     }
   ]
