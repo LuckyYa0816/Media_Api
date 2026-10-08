@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-08T02:36:01.834Z",
+  "updated_at": "2026-10-08T15:21:02.167Z",
   "total": 6,
   "list": [
     {
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1492640,
-      "tmdb_type": "movie",
-      "title": "大学炸弹客",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1307118,
       "tmdb_type": "movie",
       "title": "灵魂伴侣",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1492640,
+      "tmdb_type": "movie",
+      "title": "大学炸弹客",
       "sort": 3
     },
     {
@@ -56,9 +56,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1322562,
+      "tmdb_id": 1317872,
       "tmdb_type": "movie",
-      "title": "物怪第 3 章：蛇神",
+      "title": "指挥官 2",
       "sort": 6
     }
   ]

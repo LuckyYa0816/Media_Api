@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-08T02:35:55.268Z",
+  "updated_at": "2026-10-08T15:20:54.370Z",
   "total": 26,
   "list": [
     {
@@ -70,27 +70,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 320909
-      },
-      "tmdb_type": "tv",
-      "title": "Firefly Wedding",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
         "tv": 230050
       },
       "tmdb_type": "tv",
       "title": "A Returner's Magic Should be Special Season 2",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": {
-        "tv": 237150
+        "tv": 320909
       },
       "tmdb_type": "tv",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "sort": 9
+      "title": "Firefly Wedding",
+      "sort": 8
     },
     {
       "tmdb_id": {
@@ -98,47 +90,15 @@
       },
       "tmdb_type": "tv",
       "title": "The Detective Is Already Dead Season 2",
+      "sort": 9
+    },
+    {
+      "tmdb_id": {
+        "tv": 237150
+      },
+      "tmdb_type": "tv",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "sort": 10
-    },
-    {
-      "tmdb_id": {
-        "tv": 335790
-      },
-      "tmdb_type": "tv",
-      "title": "I'm Dating a Dark Summoner",
-      "sort": 11
-    },
-    {
-      "tmdb_id": {
-        "tv": 313068
-      },
-      "tmdb_type": "tv",
-      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
-        "tv": 283692
-      },
-      "tmdb_type": "tv",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
-        "tv": 297903
-      },
-      "tmdb_type": "tv",
-      "title": "PSYREN",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
-        "tv": 259140
-      },
-      "tmdb_type": "tv",
-      "title": "Ranma1/2 (2024) Season 3",
-      "sort": 15
     },
     {
       "tmdb_id": {
@@ -146,7 +106,39 @@
       },
       "tmdb_type": "tv",
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "sort": 16
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 335790
+      },
+      "tmdb_type": "tv",
+      "title": "I'm Dating a Dark Summoner",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 313068
+      },
+      "tmdb_type": "tv",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 283692
+      },
+      "tmdb_type": "tv",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 297903
+      },
+      "tmdb_type": "tv",
+      "title": "PSYREN",
+      "sort": 15
     },
     {
       "tmdb_id": {
@@ -154,23 +146,15 @@
       },
       "tmdb_type": "tv",
       "title": "Nia Liston: The Merciless Maiden",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
+        "tv": 259140
+      },
+      "tmdb_type": "tv",
+      "title": "Ranma1/2 (2024) Season 3",
       "sort": 17
-    },
-    {
-      "tmdb_id": {
-        "tv": 333622
-      },
-      "tmdb_type": "tv",
-      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
-        "tv": 311842
-      },
-      "tmdb_type": "tv",
-      "title": "FX Fighter Kurumi-chan",
-      "sort": 19
     },
     {
       "tmdb_id": {
@@ -178,23 +162,23 @@
       },
       "tmdb_type": "tv",
       "title": "The Cold Sato-san is Only Sweet to Me",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 333622
+      },
+      "tmdb_type": "tv",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 311842
+      },
+      "tmdb_type": "tv",
+      "title": "FX Fighter Kurumi-chan",
       "sort": 20
-    },
-    {
-      "tmdb_id": {
-        "tv": 200777
-      },
-      "tmdb_type": "tv",
-      "title": "The Iceblade Sorcerer Shall Rule the World II",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 22
     },
     {
       "tmdb_id": {
@@ -202,6 +186,22 @@
       },
       "tmdb_type": "tv",
       "title": "Sasaki and Peeps Season 2",
+      "sort": 21
+    },
+    {
+      "tmdb_id": {
+        "tv": 200777
+      },
+      "tmdb_type": "tv",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 23
     },
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 303060
+        "tv": 321518
       },
       "tmdb_type": "tv",
-      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "title": "The World's Strongest Witch",
       "sort": 25
     },
     {
       "tmdb_id": {
-        "tv": 284580
+        "tv": 303060
       },
       "tmdb_type": "tv",
-      "title": "A Certain Dark Item",
+      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
       "sort": 26
     }
   ]
