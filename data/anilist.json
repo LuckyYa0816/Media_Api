@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-09T02:50:33.879Z",
+  "updated_at": "2026-10-09T15:04:00.170Z",
   "total": 26,
   "list": [
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 297903
-      },
-      "tmdb_type": "tv",
-      "title": "PSYREN",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 312850
       },
       "tmdb_type": "tv",
       "title": "Nia Liston: The Merciless Maiden",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 297903
+      },
+      "tmdb_type": "tv",
+      "title": "PSYREN",
       "sort": 16
     },
     {
@@ -174,11 +174,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 200777
+      },
+      "tmdb_type": "tv",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
         "tv": 311842
       },
       "tmdb_type": "tv",
       "title": "FX Fighter Kurumi-chan",
-      "sort": 20
+      "sort": 21
     },
     {
       "tmdb_id": {
@@ -186,14 +194,6 @@
       },
       "tmdb_type": "tv",
       "title": "Sasaki and Peeps Season 2",
-      "sort": 21
-    },
-    {
-      "tmdb_id": {
-        "tv": 200777
-      },
-      "tmdb_type": "tv",
-      "title": "The Iceblade Sorcerer Shall Rule the World II",
       "sort": 22
     },
     {
@@ -206,18 +206,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 336654
-      },
-      "tmdb_type": "tv",
-      "title": "My Girlfriend's Friend",
-      "sort": 24
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 24
+    },
+    {
+      "tmdb_id": {
+        "tv": 336654
+      },
+      "tmdb_type": "tv",
+      "title": "My Girlfriend's Friend",
       "sort": 25
     },
     {

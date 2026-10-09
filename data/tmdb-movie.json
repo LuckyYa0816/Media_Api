@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-09T02:50:40.353Z",
-  "total": 6,
+  "updated_at": "2026-10-09T15:04:07.725Z",
+  "total": 5,
   "list": [
-    {
-      "tmdb_id": 1458857,
-      "tmdb_type": "movie",
-      "title": "只要活下去",
-      "sort": 1
-    },
     {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1307118,
+      "tmdb_type": "movie",
+      "title": "灵魂伴侣",
       "sort": 2
     },
     {
@@ -44,22 +44,16 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
-      "sort": 6
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1763619,
+      "tmdb_type": "movie",
+      "title": "疯狂穷富翁",
+      "sort": 5
     }
   ]
 }
