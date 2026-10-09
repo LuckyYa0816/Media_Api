@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-08T15:21:02.167Z",
+  "updated_at": "2026-10-09T02:50:40.353Z",
   "total": 6,
   "list": [
     {
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1307118,
+      "tmdb_id": 1084244,
       "tmdb_type": "movie",
-      "title": "灵魂伴侣",
+      "title": "玩具总动员5",
       "sort": 2
     },
     {
@@ -44,9 +44,9 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1032863,
+      "tmdb_id": 1084244,
       "tmdb_type": "movie",
-      "title": "爱情假说",
+      "title": "玩具总动员5",
       "sort": 4
     },
     {
@@ -56,9 +56,9 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1317872,
+      "tmdb_id": 1032863,
       "tmdb_type": "movie",
-      "title": "指挥官 2",
+      "title": "爱情假说",
       "sort": 6
     }
   ]

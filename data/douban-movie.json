@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-08T15:21:32.459Z",
+  "updated_at": "2026-10-09T02:51:30.911Z",
   "total": 19,
   "list": [
     {
@@ -47,15 +47,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 104819,
+      "tmdb_id": 1291595,
       "tmdb_type": "movie",
-      "title": "罗斯",
+      "title": "潜伏6",
       "sort": 6
     },
     {
-      "tmdb_id": 1240889,
+      "tmdb_id": 104819,
       "tmdb_type": "movie",
-      "title": "瘴气营地的青春性事与死亡",
+      "title": "罗斯",
       "sort": 7
     },
     {
@@ -65,9 +65,9 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1291595,
+      "tmdb_id": 1240889,
       "tmdb_type": "movie",
-      "title": "潜伏6",
+      "title": "瘴气营地的青春性事与死亡",
       "sort": 9
     },
     {
@@ -113,9 +113,9 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1477712,
+      "tmdb_id": 1305672,
       "tmdb_type": "movie",
-      "title": "卖冰淇淋的人",
+      "title": "抓特务",
       "sort": 17
     },
     {
@@ -125,9 +125,9 @@
       "sort": 18
     },
     {
-      "tmdb_id": 1305672,
+      "tmdb_id": 1477712,
       "tmdb_type": "movie",
-      "title": "抓特务",
+      "title": "卖冰淇淋的人",
       "sort": 19
     },
     {
