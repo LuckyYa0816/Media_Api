@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-10-10T02:10:48.334Z",
+  "updated_at": "2026-10-10T14:19:33.536Z",
   "total": 28,
   "list": [
     {
@@ -199,18 +199,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 69203
-      },
-      "tmdb_type": "tv",
-      "title": "Aishen Qiaokeli-ING...",
-      "sort": 23
-    },
-    {
-      "tmdb_id": {
         "tv": 262453
       },
       "tmdb_type": "tv",
       "title": "The Fated Magical Princess: Who Made Me a Princess",
+      "sort": 23
+    },
+    {
+      "tmdb_id": {
+        "tv": 69203
+      },
+      "tmdb_type": "tv",
+      "title": "Aishen Qiaokeli-ING...",
       "sort": 24
     },
     {

@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-10-10T02:10:50.930Z",
+  "updated_at": "2026-10-10T14:19:36.597Z",
   "total": 17,
   "list": [
     {
@@ -37,99 +37,99 @@
       "sort": 1
     },
     {
+      "tmdb_id": 285322,
+      "tmdb_type": "tv",
+      "title": "暗潮之下",
+      "sort": 2
+    },
+    {
       "tmdb_id": 258165,
       "tmdb_type": "tv",
-      "title": "伊甸园之东",
-      "sort": 2
+      "title": "伊甸之东",
+      "sort": 3
     },
     {
       "tmdb_id": 298505,
       "tmdb_type": "tv",
       "title": "乌鸦学园",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 285322,
-      "tmdb_type": "tv",
-      "title": "暗潮之下",
       "sort": 4
-    },
-    {
-      "tmdb_id": 203667,
-      "tmdb_type": "tv",
-      "title": "红女王",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1434,
-      "tmdb_type": "tv",
-      "title": "恶搞之家",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 299939,
-      "tmdb_type": "tv",
-      "title": "怪物：丽兹·波顿的故事",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 10
     },
     {
       "tmdb_id": 387,
       "tmdb_type": "tv",
       "title": "海绵宝宝",
-      "sort": 11
+      "sort": 5
     },
     {
       "tmdb_id": 108978,
       "tmdb_type": "tv",
       "title": "侠探杰克",
-      "sort": 12
+      "sort": 6
     },
     {
       "tmdb_id": 335227,
       "tmdb_type": "tv",
       "title": "我宁愿死",
-      "sort": 13
+      "sort": 7
     },
     {
-      "tmdb_id": 615,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 14
+      "title": "实习医生风云",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1434,
+      "tmdb_type": "tv",
+      "title": "恶搞之家",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 299939,
+      "tmdb_type": "tv",
+      "title": "怪物：丽兹·波顿的故事",
+      "sort": 10
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 15
+      "sort": 11
     },
     {
-      "tmdb_id": 4614,
+      "tmdb_id": 615,
       "tmdb_type": "tv",
-      "title": "海军罪案调查处",
-      "sort": 16
+      "title": "飞出个未来",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 318918,
+      "tmdb_type": "tv",
+      "title": "乐高航海王",
+      "sort": 13
     },
     {
       "tmdb_id": 211288,
       "tmdb_type": "tv",
       "title": "寻踪者",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 203667,
+      "tmdb_type": "tv",
+      "title": "红女王",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 232018,
+      "tmdb_type": "tv",
+      "title": "巴黎陷落",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 255752,
+      "tmdb_type": "tv",
+      "title": "酒店有鬼",
       "sort": 17
     }
   ]

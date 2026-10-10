@@ -22,32 +22,44 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-10T02:10:53.414Z",
-  "total": 4,
+  "updated_at": "2026-10-10T14:19:39.281Z",
+  "total": 6,
   "list": [
+    {
+      "tmdb_id": 1236045,
+      "tmdb_type": "movie",
+      "title": "人性本兽",
+      "sort": 1
+    },
     {
       "tmdb_id": 1458857,
       "tmdb_type": "movie",
       "title": "只要活下去",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1307118,
       "tmdb_type": "movie",
       "title": "灵魂伴侣",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
-      "sort": 3
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1492640,
+      "tmdb_type": "movie",
+      "title": "大学炸弹客",
+      "sort": 5
     },
     {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
-      "sort": 4
+      "sort": 6
     }
   ]
 }

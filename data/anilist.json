@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-10T02:10:46.374Z",
+  "updated_at": "2026-10-10T14:19:31.737Z",
   "total": 26,
   "list": [
     {
@@ -54,27 +54,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 283428
-      },
-      "tmdb_type": "tv",
-      "title": "The Ramparts of Ice Season 2",
-      "sort": 5
-    },
-    {
-      "tmdb_id": {
         "tv": 283938
       },
       "tmdb_type": "tv",
       "title": "Even the Student Council Has Its Holes!",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": {
-        "tv": 230050
+        "tv": 283428
       },
       "tmdb_type": "tv",
-      "title": "A Returner's Magic Should be Special Season 2",
-      "sort": 7
+      "title": "The Ramparts of Ice Season 2",
+      "sort": 6
     },
     {
       "tmdb_id": {
@@ -82,6 +74,14 @@
       },
       "tmdb_type": "tv",
       "title": "Firefly Wedding",
+      "sort": 7
+    },
+    {
+      "tmdb_id": {
+        "tv": 230050
+      },
+      "tmdb_type": "tv",
+      "title": "A Returner's Magic Should be Special Season 2",
       "sort": 8
     },
     {
@@ -94,18 +94,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 237150
-      },
-      "tmdb_type": "tv",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "sort": 10
-    },
-    {
-      "tmdb_id": {
         "tv": 313346
       },
       "tmdb_type": "tv",
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
+        "tv": 237150
+      },
+      "tmdb_type": "tv",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "sort": 11
     },
     {
@@ -150,10 +150,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 259140
+        "tv": 200777
       },
       "tmdb_type": "tv",
-      "title": "Ranma1/2 (2024) Season 3",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
       "sort": 17
     },
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 333622
+        "tv": 259140
       },
       "tmdb_type": "tv",
-      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "title": "Ranma1/2 (2024) Season 3",
       "sort": 19
     },
     {
       "tmdb_id": {
-        "tv": 200777
+        "tv": 333622
       },
       "tmdb_type": "tv",
-      "title": "The Iceblade Sorcerer Shall Rule the World II",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "sort": 20
     },
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 336654
+        "tv": 284580
       },
       "tmdb_type": "tv",
-      "title": "My Girlfriend's Friend",
+      "title": "A Certain Dark Item",
       "sort": 25
     },
     {
       "tmdb_id": {
-        "tv": 303060
+        "tv": 336654
       },
       "tmdb_type": "tv",
-      "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+      "title": "My Girlfriend's Friend",
       "sort": 26
     }
   ]
