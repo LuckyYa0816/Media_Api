@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-09T15:04:07.725Z",
-  "total": 5,
+  "updated_at": "2026-10-10T02:10:53.414Z",
+  "total": 4,
   "list": [
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1458857,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "只要活下去",
       "sort": 1
     },
     {
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1492640,
+      "tmdb_id": 1084244,
       "tmdb_type": "movie",
-      "title": "大学炸弹客",
+      "title": "玩具总动员5",
       "sort": 3
     },
     {
@@ -48,12 +48,6 @@
       "tmdb_type": "movie",
       "title": "爱情假说",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1763619,
-      "tmdb_type": "movie",
-      "title": "疯狂穷富翁",
-      "sort": 5
     }
   ]
 }

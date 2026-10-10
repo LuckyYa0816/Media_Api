@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-09T15:04:22.008Z",
+  "updated_at": "2026-10-10T02:11:06.611Z",
   "total": 20,
   "list": [
     {
@@ -65,33 +65,33 @@
       "sort": 7
     },
     {
-      "tmdb_id": 299952,
-      "tmdb_type": "tv",
-      "title": "早春晴朗",
-      "sort": 8
-    },
-    {
       "tmdb_id": 290863,
       "tmdb_type": "tv",
       "title": "冬城猎凶",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 301489,
-      "tmdb_type": "tv",
-      "title": "深渊无间",
-      "sort": 10
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "花儿与少年 第八季",
-      "sort": 11
+      "sort": 8
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "生命奇观2",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 299952,
+      "tmdb_type": "tv",
+      "title": "早春晴朗",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 301489,
+      "tmdb_type": "tv",
+      "title": "深渊无间",
+      "sort": 11
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "花儿与少年 第八季",
       "sort": 12
     },
     {
@@ -101,15 +101,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 272432,
-      "tmdb_type": "tv",
-      "title": "低智商犯罪",
-      "sort": 14
-    },
-    {
       "tmdb_id": 273114,
       "tmdb_type": "tv",
       "title": "悬案",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 272432,
+      "tmdb_type": "tv",
+      "title": "低智商犯罪",
       "sort": 15
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 225008,
+      "tmdb_id": 250295,
       "tmdb_type": "tv",
-      "title": "漫长的季节",
+      "title": "生命奇观",
       "sort": 20
     }
   ]
