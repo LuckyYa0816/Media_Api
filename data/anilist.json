@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-11T01:40:10.029Z",
+  "updated_at": "2026-10-11T14:44:39.694Z",
   "total": 26,
   "list": [
     {
@@ -86,18 +86,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117061
-      },
-      "tmdb_type": "tv",
-      "title": "The Detective Is Already Dead Season 2",
-      "sort": 9
-    },
-    {
-      "tmdb_id": {
         "tv": 313346
       },
       "tmdb_type": "tv",
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "sort": 9
+    },
+    {
+      "tmdb_id": {
+        "tv": 117061
+      },
+      "tmdb_type": "tv",
+      "title": "The Detective Is Already Dead Season 2",
       "sort": 10
     },
     {
@@ -158,11 +158,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 333622
+      },
+      "tmdb_type": "tv",
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
         "tv": 316891
       },
       "tmdb_type": "tv",
       "title": "The Cold Sato-san is Only Sweet to Me",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": {
@@ -170,14 +178,6 @@
       },
       "tmdb_type": "tv",
       "title": "Ranma1/2 (2024) Season 3",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
-        "tv": 333622
-      },
-      "tmdb_type": "tv",
-      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
       "sort": 20
     },
     {
@@ -198,18 +198,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 23
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 23
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 24
     },
     {
