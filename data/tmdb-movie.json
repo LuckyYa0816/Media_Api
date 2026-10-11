@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-10T14:19:39.281Z",
+  "updated_at": "2026-10-11T01:40:16.803Z",
   "total": 6,
   "list": [
     {
@@ -32,21 +32,21 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1458857,
-      "tmdb_type": "movie",
-      "title": "只要活下去",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1307118,
       "tmdb_type": "movie",
       "title": "灵魂伴侣",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1307118,
+      "tmdb_type": "movie",
+      "title": "灵魂伴侣",
       "sort": 4
     },
     {
