@@ -17,8 +17,8 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-12T02:10:03.183Z",
-  "total": 26,
+  "updated_at": "2026-10-12T17:30:50.051Z",
+  "total": 27,
   "list": [
     {
       "tmdb_id": {
@@ -46,18 +46,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 105009
-      },
-      "tmdb_type": "tv",
-      "title": "Tokyo Revengers: War of the Three Titans Arc",
-      "sort": 4
-    },
-    {
-      "tmdb_id": {
         "tv": 283938
       },
       "tmdb_type": "tv",
       "title": "Even the Student Council Has Its Holes!",
+      "sort": 4
+    },
+    {
+      "tmdb_id": {
+        "tv": 105009
+      },
+      "tmdb_type": "tv",
+      "title": "Tokyo Revengers: War of the Three Titans Arc",
       "sort": 5
     },
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 313068
-      },
-      "tmdb_type": "tv",
-      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 283692
       },
       "tmdb_type": "tv",
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 313068
+      },
+      "tmdb_type": "tv",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
       "sort": 14
     },
     {
@@ -150,18 +150,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 200777
-      },
-      "tmdb_type": "tv",
-      "title": "The Iceblade Sorcerer Shall Rule the World II",
-      "sort": 17
-    },
-    {
-      "tmdb_id": {
         "tv": 333622
       },
       "tmdb_type": "tv",
       "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "sort": 17
+    },
+    {
+      "tmdb_id": {
+        "tv": 200777
+      },
+      "tmdb_type": "tv",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
       "sort": 18
     },
     {
@@ -222,11 +222,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 295420
+      },
+      "tmdb_type": "tv",
+      "title": "The Vermilion Mask",
+      "sort": 26
+    },
+    {
+      "tmdb_id": {
         "tv": 336654
       },
       "tmdb_type": "tv",
       "title": "My Girlfriend's Friend",
-      "sort": 26
+      "sort": 27
     }
   ]
 }
