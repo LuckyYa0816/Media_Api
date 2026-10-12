@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-11T14:45:10.403Z",
+  "updated_at": "2026-10-12T02:10:21.471Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": 282326,
-      "tmdb_type": "tv",
-      "title": "兰香如故",
-      "sort": 1
-    },
     {
       "tmdb_id": 301494,
       "tmdb_type": "tv",
       "title": "余红旧事",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 282326,
+      "tmdb_type": "tv",
+      "title": "兰香如故",
       "sort": 2
     },
     {
@@ -53,45 +53,45 @@
       "sort": 5
     },
     {
-      "tmdb_id": 297253,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "伟大的长征",
+      "title": "现在就出发 第四季",
       "sort": 6
-    },
-    {
-      "tmdb_id": 261391,
-      "tmdb_type": "tv",
-      "title": "喜剧之王",
-      "sort": 7
     },
     {
       "tmdb_id": 297982,
       "tmdb_type": "tv",
       "title": "无可替代",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 297253,
+      "tmdb_type": "tv",
+      "title": "伟大的长征",
       "sort": 8
+    },
+    {
+      "tmdb_id": 261391,
+      "tmdb_type": "tv",
+      "title": "喜剧之王",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 289080,
+      "tmdb_type": "tv",
+      "title": "蒸蒸日上",
+      "sort": 10
     },
     {
       "tmdb_id": 294486,
       "tmdb_type": "tv",
       "title": "交锋",
-      "sort": 9
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "现在就出发 第四季",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 296203,
       "tmdb_type": "tv",
       "title": "此处通往繁星",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 299952,
-      "tmdb_type": "tv",
-      "title": "早春晴朗",
       "sort": 12
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
+      "tmdb_id": 299952,
+      "tmdb_type": "tv",
+      "title": "早春晴朗",
+      "sort": 15
+    },
+    {
       "tmdb_id": 301489,
       "tmdb_type": "tv",
       "title": "深渊无间",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "花儿与少年 第八季",
-      "sort": 16
+      "sort": 17
     },
     {
-      "tmdb_id": 294990,
+      "tmdb_id": 2171,
       "tmdb_type": "tv",
-      "title": "一瓯春",
-      "sort": 17
+      "title": "悬案",
+      "sort": 18
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 287496,
-      "tmdb_type": "tv",
-      "title": "花开锦绣",
       "sort": 19
     },
     {
-      "tmdb_id": 68034,
+      "tmdb_id": 294990,
       "tmdb_type": "tv",
-      "title": "大明王朝1566",
+      "title": "一瓯春",
       "sort": 20
     }
   ]
