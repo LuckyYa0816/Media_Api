@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-13T03:24:39.031Z",
+  "updated_at": "2026-10-13T15:40:24.107Z",
   "total": 27,
   "list": [
     {
@@ -54,11 +54,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 320909
+      },
+      "tmdb_type": "tv",
+      "title": "Firefly Wedding",
+      "sort": 5
+    },
+    {
+      "tmdb_id": {
         "tv": 105009
       },
       "tmdb_type": "tv",
       "title": "Tokyo Revengers: War of the Three Titans Arc",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": {
@@ -66,14 +74,6 @@
       },
       "tmdb_type": "tv",
       "title": "The Ramparts of Ice Season 2",
-      "sort": 6
-    },
-    {
-      "tmdb_id": {
-        "tv": 320909
-      },
-      "tmdb_type": "tv",
-      "title": "Firefly Wedding",
       "sort": 7
     },
     {
@@ -94,18 +94,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117061
-      },
-      "tmdb_type": "tv",
-      "title": "The Detective Is Already Dead Season 2",
-      "sort": 10
-    },
-    {
-      "tmdb_id": {
         "tv": 237150
       },
       "tmdb_type": "tv",
       "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
+        "tv": 117061
+      },
+      "tmdb_type": "tv",
+      "title": "The Detective Is Already Dead Season 2",
       "sort": 11
     },
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283692
-      },
-      "tmdb_type": "tv",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 283692
+      },
+      "tmdb_type": "tv",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "sort": 14
     },
     {
@@ -206,18 +206,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 24
-    },
-    {
-      "tmdb_id": {
         "tv": 284580
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
+      "sort": 24
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 25
     },
     {
