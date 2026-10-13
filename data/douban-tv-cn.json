@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-12T17:31:10.434Z",
+  "updated_at": "2026-10-13T03:25:07.479Z",
   "total": 20,
   "list": [
     {
@@ -47,21 +47,21 @@
       "sort": 4
     },
     {
-      "tmdb_id": 290699,
-      "tmdb_type": "tv",
-      "title": "魅影神捕",
-      "sort": 5
-    },
-    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "现在就出发 第四季",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 290699,
+      "tmdb_type": "tv",
+      "title": "魅影神捕",
       "sort": 6
     },
     {
-      "tmdb_id": 297982,
+      "tmdb_id": 289080,
       "tmdb_type": "tv",
-      "title": "无可替代",
+      "title": "蒸蒸日上",
       "sort": 7
     },
     {
@@ -77,27 +77,27 @@
       "sort": 9
     },
     {
-      "tmdb_id": 289080,
+      "tmdb_id": 304452,
       "tmdb_type": "tv",
-      "title": "蒸蒸日上",
+      "title": "玉簟秋",
       "sort": 10
+    },
+    {
+      "tmdb_id": 297982,
+      "tmdb_type": "tv",
+      "title": "无可替代",
+      "sort": 11
     },
     {
       "tmdb_id": 294486,
       "tmdb_type": "tv",
       "title": "交锋",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 296203,
       "tmdb_type": "tv",
       "title": "此处通往繁星",
-      "sort": 12
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "生命奇观2",
       "sort": 13
     },
     {
@@ -107,39 +107,39 @@
       "sort": 14
     },
     {
-      "tmdb_id": 299952,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "早春晴朗",
+      "title": "花儿与少年 第八季",
       "sort": 15
     },
     {
-      "tmdb_id": 301489,
+      "tmdb_id": 299952,
       "tmdb_type": "tv",
-      "title": "深渊无间",
+      "title": "早春晴朗",
       "sort": 16
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "花儿与少年 第八季",
+      "title": "生命奇观2",
       "sort": 17
+    },
+    {
+      "tmdb_id": 301489,
+      "tmdb_type": "tv",
+      "title": "深渊无间",
+      "sort": 18
     },
     {
       "tmdb_id": 2171,
       "tmdb_type": "tv",
       "title": "悬案",
-      "sort": 18
+      "sort": 19
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 294990,
-      "tmdb_type": "tv",
-      "title": "一瓯春",
       "sort": 20
     }
   ]

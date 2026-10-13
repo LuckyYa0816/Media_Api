@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-12T17:30:56.926Z",
+  "updated_at": "2026-10-13T03:24:46.141Z",
   "total": 6,
   "list": [
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1492640,
-      "tmdb_type": "movie",
-      "title": "大学炸弹客",
-      "sort": 5
-    },
-    {
       "tmdb_id": 687163,
       "tmdb_type": "movie",
       "title": "挽救计划",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1492640,
+      "tmdb_type": "movie",
+      "title": "大学炸弹客",
       "sort": 6
     }
   ]
