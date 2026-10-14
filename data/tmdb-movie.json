@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-13T15:40:31.544Z",
-  "total": 2,
+  "updated_at": "2026-10-14T01:41:28.952Z",
+  "total": 3,
   "list": [
     {
       "tmdb_id": 1236045,
@@ -36,6 +36,12 @@
       "tmdb_type": "movie",
       "title": "玩具总动员5",
       "sort": 2
+    },
+    {
+      "tmdb_id": 1458857,
+      "tmdb_type": "movie",
+      "title": "只要活下去",
+      "sort": 3
     }
   ]
 }
