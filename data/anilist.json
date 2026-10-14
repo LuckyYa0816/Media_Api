@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-14T01:41:21.938Z",
+  "updated_at": "2026-10-14T13:25:07.533Z",
   "total": 29,
   "list": [
     {
@@ -78,18 +78,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 230050
-      },
-      "tmdb_type": "tv",
-      "title": "A Returner's Magic Should be Special Season 2",
-      "sort": 8
-    },
-    {
-      "tmdb_id": {
         "tv": 313346
       },
       "tmdb_type": "tv",
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "sort": 8
+    },
+    {
+      "tmdb_id": {
+        "tv": 230050
+      },
+      "tmdb_type": "tv",
+      "title": "A Returner's Magic Should be Special Season 2",
       "sort": 9
     },
     {
@@ -118,18 +118,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 335790
-      },
-      "tmdb_type": "tv",
-      "title": "I'm Dating a Dark Summoner",
-      "sort": 13
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
+        "tv": 335790
+      },
+      "tmdb_type": "tv",
+      "title": "I'm Dating a Dark Summoner",
       "sort": 14
     },
     {
@@ -214,11 +214,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
-      "sort": 25
+      "sort": 26
     },
     {
       "tmdb_id": {
@@ -226,14 +234,6 @@
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
-      "sort": 26
-    },
-    {
-      "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 27
     },
     {
@@ -246,10 +246,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 336654
+        "tv": 288588
       },
       "tmdb_type": "tv",
-      "title": "My Girlfriend's Friend",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
       "sort": 29
     }
   ]
