@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-15T01:17:35.326Z",
+  "updated_at": "2026-10-15T13:10:13.388Z",
   "total": 29,
   "list": [
     {
@@ -166,11 +166,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 316891
+      },
+      "tmdb_type": "tv",
+      "title": "The Cold Sato-san is Only Sweet to Me",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
         "tv": 253811
       },
       "tmdb_type": "tv",
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "sort": 19
+      "sort": 20
     },
     {
       "tmdb_id": {
@@ -178,14 +186,6 @@
       },
       "tmdb_type": "tv",
       "title": "The Iceblade Sorcerer Shall Rule the World II",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
-        "tv": 316891
-      },
-      "tmdb_type": "tv",
-      "title": "The Cold Sato-san is Only Sweet to Me",
       "sort": 21
     },
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 26
     },
     {
