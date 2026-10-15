@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-14T13:25:14.656Z",
-  "total": 3,
+  "updated_at": "2026-10-15T01:17:41.522Z",
+  "total": 4,
   "list": [
     {
       "tmdb_id": 1236045,
@@ -32,16 +32,22 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1126915,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "龙卷风",
       "sort": 2
     },
     {
-      "tmdb_id": 1492640,
+      "tmdb_id": 1389172,
       "tmdb_type": "movie",
-      "title": "大学炸弹客",
+      "title": "现场播暴",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1084244,
+      "tmdb_type": "movie",
+      "title": "玩具总动员5",
+      "sort": 4
     }
   ]
 }
