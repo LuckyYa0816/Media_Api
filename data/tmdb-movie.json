@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-16T01:03:28.668Z",
+  "updated_at": "2026-10-16T13:04:26.895Z",
   "total": 3,
   "list": [
     {
@@ -34,7 +34,7 @@
     {
       "tmdb_id": 1381078,
       "tmdb_type": "movie",
-      "title": "一生所爱",
+      "title": "你的生命挚爱",
       "sort": 2
     },
     {

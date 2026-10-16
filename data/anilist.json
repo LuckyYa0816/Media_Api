@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-16T01:03:22.516Z",
+  "updated_at": "2026-10-16T13:04:20.179Z",
   "total": 29,
   "list": [
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 253811
-      },
-      "tmdb_type": "tv",
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 200777
       },
       "tmdb_type": "tv",
       "title": "The Iceblade Sorcerer Shall Rule the World II",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 253811
+      },
+      "tmdb_type": "tv",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "sort": 21
     },
     {
@@ -206,18 +206,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 206630
-      },
-      "tmdb_type": "tv",
-      "title": "Sasaki and Peeps Season 2",
-      "sort": 24
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 24
+    },
+    {
+      "tmdb_id": {
+        "tv": 206630
+      },
+      "tmdb_type": "tv",
+      "title": "Sasaki and Peeps Season 2",
       "sort": 25
     },
     {
@@ -230,11 +230,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 288588
+      },
+      "tmdb_type": "tv",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
         "tv": 284580
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
-      "sort": 27
+      "sort": 28
     },
     {
       "tmdb_id": {
@@ -242,14 +250,6 @@
       },
       "tmdb_type": "tv",
       "title": "The Vermilion Mask",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
-        "tv": 288588
-      },
-      "tmdb_type": "tv",
-      "title": "Full Clearing Another World under a Goddess with Zero Believers",
       "sort": 29
     }
   ]
