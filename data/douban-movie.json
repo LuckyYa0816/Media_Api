@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-16T13:04:57.869Z",
+  "updated_at": "2026-10-17T01:10:50.771Z",
   "total": 20,
   "list": [
     {
@@ -83,27 +83,27 @@
       "sort": 10
     },
     {
-      "tmdb_id": 1240889,
-      "tmdb_type": "movie",
-      "title": "瘴气营地的青春性事与死亡",
-      "sort": 11
-    },
-    {
       "tmdb_id": 1514026,
       "tmdb_type": "movie",
       "title": "逃出布迪秀",
-      "sort": 12
+      "sort": 11
     },
     {
-      "tmdb_id": 1671548,
+      "tmdb_id": 1240889,
       "tmdb_type": "movie",
-      "title": "给阿嬷的情书",
-      "sort": 13
+      "title": "瘴气营地的青春性事与死亡",
+      "sort": 12
     },
     {
       "tmdb_id": 969681,
       "tmdb_type": "movie",
       "title": "蜘蛛侠：崭新之日",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1671548,
+      "tmdb_type": "movie",
+      "title": "给阿嬷的情书",
       "sort": 14
     },
     {

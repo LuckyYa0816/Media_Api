@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-16T13:04:26.895Z",
-  "total": 3,
+  "updated_at": "2026-10-17T01:10:23.858Z",
+  "total": 4,
   "list": [
     {
       "tmdb_id": 1236045,
@@ -34,14 +34,20 @@
     {
       "tmdb_id": 1381078,
       "tmdb_type": "movie",
-      "title": "你的生命挚爱",
+      "title": "一生所爱",
       "sort": 2
+    },
+    {
+      "tmdb_id": 1561726,
+      "tmdb_type": "movie",
+      "title": "偷天父子兵",
+      "sort": 3
     },
     {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
-      "sort": 3
+      "sort": 4
     }
   ]
 }
