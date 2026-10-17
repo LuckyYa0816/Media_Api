@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-17T01:10:15.843Z",
+  "updated_at": "2026-10-17T12:01:22.777Z",
   "total": 29,
   "list": [
     {
@@ -46,18 +46,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283938
-      },
-      "tmdb_type": "tv",
-      "title": "Even the Student Council Has Its Holes!",
-      "sort": 4
-    },
-    {
-      "tmdb_id": {
         "tv": 320909
       },
       "tmdb_type": "tv",
       "title": "Firefly Wedding",
+      "sort": 4
+    },
+    {
+      "tmdb_id": {
+        "tv": 283938
+      },
+      "tmdb_type": "tv",
+      "title": "Even the Student Council Has Its Holes!",
       "sort": 5
     },
     {
@@ -134,18 +134,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283692
-      },
-      "tmdb_type": "tv",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 312850
       },
       "tmdb_type": "tv",
       "title": "Nia Liston: The Merciless Maiden",
+      "sort": 15
+    },
+    {
+      "tmdb_id": {
+        "tv": 283692
+      },
+      "tmdb_type": "tv",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "sort": 16
     },
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 316891
-      },
-      "tmdb_type": "tv",
-      "title": "The Cold Sato-san is Only Sweet to Me",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 200777
       },
       "tmdb_type": "tv",
       "title": "The Iceblade Sorcerer Shall Rule the World II",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 316891
+      },
+      "tmdb_type": "tv",
+      "title": "The Cold Sato-san is Only Sweet to Me",
       "sort": 20
     },
     {
@@ -190,18 +190,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 259140
-      },
-      "tmdb_type": "tv",
-      "title": "Ranma1/2 (2024) Season 3",
-      "sort": 22
-    },
-    {
-      "tmdb_id": {
         "tv": 311842
       },
       "tmdb_type": "tv",
       "title": "FX Fighter Kurumi-chan",
+      "sort": 22
+    },
+    {
+      "tmdb_id": {
+        "tv": 259140
+      },
+      "tmdb_type": "tv",
+      "title": "Ranma1/2 (2024) Season 3",
       "sort": 23
     },
     {
@@ -230,18 +230,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288588
-      },
-      "tmdb_type": "tv",
-      "title": "Full Clearing Another World under a Goddess with Zero Believers",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 284580
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 288588
+      },
+      "tmdb_type": "tv",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
       "sort": 28
     },
     {
