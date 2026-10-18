@@ -19,55 +19,55 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-17T12:01:44.980Z",
+  "updated_at": "2026-10-18T00:43:18.562Z",
   "total": 20,
   "list": [
+    {
+      "tmdb_id": 300146,
+      "tmdb_type": "tv",
+      "title": "嫁金钗",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 279923,
+      "tmdb_type": "tv",
+      "title": "醉梦",
+      "sort": 2
+    },
     {
       "tmdb_id": 301494,
       "tmdb_type": "tv",
       "title": "余红旧事",
-      "sort": 1
+      "sort": 3
     },
     {
       "tmdb_id": 282326,
       "tmdb_type": "tv",
       "title": "兰香如故",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 294446,
-      "tmdb_type": "tv",
-      "title": "美人余",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 289080,
       "tmdb_type": "tv",
       "title": "蒸蒸日上",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 289078,
       "tmdb_type": "tv",
       "title": "我不是大师",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 304452,
       "tmdb_type": "tv",
       "title": "玉簟秋",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 290699,
-      "tmdb_type": "tv",
-      "title": "魅影神捕",
       "sort": 7
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 294446,
       "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
+      "title": "美人余",
       "sort": 8
     },
     {
@@ -77,9 +77,9 @@
       "sort": 9
     },
     {
-      "tmdb_id": 297253,
+      "tmdb_id": 290699,
       "tmdb_type": "tv",
-      "title": "伟大的长征",
+      "title": "魅影神捕",
       "sort": 10
     },
     {
@@ -89,33 +89,33 @@
       "sort": 11
     },
     {
+      "tmdb_id": 297253,
+      "tmdb_type": "tv",
+      "title": "伟大的长征",
+      "sort": 12
+    },
+    {
       "tmdb_id": 261391,
       "tmdb_type": "tv",
       "title": "喜剧之王",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 297982,
       "tmdb_type": "tv",
       "title": "无可替代",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 296203,
       "tmdb_type": "tv",
       "title": "此处通往繁星",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 290863,
-      "tmdb_type": "tv",
-      "title": "冬城猎凶",
       "sort": 15
     },
     {
-      "tmdb_id": 299952,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "早春晴朗",
+      "title": "凡人修仙传 年番4",
       "sort": 16
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 299952,
       "tmdb_type": "tv",
-      "title": "生命奇观2",
+      "title": "早春晴朗",
       "sort": 18
     },
     {
-      "tmdb_id": 301489,
+      "tmdb_id": 290863,
       "tmdb_type": "tv",
-      "title": "深渊无间",
+      "title": "冬城猎凶",
       "sort": 19
     },
     {
