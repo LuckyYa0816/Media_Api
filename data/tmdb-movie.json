@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-18T00:43:07.328Z",
-  "total": 6,
+  "updated_at": "2026-10-18T12:29:57.022Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1561726,
       "tmdb_type": "movie",
-      "title": "偷天父子兵",
+      "title": "大师计划",
       "sort": 1
     },
     {
@@ -40,7 +40,7 @@
     {
       "tmdb_id": 1381078,
       "tmdb_type": "movie",
-      "title": "一生所爱",
+      "title": "你的生命挚爱",
       "sort": 3
     },
     {
@@ -50,16 +50,22 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1623256,
       "tmdb_type": "movie",
       "title": "风暴生日宴",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1487317,
+      "tmdb_type": "movie",
+      "title": "非常治疗师",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1084244,
+      "tmdb_type": "movie",
+      "title": "玩具总动员5",
+      "sort": 7
     }
   ]
 }

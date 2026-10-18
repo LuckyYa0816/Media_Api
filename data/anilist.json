@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-18T00:43:00.166Z",
+  "updated_at": "2026-10-18T12:29:49.607Z",
   "total": 29,
   "list": [
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 316891
-      },
-      "tmdb_type": "tv",
-      "title": "The Cold Sato-san is Only Sweet to Me",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 253811
       },
       "tmdb_type": "tv",
       "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 316891
+      },
+      "tmdb_type": "tv",
+      "title": "The Cold Sato-san is Only Sweet to Me",
       "sort": 21
     },
     {
@@ -230,11 +230,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 295420
+      },
+      "tmdb_type": "tv",
+      "title": "The Vermilion Mask",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
         "tv": 284580
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
-      "sort": 27
+      "sort": 28
     },
     {
       "tmdb_id": {
@@ -242,14 +250,6 @@
       },
       "tmdb_type": "tv",
       "title": "Full Clearing Another World under a Goddess with Zero Believers",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
-        "tv": 295420
-      },
-      "tmdb_type": "tv",
-      "title": "The Vermilion Mask",
       "sort": 29
     }
   ]
