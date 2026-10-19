@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-18T12:30:33.627Z",
+  "updated_at": "2026-10-19T00:56:47.130Z",
   "total": 20,
   "list": [
     {
@@ -29,33 +29,33 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1291595,
+      "tmdb_id": 1514026,
       "tmdb_type": "movie",
-      "title": "潜伏6",
+      "title": "逃出布迪秀",
       "sort": 2
+    },
+    {
+      "tmdb_id": 1527449,
+      "tmdb_type": "movie",
+      "title": "尼娜与萝扎",
+      "sort": 3
     },
     {
       "tmdb_id": 1655419,
       "tmdb_type": "movie",
       "title": "每时每刻",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1503762,
       "tmdb_type": "movie",
       "title": "理智与情感",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1593275,
-      "tmdb_type": "movie",
-      "title": "人为何要写情书",
       "sort": 5
     },
     {
-      "tmdb_id": 1514026,
+      "tmdb_id": 1291595,
       "tmdb_type": "movie",
-      "title": "逃出布迪秀",
+      "title": "潜伏6",
       "sort": 6
     },
     {
@@ -89,51 +89,51 @@
       "sort": 11
     },
     {
-      "tmdb_id": 1240889,
-      "tmdb_type": "movie",
-      "title": "瘴气营地的青春性事与死亡",
-      "sort": 12
-    },
-    {
       "tmdb_id": 969681,
       "tmdb_type": "movie",
       "title": "蜘蛛侠：崭新之日",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1240889,
+      "tmdb_type": "movie",
+      "title": "瘴气营地的青春性事与死亡",
       "sort": 13
-    },
-    {
-      "tmdb_id": 1148365,
-      "tmdb_type": "movie",
-      "title": "火柴盒大电影",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1671548,
-      "tmdb_type": "movie",
-      "title": "给阿嬷的情书",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1137844,
-      "tmdb_type": "movie",
-      "title": "求救信号",
-      "sort": 16
     },
     {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
-      "sort": 17
+      "sort": 14
     },
     {
-      "tmdb_id": 1742441,
+      "tmdb_id": 1148365,
       "tmdb_type": "movie",
-      "title": "致命录像带：混音带",
-      "sort": 18
+      "title": "火柴盒大电影",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1671548,
+      "tmdb_type": "movie",
+      "title": "给阿嬷的情书",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1137844,
+      "tmdb_type": "movie",
+      "title": "求救信号",
+      "sort": 17
     },
     {
       "tmdb_id": 1174334,
       "tmdb_type": "movie",
       "title": "大濛",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1742441,
+      "tmdb_type": "movie",
+      "title": "致命录像带：混音带",
       "sort": 19
     },
     {

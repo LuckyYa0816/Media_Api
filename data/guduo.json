@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-10-18T12:30:33.905Z",
+  "updated_at": "2026-10-19T00:56:47.387Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -30,15 +30,15 @@
           "sort": 1
         },
         {
-          "tmdb_id": 290699,
-          "tmdb_type": "tv",
-          "title": "魅影神捕",
-          "sort": 2
-        },
-        {
           "tmdb_id": 279923,
           "tmdb_type": "tv",
           "title": "醉梦",
+          "sort": 2
+        },
+        {
+          "tmdb_id": 290699,
+          "tmdb_type": "tv",
+          "title": "魅影神捕",
           "sort": 3
         },
         {
@@ -48,51 +48,51 @@
           "sort": 4
         },
         {
-          "tmdb_id": 301494,
-          "tmdb_type": "tv",
-          "title": "余红旧事",
-          "sort": 5
-        },
-        {
-          "tmdb_id": 289078,
-          "tmdb_type": "tv",
-          "title": "我不是大师",
-          "sort": 6
-        },
-        {
           "tmdb_id": 288328,
           "tmdb_type": "tv",
           "title": "把黑夜点燃",
-          "sort": 7
+          "sort": 5
+        },
+        {
+          "tmdb_id": 301494,
+          "tmdb_type": "tv",
+          "title": "余红旧事",
+          "sort": 6
         },
         {
           "tmdb_id": 336706,
           "tmdb_type": "tv",
           "title": "雷霆令",
-          "sort": 8
+          "sort": 7
         },
         {
-          "tmdb_id": 299952,
+          "tmdb_id": 289078,
           "tmdb_type": "tv",
-          "title": "早春晴朗",
-          "sort": 9
+          "title": "我不是大师",
+          "sort": 8
         },
         {
           "tmdb_id": 261391,
           "tmdb_type": "tv",
           "title": "喜剧之王单口季",
-          "sort": 10
+          "sort": 9
         },
         {
-          "tmdb_id": 294990,
+          "tmdb_id": 299952,
           "tmdb_type": "tv",
-          "title": "一瓯春",
-          "sort": 11
+          "title": "早春晴朗",
+          "sort": 10
         },
         {
           "tmdb_id": 283012,
           "tmdb_type": "tv",
           "title": "第二次初恋",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 294990,
+          "tmdb_type": "tv",
+          "title": "一瓯春",
           "sort": 12
         },
         {
@@ -158,13 +158,13 @@
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 3
+          "sort": 2
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 4
+          "sort": 3
         },
         {
           "tmdb_id": 106449,
@@ -179,21 +179,21 @@
           "sort": 6
         },
         {
-          "tmdb_id": 228429,
-          "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 7
-        },
-        {
           "tmdb_id": 281233,
           "tmdb_type": "tv",
           "title": "光阴之外",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
           "sort": 8
         },
         {
-          "tmdb_id": 297923,
+          "tmdb_id": 146339,
           "tmdb_type": "tv",
-          "title": "灵境行者",
+          "title": "大王饶命",
           "sort": 9
         },
         {
@@ -227,9 +227,9 @@
           "sort": 14
         },
         {
-          "tmdb_id": 146339,
+          "tmdb_id": 297923,
           "tmdb_type": "tv",
-          "title": "大王饶命",
+          "title": "灵境行者",
           "sort": 15
         },
         {
@@ -274,33 +274,33 @@
           "sort": 1
         },
         {
+          "tmdb_id": 131040,
+          "tmdb_type": "tv",
+          "title": "披荆斩棘",
+          "sort": 2
+        },
+        {
           "tmdb_id": 103147,
           "tmdb_type": "tv",
           "title": "心动的信号",
-          "sort": 2
+          "sort": 3
         },
         {
           "tmdb_id": 331649,
           "tmdb_type": "tv",
           "title": "大哥小助理",
-          "sort": 3
-        },
-        {
-          "tmdb_id": 131040,
-          "tmdb_type": "tv",
-          "title": "披荆斩棘",
           "sort": 4
-        },
-        {
-          "tmdb_id": 89861,
-          "tmdb_type": "tv",
-          "title": "密室大逃脱",
-          "sort": 5
         },
         {
           "tmdb_id": 126490,
           "tmdb_type": "tv",
           "title": "我家那闺女",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 89861,
+          "tmdb_type": "tv",
+          "title": "密室大逃脱",
           "sort": 6
         },
         {
@@ -316,27 +316,27 @@
           "sort": 8
         },
         {
-          "tmdb_id": 94773,
-          "tmdb_type": "tv",
-          "title": "舞蹈新风暴",
-          "sort": 9
-        },
-        {
           "tmdb_id": 296202,
           "tmdb_type": "tv",
           "title": "地球超新鲜",
-          "sort": 10
+          "sort": 9
         },
         {
           "tmdb_id": 296217,
           "tmdb_type": "tv",
           "title": "一饭封神",
-          "sort": 11
+          "sort": 10
         },
         {
           "tmdb_id": 281511,
           "tmdb_type": "tv",
           "title": "有你的恋歌",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 94773,
+          "tmdb_type": "tv",
+          "title": "舞蹈新风暴",
           "sort": 12
         },
         {
@@ -390,7 +390,7 @@
       ]
     },
     "电影": {
-      "total": 18,
+      "total": 17,
       "list": [
         {
           "tmdb_id": 1563627,
@@ -414,7 +414,7 @@
           "tmdb_id": 1599191,
           "tmdb_type": "movie",
           "title": "仙逆剧场版：弑仙之战",
-          "sort": 4
+          "sort": 5
         },
         {
           "tmdb_id": 1796459,
@@ -462,30 +462,24 @@
           "tmdb_id": 16617,
           "tmdb_type": "movie",
           "title": "八面埋伏",
-          "sort": 14
+          "sort": 15
         },
         {
           "tmdb_id": 1745149,
           "tmdb_type": "movie",
           "title": "猎虎贰",
-          "sort": 15
+          "sort": 16
         },
         {
           "tmdb_id": 1765955,
           "tmdb_type": "movie",
           "title": "蜂鸟行动",
-          "sort": 16
+          "sort": 17
         },
         {
           "tmdb_id": 1783608,
           "tmdb_type": "movie",
           "title": "冒牌暴徒",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 1580190,
-          "tmdb_type": "movie",
-          "title": "除暴之路",
           "sort": 18
         },
         {
@@ -495,9 +489,9 @@
           "sort": 19
         },
         {
-          "tmdb_id": 1096577,
+          "tmdb_id": 1580190,
           "tmdb_type": "movie",
-          "title": "夺命狂花",
+          "title": "除暴之路",
           "sort": 20
         }
       ]
