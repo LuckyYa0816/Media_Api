@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-19T00:56:02.529Z",
+  "updated_at": "2026-10-19T15:21:24.683Z",
   "total": 29,
   "list": [
     {
@@ -134,27 +134,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 312850
-      },
-      "tmdb_type": "tv",
-      "title": "Nia Liston: The Merciless Maiden",
-      "sort": 15
-    },
-    {
-      "tmdb_id": {
         "tv": 283692
       },
       "tmdb_type": "tv",
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": {
-        "tv": 297903
+        "tv": 312850
       },
       "tmdb_type": "tv",
-      "title": "PSYREN",
-      "sort": 17
+      "title": "Nia Liston: The Merciless Maiden",
+      "sort": 16
     },
     {
       "tmdb_id": {
@@ -162,6 +154,14 @@
       },
       "tmdb_type": "tv",
       "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "sort": 17
+    },
+    {
+      "tmdb_id": {
+        "tv": 297903
+      },
+      "tmdb_type": "tv",
+      "title": "PSYREN",
       "sort": 18
     },
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 253811
-      },
-      "tmdb_type": "tv",
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 316891
       },
       "tmdb_type": "tv",
       "title": "The Cold Sato-san is Only Sweet to Me",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 253811
+      },
+      "tmdb_type": "tv",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "sort": 21
     },
     {
@@ -214,11 +214,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 288588
+      },
+      "tmdb_type": "tv",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
         "tv": 206630
       },
       "tmdb_type": "tv",
       "title": "Sasaki and Peeps Season 2",
-      "sort": 25
+      "sort": 26
     },
     {
       "tmdb_id": {
@@ -226,7 +234,7 @@
       },
       "tmdb_type": "tv",
       "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 26
+      "sort": 27
     },
     {
       "tmdb_id": {
@@ -234,7 +242,7 @@
       },
       "tmdb_type": "tv",
       "title": "The Vermilion Mask",
-      "sort": 27
+      "sort": 28
     },
     {
       "tmdb_id": {
@@ -242,14 +250,6 @@
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
-        "tv": 288588
-      },
-      "tmdb_type": "tv",
-      "title": "Full Clearing Another World under a Goddess with Zero Believers",
       "sort": 29
     }
   ]
