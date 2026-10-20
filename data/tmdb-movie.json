@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-19T15:21:32.751Z",
+  "updated_at": "2026-10-20T01:38:22.145Z",
   "total": 8,
   "list": [
     {
@@ -38,15 +38,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1381078,
-      "tmdb_type": "movie",
-      "title": "你的生命挚爱",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1284186,
       "tmdb_type": "movie",
       "title": "牺牲",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1381078,
+      "tmdb_type": "movie",
+      "title": "一生所爱",
       "sort": 4
     },
     {

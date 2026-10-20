@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-19T15:21:48.445Z",
+  "updated_at": "2026-10-20T01:38:34.482Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 301494,
-      "tmdb_type": "tv",
-      "title": "余红旧事",
-      "sort": 3
-    },
-    {
       "tmdb_id": 289080,
       "tmdb_type": "tv",
       "title": "蒸蒸日上",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 301494,
+      "tmdb_type": "tv",
+      "title": "余红旧事",
       "sort": 4
     },
     {
@@ -53,15 +53,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 289078,
-      "tmdb_type": "tv",
-      "title": "我不是大师",
-      "sort": 6
-    },
-    {
       "tmdb_id": 304452,
       "tmdb_type": "tv",
       "title": "玉簟秋",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 289078,
+      "tmdb_type": "tv",
+      "title": "我不是大师",
       "sort": 7
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
-      "sort": 16
-    },
-    {
       "tmdb_id": 294486,
       "tmdb_type": "tv",
       "title": "交锋",
-      "sort": 17
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "生命奇观2",
-      "sort": 18
+      "sort": 16
     },
     {
       "tmdb_id": 290863,
       "tmdb_type": "tv",
       "title": "冬城猎凶",
+      "sort": 17
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "凡人修仙传 年番4",
+      "sort": 18
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "生命奇观2",
       "sort": 19
     },
     {
-      "tmdb_id": 299952,
+      "tmdb_id": 272432,
       "tmdb_type": "tv",
-      "title": "早春晴朗",
+      "title": "低智商犯罪",
       "sort": 20
     }
   ]
