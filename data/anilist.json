@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-20T01:38:15.105Z",
+  "updated_at": "2026-10-20T13:24:21.101Z",
   "total": 29,
   "list": [
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 126437
-      },
-      "tmdb_type": "tv",
-      "title": "Aoashi Season 2",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 126437
+      },
+      "tmdb_type": "tv",
+      "title": "Aoashi Season 2",
       "sort": 13
     },
     {
