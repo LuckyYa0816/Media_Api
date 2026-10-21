@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-20T13:25:00.425Z",
+  "updated_at": "2026-10-21T01:24:24.959Z",
   "total": 20,
   "list": [
     {
@@ -29,45 +29,45 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1461201,
-      "tmdb_type": "movie",
-      "title": "祈念守护人",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1563627,
       "tmdb_type": "movie",
       "title": "杯雪·一战成名",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1461201,
+      "tmdb_type": "movie",
+      "title": "祈念守护人",
       "sort": 3
+    },
+    {
+      "tmdb_id": 1527449,
+      "tmdb_type": "movie",
+      "title": "尼娜与萝扎",
+      "sort": 4
     },
     {
       "tmdb_id": 1514026,
       "tmdb_type": "movie",
       "title": "逃出布迪秀",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 1291595,
       "tmdb_type": "movie",
       "title": "潜伏6",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1176962,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1236045,
       "tmdb_type": "movie",
       "title": "人性本兽",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1491920,
-      "tmdb_type": "movie",
-      "title": "功夫女足",
       "sort": 8
     },
     {
@@ -77,45 +77,45 @@
       "sort": 9
     },
     {
+      "tmdb_id": 1491920,
+      "tmdb_type": "movie",
+      "title": "功夫女足",
+      "sort": 10
+    },
+    {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 969681,
       "tmdb_type": "movie",
       "title": "蜘蛛侠：崭新之日",
-      "sort": 11
+      "sort": 12
     },
     {
       "tmdb_id": 1240889,
       "tmdb_type": "movie",
       "title": "瘴气营地的青春性事与死亡",
-      "sort": 12
+      "sort": 13
     },
     {
       "tmdb_id": 1368166,
       "tmdb_type": "movie",
       "title": "家弑服务",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 1148365,
       "tmdb_type": "movie",
       "title": "火柴盒大电影",
-      "sort": 14
+      "sort": 15
     },
     {
       "tmdb_id": 1671548,
       "tmdb_type": "movie",
       "title": "给阿嬷的情书",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1137844,
-      "tmdb_type": "movie",
-      "title": "求救信号",
       "sort": 16
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1742441,
+      "tmdb_id": 1137844,
       "tmdb_type": "movie",
-      "title": "致命录像带：混音带",
+      "title": "求救信号",
       "sort": 18
     },
     {
-      "tmdb_id": 1541125,
+      "tmdb_id": 1742441,
       "tmdb_type": "movie",
-      "title": "年会不能停！2",
+      "title": "致命录像带：混音带",
       "sort": 19
     },
     {
