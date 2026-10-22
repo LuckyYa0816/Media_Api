@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-21T01:23:40.420Z",
+  "updated_at": "2026-10-22T13:35:59.195Z",
   "total": 30,
   "list": [
     {
@@ -62,11 +62,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 313346
+      },
+      "tmdb_type": "tv",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "sort": 6
+    },
+    {
+      "tmdb_id": {
         "tv": 105009
       },
       "tmdb_type": "tv",
       "title": "Tokyo Revengers: War of the Three Titans Arc",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": {
@@ -74,14 +82,6 @@
       },
       "tmdb_type": "tv",
       "title": "The Ramparts of Ice Season 2",
-      "sort": 7
-    },
-    {
-      "tmdb_id": {
-        "tv": 313346
-      },
-      "tmdb_type": "tv",
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "sort": 8
     },
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117061
-      },
-      "tmdb_type": "tv",
-      "title": "The Detective Is Already Dead Season 2",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 117061
+      },
+      "tmdb_type": "tv",
+      "title": "The Detective Is Already Dead Season 2",
       "sort": 13
     },
     {
@@ -142,27 +142,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 283692
-      },
-      "tmdb_type": "tv",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
         "tv": 312850
       },
       "tmdb_type": "tv",
       "title": "Nia Liston: The Merciless Maiden",
-      "sort": 17
+      "sort": 16
     },
     {
       "tmdb_id": {
-        "tv": 333622
+        "tv": 283692
       },
       "tmdb_type": "tv",
-      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "sort": 18
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "sort": 17
     },
     {
       "tmdb_id": {
@@ -170,15 +162,15 @@
       },
       "tmdb_type": "tv",
       "title": "PSYREN",
-      "sort": 19
+      "sort": 18
     },
     {
       "tmdb_id": {
-        "tv": 200777
+        "tv": 333622
       },
       "tmdb_type": "tv",
-      "title": "The Iceblade Sorcerer Shall Rule the World II",
-      "sort": 20
+      "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "sort": 19
     },
     {
       "tmdb_id": {
@@ -186,6 +178,14 @@
       },
       "tmdb_type": "tv",
       "title": "The Cold Sato-san is Only Sweet to Me",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 200777
+      },
+      "tmdb_type": "tv",
+      "title": "The Iceblade Sorcerer Shall Rule the World II",
       "sort": 21
     },
     {
@@ -214,27 +214,19 @@
     },
     {
       "tmdb_id": {
-        "tv": 321518
-      },
-      "tmdb_type": "tv",
-      "title": "The World's Strongest Witch",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 288588
       },
       "tmdb_type": "tv",
       "title": "Full Clearing Another World under a Goddess with Zero Believers",
-      "sort": 26
+      "sort": 25
     },
     {
       "tmdb_id": {
-        "tv": 206630
+        "tv": 321518
       },
       "tmdb_type": "tv",
-      "title": "Sasaki and Peeps Season 2",
-      "sort": 27
+      "title": "The World's Strongest Witch",
+      "sort": 26
     },
     {
       "tmdb_id": {
@@ -242,6 +234,14 @@
       },
       "tmdb_type": "tv",
       "title": "Chitose Is in the Ramune Bottle 2nd Cour",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 206630
+      },
+      "tmdb_type": "tv",
+      "title": "Sasaki and Peeps Season 2",
       "sort": 28
     },
     {
