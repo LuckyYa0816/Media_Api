@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-23T01:19:53.821Z",
+  "updated_at": "2026-10-23T13:11:23.695Z",
   "total": 30,
   "list": [
     {
@@ -126,10 +126,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 126437
+        "tv": 312850
       },
       "tmdb_type": "tv",
-      "title": "Aoashi Season 2",
+      "title": "Nia Liston: The Merciless Maiden",
       "sort": 14
     },
     {
@@ -142,10 +142,10 @@
     },
     {
       "tmdb_id": {
-        "tv": 312850
+        "tv": 126437
       },
       "tmdb_type": "tv",
-      "title": "Nia Liston: The Merciless Maiden",
+      "title": "Aoashi Season 2",
       "sort": 16
     },
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 288588
-      },
-      "tmdb_type": "tv",
-      "title": "Full Clearing Another World under a Goddess with Zero Believers",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
+        "tv": 288588
+      },
+      "tmdb_type": "tv",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
       "sort": 26
     },
     {

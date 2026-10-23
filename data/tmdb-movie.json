@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-23T01:20:02.479Z",
+  "updated_at": "2026-10-23T13:11:30.483Z",
   "total": 8,
   "list": [
     {
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1236045,
+      "tmdb_id": 1381078,
       "tmdb_type": "movie",
-      "title": "人性本兽",
+      "title": "一生所爱",
       "sort": 2
     },
     {
@@ -44,27 +44,27 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1381078,
-      "tmdb_type": "movie",
-      "title": "一生所爱",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
-      "sort": 5
+      "sort": 4
     },
     {
       "tmdb_id": 1623256,
       "tmdb_type": "movie",
       "title": "风暴生日宴",
-      "sort": 6
+      "sort": 5
     },
     {
       "tmdb_id": 1487317,
       "tmdb_type": "movie",
       "title": "非常治疗师",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1284186,
+      "tmdb_type": "movie",
+      "title": "牺牲",
       "sort": 7
     },
     {
