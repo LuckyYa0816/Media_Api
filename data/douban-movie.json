@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-22T13:36:32.370Z",
+  "updated_at": "2026-10-23T01:20:26.043Z",
   "total": 20,
   "list": [
     {
@@ -107,21 +107,21 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1368166,
-      "tmdb_type": "movie",
-      "title": "家弑服务",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1148365,
       "tmdb_type": "movie",
       "title": "火柴盒大电影",
-      "sort": 16
+      "sort": 15
     },
     {
       "tmdb_id": 1422041,
       "tmdb_type": "movie",
       "title": "黑球",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1368166,
+      "tmdb_type": "movie",
+      "title": "家弑服务",
       "sort": 17
     },
     {

@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-22T13:36:07.186Z",
-  "total": 10,
+  "updated_at": "2026-10-23T01:20:02.479Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1561726,
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1284186,
+      "tmdb_id": 1108427,
       "tmdb_type": "movie",
-      "title": "牺牲",
+      "title": "海洋奇缘：启航",
       "sort": 5
     },
     {
-      "tmdb_id": 1236045,
+      "tmdb_id": 1623256,
       "tmdb_type": "movie",
-      "title": "人性本兽",
+      "title": "风暴生日宴",
       "sort": 6
     },
     {
@@ -68,22 +68,10 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1623256,
-      "tmdb_type": "movie",
-      "title": "风暴生日宴",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1108427,
-      "tmdb_type": "movie",
-      "title": "海洋奇缘：启航",
-      "sort": 9
-    },
-    {
       "tmdb_id": 1084244,
       "tmdb_type": "movie",
       "title": "玩具总动员5",
-      "sort": 10
+      "sort": 8
     }
   ]
 }
