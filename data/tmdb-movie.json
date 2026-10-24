@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-24T01:25:00.554Z",
-  "total": 6,
+  "updated_at": "2026-10-24T12:30:09.162Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1561726,
@@ -32,34 +32,28 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1236045,
-      "tmdb_type": "movie",
-      "title": "人性本兽",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1084244,
+      "tmdb_type": "movie",
+      "title": "玩具总动员5",
       "sort": 3
     },
     {
-      "tmdb_id": 1381078,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "一生所爱",
+      "title": "挽救计划",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1284186,
-      "tmdb_type": "movie",
-      "title": "牺牲",
-      "sort": 5
     },
     {
       "tmdb_id": 1487317,
       "tmdb_type": "movie",
       "title": "非常治疗师",
-      "sort": 6
+      "sort": 5
     }
   ]
 }

@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-24T01:25:37.663Z",
+  "updated_at": "2026-10-24T12:30:58.081Z",
   "total": 20,
   "list": [
     {
@@ -65,7 +65,7 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1176962,
+      "tmdb_id": 70981,
       "tmdb_type": "movie",
       "title": "罗斯",
       "sort": 8
