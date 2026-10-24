@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-10-23T13:11:28.251Z",
+  "updated_at": "2026-10-24T01:24:58.205Z",
   "total": 26,
   "list": [
     {
@@ -37,63 +37,63 @@
       "sort": 1
     },
     {
+      "tmdb_id": 120911,
+      "tmdb_type": "tv",
+      "title": "The Terminal List",
+      "sort": 2
+    },
+    {
       "tmdb_id": 105248,
       "tmdb_type": "tv",
       "title": "赛博朋克：边缘行者",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 288673,
       "tmdb_type": "tv",
       "title": "魔女嘉莉",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 120911,
-      "tmdb_type": "tv",
-      "title": "The Terminal List",
       "sort": 4
-    },
-    {
-      "tmdb_id": 275139,
-      "tmdb_type": "tv",
-      "title": "换母疑云",
-      "sort": 5
     },
     {
       "tmdb_id": 96677,
       "tmdb_type": "tv",
       "title": "Lupin",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 250923,
+      "tmdb_type": "tv",
+      "title": "天作不合的我们",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1413,
+      "tmdb_type": "tv",
+      "title": "美国恐怖故事",
+      "sort": 7
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 285322,
-      "tmdb_type": "tv",
-      "title": "暗潮之下",
       "sort": 8
     },
     {
-      "tmdb_id": 273247,
+      "tmdb_id": 275139,
       "tmdb_type": "tv",
-      "title": "独家黑幕",
+      "title": "换母疑云",
       "sort": 9
-    },
-    {
-      "tmdb_id": 232018,
-      "tmdb_type": "tv",
-      "title": "巴黎陷落",
-      "sort": 10
     },
     {
       "tmdb_id": 285322,
       "tmdb_type": "tv",
       "title": "暗潮之下",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 298550,
+      "tmdb_type": "tv",
+      "title": "各取所需",
       "sort": 11
     },
     {
@@ -103,9 +103,9 @@
       "sort": 12
     },
     {
-      "tmdb_id": 250923,
+      "tmdb_id": 289892,
       "tmdb_type": "tv",
-      "title": "天作不合的我们",
+      "title": "极恶老大",
       "sort": 13
     },
     {
@@ -115,75 +115,75 @@
       "sort": 14
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 75219,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "紧急呼救",
       "sort": 15
-    },
-    {
-      "tmdb_id": 615,
-      "tmdb_type": "tv",
-      "title": "飞出个未来",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 124364,
-      "tmdb_type": "tv",
-      "title": "梦魇绝镇",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 298550,
-      "tmdb_type": "tv",
-      "title": "各取所需",
-      "sort": 18
     },
     {
       "tmdb_id": 273247,
       "tmdb_type": "tv",
       "title": "独家黑幕",
-      "sort": 19
+      "sort": 16
+    },
+    {
+      "tmdb_id": 289892,
+      "tmdb_type": "tv",
+      "title": "极恶老大",
+      "sort": 17
     },
     {
       "tmdb_id": 75219,
       "tmdb_type": "tv",
       "title": "紧急呼救",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 124364,
+      "tmdb_type": "tv",
+      "title": "梦魇绝镇",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 259909,
+      "tmdb_type": "tv",
+      "title": "嗜血法医：杀魔复生",
       "sort": 20
     },
     {
-      "tmdb_id": 1416,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "实习医生格蕾",
+      "title": "实习医生风云",
       "sort": 21
     },
     {
-      "tmdb_id": 286183,
+      "tmdb_id": 615,
       "tmdb_type": "tv",
-      "title": "好莱坞艺术学院",
+      "title": "飞出个未来",
       "sort": 22
     },
     {
-      "tmdb_id": 84773,
+      "tmdb_id": 108978,
       "tmdb_type": "tv",
-      "title": "指环王：力量之戒",
+      "title": "侠探杰克",
       "sort": 23
     },
     {
-      "tmdb_id": 258165,
+      "tmdb_id": 256711,
       "tmdb_type": "tv",
-      "title": "伊甸园之东",
+      "title": "造雨人",
       "sort": 24
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 4614,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "海军罪案调查处",
       "sort": 25
     },
     {
-      "tmdb_id": 65334,
+      "tmdb_id": 320754,
       "tmdb_type": "tv",
-      "title": "奇迹少女",
+      "title": "偷车奇遇：神秘宝藏",
       "sort": 26
     }
   ]

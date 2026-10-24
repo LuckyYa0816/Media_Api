@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-23T13:11:55.546Z",
+  "updated_at": "2026-10-24T01:25:19.072Z",
   "total": 20,
   "list": [
     {
@@ -107,9 +107,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 297982,
+      "tmdb_id": 338938,
       "tmdb_type": "tv",
-      "title": "无可替代",
+      "title": "后会友期",
       "sort": 15
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 294486,
+      "tmdb_id": 297982,
       "tmdb_type": "tv",
-      "title": "交锋",
+      "title": "无可替代",
       "sort": 17
-    },
-    {
-      "tmdb_id": 338938,
-      "tmdb_type": "tv",
-      "title": "后会友期",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 296203,
-      "tmdb_type": "tv",
-      "title": "此处通往繁星",
-      "sort": 19
     },
     {
       "tmdb_id": 290863,
       "tmdb_type": "tv",
       "title": "冬城猎凶",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 294486,
+      "tmdb_type": "tv",
+      "title": "交锋",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 68034,
+      "tmdb_type": "tv",
+      "title": "大明王朝1566",
       "sort": 20
     }
   ]

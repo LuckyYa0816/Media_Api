@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-23T13:12:19.201Z",
+  "updated_at": "2026-10-24T01:25:37.663Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1306055,
+      "tmdb_type": "movie",
+      "title": "数到三",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1668499,
       "tmdb_type": "movie",
       "title": "眩晕",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1288069,
       "tmdb_type": "movie",
       "title": "登峰传奇：丹增诺盖",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1381078,
-      "tmdb_type": "movie",
-      "title": "一生所爱",
       "sort": 5
     },
     {
@@ -107,15 +107,15 @@
       "sort": 14
     },
     {
-      "tmdb_id": 1148365,
-      "tmdb_type": "movie",
-      "title": "火柴盒大电影",
-      "sort": 15
-    },
-    {
       "tmdb_id": 1422041,
       "tmdb_type": "movie",
       "title": "黑球",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1148365,
+      "tmdb_type": "movie",
+      "title": "火柴盒大电影",
       "sort": 16
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1671548,
+      "tmdb_id": 1381078,
       "tmdb_type": "movie",
-      "title": "给阿嬷的情书",
+      "title": "一生所爱",
       "sort": 20
     }
   ]

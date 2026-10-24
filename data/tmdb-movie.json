@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-23T13:11:30.483Z",
-  "total": 8,
+  "updated_at": "2026-10-24T01:25:00.554Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1561726,
@@ -32,27 +32,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1381078,
+      "tmdb_id": 1236045,
       "tmdb_type": "movie",
-      "title": "一生所爱",
+      "title": "人性本兽",
       "sort": 2
-    },
-    {
-      "tmdb_id": 1284186,
-      "tmdb_type": "movie",
-      "title": "牺牲",
-      "sort": 3
     },
     {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1381078,
+      "tmdb_type": "movie",
+      "title": "一生所爱",
       "sort": 4
     },
     {
-      "tmdb_id": 1623256,
+      "tmdb_id": 1284186,
       "tmdb_type": "movie",
-      "title": "风暴生日宴",
+      "title": "牺牲",
       "sort": 5
     },
     {
@@ -60,18 +60,6 @@
       "tmdb_type": "movie",
       "title": "非常治疗师",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1284186,
-      "tmdb_type": "movie",
-      "title": "牺牲",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 8
     }
   ]
 }
