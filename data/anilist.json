@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-25T00:54:29.085Z",
+  "updated_at": "2026-10-25T13:01:26.181Z",
   "total": 30,
   "list": [
     {
@@ -158,18 +158,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 297903
-      },
-      "tmdb_type": "tv",
-      "title": "PSYREN",
-      "sort": 18
-    },
-    {
-      "tmdb_id": {
         "tv": 333622
       },
       "tmdb_type": "tv",
       "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "sort": 18
+    },
+    {
+      "tmdb_id": {
+        "tv": 297903
+      },
+      "tmdb_type": "tv",
+      "title": "PSYREN",
       "sort": 19
     },
     {
@@ -230,18 +230,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 27
-    },
-    {
-      "tmdb_id": {
         "tv": 295420
       },
       "tmdb_type": "tv",
       "title": "The Vermilion Mask",
+      "sort": 27
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 28
     },
     {

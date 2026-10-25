@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-25T00:54:36.795Z",
+  "updated_at": "2026-10-25T13:01:32.650Z",
   "total": 7,
   "list": [
     {
@@ -32,33 +32,33 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1381078,
-      "tmdb_type": "movie",
-      "title": "一生所爱",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1236045,
-      "tmdb_type": "movie",
-      "title": "人性本兽",
-      "sort": 5
+      "sort": 2
     },
     {
       "tmdb_id": 1780005,
       "tmdb_type": "movie",
       "title": "抗击飓风",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1236045,
+      "tmdb_type": "movie",
+      "title": "人性本兽",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1084244,
+      "tmdb_type": "movie",
+      "title": "玩具总动员5",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1381078,
+      "tmdb_type": "movie",
+      "title": "一生所爱",
       "sort": 6
     },
     {
