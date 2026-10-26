@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-26T01:02:38.022Z",
-  "total": 7,
+  "updated_at": "2026-10-26T14:56:25.770Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1561726,
@@ -32,40 +32,28 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1236045,
-      "tmdb_type": "movie",
-      "title": "人性本兽",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1780005,
-      "tmdb_type": "movie",
-      "title": "抗击飓风",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1780005,
-      "tmdb_type": "movie",
-      "title": "抗击飓风",
-      "sort": 5
+      "sort": 2
     },
     {
       "tmdb_id": 1381078,
       "tmdb_type": "movie",
       "title": "一生所爱",
-      "sort": 6
+      "sort": 3
     },
     {
       "tmdb_id": 1453407,
       "tmdb_type": "movie",
       "title": "失控长夜",
-      "sort": 7
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1236045,
+      "tmdb_type": "movie",
+      "title": "人性本兽",
+      "sort": 5
     }
   ]
 }
