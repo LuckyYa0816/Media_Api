@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-26T14:56:43.007Z",
+  "updated_at": "2026-10-27T01:53:14.820Z",
   "total": 20,
   "list": [
     {
@@ -53,45 +53,45 @@
       "sort": 5
     },
     {
+      "tmdb_id": 338938,
+      "tmdb_type": "tv",
+      "title": "后会友期",
+      "sort": 6
+    },
+    {
       "tmdb_id": 301494,
       "tmdb_type": "tv",
       "title": "余红旧事",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 282326,
       "tmdb_type": "tv",
       "title": "兰香如故",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 338938,
-      "tmdb_type": "tv",
-      "title": "后会友期",
       "sort": 8
-    },
-    {
-      "tmdb_id": 294446,
-      "tmdb_type": "tv",
-      "title": "美人余",
-      "sort": 9
     },
     {
       "tmdb_id": 304452,
       "tmdb_type": "tv",
       "title": "玉簟秋",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": 288328,
       "tmdb_type": "tv",
       "title": "把黑夜点燃",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": 289078,
       "tmdb_type": "tv",
       "title": "我不是大师",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 294446,
+      "tmdb_type": "tv",
+      "title": "美人余",
       "sort": 12
     },
     {
@@ -103,31 +103,31 @@
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "看见豹之地·寻护者第二季",
-      "sort": 14
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
       "title": "现在就出发 第四季",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 290699,
       "tmdb_type": "tv",
       "title": "魅影神捕",
-      "sort": 16
+      "sort": 15
     },
     {
-      "tmdb_id": 339629,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "仿生迷踪",
-      "sort": 17
+      "title": "看见豹之地·寻护者第二季",
+      "sort": 16
     },
     {
       "tmdb_id": 272432,
       "tmdb_type": "tv",
       "title": "低智商犯罪",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 339629,
+      "tmdb_type": "tv",
+      "title": "仿生迷踪",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 261391,
+      "tmdb_id": null,
       "tmdb_type": "tv",
-      "title": "喜剧之王",
+      "title": "生命奇观2",
       "sort": 20
     }
   ]
