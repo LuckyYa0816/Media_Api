@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-27T01:52:48.368Z",
+  "updated_at": "2026-10-27T14:08:03.226Z",
   "total": 30,
   "list": [
     {
@@ -94,18 +94,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 237150
-      },
-      "tmdb_type": "tv",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "sort": 10
-    },
-    {
-      "tmdb_id": {
         "tv": 312359
       },
       "tmdb_type": "tv",
       "title": "Dragon Ball Super: Beerus",
+      "sort": 10
+    },
+    {
+      "tmdb_id": {
+        "tv": 237150
+      },
+      "tmdb_type": "tv",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "sort": 11
     },
     {
@@ -142,18 +142,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 117061
-      },
-      "tmdb_type": "tv",
-      "title": "The Detective Is Already Dead Season 2",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
         "tv": 126437
       },
       "tmdb_type": "tv",
       "title": "Aoashi Season 2",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
+        "tv": 117061
+      },
+      "tmdb_type": "tv",
+      "title": "The Detective Is Already Dead Season 2",
       "sort": 17
     },
     {
@@ -198,18 +198,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 311842
-      },
-      "tmdb_type": "tv",
-      "title": "FX Fighter Kurumi-chan",
-      "sort": 23
-    },
-    {
-      "tmdb_id": {
         "tv": 288588
       },
       "tmdb_type": "tv",
       "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "sort": 23
+    },
+    {
+      "tmdb_id": {
+        "tv": 311842
+      },
+      "tmdb_type": "tv",
+      "title": "FX Fighter Kurumi-chan",
       "sort": 24
     },
     {

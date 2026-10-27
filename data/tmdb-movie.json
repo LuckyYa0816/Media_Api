@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-27T01:52:54.700Z",
-  "total": 7,
+  "updated_at": "2026-10-27T14:08:09.543Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1108427,
@@ -32,40 +32,46 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1561726,
+      "tmdb_id": 1780005,
       "tmdb_type": "movie",
-      "title": "偷天父子兵",
+      "title": "抗击飓风",
       "sort": 2
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1561726,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "偷天父子兵",
       "sort": 3
     },
     {
-      "tmdb_id": 1453407,
+      "tmdb_id": 1780005,
       "tmdb_type": "movie",
-      "title": "失控长夜",
+      "title": "抗击飓风",
       "sort": 4
     },
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1561726,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "偷天父子兵",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1381078,
-      "tmdb_type": "movie",
-      "title": "一生所爱",
-      "sort": 6
     },
     {
       "tmdb_id": 1236045,
       "tmdb_type": "movie",
       "title": "人性本兽",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1381078,
+      "tmdb_type": "movie",
+      "title": "一生所爱",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1453407,
+      "tmdb_type": "movie",
+      "title": "失控长夜",
+      "sort": 8
     }
   ]
 }
