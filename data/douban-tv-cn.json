@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-10-27T14:08:34.923Z",
+  "updated_at": "2026-10-28T02:03:43.036Z",
   "total": 20,
   "list": [
     {
@@ -35,15 +35,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 289080,
-      "tmdb_type": "tv",
-      "title": "蒸蒸日上",
-      "sort": 3
-    },
-    {
       "tmdb_id": 279923,
       "tmdb_type": "tv",
       "title": "醉梦",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 289080,
+      "tmdb_type": "tv",
+      "title": "蒸蒸日上",
       "sort": 4
     },
     {
@@ -77,27 +77,27 @@
       "sort": 9
     },
     {
-      "tmdb_id": 288328,
-      "tmdb_type": "tv",
-      "title": "把黑夜点燃",
-      "sort": 10
-    },
-    {
       "tmdb_id": 289078,
       "tmdb_type": "tv",
       "title": "我不是大师",
-      "sort": 11
+      "sort": 10
     },
     {
-      "tmdb_id": 294446,
+      "tmdb_id": 288328,
       "tmdb_type": "tv",
-      "title": "美人余",
-      "sort": 12
+      "title": "把黑夜点燃",
+      "sort": 11
     },
     {
       "tmdb_id": 297253,
       "tmdb_type": "tv",
       "title": "伟大的长征",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 294446,
+      "tmdb_type": "tv",
+      "title": "美人余",
       "sort": 13
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 297982,
+      "tmdb_id": 225008,
       "tmdb_type": "tv",
-      "title": "无可替代",
+      "title": "漫长的季节",
       "sort": 19
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 294486,
       "tmdb_type": "tv",
-      "title": "生命奇观2",
+      "title": "交锋",
       "sort": 20
     }
   ]
