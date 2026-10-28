@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-28T02:03:30.200Z",
-  "total": 4,
+  "updated_at": "2026-10-28T14:56:02.279Z",
+  "total": 6,
   "list": [
     {
-      "tmdb_id": 1561726,
+      "tmdb_id": 1596275,
       "tmdb_type": "movie",
-      "title": "偷天父子兵",
+      "title": "极速：伪装者",
       "sort": 1
     },
     {
@@ -38,16 +38,28 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1453407,
+      "tmdb_id": 1780005,
       "tmdb_type": "movie",
-      "title": "失控长夜",
+      "title": "抗击飓风",
       "sort": 3
     },
     {
-      "tmdb_id": 1236045,
+      "tmdb_id": 1561726,
       "tmdb_type": "movie",
-      "title": "人性本兽",
+      "title": "偷天父子兵",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1084244,
+      "tmdb_type": "movie",
+      "title": "玩具总动员5",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1453407,
+      "tmdb_type": "movie",
+      "title": "失控长夜",
+      "sort": 6
     }
   ]
 }
