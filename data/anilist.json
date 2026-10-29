@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-10-29T02:13:37.624Z",
+  "updated_at": "2026-10-29T15:00:58.714Z",
   "total": 30,
   "list": [
     {
@@ -214,18 +214,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 259140
-      },
-      "tmdb_type": "tv",
-      "title": "Ranma1/2 (2024) Season 3",
-      "sort": 25
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 25
+    },
+    {
+      "tmdb_id": {
+        "tv": 259140
+      },
+      "tmdb_type": "tv",
+      "title": "Ranma1/2 (2024) Season 3",
       "sort": 26
     },
     {
