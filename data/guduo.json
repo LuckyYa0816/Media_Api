@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-10-28T14:57:04.089Z",
+  "updated_at": "2026-10-29T02:14:15.656Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -84,15 +84,15 @@
           "sort": 10
         },
         {
-          "tmdb_id": 296203,
-          "tmdb_type": "tv",
-          "title": "此处通往繁星",
-          "sort": 11
-        },
-        {
           "tmdb_id": 299952,
           "tmdb_type": "tv",
           "title": "早春晴朗",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 294990,
+          "tmdb_type": "tv",
+          "title": "一瓯春",
           "sort": 12
         },
         {
@@ -102,9 +102,9 @@
           "sort": 13
         },
         {
-          "tmdb_id": 294990,
+          "tmdb_id": 296203,
           "tmdb_type": "tv",
-          "title": "一瓯春",
+          "title": "此处通往繁星",
           "sort": 14
         },
         {
@@ -155,81 +155,81 @@
           "sort": 1
         },
         {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 2
-        },
-        {
           "tmdb_id": 101172,
           "tmdb_type": "tv",
           "title": "吞噬星空",
-          "sort": 3
+          "sort": 2
         },
         {
           "tmdb_id": 79481,
           "tmdb_type": "tv",
           "title": "斗破苍穹",
-          "sort": 4
+          "sort": 3
         },
         {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
-          "sort": 5
+          "sort": 4
         },
         {
-          "tmdb_id": 228429,
+          "tmdb_id": 236534,
           "tmdb_type": "tv",
-          "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 6
+          "title": "牧神记",
+          "sort": 5
         },
         {
           "tmdb_id": 281233,
           "tmdb_type": "tv",
           "title": "光阴之外",
-          "sort": 7
+          "sort": 6
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 146339,
-          "tmdb_type": "tv",
-          "title": "大王饶命",
-          "sort": 9
+          "sort": 7
         },
         {
           "tmdb_id": 124003,
           "tmdb_type": "tv",
           "title": "完美世界",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 303287,
-          "tmdb_type": "tv",
-          "title": "一斩苍穹",
-          "sort": 12
+          "sort": 8
         },
         {
           "tmdb_id": 224839,
           "tmdb_type": "tv",
           "title": "遮天",
-          "sort": 13
+          "sort": 9
+        },
+        {
+          "tmdb_id": 228429,
+          "tmdb_type": "tv",
+          "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 10
         },
         {
           "tmdb_id": 331477,
           "tmdb_type": "tv",
           "title": "一念永恒",
-          "sort": 14
+          "sort": 11
         },
         {
           "tmdb_id": 297923,
           "tmdb_type": "tv",
           "title": "灵境行者",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 303287,
+          "tmdb_type": "tv",
+          "title": "一斩苍穹",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 146339,
+          "tmdb_type": "tv",
+          "title": "大王饶命",
           "sort": 15
         },
         {
@@ -286,15 +286,15 @@
           "sort": 3
         },
         {
-          "tmdb_id": 126490,
-          "tmdb_type": "tv",
-          "title": "我家那闺女",
-          "sort": 4
-        },
-        {
           "tmdb_id": 106621,
           "tmdb_type": "tv",
           "title": "令人心动的offer",
+          "sort": 4
+        },
+        {
+          "tmdb_id": 126490,
+          "tmdb_type": "tv",
+          "title": "我家那闺女",
           "sort": 5
         },
         {
@@ -304,15 +304,15 @@
           "sort": 6
         },
         {
-          "tmdb_id": 103147,
+          "tmdb_id": 94773,
           "tmdb_type": "tv",
-          "title": "心动的信号",
+          "title": "舞蹈新风暴",
           "sort": 7
         },
         {
-          "tmdb_id": 331649,
+          "tmdb_id": 103147,
           "tmdb_type": "tv",
-          "title": "大哥小助理",
+          "title": "心动的信号",
           "sort": 8
         },
         {
@@ -322,27 +322,27 @@
           "sort": 9
         },
         {
-          "tmdb_id": 94773,
+          "tmdb_id": 331649,
           "tmdb_type": "tv",
-          "title": "舞蹈新风暴",
+          "title": "大哥小助理",
           "sort": 10
-        },
-        {
-          "tmdb_id": 239038,
-          "tmdb_type": "tv",
-          "title": "爱的修学旅行",
-          "sort": 11
         },
         {
           "tmdb_id": 304080,
           "tmdb_type": "tv",
           "title": "当家爸爸的聚会",
-          "sort": 12
+          "sort": 11
         },
         {
           "tmdb_id": 331306,
           "tmdb_type": "tv",
           "title": "毛雪汪26秋番",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 239038,
+          "tmdb_type": "tv",
+          "title": "爱的修学旅行",
           "sort": 13
         },
         {
@@ -358,21 +358,21 @@
           "sort": 15
         },
         {
-          "tmdb_id": 339557,
-          "tmdb_type": "tv",
-          "title": "超正的我们",
-          "sort": 16
-        },
-        {
           "tmdb_id": 296202,
           "tmdb_type": "tv",
           "title": "地球超新鲜",
-          "sort": 17
+          "sort": 16
         },
         {
           "tmdb_id": 296217,
           "tmdb_type": "tv",
           "title": "一饭封神",
+          "sort": 17
+        },
+        {
+          "tmdb_id": 339557,
+          "tmdb_type": "tv",
+          "title": "超正的我们",
           "sort": 18
         },
         {
@@ -411,15 +411,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 1800640,
-          "tmdb_type": "movie",
-          "title": "狄仁杰之不死军",
-          "sort": 6
-        },
-        {
           "tmdb_id": 1806163,
           "tmdb_type": "movie",
           "title": "秘室危情",
+          "sort": 6
+        },
+        {
+          "tmdb_id": 1800640,
+          "tmdb_type": "movie",
+          "title": "狄仁杰之不死军",
           "sort": 7
         },
         {

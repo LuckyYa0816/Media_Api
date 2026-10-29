@@ -22,25 +22,25 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-28T14:56:02.279Z",
-  "total": 6,
+  "updated_at": "2026-10-29T02:13:44.822Z",
+  "total": 5,
   "list": [
+    {
+      "tmdb_id": 1780005,
+      "tmdb_type": "movie",
+      "title": "抗击飓风",
+      "sort": 1
+    },
     {
       "tmdb_id": 1596275,
       "tmdb_type": "movie",
       "title": "极速：伪装者",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1780005,
-      "tmdb_type": "movie",
-      "title": "抗击飓风",
       "sort": 3
     },
     {
@@ -50,16 +50,10 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1453407,
       "tmdb_type": "movie",
       "title": "失控长夜",
-      "sort": 6
+      "sort": 5
     }
   ]
 }
