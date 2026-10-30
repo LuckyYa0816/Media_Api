@@ -22,31 +22,31 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-29T15:01:09.019Z",
-  "total": 6,
+  "updated_at": "2026-10-30T02:27:23.641Z",
+  "total": 5,
   "list": [
     {
       "tmdb_id": 1727734,
       "tmdb_type": "movie",
-      "title": "Ali G: 我系水？",
+      "title": "阿里·G：我是谁？",
       "sort": 1
-    },
-    {
-      "tmdb_id": 1596275,
-      "tmdb_type": "movie",
-      "title": "极速：伪装者",
-      "sort": 2
     },
     {
       "tmdb_id": 1780005,
       "tmdb_type": "movie",
       "title": "抗击飓风",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1596275,
+      "tmdb_type": "movie",
+      "title": "极速：伪装者",
       "sort": 3
     },
     {
-      "tmdb_id": 1108427,
+      "tmdb_id": 1084244,
       "tmdb_type": "movie",
-      "title": "海洋奇缘：启航",
+      "title": "玩具总动员5",
       "sort": 4
     },
     {
@@ -54,12 +54,6 @@
       "tmdb_type": "movie",
       "title": "偷天父子兵",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1084244,
-      "tmdb_type": "movie",
-      "title": "玩具总动员5",
-      "sort": 6
     }
   ]
 }
