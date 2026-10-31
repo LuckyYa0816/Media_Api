@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-10-30T14:55:21.853Z",
+  "updated_at": "2026-10-31T02:07:17.134Z",
   "total": 20,
   "list": [
     {
@@ -95,15 +95,15 @@
       "sort": 12
     },
     {
-      "tmdb_id": 1291595,
-      "tmdb_type": "movie",
-      "title": "潜伏6",
-      "sort": 13
-    },
-    {
       "tmdb_id": 1396674,
       "tmdb_type": "movie",
       "title": "一个部门的诞生",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1291595,
+      "tmdb_type": "movie",
+      "title": "潜伏6",
       "sort": 14
     },
     {
@@ -119,27 +119,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1491920,
-      "tmdb_type": "movie",
-      "title": "功夫女足",
-      "sort": 17
-    },
-    {
       "tmdb_id": 1503762,
       "tmdb_type": "movie",
       "title": "理智与情感",
-      "sort": 18
+      "sort": 17
     },
     {
-      "tmdb_id": 1236045,
+      "tmdb_id": 1491920,
       "tmdb_type": "movie",
-      "title": "人性本兽",
-      "sort": 19
+      "title": "功夫女足",
+      "sort": 18
     },
     {
       "tmdb_id": 1032863,
       "tmdb_type": "movie",
       "title": "爱情假说",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1240889,
+      "tmdb_type": "movie",
+      "title": "瘴气营地的青春性事与死亡",
       "sort": 20
     }
   ]

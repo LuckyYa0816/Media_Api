@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-30T14:54:21.646Z",
+  "updated_at": "2026-10-31T02:06:54.779Z",
   "total": 5,
   "list": [
-    {
-      "tmdb_id": 1727734,
-      "tmdb_type": "movie",
-      "title": "阿里·G：我系水？",
-      "sort": 1
-    },
     {
       "tmdb_id": 1596275,
       "tmdb_type": "movie",
       "title": "极速：伪装者",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1727734,
+      "tmdb_type": "movie",
+      "title": "阿里·G：我系水？",
       "sort": 2
     },
     {
