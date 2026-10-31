@@ -22,38 +22,62 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-10-31T02:06:54.779Z",
-  "total": 5,
+  "updated_at": "2026-10-31T14:23:22.248Z",
+  "total": 9,
   "list": [
+    {
+      "tmdb_id": 1507696,
+      "tmdb_type": "movie",
+      "title": "天启Z：新世界",
+      "sort": 1
+    },
     {
       "tmdb_id": 1596275,
       "tmdb_type": "movie",
       "title": "极速：伪装者",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1727734,
       "tmdb_type": "movie",
       "title": "阿里·G：我系水？",
-      "sort": 2
+      "sort": 3
     },
     {
-      "tmdb_id": 1780005,
+      "tmdb_id": 1571955,
       "tmdb_type": "movie",
-      "title": "抗击飓风",
-      "sort": 3
+      "title": "失控撞劫",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1789549,
+      "tmdb_type": "movie",
+      "title": "生日礼物",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1571955,
+      "tmdb_type": "movie",
+      "title": "失控撞劫",
+      "sort": 6
     },
     {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
-      "sort": 4
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1789549,
+      "tmdb_type": "movie",
+      "title": "生日礼物",
+      "sort": 8
     },
     {
       "tmdb_id": 1561726,
       "tmdb_type": "movie",
       "title": "偷天父子兵",
-      "sort": 5
+      "sort": 9
     }
   ]
 }
