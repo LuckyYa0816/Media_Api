@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-02T02:10:57.286Z",
+  "updated_at": "2026-11-02T17:58:46.977Z",
   "total": 20,
   "list": [
     {
@@ -35,111 +35,111 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1728590,
-      "tmdb_type": "movie",
-      "title": "无处安放我的双眼",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 1195803,
-      "tmdb_type": "movie",
-      "title": "柳条人",
-      "sort": 4
-    },
-    {
       "tmdb_id": 1669841,
       "tmdb_type": "movie",
       "title": "死神 千年血战篇 -祸进谭-",
-      "sort": 5
+      "sort": 3
     },
     {
       "tmdb_id": 1567937,
       "tmdb_type": "movie",
       "title": "空枪",
-      "sort": 6
+      "sort": 4
     },
     {
       "tmdb_id": 1563627,
       "tmdb_type": "movie",
       "title": "杯雪·一战成名",
-      "sort": 7
+      "sort": 5
     },
     {
       "tmdb_id": 1283515,
       "tmdb_type": "movie",
       "title": "不存在的罪人",
-      "sort": 8
+      "sort": 6
     },
     {
       "tmdb_id": 1089598,
       "tmdb_type": "movie",
       "title": "敦煌英雄",
-      "sort": 9
+      "sort": 7
     },
     {
       "tmdb_id": 1476614,
       "tmdb_type": "movie",
       "title": "突如其来",
-      "sort": 10
+      "sort": 8
     },
     {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
-      "sort": 11
+      "sort": 9
     },
     {
       "tmdb_id": 1288069,
       "tmdb_type": "movie",
       "title": "登峰传奇：丹增诺盖",
-      "sort": 12
+      "sort": 10
     },
     {
       "tmdb_id": 70981,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 13
+      "sort": 11
     },
     {
       "tmdb_id": 257211,
       "tmdb_type": "movie",
       "title": "实习生",
-      "sort": 14
+      "sort": 12
     },
     {
       "tmdb_id": 1503762,
       "tmdb_type": "movie",
       "title": "理智与情感",
-      "sort": 15
+      "sort": 13
     },
     {
       "tmdb_id": 1396674,
       "tmdb_type": "movie",
       "title": "一个部门的诞生",
-      "sort": 16
+      "sort": 14
     },
     {
       "tmdb_id": 1021848,
       "tmdb_type": "movie",
       "title": "茫然女王",
-      "sort": 17
+      "sort": 15
     },
     {
       "tmdb_id": 1291595,
       "tmdb_type": "movie",
       "title": "潜伏6",
-      "sort": 18
+      "sort": 16
     },
     {
       "tmdb_id": 1563608,
       "tmdb_type": "movie",
       "title": "什么意思夫妇",
-      "sort": 19
+      "sort": 17
     },
     {
       "tmdb_id": 1465063,
       "tmdb_type": "movie",
       "title": "忘却之岛",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1240889,
+      "tmdb_type": "movie",
+      "title": "瘴气营地的青春性事与死亡",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 1174334,
+      "tmdb_type": "movie",
+      "title": "大濛",
       "sort": 20
     }
   ]

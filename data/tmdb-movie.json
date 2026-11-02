@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-02T02:10:33.025Z",
+  "updated_at": "2026-11-02T17:58:24.318Z",
   "total": 7,
   "list": [
     {
@@ -32,27 +32,27 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1596275,
-      "tmdb_type": "movie",
-      "title": "假面恋人：换档追爱",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1571955,
       "tmdb_type": "movie",
       "title": "失控撞劫",
-      "sort": 3
+      "sort": 2
     },
     {
       "tmdb_id": 1727734,
       "tmdb_type": "movie",
       "title": "阿里·G：我是谁？",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1596275,
+      "tmdb_type": "movie",
+      "title": "假面恋人：换档追爱",
       "sort": 4
     },
     {
-      "tmdb_id": 1561726,
+      "tmdb_id": 1789549,
       "tmdb_type": "movie",
-      "title": "偷天父子兵",
+      "title": "生日礼物",
       "sort": 5
     },
     {
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1789549,
+      "tmdb_id": 1541477,
       "tmdb_type": "movie",
-      "title": "生日礼物",
+      "title": "我们好一点",
       "sort": 7
     }
   ]
