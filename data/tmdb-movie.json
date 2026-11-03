@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-03T03:51:59.944Z",
-  "total": 8,
+  "updated_at": "2026-11-03T15:57:15.985Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1507696,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1727734,
-      "tmdb_type": "movie",
-      "title": "阿里·G：我是谁？",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1571955,
       "tmdb_type": "movie",
       "title": "失控撞劫",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1727734,
+      "tmdb_type": "movie",
+      "title": "阿里·G：我是谁？",
       "sort": 3
     },
     {
@@ -62,16 +62,10 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1257147,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "熟龄闺蜜出走记",
       "sort": 7
-    },
-    {
-      "tmdb_id": 1541477,
-      "tmdb_type": "movie",
-      "title": "我们好一点",
-      "sort": 8
     }
   ]
 }
