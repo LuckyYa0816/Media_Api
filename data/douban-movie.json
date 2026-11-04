@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-03T15:57:44.576Z",
+  "updated_at": "2026-11-04T02:57:24.684Z",
   "total": 20,
   "list": [
     {
@@ -47,15 +47,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1567937,
+      "tmdb_id": 1380417,
       "tmdb_type": "movie",
-      "title": "空枪",
+      "title": "不择手段",
       "sort": 5
     },
     {
-      "tmdb_id": 1563627,
+      "tmdb_id": 1567937,
       "tmdb_type": "movie",
-      "title": "杯雪·一战成名",
+      "title": "空枪",
       "sort": 6
     },
     {
@@ -71,75 +71,75 @@
       "sort": 8
     },
     {
+      "tmdb_id": 1563627,
+      "tmdb_type": "movie",
+      "title": "杯雪·一战成名",
+      "sort": 9
+    },
+    {
       "tmdb_id": 1476614,
       "tmdb_type": "movie",
       "title": "突如其来",
-      "sort": 9
+      "sort": 10
+    },
+    {
+      "tmdb_id": 1423191,
+      "tmdb_type": "movie",
+      "title": "生化危机：爆发夜",
+      "sort": 11
     },
     {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
-      "sort": 10
+      "sort": 12
     },
     {
       "tmdb_id": 1288069,
       "tmdb_type": "movie",
       "title": "登峰传奇：丹增诺盖",
-      "sort": 11
+      "sort": 13
     },
     {
-      "tmdb_id": 70981,
+      "tmdb_id": 1176962,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 12
+      "sort": 14
     },
     {
       "tmdb_id": 257211,
       "tmdb_type": "movie",
       "title": "实习生",
-      "sort": 13
+      "sort": 15
     },
     {
       "tmdb_id": 1503762,
       "tmdb_type": "movie",
       "title": "理智与情感",
-      "sort": 14
+      "sort": 16
     },
     {
       "tmdb_id": 1021848,
       "tmdb_type": "movie",
       "title": "茫然女王",
-      "sort": 15
+      "sort": 17
     },
     {
       "tmdb_id": 1396674,
       "tmdb_type": "movie",
       "title": "一个部门的诞生",
-      "sort": 16
+      "sort": 18
     },
     {
       "tmdb_id": 1465063,
       "tmdb_type": "movie",
       "title": "忘却之岛",
-      "sort": 17
+      "sort": 19
     },
     {
       "tmdb_id": 1291595,
       "tmdb_type": "movie",
       "title": "潜伏6",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1240889,
-      "tmdb_type": "movie",
-      "title": "瘴气营地的青春性事与死亡",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1174334,
-      "tmdb_type": "movie",
-      "title": "大濛",
       "sort": 20
     }
   ]
