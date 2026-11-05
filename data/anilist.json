@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-05T03:18:22.187Z",
+  "updated_at": "2026-11-05T16:15:49.399Z",
   "total": 30,
   "list": [
     {
@@ -102,18 +102,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 237150
-      },
-      "tmdb_type": "tv",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "sort": 11
-    },
-    {
-      "tmdb_id": {
         "tv": 313068
       },
       "tmdb_type": "tv",
       "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 237150
+      },
+      "tmdb_type": "tv",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "sort": 12
     },
     {

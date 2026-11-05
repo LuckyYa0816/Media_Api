@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-05T03:18:30.121Z",
+  "updated_at": "2026-11-05T16:15:56.918Z",
   "total": 7,
   "list": [
     {
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1571955,
+      "tmdb_id": 1570488,
       "tmdb_type": "movie",
-      "title": "失控撞劫",
+      "title": "狗狗的完美圣诞节",
       "sort": 2
     },
     {
-      "tmdb_id": 1596275,
+      "tmdb_id": 1571955,
       "tmdb_type": "movie",
-      "title": "假面恋人：换档追爱",
+      "title": "失控撞劫",
       "sort": 3
     },
     {
@@ -50,21 +50,21 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1596275,
+      "tmdb_type": "movie",
+      "title": "假面恋人：换档追爱",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1789549,
       "tmdb_type": "movie",
       "title": "生日礼物",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1108427,
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1541477,
-      "tmdb_type": "movie",
-      "title": "我们好一点",
       "sort": 7
     }
   ]
