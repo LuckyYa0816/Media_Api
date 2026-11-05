@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-04T16:01:12.999Z",
-  "total": 6,
+  "updated_at": "2026-11-05T03:18:30.121Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1507696,
@@ -44,15 +44,15 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1789549,
+      "tmdb_id": 1727734,
       "tmdb_type": "movie",
-      "title": "生日礼物",
+      "title": "阿里·G：我是谁？",
       "sort": 4
     },
     {
-      "tmdb_id": 1257147,
+      "tmdb_id": 1789549,
       "tmdb_type": "movie",
-      "title": "熟龄闺蜜出走记",
+      "title": "生日礼物",
       "sort": 5
     },
     {
@@ -60,6 +60,12 @@
       "tmdb_type": "movie",
       "title": "海洋奇缘：启航",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1541477,
+      "tmdb_type": "movie",
+      "title": "我们好一点",
+      "sort": 7
     }
   ]
 }

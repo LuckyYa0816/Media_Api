@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-04T16:01:54.912Z",
+  "updated_at": "2026-11-05T03:18:52.800Z",
   "total": 20,
   "list": [
     {
@@ -29,9 +29,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1514026,
+      "tmdb_id": 1567937,
       "tmdb_type": "movie",
-      "title": "逃出布迪秀",
+      "title": "空枪",
       "sort": 2
     },
     {
@@ -47,51 +47,51 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1380417,
+      "tmdb_id": 1514026,
       "tmdb_type": "movie",
-      "title": "不择手段",
+      "title": "逃出布迪秀",
       "sort": 5
-    },
-    {
-      "tmdb_id": 1567937,
-      "tmdb_type": "movie",
-      "title": "空枪",
-      "sort": 6
     },
     {
       "tmdb_id": 1283515,
       "tmdb_type": "movie",
       "title": "不存在的罪人",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": 1089598,
       "tmdb_type": "movie",
       "title": "敦煌英雄",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": 1563627,
       "tmdb_type": "movie",
       "title": "杯雪·一战成名",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 1476614,
       "tmdb_type": "movie",
       "title": "突如其来",
-      "sort": 10
+      "sort": 9
     },
     {
       "tmdb_id": 1423191,
       "tmdb_type": "movie",
       "title": "生化危机：爆发夜",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1375441,
+      "tmdb_type": "movie",
+      "title": "黄金时段",
       "sort": 12
     },
     {
@@ -113,15 +113,15 @@
       "sort": 15
     },
     {
-      "tmdb_id": 1503762,
-      "tmdb_type": "movie",
-      "title": "理智与情感",
-      "sort": 16
-    },
-    {
       "tmdb_id": 1021848,
       "tmdb_type": "movie",
       "title": "茫然女王",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1503762,
+      "tmdb_type": "movie",
+      "title": "理智与情感",
       "sort": 17
     },
     {
