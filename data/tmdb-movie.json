@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-05T16:15:56.918Z",
+  "updated_at": "2026-11-06T03:17:23.222Z",
   "total": 7,
   "list": [
     {
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1570488,
-      "tmdb_type": "movie",
-      "title": "狗狗的完美圣诞节",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1571955,
       "tmdb_type": "movie",
       "title": "失控撞劫",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1570488,
+      "tmdb_type": "movie",
+      "title": "狗狗的完美圣诞节",
       "sort": 3
     },
     {
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1108427,
+      "tmdb_id": 1257147,
       "tmdb_type": "movie",
-      "title": "海洋奇缘：启航",
+      "title": "熟龄闺蜜出走记",
       "sort": 7
     }
   ]

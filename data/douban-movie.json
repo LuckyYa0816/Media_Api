@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-05T16:16:22.609Z",
+  "updated_at": "2026-11-06T03:17:45.265Z",
   "total": 20,
   "list": [
     {
@@ -41,45 +41,45 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1669841,
+      "tmdb_id": 1089598,
       "tmdb_type": "movie",
-      "title": "死神 千年血战篇 -祸进谭-",
+      "title": "敦煌英雄",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1514026,
-      "tmdb_type": "movie",
-      "title": "逃出布迪秀",
-      "sort": 5
     },
     {
       "tmdb_id": 1283515,
       "tmdb_type": "movie",
       "title": "不存在的罪人",
-      "sort": 6
+      "sort": 5
     },
     {
-      "tmdb_id": 1089598,
+      "tmdb_id": 1514026,
       "tmdb_type": "movie",
-      "title": "敦煌英雄",
-      "sort": 7
+      "title": "逃出布迪秀",
+      "sort": 6
     },
     {
       "tmdb_id": 1563627,
       "tmdb_type": "movie",
       "title": "杯雪·一战成名",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": 1476614,
       "tmdb_type": "movie",
       "title": "突如其来",
-      "sort": 9
+      "sort": 8
     },
     {
       "tmdb_id": 1423191,
       "tmdb_type": "movie",
       "title": "生化危机：爆发夜",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 451713,
+      "tmdb_type": "movie",
+      "title": "可能的爱",
       "sort": 10
     },
     {
@@ -95,21 +95,21 @@
       "sort": 12
     },
     {
+      "tmdb_id": 1444590,
+      "tmdb_type": "movie",
+      "title": "燃烧吧！爸爸",
+      "sort": 13
+    },
+    {
       "tmdb_id": 1288069,
       "tmdb_type": "movie",
       "title": "登峰传奇：丹增诺盖",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": 70981,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 257211,
-      "tmdb_type": "movie",
-      "title": "实习生",
       "sort": 15
     },
     {
@@ -119,15 +119,15 @@
       "sort": 16
     },
     {
-      "tmdb_id": 1503762,
+      "tmdb_id": 257211,
       "tmdb_type": "movie",
-      "title": "理智与情感",
+      "title": "实习生",
       "sort": 17
     },
     {
-      "tmdb_id": 1396674,
+      "tmdb_id": 1503762,
       "tmdb_type": "movie",
-      "title": "一个部门的诞生",
+      "title": "理智与情感",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 1291595,
+      "tmdb_id": 1396674,
       "tmdb_type": "movie",
-      "title": "潜伏6",
+      "title": "一个部门的诞生",
       "sort": 20
     }
   ]
