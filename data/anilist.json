@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-07T02:37:15.531Z",
+  "updated_at": "2026-11-07T14:45:05.581Z",
   "total": 30,
   "list": [
     {
@@ -238,18 +238,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 261343
-      },
-      "tmdb_type": "tv",
-      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
-      "sort": 28
-    },
-    {
-      "tmdb_id": {
         "tv": 284580
       },
       "tmdb_type": "tv",
       "title": "A Certain Dark Item",
+      "sort": 28
+    },
+    {
+      "tmdb_id": {
+        "tv": 261343
+      },
+      "tmdb_type": "tv",
+      "title": "Chitose Is in the Ramune Bottle 2nd Cour",
       "sort": 29
     },
     {
