@@ -27,13 +27,13 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-06T15:45:29.694Z",
-  "total": 16,
+  "updated_at": "2026-11-07T02:37:20.589Z",
+  "total": 20,
   "list": [
     {
-      "tmdb_id": 303044,
+      "tmdb_id": 213375,
       "tmdb_type": "tv",
-      "title": "校园司机",
+      "title": "幻视任务",
       "sort": 1
     },
     {
@@ -43,21 +43,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 213375,
-      "tmdb_type": "tv",
-      "title": "幻视任务",
-      "sort": 3
-    },
-    {
       "tmdb_id": 258989,
       "tmdb_type": "tv",
       "title": "The Greatest",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 96677,
       "tmdb_type": "tv",
       "title": "Lupin",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 303044,
+      "tmdb_type": "tv",
+      "title": "校园接送恋曲",
       "sort": 5
     },
     {
@@ -67,9 +67,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 120911,
+      "tmdb_id": 105248,
       "tmdb_type": "tv",
-      "title": "The Terminal List",
+      "title": "赛博朋克：边缘行者",
       "sort": 7
     },
     {
@@ -79,52 +79,76 @@
       "sort": 8
     },
     {
-      "tmdb_id": 105248,
+      "tmdb_id": 288673,
       "tmdb_type": "tv",
-      "title": "赛博朋克：边缘行者",
+      "title": "魔女嘉莉",
       "sort": 9
-    },
-    {
-      "tmdb_id": 66732,
-      "tmdb_type": "tv",
-      "title": "怪奇物语",
-      "sort": 10
     },
     {
       "tmdb_id": 1413,
       "tmdb_type": "tv",
       "title": "美国恐怖故事",
-      "sort": 11
+      "sort": 10
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 288673,
-      "tmdb_type": "tv",
-      "title": "魔女嘉莉",
-      "sort": 13
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 232018,
-      "tmdb_type": "tv",
-      "title": "巴黎陷落",
-      "sort": 15
+      "sort": 11
     },
     {
       "tmdb_id": 258742,
       "tmdb_type": "tv",
       "title": "诉讼女王",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 84773,
+      "tmdb_type": "tv",
+      "title": "指环王：力量之戒",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 124364,
+      "tmdb_type": "tv",
+      "title": "梦魇绝镇",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 336240,
+      "tmdb_type": "tv",
+      "title": "换谎夫妻",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
       "sort": 16
+    },
+    {
+      "tmdb_id": 66732,
+      "tmdb_type": "tv",
+      "title": "怪奇物语",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 249023,
+      "tmdb_type": "tv",
+      "title": "极北以北",
+      "sort": 20
     }
   ]
 }

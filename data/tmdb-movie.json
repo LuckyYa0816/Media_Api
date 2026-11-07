@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-06T15:45:32.115Z",
-  "total": 9,
+  "updated_at": "2026-11-07T02:37:23.512Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1507696,
@@ -44,40 +44,34 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1654940,
-      "tmdb_type": "movie",
-      "title": "余命一年买男人",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1630420,
-      "tmdb_type": "movie",
-      "title": "浮夸特工队",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1727734,
       "tmdb_type": "movie",
       "title": "阿里·G：我是谁？",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1257147,
-      "tmdb_type": "movie",
-      "title": "熟龄闺蜜出走记",
-      "sort": 7
+      "sort": 4
     },
     {
       "tmdb_id": 1789549,
       "tmdb_type": "movie",
       "title": "生日礼物",
-      "sort": 8
+      "sort": 5
     },
     {
-      "tmdb_id": 1596275,
+      "tmdb_id": 1257147,
       "tmdb_type": "movie",
-      "title": "假面恋人：换档追爱",
-      "sort": 9
+      "title": "熟龄闺蜜出走记",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 1654940,
+      "tmdb_type": "movie",
+      "title": "余命一年买男人",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1630420,
+      "tmdb_type": "movie",
+      "title": "浮夸特攻队",
+      "sort": 8
     }
   ]
 }

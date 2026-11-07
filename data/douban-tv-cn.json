@@ -19,19 +19,19 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-06T15:46:01.046Z",
+  "updated_at": "2026-11-07T02:37:35.936Z",
   "total": 20,
   "list": [
-    {
-      "tmdb_id": 285625,
-      "tmdb_type": "tv",
-      "title": "小城良方",
-      "sort": 1
-    },
     {
       "tmdb_id": 338938,
       "tmdb_type": "tv",
       "title": "后会友期",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 285625,
+      "tmdb_type": "tv",
+      "title": "小城良方",
       "sort": 2
     },
     {
@@ -47,57 +47,57 @@
       "sort": 4
     },
     {
+      "tmdb_id": 279155,
+      "tmdb_type": "tv",
+      "title": "谷雨",
+      "sort": 5
+    },
+    {
       "tmdb_id": 289080,
       "tmdb_type": "tv",
       "title": "蒸蒸日上",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 286171,
       "tmdb_type": "tv",
       "title": "尚公主",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 275297,
       "tmdb_type": "tv",
       "title": "走马上任",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 279155,
-      "tmdb_type": "tv",
-      "title": "谷雨",
       "sort": 8
-    },
-    {
-      "tmdb_id": 304452,
-      "tmdb_type": "tv",
-      "title": "玉簟秋",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 301494,
-      "tmdb_type": "tv",
-      "title": "余红旧事",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 282326,
-      "tmdb_type": "tv",
-      "title": "兰香如故",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 279923,
-      "tmdb_type": "tv",
-      "title": "醉梦",
-      "sort": 12
     },
     {
       "tmdb_id": 270431,
       "tmdb_type": "tv",
       "title": "折月亮",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 282326,
+      "tmdb_type": "tv",
+      "title": "兰香如故",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 304452,
+      "tmdb_type": "tv",
+      "title": "玉簟秋",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 301494,
+      "tmdb_type": "tv",
+      "title": "余红旧事",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 279923,
+      "tmdb_type": "tv",
+      "title": "醉梦",
       "sort": 13
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
-      "tmdb_id": 294446,
-      "tmdb_type": "tv",
-      "title": "美人余",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 68034,
-      "tmdb_type": "tv",
-      "title": "大明王朝1566",
-      "sort": 17
-    },
-    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "骑有此理 第四季",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 259785,
-      "tmdb_type": "tv",
-      "title": "鉴定",
-      "sort": 19
+      "sort": 16
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "人生一串 第四季",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 68034,
+      "tmdb_type": "tv",
+      "title": "大明王朝1566",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 294446,
+      "tmdb_type": "tv",
+      "title": "美人余",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 259785,
+      "tmdb_type": "tv",
+      "title": "鉴定",
       "sort": 20
     }
   ]
