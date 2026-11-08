@@ -27,13 +27,13 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-07T14:45:10.193Z",
-  "total": 16,
+  "updated_at": "2026-11-08T02:07:33.152Z",
+  "total": 21,
   "list": [
     {
-      "tmdb_id": 225385,
+      "tmdb_id": 96677,
       "tmdb_type": "tv",
-      "title": "黑鸽",
+      "title": "Lupin",
       "sort": 1
     },
     {
@@ -43,15 +43,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 258989,
+      "tmdb_id": 225385,
       "tmdb_type": "tv",
-      "title": "The Greatest",
+      "title": "黑鸽",
       "sort": 3
     },
     {
-      "tmdb_id": 96677,
+      "tmdb_id": 258989,
       "tmdb_type": "tv",
-      "title": "Lupin",
+      "title": "The Greatest",
       "sort": 4
     },
     {
@@ -79,15 +79,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 258742,
+      "tmdb_id": 1413,
       "tmdb_type": "tv",
-      "title": "诉讼女王",
+      "title": "美国恐怖故事",
       "sort": 9
     },
     {
-      "tmdb_id": 84773,
+      "tmdb_id": 108978,
       "tmdb_type": "tv",
-      "title": "指环王：力量之戒",
+      "title": "侠探杰克",
       "sort": 10
     },
     {
@@ -97,34 +97,64 @@
       "sort": 11
     },
     {
-      "tmdb_id": 108978,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "侠探杰克",
+      "title": "菜鸟老警",
       "sort": 12
-    },
-    {
-      "tmdb_id": 336240,
-      "tmdb_type": "tv",
-      "title": "换谎夫妻",
-      "sort": 13
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 65334,
+      "tmdb_type": "tv",
+      "title": "奇迹少女",
       "sort": 14
     },
     {
-      "tmdb_id": 75219,
+      "tmdb_id": 387,
       "tmdb_type": "tv",
-      "title": "紧急呼救",
+      "title": "海绵宝宝",
       "sort": 15
+    },
+    {
+      "tmdb_id": 253372,
+      "tmdb_type": "tv",
+      "title": "研究院",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 258742,
+      "tmdb_type": "tv",
+      "title": "诉讼女王",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 336240,
+      "tmdb_type": "tv",
+      "title": "换谎夫妻",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 4614,
+      "tmdb_type": "tv",
+      "title": "海军罪案调查处",
+      "sort": 20
     },
     {
       "tmdb_id": 249023,
       "tmdb_type": "tv",
       "title": "极北以北",
-      "sort": 16
+      "sort": 21
     }
   ]
 }

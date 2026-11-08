@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-07T14:45:13.095Z",
+  "updated_at": "2026-11-08T02:07:36.456Z",
   "total": 9,
   "list": [
     {
@@ -38,45 +38,45 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1571955,
-      "tmdb_type": "movie",
-      "title": "失控撞劫",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1570488,
       "tmdb_type": "movie",
       "title": "狗狗的完美圣诞节",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1571955,
+      "tmdb_type": "movie",
+      "title": "失控撞劫",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1789549,
-      "tmdb_type": "movie",
-      "title": "生日礼物",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1654940,
-      "tmdb_type": "movie",
-      "title": "余命一年买男人",
-      "sort": 6
     },
     {
       "tmdb_id": 1257147,
       "tmdb_type": "movie",
       "title": "熟龄闺蜜出走记",
-      "sort": 7
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1596275,
+      "tmdb_type": "movie",
+      "title": "假面恋人：换档追爱",
+      "sort": 6
     },
     {
       "tmdb_id": 1727734,
       "tmdb_type": "movie",
       "title": "阿里·G：我是谁？",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1789549,
+      "tmdb_type": "movie",
+      "title": "生日礼物",
       "sort": 8
     },
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1654940,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "余命一年买男人",
       "sort": 9
     }
   ]

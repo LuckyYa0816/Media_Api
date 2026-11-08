@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-07T14:45:30.483Z",
+  "updated_at": "2026-11-08T02:07:48.294Z",
   "total": 20,
   "list": [
     {
@@ -35,81 +35,81 @@
       "sort": 2
     },
     {
-      "tmdb_id": 300146,
+      "tmdb_id": 307853,
       "tmdb_type": "tv",
-      "title": "嫁金钗",
+      "title": "今天是太阳雨",
       "sort": 3
-    },
-    {
-      "tmdb_id": 297253,
-      "tmdb_type": "tv",
-      "title": "伟大的长征",
-      "sort": 4
     },
     {
       "tmdb_id": 279155,
       "tmdb_type": "tv",
       "title": "谷雨",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 300146,
+      "tmdb_type": "tv",
+      "title": "嫁金钗",
       "sort": 5
     },
     {
-      "tmdb_id": 289080,
+      "tmdb_id": 297253,
       "tmdb_type": "tv",
-      "title": "蒸蒸日上",
+      "title": "伟大的长征",
       "sort": 6
-    },
-    {
-      "tmdb_id": 286171,
-      "tmdb_type": "tv",
-      "title": "尚公主",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 275297,
-      "tmdb_type": "tv",
-      "title": "走马上任",
-      "sort": 8
     },
     {
       "tmdb_id": 270431,
       "tmdb_type": "tv",
       "title": "折月亮",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 289080,
+      "tmdb_type": "tv",
+      "title": "蒸蒸日上",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 286171,
+      "tmdb_type": "tv",
+      "title": "尚公主",
       "sort": 9
     },
     {
-      "tmdb_id": 282326,
+      "tmdb_id": 275297,
       "tmdb_type": "tv",
-      "title": "兰香如故",
+      "title": "走马上任",
       "sort": 10
-    },
-    {
-      "tmdb_id": 304452,
-      "tmdb_type": "tv",
-      "title": "玉簟秋",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 301494,
-      "tmdb_type": "tv",
-      "title": "余红旧事",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 279923,
-      "tmdb_type": "tv",
-      "title": "醉梦",
-      "sort": 13
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "现在就出发 第四季",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 282326,
+      "tmdb_type": "tv",
+      "title": "兰香如故",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 301494,
+      "tmdb_type": "tv",
+      "title": "余红旧事",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 279923,
+      "tmdb_type": "tv",
+      "title": "醉梦",
       "sort": 14
     },
     {
-      "tmdb_id": 289078,
+      "tmdb_id": 304452,
       "tmdb_type": "tv",
-      "title": "我不是大师",
+      "title": "玉簟秋",
       "sort": 15
     },
     {
@@ -119,9 +119,9 @@
       "sort": 16
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 289078,
       "tmdb_type": "tv",
-      "title": "人生一串 第四季",
+      "title": "我不是大师",
       "sort": 17
     },
     {
@@ -131,15 +131,15 @@
       "sort": 18
     },
     {
-      "tmdb_id": 294446,
+      "tmdb_id": 272432,
       "tmdb_type": "tv",
-      "title": "美人余",
+      "title": "低智商犯罪",
       "sort": 19
     },
     {
-      "tmdb_id": 259785,
+      "tmdb_id": 294446,
       "tmdb_type": "tv",
-      "title": "鉴定",
+      "title": "美人余",
       "sort": 20
     }
   ]
