@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-08T02:07:36.456Z",
+  "updated_at": "2026-11-08T14:51:41.758Z",
   "total": 9,
   "list": [
     {
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1507696,
-      "tmdb_type": "movie",
-      "title": "天启Z：新世界",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1570488,
       "tmdb_type": "movie",
       "title": "狗狗的完美圣诞节",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1507696,
+      "tmdb_type": "movie",
+      "title": "天启Z：新世界",
       "sort": 3
     },
     {
@@ -50,15 +50,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1257147,
+      "tmdb_id": 1571955,
       "tmdb_type": "movie",
-      "title": "熟龄闺蜜出走记",
+      "title": "失控撞劫",
       "sort": 5
     },
     {
-      "tmdb_id": 1596275,
+      "tmdb_id": 1654940,
       "tmdb_type": "movie",
-      "title": "假面恋人：换档追爱",
+      "title": "余命一年买男人",
       "sort": 6
     },
     {
@@ -68,15 +68,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1789549,
+      "tmdb_id": 1630420,
       "tmdb_type": "movie",
-      "title": "生日礼物",
+      "title": "浮夸特攻队",
       "sort": 8
     },
     {
-      "tmdb_id": 1654940,
+      "tmdb_id": 1108427,
       "tmdb_type": "movie",
-      "title": "余命一年买男人",
+      "title": "海洋奇缘：启航",
       "sort": 9
     }
   ]

@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-08T02:07:27.707Z",
+  "updated_at": "2026-11-08T14:51:33.598Z",
   "total": 30,
   "list": [
     {
@@ -38,18 +38,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 207347
-      },
-      "tmdb_type": "tv",
-      "title": "Blue Box Season 2",
-      "sort": 3
-    },
-    {
-      "tmdb_id": {
         "tv": 320909
       },
       "tmdb_type": "tv",
       "title": "Firefly Wedding",
+      "sort": 3
+    },
+    {
+      "tmdb_id": {
+        "tv": 207347
+      },
+      "tmdb_type": "tv",
+      "title": "Blue Box Season 2",
       "sort": 4
     },
     {

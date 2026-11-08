@@ -27,13 +27,13 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-08T02:07:33.152Z",
-  "total": 21,
+  "updated_at": "2026-11-08T14:51:39.047Z",
+  "total": 22,
   "list": [
     {
-      "tmdb_id": 96677,
+      "tmdb_id": 225385,
       "tmdb_type": "tv",
-      "title": "Lupin",
+      "title": "黑鸽",
       "sort": 1
     },
     {
@@ -43,15 +43,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 225385,
-      "tmdb_type": "tv",
-      "title": "黑鸽",
-      "sort": 3
-    },
-    {
       "tmdb_id": 258989,
       "tmdb_type": "tv",
       "title": "The Greatest",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 96677,
+      "tmdb_type": "tv",
+      "title": "Lupin",
       "sort": 4
     },
     {
@@ -67,9 +67,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 288673,
+      "tmdb_id": 253372,
       "tmdb_type": "tv",
-      "title": "魔女嘉莉",
+      "title": "研究院",
       "sort": 7
     },
     {
@@ -79,82 +79,88 @@
       "sort": 8
     },
     {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 108978,
-      "tmdb_type": "tv",
-      "title": "侠探杰克",
-      "sort": 10
-    },
-    {
       "tmdb_id": 105248,
       "tmdb_type": "tv",
       "title": "赛博朋克：边缘行者",
-      "sort": 11
+      "sort": 9
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 84773,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
-      "sort": 12
+      "title": "指环王：力量之戒",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 2734,
+      "tmdb_type": "tv",
+      "title": "法律与秩序：特殊受害者",
+      "sort": 11
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 288673,
+      "tmdb_type": "tv",
+      "title": "魔女嘉莉",
       "sort": 13
-    },
-    {
-      "tmdb_id": 65334,
-      "tmdb_type": "tv",
-      "title": "奇迹少女",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 253372,
-      "tmdb_type": "tv",
-      "title": "研究院",
-      "sort": 16
     },
     {
       "tmdb_id": 258742,
       "tmdb_type": "tv",
       "title": "诉讼女王",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 60625,
+      "tmdb_type": "tv",
+      "title": "瑞克和莫蒂",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1413,
+      "tmdb_type": "tv",
+      "title": "美国恐怖故事",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 4656,
+      "tmdb_type": "tv",
+      "title": "WWE Raw",
       "sort": 17
-    },
-    {
-      "tmdb_id": 336240,
-      "tmdb_type": "tv",
-      "title": "换谎夫妻",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 19
     },
     {
       "tmdb_id": 4614,
       "tmdb_type": "tv",
       "title": "海军罪案调查处",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 285322,
+      "tmdb_type": "tv",
+      "title": "暗潮之下",
       "sort": 20
     },
     {
-      "tmdb_id": 249023,
+      "tmdb_id": 79744,
       "tmdb_type": "tv",
-      "title": "极北以北",
+      "title": "菜鸟老警",
       "sort": 21
+    },
+    {
+      "tmdb_id": 273247,
+      "tmdb_type": "tv",
+      "title": "独家黑幕",
+      "sort": 22
     }
   ]
 }
