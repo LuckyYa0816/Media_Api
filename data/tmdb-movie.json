@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-08T14:51:41.758Z",
-  "total": 9,
+  "updated_at": "2026-11-09T02:28:51.466Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1483525,
@@ -38,46 +38,34 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1507696,
+      "tmdb_id": 1571955,
       "tmdb_type": "movie",
-      "title": "天启Z：新世界",
+      "title": "失控撞劫",
       "sort": 3
     },
     {
-      "tmdb_id": 1571955,
+      "tmdb_id": 1507696,
       "tmdb_type": "movie",
-      "title": "失控撞劫",
+      "title": "天启Z：新世界",
       "sort": 4
-    },
-    {
-      "tmdb_id": 1571955,
-      "tmdb_type": "movie",
-      "title": "失控撞劫",
-      "sort": 5
     },
     {
       "tmdb_id": 1654940,
       "tmdb_type": "movie",
       "title": "余命一年买男人",
-      "sort": 6
+      "sort": 5
     },
     {
-      "tmdb_id": 1727734,
+      "tmdb_id": 1257147,
       "tmdb_type": "movie",
-      "title": "阿里·G：我是谁？",
-      "sort": 7
+      "title": "熟龄闺蜜出走记",
+      "sort": 6
     },
     {
       "tmdb_id": 1630420,
       "tmdb_type": "movie",
       "title": "浮夸特攻队",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1108427,
-      "tmdb_type": "movie",
-      "title": "海洋奇缘：启航",
-      "sort": 9
+      "sort": 7
     }
   ]
 }
