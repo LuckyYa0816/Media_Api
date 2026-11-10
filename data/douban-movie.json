@@ -19,11 +19,11 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-09T18:28:53.155Z",
+  "updated_at": "2026-11-10T04:31:17.168Z",
   "total": 20,
   "list": [
     {
-      "tmdb_id": 451713,
+      "tmdb_id": 1483525,
       "tmdb_type": "movie",
       "title": "可能的爱",
       "sort": 1
@@ -35,9 +35,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1549824,
+      "tmdb_id": 1629051,
       "tmdb_type": "movie",
-      "title": "门牙",
+      "title": "入夜不再",
       "sort": 3
     },
     {
@@ -65,81 +65,81 @@
       "sort": 7
     },
     {
+      "tmdb_id": 1263337,
+      "tmdb_type": "movie",
+      "title": "野兽之心",
+      "sort": 8
+    },
+    {
       "tmdb_id": 1567937,
       "tmdb_type": "movie",
       "title": "空枪",
-      "sort": 8
+      "sort": 9
     },
     {
       "tmdb_id": 1423191,
       "tmdb_type": "movie",
       "title": "生化危机：爆发夜",
-      "sort": 9
-    },
-    {
-      "tmdb_id": 1563627,
-      "tmdb_type": "movie",
-      "title": "杯雪·一战成名",
       "sort": 10
-    },
-    {
-      "tmdb_id": 1263337,
-      "tmdb_type": "movie",
-      "title": "野兽之心",
-      "sort": 11
     },
     {
       "tmdb_id": 1375441,
       "tmdb_type": "movie",
       "title": "黄金时段",
-      "sort": 12
+      "sort": 11
     },
     {
       "tmdb_id": 1633056,
       "tmdb_type": "movie",
       "title": "八仙！",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1563627,
+      "tmdb_type": "movie",
+      "title": "杯雪·一战成名",
       "sort": 13
+    },
+    {
+      "tmdb_id": 961214,
+      "tmdb_type": "movie",
+      "title": "复活男",
+      "sort": 14
     },
     {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
-      "sort": 14
+      "sort": 15
     },
     {
       "tmdb_id": 1444590,
       "tmdb_type": "movie",
       "title": "燃烧吧！爸爸",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 70981,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 16
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1654940,
+      "tmdb_type": "movie",
+      "title": "余命一年买男人",
+      "sort": 18
     },
     {
       "tmdb_id": 1021848,
       "tmdb_type": "movie",
       "title": "茫然女王",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 1288069,
-      "tmdb_type": "movie",
-      "title": "登峰传奇：丹增诺盖",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1465063,
-      "tmdb_type": "movie",
-      "title": "忘却之岛",
       "sort": 19
     },
     {
-      "tmdb_id": 1503762,
+      "tmdb_id": 1507696,
       "tmdb_type": "movie",
-      "title": "理智与情感",
+      "title": "天启Z：新世界",
       "sort": 20
     }
   ]

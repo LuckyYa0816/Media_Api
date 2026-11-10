@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-09T18:28:40.563Z",
+  "updated_at": "2026-11-10T04:31:03.315Z",
   "total": 20,
   "list": [
     {
@@ -65,27 +65,27 @@
       "sort": 7
     },
     {
-      "tmdb_id": 270431,
-      "tmdb_type": "tv",
-      "title": "折月亮",
-      "sort": 8
-    },
-    {
       "tmdb_id": 286171,
       "tmdb_type": "tv",
       "title": "尚公主",
-      "sort": 9
+      "sort": 8
     },
     {
-      "tmdb_id": 275297,
+      "tmdb_id": 270431,
       "tmdb_type": "tv",
-      "title": "走马上任",
-      "sort": 10
+      "title": "折月亮",
+      "sort": 9
     },
     {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "现在就出发 第四季",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 275297,
+      "tmdb_type": "tv",
+      "title": "走马上任",
       "sort": 11
     },
     {

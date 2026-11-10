@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-09T18:28:26.364Z",
+  "updated_at": "2026-11-10T04:30:50.304Z",
   "total": 7,
   "list": [
     {
@@ -38,33 +38,33 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1507696,
-      "tmdb_type": "movie",
-      "title": "天启Z：新世界",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1654940,
       "tmdb_type": "movie",
       "title": "余命一年买男人",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 1507696,
+      "tmdb_type": "movie",
+      "title": "天启Z：新世界",
       "sort": 4
+    },
+    {
+      "tmdb_id": 1257147,
+      "tmdb_type": "movie",
+      "title": "熟龄闺蜜出走记",
+      "sort": 5
     },
     {
       "tmdb_id": 1571955,
       "tmdb_type": "movie",
       "title": "失控撞劫",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1108427,
-      "tmdb_type": "movie",
-      "title": "海洋奇缘：启航",
       "sort": 6
     },
     {
-      "tmdb_id": 1084244,
+      "tmdb_id": 1727734,
       "tmdb_type": "movie",
-      "title": "玩具总动员5",
+      "title": "阿里·G：我是谁？",
       "sort": 7
     }
   ]
