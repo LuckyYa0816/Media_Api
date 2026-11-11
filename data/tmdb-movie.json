@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-11T02:37:09.752Z",
-  "total": 9,
+  "updated_at": "2026-11-11T15:56:30.631Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1483525,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1571955,
+      "tmdb_id": 1616419,
       "tmdb_type": "movie",
-      "title": "失控撞劫",
+      "title": "辩护倒数",
       "sort": 3
     },
     {
@@ -56,28 +56,10 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1616419,
-      "tmdb_type": "movie",
-      "title": "辩护倒数",
-      "sort": 6
-    },
-    {
       "tmdb_id": 1630420,
       "tmdb_type": "movie",
       "title": "浮夸特攻队",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1381221,
-      "tmdb_type": "movie",
-      "title": "米斯蒂·格林",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1727734,
-      "tmdb_type": "movie",
-      "title": "阿里·G：我是谁？",
-      "sort": 9
+      "sort": 6
     }
   ]
 }
