@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-10T16:13:51.526Z",
+  "updated_at": "2026-11-11T02:37:48.783Z",
   "total": 20,
   "list": [
     {
@@ -35,111 +35,111 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1122030,
+      "tmdb_type": "movie",
+      "title": "阿尔法：初次猎杀",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1629051,
       "tmdb_type": "movie",
       "title": "入夜不再",
-      "sort": 3
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1813355,
+      "tmdb_type": "movie",
+      "title": "小丑回魂：德里故事",
+      "sort": 5
     },
     {
       "tmdb_id": 1476614,
       "tmdb_type": "movie",
       "title": "突如其来",
-      "sort": 4
+      "sort": 6
     },
     {
       "tmdb_id": 1089598,
       "tmdb_type": "movie",
       "title": "敦煌英雄",
-      "sort": 5
+      "sort": 7
     },
     {
       "tmdb_id": 1283515,
       "tmdb_type": "movie",
       "title": "不存在的罪人",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1514026,
-      "tmdb_type": "movie",
-      "title": "逃出布迪秀",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 1263337,
       "tmdb_type": "movie",
       "title": "野兽之心",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1567937,
-      "tmdb_type": "movie",
-      "title": "空枪",
       "sort": 9
     },
     {
-      "tmdb_id": 1423191,
+      "tmdb_id": 1514026,
       "tmdb_type": "movie",
-      "title": "生化危机：爆发夜",
+      "title": "逃出布迪秀",
       "sort": 10
-    },
-    {
-      "tmdb_id": 1375441,
-      "tmdb_type": "movie",
-      "title": "黄金时段",
-      "sort": 11
     },
     {
       "tmdb_id": 1633056,
       "tmdb_type": "movie",
       "title": "八仙！",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1567937,
+      "tmdb_type": "movie",
+      "title": "空枪",
       "sort": 12
+    },
+    {
+      "tmdb_id": 1375441,
+      "tmdb_type": "movie",
+      "title": "黄金时段",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 1423191,
+      "tmdb_type": "movie",
+      "title": "生化危机：爆发夜",
+      "sort": 14
     },
     {
       "tmdb_id": 1563627,
       "tmdb_type": "movie",
       "title": "杯雪·一战成名",
-      "sort": 13
+      "sort": 15
     },
     {
       "tmdb_id": 961214,
       "tmdb_type": "movie",
       "title": "复活男",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 1058424,
-      "tmdb_type": "movie",
-      "title": "希望",
-      "sort": 15
+      "sort": 16
     },
     {
       "tmdb_id": 1444590,
       "tmdb_type": "movie",
       "title": "燃烧吧！爸爸",
-      "sort": 16
+      "sort": 17
+    },
+    {
+      "tmdb_id": 1058424,
+      "tmdb_type": "movie",
+      "title": "希望",
+      "sort": 18
     },
     {
       "tmdb_id": 70981,
       "tmdb_type": "movie",
       "title": "罗斯",
-      "sort": 17
+      "sort": 19
     },
     {
       "tmdb_id": 1654940,
       "tmdb_type": "movie",
       "title": "余命一年买男人",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 1021848,
-      "tmdb_type": "movie",
-      "title": "茫然女王",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1507696,
-      "tmdb_type": "movie",
-      "title": "天启Z：新世界",
       "sort": 20
     }
   ]
