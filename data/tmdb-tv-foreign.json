@@ -27,19 +27,19 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-11T15:56:28.221Z",
-  "total": 22,
+  "updated_at": "2026-11-12T03:40:34.167Z",
+  "total": 24,
   "list": [
-    {
-      "tmdb_id": 84773,
-      "tmdb_type": "tv",
-      "title": "指环王：力量之戒",
-      "sort": 1
-    },
     {
       "tmdb_id": 213375,
       "tmdb_type": "tv",
       "title": "幻视任务",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 84773,
+      "tmdb_type": "tv",
+      "title": "指环王：力量之戒",
       "sort": 2
     },
     {
@@ -61,21 +61,21 @@
       "sort": 5
     },
     {
-      "tmdb_id": 208921,
-      "tmdb_type": "tv",
-      "title": "对手",
-      "sort": 6
-    },
-    {
       "tmdb_id": 258989,
       "tmdb_type": "tv",
       "title": "The Greatest",
-      "sort": 7
+      "sort": 6
     },
     {
       "tmdb_id": 96677,
       "tmdb_type": "tv",
       "title": "Lupin",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 105248,
+      "tmdb_type": "tv",
+      "title": "赛博朋克：边缘行者",
       "sort": 8
     },
     {
@@ -91,15 +91,15 @@
       "sort": 10
     },
     {
-      "tmdb_id": 105248,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "赛博朋克：边缘行者",
+      "title": "辛普森一家",
       "sort": 11
     },
     {
-      "tmdb_id": 66732,
+      "tmdb_id": 208921,
       "tmdb_type": "tv",
-      "title": "怪奇物语",
+      "title": "对手",
       "sort": 12
     },
     {
@@ -115,9 +115,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 120911,
+      "tmdb_id": 57532,
       "tmdb_type": "tv",
-      "title": "The Terminal List",
+      "title": "汪汪队立大功",
       "sort": 15
     },
     {
@@ -127,27 +127,27 @@
       "sort": 16
     },
     {
-      "tmdb_id": 258742,
+      "tmdb_id": 57532,
       "tmdb_type": "tv",
-      "title": "诉讼女王",
+      "title": "汪汪队立大功",
       "sort": 17
     },
     {
-      "tmdb_id": 456,
+      "tmdb_id": 258742,
       "tmdb_type": "tv",
-      "title": "辛普森一家",
+      "title": "诉讼女王",
       "sort": 18
     },
     {
-      "tmdb_id": 312006,
+      "tmdb_id": 66732,
       "tmdb_type": "tv",
-      "title": "麻木医生",
+      "title": "怪奇物语",
       "sort": 19
     },
     {
-      "tmdb_id": 255055,
+      "tmdb_id": 2734,
       "tmdb_type": "tv",
-      "title": "失忆医生",
+      "title": "法律与秩序：特殊受害者",
       "sort": 20
     },
     {
@@ -157,10 +157,22 @@
       "sort": 21
     },
     {
-      "tmdb_id": 615,
+      "tmdb_id": 120911,
       "tmdb_type": "tv",
-      "title": "飞出个未来",
+      "title": "The Terminal List",
       "sort": 22
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 23
+    },
+    {
+      "tmdb_id": 260458,
+      "tmdb_type": "tv",
+      "title": "成年人",
+      "sort": 24
     }
   ]
 }

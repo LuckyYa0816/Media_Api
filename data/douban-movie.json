@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-11T15:56:59.138Z",
+  "updated_at": "2026-11-12T03:41:05.876Z",
   "total": 20,
   "list": [
     {
@@ -35,21 +35,21 @@
       "sort": 2
     },
     {
+      "tmdb_id": 1299329,
+      "tmdb_type": "movie",
+      "title": "约瑟芬",
+      "sort": 3
+    },
+    {
       "tmdb_id": 1122030,
       "tmdb_type": "movie",
       "title": "阿尔法：初次猎杀",
-      "sort": 3
+      "sort": 4
     },
     {
       "tmdb_id": 1629051,
       "tmdb_type": "movie",
       "title": "入夜不再",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1813355,
-      "tmdb_type": "movie",
-      "title": "小丑回魂：德里故事",
       "sort": 5
     },
     {
@@ -65,15 +65,15 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1283515,
-      "tmdb_type": "movie",
-      "title": "不存在的罪人",
-      "sort": 8
-    },
-    {
       "tmdb_id": 1263337,
       "tmdb_type": "movie",
       "title": "野兽之心",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1283515,
+      "tmdb_type": "movie",
+      "title": "不存在的罪人",
       "sort": 9
     },
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 1567937,
-      "tmdb_type": "movie",
-      "title": "空枪",
-      "sort": 12
-    },
-    {
       "tmdb_id": 1375441,
       "tmdb_type": "movie",
       "title": "黄金时段",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 1567937,
+      "tmdb_type": "movie",
+      "title": "空枪",
       "sort": 13
     },
     {
@@ -119,21 +119,21 @@
       "sort": 16
     },
     {
+      "tmdb_id": 1437981,
+      "tmdb_type": "movie",
+      "title": "懦夫",
+      "sort": 17
+    },
+    {
       "tmdb_id": 1444590,
       "tmdb_type": "movie",
       "title": "燃烧吧！爸爸",
-      "sort": 17
+      "sort": 18
     },
     {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 70981,
-      "tmdb_type": "movie",
-      "title": "罗斯",
       "sort": 19
     },
     {

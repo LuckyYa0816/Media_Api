@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-11T15:56:30.631Z",
-  "total": 6,
+  "updated_at": "2026-11-12T03:40:36.440Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1483525,
@@ -38,9 +38,9 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1616419,
+      "tmdb_id": 1571955,
       "tmdb_type": "movie",
-      "title": "辩护倒数",
+      "title": "失控撞劫",
       "sort": 3
     },
     {
@@ -50,16 +50,22 @@
       "sort": 4
     },
     {
+      "tmdb_id": 1616419,
+      "tmdb_type": "movie",
+      "title": "辩护倒数",
+      "sort": 5
+    },
+    {
       "tmdb_id": 1507696,
       "tmdb_type": "movie",
       "title": "天启Z：新世界",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1630420,
       "tmdb_type": "movie",
       "title": "浮夸特攻队",
-      "sort": 6
+      "sort": 7
     }
   ]
 }
