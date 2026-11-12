@@ -22,31 +22,31 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-12T03:40:36.440Z",
+  "updated_at": "2026-11-12T16:39:14.943Z",
   "total": 7,
   "list": [
     {
       "tmdb_id": 1483525,
       "tmdb_type": "movie",
-      "title": "假如爱有如果",
+      "title": "可能的爱",
       "sort": 1
+    },
+    {
+      "tmdb_id": 1559980,
+      "tmdb_type": "movie",
+      "title": "圣诞福音颂",
+      "sort": 2
     },
     {
       "tmdb_id": 1570488,
       "tmdb_type": "movie",
       "title": "狗狗的完美圣诞节",
-      "sort": 2
-    },
-    {
-      "tmdb_id": 1571955,
-      "tmdb_type": "movie",
-      "title": "失控撞劫",
       "sort": 3
     },
     {
-      "tmdb_id": 1654940,
+      "tmdb_id": 1234139,
       "tmdb_type": "movie",
-      "title": "余命一年买男人",
+      "title": "狱卒2",
       "sort": 4
     },
     {
@@ -56,15 +56,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 1507696,
+      "tmdb_id": 1654940,
       "tmdb_type": "movie",
-      "title": "天启Z：新世界",
+      "title": "余命一年买男人",
       "sort": 6
     },
     {
-      "tmdb_id": 1630420,
+      "tmdb_id": 687163,
       "tmdb_type": "movie",
-      "title": "浮夸特攻队",
+      "title": "挽救计划",
       "sort": 7
     }
   ]
