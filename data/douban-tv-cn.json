@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-12T16:39:29.988Z",
+  "updated_at": "2026-11-13T03:16:56.305Z",
   "total": 20,
   "list": [
     {
@@ -89,15 +89,15 @@
       "sort": 11
     },
     {
-      "tmdb_id": 301494,
-      "tmdb_type": "tv",
-      "title": "余红旧事",
-      "sort": 12
-    },
-    {
       "tmdb_id": 282326,
       "tmdb_type": "tv",
       "title": "兰香如故",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 301494,
+      "tmdb_type": "tv",
+      "title": "余红旧事",
       "sort": 13
     },
     {
@@ -113,33 +113,33 @@
       "sort": 15
     },
     {
+      "tmdb_id": 289078,
+      "tmdb_type": "tv",
+      "title": "我不是大师",
+      "sort": 16
+    },
+    {
       "tmdb_id": 68034,
       "tmdb_type": "tv",
       "title": "大明王朝1566",
-      "sort": 16
+      "sort": 17
     },
     {
       "tmdb_id": 259785,
       "tmdb_type": "tv",
       "title": "鉴定",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 289078,
-      "tmdb_type": "tv",
-      "title": "我不是大师",
       "sort": 18
-    },
-    {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "骑有此理 第四季",
-      "sort": 19
     },
     {
       "tmdb_id": 21712,
       "tmdb_type": "tv",
       "title": "潜伏",
+      "sort": 19
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "骑有此理 第四季",
       "sort": 20
     }
   ]

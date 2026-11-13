@@ -19,11 +19,11 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-12T16:39:43.143Z",
+  "updated_at": "2026-11-13T03:17:09.523Z",
   "total": 20,
   "list": [
     {
-      "tmdb_id": 451713,
+      "tmdb_id": 1483525,
       "tmdb_type": "movie",
       "title": "可能的爱",
       "sort": 1
@@ -35,27 +35,27 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1299329,
-      "tmdb_type": "movie",
-      "title": "约瑟芬",
-      "sort": 3
-    },
-    {
       "tmdb_id": 1122030,
       "tmdb_type": "movie",
       "title": "阿尔法：初次猎杀",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1629051,
       "tmdb_type": "movie",
       "title": "入夜不再",
-      "sort": 5
+      "sort": 4
     },
     {
       "tmdb_id": 1476614,
       "tmdb_type": "movie",
       "title": "突如其来",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1263337,
+      "tmdb_type": "movie",
+      "title": "野兽之心",
       "sort": 6
     },
     {
@@ -65,33 +65,33 @@
       "sort": 7
     },
     {
-      "tmdb_id": 1263337,
+      "tmdb_id": 1633056,
       "tmdb_type": "movie",
-      "title": "野兽之心",
+      "title": "八仙！",
       "sort": 8
-    },
-    {
-      "tmdb_id": 1283515,
-      "tmdb_type": "movie",
-      "title": "不存在的罪人",
-      "sort": 9
     },
     {
       "tmdb_id": 1514026,
       "tmdb_type": "movie",
       "title": "逃出布迪秀",
-      "sort": 10
+      "sort": 9
     },
     {
-      "tmdb_id": 1633056,
+      "tmdb_id": 1283515,
       "tmdb_type": "movie",
-      "title": "八仙！",
-      "sort": 11
+      "title": "不存在的罪人",
+      "sort": 10
     },
     {
       "tmdb_id": 1375441,
       "tmdb_type": "movie",
       "title": "黄金时段",
+      "sort": 11
+    },
+    {
+      "tmdb_id": 1423191,
+      "tmdb_type": "movie",
+      "title": "生化危机：爆发夜",
       "sort": 12
     },
     {
@@ -101,21 +101,21 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1423191,
-      "tmdb_type": "movie",
-      "title": "生化危机：爆发夜",
-      "sort": 14
-    },
-    {
       "tmdb_id": 1563627,
       "tmdb_type": "movie",
       "title": "杯雪·一战成名",
-      "sort": 15
+      "sort": 14
     },
     {
       "tmdb_id": 961214,
       "tmdb_type": "movie",
       "title": "复活男",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 1502135,
+      "tmdb_type": "movie",
+      "title": "密档",
       "sort": 16
     },
     {
@@ -125,15 +125,15 @@
       "sort": 17
     },
     {
-      "tmdb_id": 1444590,
-      "tmdb_type": "movie",
-      "title": "燃烧吧！爸爸",
-      "sort": 18
-    },
-    {
       "tmdb_id": 1058424,
       "tmdb_type": "movie",
       "title": "希望",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 1444590,
+      "tmdb_type": "movie",
+      "title": "燃烧吧！爸爸",
       "sort": 19
     },
     {

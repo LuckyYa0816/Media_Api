@@ -22,7 +22,7 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-12T16:39:14.943Z",
+  "updated_at": "2026-11-13T03:16:43.207Z",
   "total": 7,
   "list": [
     {
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1559980,
-      "tmdb_type": "movie",
-      "title": "圣诞福音颂",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1570488,
       "tmdb_type": "movie",
       "title": "狗狗的完美圣诞节",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1559980,
+      "tmdb_type": "movie",
+      "title": "圣诞福音颂",
       "sort": 3
     },
     {
@@ -62,9 +62,9 @@
       "sort": 6
     },
     {
-      "tmdb_id": 687163,
+      "tmdb_id": 1507696,
       "tmdb_type": "movie",
-      "title": "挽救计划",
+      "title": "天启Z：新世界",
       "sort": 7
     }
   ]
