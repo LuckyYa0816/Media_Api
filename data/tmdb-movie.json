@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-13T03:16:43.207Z",
-  "total": 7,
+  "updated_at": "2026-11-13T15:58:33.093Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1483525,
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1570488,
+      "tmdb_id": 1616419,
       "tmdb_type": "movie",
-      "title": "狗狗的完美圣诞节",
+      "title": "辩护倒数",
       "sort": 2
     },
     {
@@ -44,28 +44,22 @@
       "sort": 3
     },
     {
-      "tmdb_id": 1234139,
+      "tmdb_id": 1570488,
       "tmdb_type": "movie",
-      "title": "狱卒2",
+      "title": "狗狗的完美圣诞节",
       "sort": 4
     },
     {
-      "tmdb_id": 1616419,
+      "tmdb_id": 1234139,
       "tmdb_type": "movie",
-      "title": "辩护倒数",
+      "title": "狱卒2",
       "sort": 5
     },
     {
-      "tmdb_id": 1654940,
+      "tmdb_id": 1518204,
       "tmdb_type": "movie",
-      "title": "余命一年买男人",
+      "title": "艾伦",
       "sort": 6
-    },
-    {
-      "tmdb_id": 1507696,
-      "tmdb_type": "movie",
-      "title": "天启Z：新世界",
-      "sort": 7
     }
   ]
 }

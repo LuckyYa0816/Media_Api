@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-13T03:16:36.349Z",
+  "updated_at": "2026-11-13T15:58:26.441Z",
   "total": 30,
   "list": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 335790
-      },
-      "tmdb_type": "tv",
-      "title": "I'm Dating a Dark Summoner",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 283692
       },
       "tmdb_type": "tv",
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 335790
+      },
+      "tmdb_type": "tv",
+      "title": "I'm Dating a Dark Summoner",
       "sort": 15
     },
     {
@@ -198,18 +198,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 253811
-      },
-      "tmdb_type": "tv",
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "sort": 23
-    },
-    {
-      "tmdb_id": {
         "tv": 321518
       },
       "tmdb_type": "tv",
       "title": "The World's Strongest Witch",
+      "sort": 23
+    },
+    {
+      "tmdb_id": {
+        "tv": 253811
+      },
+      "tmdb_type": "tv",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "sort": 24
     },
     {

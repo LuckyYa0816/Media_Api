@@ -27,25 +27,25 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-13T03:16:40.759Z",
-  "total": 22,
+  "updated_at": "2026-11-13T15:58:30.731Z",
+  "total": 20,
   "list": [
-    {
-      "tmdb_id": 213375,
-      "tmdb_type": "tv",
-      "title": "幻视任务",
-      "sort": 1
-    },
     {
       "tmdb_id": 84773,
       "tmdb_type": "tv",
       "title": "指环王：力量之戒",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 213375,
+      "tmdb_type": "tv",
+      "title": "幻视任务",
       "sort": 2
     },
     {
-      "tmdb_id": 225385,
+      "tmdb_id": 1489,
       "tmdb_type": "tv",
-      "title": "黑鸽",
+      "title": "吉米·坎摩尔直播秀",
       "sort": 3
     },
     {
@@ -55,45 +55,45 @@
       "sort": 4
     },
     {
-      "tmdb_id": 303044,
-      "tmdb_type": "tv",
-      "title": "校园接送恋曲",
-      "sort": 5
-    },
-    {
       "tmdb_id": 131488,
       "tmdb_type": "tv",
       "title": "茜茜皇后",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 225385,
+      "tmdb_type": "tv",
+      "title": "黑鸽",
       "sort": 6
     },
     {
-      "tmdb_id": 253372,
+      "tmdb_id": 303044,
       "tmdb_type": "tv",
-      "title": "异能研究所",
+      "title": "校园接送恋曲",
       "sort": 7
-    },
-    {
-      "tmdb_id": 258989,
-      "tmdb_type": "tv",
-      "title": "The Greatest",
-      "sort": 8
     },
     {
       "tmdb_id": 96677,
       "tmdb_type": "tv",
       "title": "Lupin",
-      "sort": 9
+      "sort": 8
     },
     {
-      "tmdb_id": 1489,
+      "tmdb_id": 253372,
       "tmdb_type": "tv",
-      "title": "吉米·坎摩尔直播秀",
-      "sort": 10
+      "title": "异能研究所",
+      "sort": 9
     },
     {
       "tmdb_id": 105248,
       "tmdb_type": "tv",
       "title": "赛博朋克：边缘行者",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 258989,
+      "tmdb_type": "tv",
+      "title": "The Greatest",
       "sort": 11
     },
     {
@@ -103,33 +103,33 @@
       "sort": 12
     },
     {
-      "tmdb_id": 295778,
+      "tmdb_id": 288673,
       "tmdb_type": "tv",
-      "title": "实习医生风云",
+      "title": "魔女嘉莉",
       "sort": 13
+    },
+    {
+      "tmdb_id": 1413,
+      "tmdb_type": "tv",
+      "title": "美国恐怖故事",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 14929,
+      "tmdb_type": "tv",
+      "title": "心灵之地",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 387,
+      "tmdb_type": "tv",
+      "title": "海绵宝宝",
+      "sort": 16
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 14
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 288673,
-      "tmdb_type": "tv",
-      "title": "魔女嘉莉",
-      "sort": 16
-    },
-    {
-      "tmdb_id": 2734,
-      "tmdb_type": "tv",
-      "title": "法律与秩序：特殊受害者",
       "sort": 17
     },
     {
@@ -139,28 +139,16 @@
       "sort": 18
     },
     {
-      "tmdb_id": 312006,
-      "tmdb_type": "tv",
-      "title": "麻木医生",
-      "sort": 19
-    },
-    {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
-      "sort": 20
-    },
-    {
-      "tmdb_id": 124364,
-      "tmdb_type": "tv",
-      "title": "梦魇绝镇",
-      "sort": 21
-    },
-    {
       "tmdb_id": 297491,
       "tmdb_type": "tv",
       "title": "围城困局",
-      "sort": 22
+      "sort": 19
+    },
+    {
+      "tmdb_id": 75219,
+      "tmdb_type": "tv",
+      "title": "紧急呼救",
+      "sort": 20
     }
   ]
 }
