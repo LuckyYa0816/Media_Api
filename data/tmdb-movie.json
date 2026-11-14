@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-14T02:57:03.890Z",
-  "total": 8,
+  "updated_at": "2026-11-14T14:51:46.549Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1483525,
@@ -50,28 +50,16 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1570488,
-      "tmdb_type": "movie",
-      "title": "狗狗的完美圣诞节",
-      "sort": 5
-    },
-    {
       "tmdb_id": 1234139,
       "tmdb_type": "movie",
       "title": "狱卒2",
-      "sort": 6
-    },
-    {
-      "tmdb_id": 1654940,
-      "tmdb_type": "movie",
-      "title": "余命一年买男人",
-      "sort": 7
+      "sort": 5
     },
     {
       "tmdb_id": 1518204,
       "tmdb_type": "movie",
       "title": "艾伦",
-      "sort": 8
+      "sort": 6
     }
   ]
 }
