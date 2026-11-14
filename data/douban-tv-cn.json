@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-13T15:58:51.142Z",
+  "updated_at": "2026-11-14T02:57:17.824Z",
   "total": 20,
   "list": [
     {
@@ -47,15 +47,15 @@
       "sort": 4
     },
     {
-      "tmdb_id": 300146,
-      "tmdb_type": "tv",
-      "title": "嫁金钗",
-      "sort": 5
-    },
-    {
       "tmdb_id": 297253,
       "tmdb_type": "tv",
       "title": "伟大的长征",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 300146,
+      "tmdb_type": "tv",
+      "title": "嫁金钗",
       "sort": 6
     },
     {
@@ -71,15 +71,15 @@
       "sort": 8
     },
     {
-      "tmdb_id": 270431,
-      "tmdb_type": "tv",
-      "title": "折月亮",
-      "sort": 9
-    },
-    {
       "tmdb_id": null,
       "tmdb_type": "tv",
       "title": "现在就出发 第四季",
+      "sort": 9
+    },
+    {
+      "tmdb_id": 270431,
+      "tmdb_type": "tv",
+      "title": "折月亮",
       "sort": 10
     },
     {
@@ -95,27 +95,27 @@
       "sort": 12
     },
     {
-      "tmdb_id": 301494,
-      "tmdb_type": "tv",
-      "title": "余红旧事",
-      "sort": 13
-    },
-    {
       "tmdb_id": 279923,
       "tmdb_type": "tv",
       "title": "醉梦",
-      "sort": 14
+      "sort": 13
     },
     {
-      "tmdb_id": 304452,
+      "tmdb_id": 301494,
       "tmdb_type": "tv",
-      "title": "玉簟秋",
-      "sort": 15
+      "title": "余红旧事",
+      "sort": 14
     },
     {
       "tmdb_id": 289078,
       "tmdb_type": "tv",
       "title": "我不是大师",
+      "sort": 15
+    },
+    {
+      "tmdb_id": 259785,
+      "tmdb_type": "tv",
+      "title": "鉴定",
       "sort": 16
     },
     {
@@ -125,9 +125,9 @@
       "sort": 17
     },
     {
-      "tmdb_id": 259785,
+      "tmdb_id": 304452,
       "tmdb_type": "tv",
-      "title": "鉴定",
+      "title": "玉簟秋",
       "sort": 18
     },
     {
