@@ -22,37 +22,37 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-15T02:27:34.031Z",
-  "total": 7,
+  "updated_at": "2026-11-15T15:28:03.050Z",
+  "total": 9,
   "list": [
-    {
-      "tmdb_id": 1483525,
-      "tmdb_type": "movie",
-      "title": "可能的爱",
-      "sort": 1
-    },
     {
       "tmdb_id": 1616687,
       "tmdb_type": "movie",
       "title": "绝境反击",
-      "sort": 2
+      "sort": 1
     },
     {
-      "tmdb_id": 1757174,
+      "tmdb_id": 1483525,
       "tmdb_type": "movie",
-      "title": "交换身份过圣诞",
-      "sort": 3
+      "title": "可能的爱",
+      "sort": 2
     },
     {
       "tmdb_id": 1518204,
       "tmdb_type": "movie",
       "title": "艾伦",
-      "sort": 4
+      "sort": 3
     },
     {
       "tmdb_id": 1616419,
       "tmdb_type": "movie",
       "title": "辩护倒数",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1234139,
+      "tmdb_type": "movie",
+      "title": "狱卒2",
       "sort": 5
     },
     {
@@ -66,6 +66,18 @@
       "tmdb_type": "movie",
       "title": "圣诞福音颂",
       "sort": 7
+    },
+    {
+      "tmdb_id": 1757174,
+      "tmdb_type": "movie",
+      "title": "交换身份过圣诞",
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1507696,
+      "tmdb_type": "movie",
+      "title": "天启Z：新世界",
+      "sort": 9
     }
   ]
 }

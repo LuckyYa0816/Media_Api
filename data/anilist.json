@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-15T02:27:28.287Z",
+  "updated_at": "2026-11-15T15:27:55.962Z",
   "total": 30,
   "list": [
     {
@@ -46,18 +46,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 207347
-      },
-      "tmdb_type": "tv",
-      "title": "Blue Box Season 2",
-      "sort": 4
-    },
-    {
-      "tmdb_id": {
         "tv": 283938
       },
       "tmdb_type": "tv",
       "title": "Even the Student Council Has Its Holes!",
+      "sort": 4
+    },
+    {
+      "tmdb_id": {
+        "tv": 207347
+      },
+      "tmdb_type": "tv",
+      "title": "Blue Box Season 2",
       "sort": 5
     },
     {
