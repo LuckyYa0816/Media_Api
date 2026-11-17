@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-17T04:58:51.853Z",
+  "updated_at": "2026-11-17T17:27:35.386Z",
   "total": 30,
   "list": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 312850
-      },
-      "tmdb_type": "tv",
-      "title": "Nia Liston: The Merciless Maiden",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 335790
       },
       "tmdb_type": "tv",
       "title": "I'm Dating a Dark Summoner",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 312850
+      },
+      "tmdb_type": "tv",
+      "title": "Nia Liston: The Merciless Maiden",
       "sort": 15
     },
     {
@@ -174,18 +174,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 316891
-      },
-      "tmdb_type": "tv",
-      "title": "The Cold Sato-san is Only Sweet to Me",
-      "sort": 20
-    },
-    {
-      "tmdb_id": {
         "tv": 288588
       },
       "tmdb_type": "tv",
       "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "sort": 20
+    },
+    {
+      "tmdb_id": {
+        "tv": 316891
+      },
+      "tmdb_type": "tv",
+      "title": "The Cold Sato-san is Only Sweet to Me",
       "sort": 21
     },
     {
