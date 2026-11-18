@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-17T17:27:42.077Z",
-  "total": 9,
+  "updated_at": "2026-11-18T04:03:39.316Z",
+  "total": 6,
   "list": [
     {
       "tmdb_id": 1616687,
@@ -32,52 +32,34 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1518204,
+      "tmdb_id": 1543469,
       "tmdb_type": "movie",
-      "title": "艾伦",
+      "title": "心乡迷踪",
       "sort": 2
     },
     {
-      "tmdb_id": 1543469,
+      "tmdb_id": 1518204,
       "tmdb_type": "movie",
-      "title": "心乡迷踪",
+      "title": "艾伦",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1543469,
-      "tmdb_type": "movie",
-      "title": "心乡迷踪",
-      "sort": 4
-    },
-    {
-      "tmdb_id": 1483525,
-      "tmdb_type": "movie",
-      "title": "可能的爱",
-      "sort": 5
     },
     {
       "tmdb_id": 1616419,
       "tmdb_type": "movie",
       "title": "辩护倒数",
-      "sort": 6
+      "sort": 4
     },
     {
       "tmdb_id": 1757174,
       "tmdb_type": "movie",
       "title": "交换身份过圣诞",
-      "sort": 7
+      "sort": 5
     },
     {
       "tmdb_id": 1559980,
       "tmdb_type": "movie",
       "title": "圣诞福音颂",
-      "sort": 8
-    },
-    {
-      "tmdb_id": 1234139,
-      "tmdb_type": "movie",
-      "title": "狱卒2",
-      "sort": 9
+      "sort": 6
     }
   ]
 }
