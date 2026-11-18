@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-18T04:03:37.193Z",
-  "total": 20,
+  "updated_at": "2026-11-18T17:00:26.663Z",
+  "total": 18,
   "list": [
     {
       "tmdb_id": 84773,
@@ -67,27 +67,27 @@
       "sort": 6
     },
     {
-      "tmdb_id": 96677,
+      "tmdb_id": 335981,
       "tmdb_type": "tv",
-      "title": "Lupin",
+      "title": "扯淡电影史",
       "sort": 7
     },
     {
-      "tmdb_id": 335981,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "扯淡电影史",
+      "title": "实习医生风云",
       "sort": 8
     },
     {
-      "tmdb_id": 335981,
+      "tmdb_id": 96677,
       "tmdb_type": "tv",
-      "title": "扯淡电影史",
+      "title": "Lupin",
       "sort": 9
     },
     {
-      "tmdb_id": 105248,
+      "tmdb_id": 208921,
       "tmdb_type": "tv",
-      "title": "赛博朋克：边缘行者",
+      "title": "对手",
       "sort": 10
     },
     {
@@ -97,58 +97,46 @@
       "sort": 11
     },
     {
-      "tmdb_id": 456,
-      "tmdb_type": "tv",
-      "title": "辛普森一家",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 303044,
-      "tmdb_type": "tv",
-      "title": "校园接送恋曲",
-      "sort": 13
-    },
-    {
       "tmdb_id": 253372,
       "tmdb_type": "tv",
       "title": "异能研究所",
+      "sort": 12
+    },
+    {
+      "tmdb_id": 456,
+      "tmdb_type": "tv",
+      "title": "辛普森一家",
+      "sort": 13
+    },
+    {
+      "tmdb_id": 275139,
+      "tmdb_type": "tv",
+      "title": "换母疑云",
       "sort": 14
+    },
+    {
+      "tmdb_id": 105248,
+      "tmdb_type": "tv",
+      "title": "赛博朋克：边缘行者",
+      "sort": 15
     },
     {
       "tmdb_id": 338562,
       "tmdb_type": "tv",
       "title": "翻案人生",
-      "sort": 15
-    },
-    {
-      "tmdb_id": 1413,
-      "tmdb_type": "tv",
-      "title": "美国恐怖故事",
       "sort": 16
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 4614,
-      "tmdb_type": "tv",
-      "title": "海军罪案调查处",
-      "sort": 18
     },
     {
       "tmdb_id": 303182,
       "tmdb_type": "tv",
       "title": "枕边杀局",
-      "sort": 19
+      "sort": 17
     },
     {
-      "tmdb_id": 208921,
+      "tmdb_id": 124364,
       "tmdb_type": "tv",
-      "title": "对手",
-      "sort": 20
+      "title": "梦魇绝镇",
+      "sort": 18
     }
   ]
 }

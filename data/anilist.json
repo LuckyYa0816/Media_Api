@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-18T04:03:32.763Z",
+  "updated_at": "2026-11-18T17:00:20.836Z",
   "total": 30,
   "list": [
     {
@@ -118,11 +118,19 @@
     },
     {
       "tmdb_id": {
+        "tv": 312850
+      },
+      "tmdb_type": "tv",
+      "title": "Nia Liston: The Merciless Maiden",
+      "sort": 13
+    },
+    {
+      "tmdb_id": {
         "tv": 237150
       },
       "tmdb_type": "tv",
       "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "sort": 13
+      "sort": 14
     },
     {
       "tmdb_id": {
@@ -130,14 +138,6 @@
       },
       "tmdb_type": "tv",
       "title": "I'm Dating a Dark Summoner",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
-        "tv": 312850
-      },
-      "tmdb_type": "tv",
-      "title": "Nia Liston: The Merciless Maiden",
       "sort": 15
     },
     {
