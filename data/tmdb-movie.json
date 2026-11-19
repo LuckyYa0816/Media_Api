@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-18T17:00:29.665Z",
-  "total": 6,
+  "updated_at": "2026-11-19T04:00:30.550Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1616687,
@@ -32,9 +32,9 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1339713,
+      "tmdb_id": 1543469,
       "tmdb_type": "movie",
-      "title": "痴迷",
+      "title": "心乡迷踪",
       "sort": 2
     },
     {
@@ -44,22 +44,28 @@
       "sort": 3
     },
     {
+      "tmdb_id": 1339713,
+      "tmdb_type": "movie",
+      "title": "痴迷",
+      "sort": 4
+    },
+    {
       "tmdb_id": 1483525,
       "tmdb_type": "movie",
       "title": "可能的爱",
-      "sort": 4
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1559980,
+      "tmdb_type": "movie",
+      "title": "圣诞福音颂",
+      "sort": 6
     },
     {
       "tmdb_id": 1757174,
       "tmdb_type": "movie",
       "title": "交换身份过圣诞",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 687163,
-      "tmdb_type": "movie",
-      "title": "挽救计划",
-      "sort": 6
+      "sort": 7
     }
   ]
 }
