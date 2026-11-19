@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-19T04:00:23.440Z",
+  "updated_at": "2026-11-19T17:09:28.814Z",
   "total": 30,
   "list": [
     {
@@ -110,18 +110,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 283692
-      },
-      "tmdb_type": "tv",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "sort": 12
-    },
-    {
-      "tmdb_id": {
         "tv": 312850
       },
       "tmdb_type": "tv",
       "title": "Nia Liston: The Merciless Maiden",
+      "sort": 12
+    },
+    {
+      "tmdb_id": {
+        "tv": 283692
+      },
+      "tmdb_type": "tv",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "sort": 13
     },
     {

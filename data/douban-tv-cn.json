@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-19T04:00:49.485Z",
+  "updated_at": "2026-11-19T17:09:49.367Z",
   "total": 20,
   "list": [
     {
@@ -107,7 +107,7 @@
       "sort": 14
     },
     {
-      "tmdb_id": 6093,
+      "tmdb_id": 318349,
       "tmdb_type": "tv",
       "title": "宝珠",
       "sort": 15
