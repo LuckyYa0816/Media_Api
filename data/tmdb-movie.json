@@ -22,13 +22,13 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-19T17:09:36.475Z",
-  "total": 10,
+  "updated_at": "2026-11-20T03:54:02.479Z",
+  "total": 9,
   "list": [
     {
-      "tmdb_id": 1551025,
+      "tmdb_id": 1616687,
       "tmdb_type": "movie",
-      "title": "守护星",
+      "title": "绝境反击",
       "sort": 1
     },
     {
@@ -38,21 +38,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1616687,
+      "tmdb_id": 1551025,
       "tmdb_type": "movie",
-      "title": "绝境反击",
+      "title": "守护星",
       "sort": 3
-    },
-    {
-      "tmdb_id": 1543469,
-      "tmdb_type": "movie",
-      "title": "心乡迷踪",
-      "sort": 4
     },
     {
       "tmdb_id": 1518204,
       "tmdb_type": "movie",
       "title": "艾伦",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1543469,
+      "tmdb_type": "movie",
+      "title": "心乡迷踪",
       "sort": 5
     },
     {
@@ -62,15 +62,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1757174,
-      "tmdb_type": "movie",
-      "title": "交换身份过圣诞",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1483525,
       "tmdb_type": "movie",
       "title": "可能的爱",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1757174,
+      "tmdb_type": "movie",
+      "title": "交换身份过圣诞",
       "sort": 8
     },
     {
@@ -78,12 +78,6 @@
       "tmdb_type": "movie",
       "title": "挽救计划",
       "sort": 9
-    },
-    {
-      "tmdb_id": 1473148,
-      "tmdb_type": "movie",
-      "title": "温柔的怪物",
-      "sort": 10
     }
   ]
 }
