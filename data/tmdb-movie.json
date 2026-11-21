@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-20T16:47:27.617Z",
-  "total": 7,
+  "updated_at": "2026-11-21T03:50:15.748Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1551025,
@@ -56,16 +56,28 @@
       "sort": 5
     },
     {
+      "tmdb_id": 1568060,
+      "tmdb_type": "movie",
+      "title": "完美骗子",
+      "sort": 6
+    },
+    {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1483525,
       "tmdb_type": "movie",
       "title": "可能的爱",
-      "sort": 7
+      "sort": 8
+    },
+    {
+      "tmdb_id": 1561834,
+      "tmdb_type": "movie",
+      "title": "最后的晚餐",
+      "sort": 9
     }
   ]
 }
