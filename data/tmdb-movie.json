@@ -22,55 +22,55 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-21T03:50:15.748Z",
-  "total": 9,
+  "updated_at": "2026-11-21T15:57:28.037Z",
+  "total": 10,
   "list": [
+    {
+      "tmdb_id": 1595124,
+      "tmdb_type": "movie",
+      "title": "童话继姊妹",
+      "sort": 1
+    },
     {
       "tmdb_id": 1551025,
       "tmdb_type": "movie",
       "title": "守护星",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 1131943,
       "tmdb_type": "movie",
       "title": "马登",
-      "sort": 2
+      "sort": 3
     },
     {
-      "tmdb_id": 1616687,
+      "tmdb_id": 1568060,
       "tmdb_type": "movie",
-      "title": "绝境反击",
-      "sort": 3
+      "title": "完美说谎者",
+      "sort": 4
     },
     {
       "tmdb_id": 1543469,
       "tmdb_type": "movie",
       "title": "心乡迷踪",
-      "sort": 4
+      "sort": 5
+    },
+    {
+      "tmdb_id": 1616687,
+      "tmdb_type": "movie",
+      "title": "绝境反击",
+      "sort": 6
     },
     {
       "tmdb_id": 1518204,
       "tmdb_type": "movie",
       "title": "艾伦",
-      "sort": 5
-    },
-    {
-      "tmdb_id": 1568060,
-      "tmdb_type": "movie",
-      "title": "完美骗子",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 7
-    },
-    {
-      "tmdb_id": 1483525,
-      "tmdb_type": "movie",
-      "title": "可能的爱",
       "sort": 8
     },
     {
@@ -78,6 +78,12 @@
       "tmdb_type": "movie",
       "title": "最后的晚餐",
       "sort": 9
+    },
+    {
+      "tmdb_id": 1483525,
+      "tmdb_type": "movie",
+      "title": "可能的爱",
+      "sort": 10
     }
   ]
 }
