@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-21T15:57:28.037Z",
-  "total": 10,
+  "updated_at": "2026-11-22T02:53:55.828Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1595124,
@@ -32,21 +32,21 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1551025,
-      "tmdb_type": "movie",
-      "title": "守护星",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1131943,
       "tmdb_type": "movie",
       "title": "马登",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1551025,
+      "tmdb_type": "movie",
+      "title": "守护你，遇见爱",
       "sort": 3
     },
     {
       "tmdb_id": 1568060,
       "tmdb_type": "movie",
-      "title": "完美说谎者",
+      "title": "完美骗子",
       "sort": 4
     },
     {
@@ -62,28 +62,22 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1518204,
-      "tmdb_type": "movie",
-      "title": "艾伦",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 8
+      "sort": 7
     },
     {
-      "tmdb_id": 1561834,
+      "tmdb_id": 1084244,
       "tmdb_type": "movie",
-      "title": "最后的晚餐",
-      "sort": 9
+      "title": "玩具总动员5",
+      "sort": 8
     },
     {
       "tmdb_id": 1483525,
       "tmdb_type": "movie",
       "title": "可能的爱",
-      "sort": 10
+      "sort": 9
     }
   ]
 }

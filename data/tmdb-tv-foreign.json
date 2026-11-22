@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-21T15:57:25.672Z",
-  "total": 20,
+  "updated_at": "2026-11-22T02:53:53.047Z",
+  "total": 21,
   "list": [
     {
       "tmdb_id": 84773,
@@ -73,9 +73,9 @@
       "sort": 7
     },
     {
-      "tmdb_id": 85077,
+      "tmdb_id": 332839,
       "tmdb_type": "tv",
-      "title": "拣选",
+      "title": "罪兽之法",
       "sort": 8
     },
     {
@@ -85,33 +85,33 @@
       "sort": 9
     },
     {
-      "tmdb_id": 96677,
+      "tmdb_id": 225385,
       "tmdb_type": "tv",
-      "title": "Lupin",
+      "title": "黑鸽",
       "sort": 10
     },
     {
-      "tmdb_id": 105248,
+      "tmdb_id": 96677,
       "tmdb_type": "tv",
-      "title": "赛博朋克：边缘行者",
+      "title": "Lupin",
       "sort": 11
     },
     {
-      "tmdb_id": 332839,
+      "tmdb_id": 295778,
       "tmdb_type": "tv",
-      "title": "罪兽之法",
+      "title": "实习医生风云",
       "sort": 12
     },
     {
-      "tmdb_id": 273247,
+      "tmdb_id": 303182,
       "tmdb_type": "tv",
-      "title": "独家黑幕",
+      "title": "枕边杀局",
       "sort": 13
     },
     {
-      "tmdb_id": 303044,
+      "tmdb_id": 456,
       "tmdb_type": "tv",
-      "title": "校园接送恋曲",
+      "title": "辛普森一家",
       "sort": 14
     },
     {
@@ -121,34 +121,40 @@
       "sort": 15
     },
     {
-      "tmdb_id": 288673,
+      "tmdb_id": 105248,
       "tmdb_type": "tv",
-      "title": "魔女嘉莉",
+      "title": "赛博朋克：边缘行者",
       "sort": 16
-    },
-    {
-      "tmdb_id": 1416,
-      "tmdb_type": "tv",
-      "title": "实习医生格蕾",
-      "sort": 17
-    },
-    {
-      "tmdb_id": 253372,
-      "tmdb_type": "tv",
-      "title": "异能研究所",
-      "sort": 18
-    },
-    {
-      "tmdb_id": 295778,
-      "tmdb_type": "tv",
-      "title": "实习医生风云",
-      "sort": 19
     },
     {
       "tmdb_id": 340280,
       "tmdb_type": "tv",
       "title": "戈登档案",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 318420,
+      "tmdb_type": "tv",
+      "title": "十二星座恋爱实验",
+      "sort": 18
+    },
+    {
+      "tmdb_id": 75219,
+      "tmdb_type": "tv",
+      "title": "紧急呼救",
+      "sort": 19
+    },
+    {
+      "tmdb_id": 288120,
+      "tmdb_type": "tv",
+      "title": "维也纳风云",
       "sort": 20
+    },
+    {
+      "tmdb_id": 208921,
+      "tmdb_type": "tv",
+      "title": "对手",
+      "sort": 21
     }
   ]
 }
