@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-23T03:35:17.801Z",
-  "total": 10,
+  "updated_at": "2026-11-23T19:56:45.326Z",
+  "total": 9,
   "list": [
     {
       "tmdb_id": 1595124,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1551025,
-      "tmdb_type": "movie",
-      "title": "守护你，遇见爱",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1131943,
       "tmdb_type": "movie",
       "title": "马登",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1551025,
+      "tmdb_type": "movie",
+      "title": "守护你，遇见爱",
       "sort": 3
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1339713,
+      "tmdb_id": 1543469,
       "tmdb_type": "movie",
-      "title": "痴迷",
+      "title": "心乡迷踪",
       "sort": 5
     },
     {
@@ -62,28 +62,22 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1518204,
-      "tmdb_type": "movie",
-      "title": "艾伦",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1616687,
       "tmdb_type": "movie",
       "title": "绝境反击",
-      "sort": 8
+      "sort": 7
     },
     {
       "tmdb_id": 1561834,
       "tmdb_type": "movie",
       "title": "最后的晚餐",
-      "sort": 9
+      "sort": 8
     },
     {
-      "tmdb_id": 1307474,
+      "tmdb_id": 1518204,
       "tmdb_type": "movie",
-      "title": "以我儿之名",
-      "sort": 10
+      "title": "艾伦",
+      "sort": 9
     }
   ]
 }

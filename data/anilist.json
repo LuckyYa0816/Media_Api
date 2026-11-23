@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-23T03:35:11.130Z",
+  "updated_at": "2026-11-23T19:56:38.620Z",
   "total": 30,
   "list": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 237150
-      },
-      "tmdb_type": "tv",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
-      "sort": 14
-    },
-    {
-      "tmdb_id": {
         "tv": 335790
       },
       "tmdb_type": "tv",
       "title": "I'm Dating a Dark Summoner",
+      "sort": 14
+    },
+    {
+      "tmdb_id": {
+        "tv": 237150
+      },
+      "tmdb_type": "tv",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "sort": 15
     },
     {
@@ -166,18 +166,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 297903
-      },
-      "tmdb_type": "tv",
-      "title": "PSYREN",
-      "sort": 19
-    },
-    {
-      "tmdb_id": {
         "tv": 288588
       },
       "tmdb_type": "tv",
       "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "sort": 19
+    },
+    {
+      "tmdb_id": {
+        "tv": 297903
+      },
+      "tmdb_type": "tv",
+      "title": "PSYREN",
       "sort": 20
     },
     {
