@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-25T05:17:17.436Z",
+  "updated_at": "2026-11-25T18:30:18.435Z",
   "total": 30,
   "list": [
     {
@@ -102,18 +102,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 312359
-      },
-      "tmdb_type": "tv",
-      "title": "Dragon Ball Super: Beerus",
-      "sort": 11
-    },
-    {
-      "tmdb_id": {
         "tv": 312850
       },
       "tmdb_type": "tv",
       "title": "Nia Liston: The Merciless Maiden",
+      "sort": 11
+    },
+    {
+      "tmdb_id": {
+        "tv": 312359
+      },
+      "tmdb_type": "tv",
+      "title": "Dragon Ball Super: Beerus",
       "sort": 12
     },
     {

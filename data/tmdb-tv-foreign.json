@@ -27,8 +27,8 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-25T05:17:23.318Z",
-  "total": 20,
+  "updated_at": "2026-11-25T18:30:22.516Z",
+  "total": 19,
   "list": [
     {
       "tmdb_id": 84773,
@@ -43,15 +43,15 @@
       "sort": 2
     },
     {
-      "tmdb_id": 103540,
-      "tmdb_type": "tv",
-      "title": "Percy Jackson and the Olympians",
-      "sort": 3
-    },
-    {
       "tmdb_id": 213375,
       "tmdb_type": "tv",
       "title": "幻视任务",
+      "sort": 3
+    },
+    {
+      "tmdb_id": 103540,
+      "tmdb_type": "tv",
+      "title": "Percy Jackson and the Olympians",
       "sort": 4
     },
     {
@@ -61,15 +61,15 @@
       "sort": 5
     },
     {
-      "tmdb_id": 308007,
-      "tmdb_type": "tv",
-      "title": "镶金理想",
-      "sort": 6
-    },
-    {
       "tmdb_id": 85077,
       "tmdb_type": "tv",
       "title": "拣选",
+      "sort": 6
+    },
+    {
+      "tmdb_id": 308007,
+      "tmdb_type": "tv",
+      "title": "镶金理想",
       "sort": 7
     },
     {
@@ -85,27 +85,27 @@
       "sort": 9
     },
     {
-      "tmdb_id": 340280,
-      "tmdb_type": "tv",
-      "title": "戈登档案",
-      "sort": 10
-    },
-    {
       "tmdb_id": 96677,
       "tmdb_type": "tv",
       "title": "Lupin",
+      "sort": 10
+    },
+    {
+      "tmdb_id": 211288,
+      "tmdb_type": "tv",
+      "title": "寻踪者",
       "sort": 11
+    },
+    {
+      "tmdb_id": 85077,
+      "tmdb_type": "tv",
+      "title": "拣选",
+      "sort": 12
     },
     {
       "tmdb_id": 295778,
       "tmdb_type": "tv",
       "title": "实习医生风云",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 253372,
-      "tmdb_type": "tv",
-      "title": "异能研究所",
       "sort": 13
     },
     {
@@ -115,40 +115,34 @@
       "sort": 14
     },
     {
-      "tmdb_id": 303044,
+      "tmdb_id": 253372,
       "tmdb_type": "tv",
-      "title": "校园接送恋曲",
+      "title": "异能研究所",
       "sort": 15
     },
     {
-      "tmdb_id": 335981,
+      "tmdb_id": 340280,
       "tmdb_type": "tv",
-      "title": "扯淡电影史",
+      "title": "戈登档案",
       "sort": 16
     },
     {
-      "tmdb_id": 275139,
+      "tmdb_id": 288673,
       "tmdb_type": "tv",
-      "title": "换母疑云",
+      "title": "魔女嘉莉",
       "sort": 17
     },
     {
-      "tmdb_id": 225385,
+      "tmdb_id": 340615,
       "tmdb_type": "tv",
-      "title": "黑鸽",
+      "title": "卡伦·里德的审判：雪地警员死亡谜案",
       "sort": 18
     },
     {
-      "tmdb_id": 1434,
+      "tmdb_id": 258742,
       "tmdb_type": "tv",
-      "title": "恶搞之家",
+      "title": "诉讼女王",
       "sort": 19
-    },
-    {
-      "tmdb_id": 318420,
-      "tmdb_type": "tv",
-      "title": "十二星座恋爱实验",
-      "sort": 20
     }
   ]
 }

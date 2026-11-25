@@ -18,7 +18,7 @@
   },
   "platform": "anilist",
   "category": "anime_cn",
-  "updated_at": "2026-11-25T05:17:19.910Z",
+  "updated_at": "2026-11-25T18:30:20.041Z",
   "total": 28,
   "list": [
     {
@@ -143,18 +143,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 71194
-      },
-      "tmdb_type": "tv",
-      "title": "The King's Avatar S2",
-      "sort": 16
-    },
-    {
-      "tmdb_id": {
         "tv": 79141
       },
       "tmdb_type": "tv",
       "title": "Scissor Seven Season 2",
+      "sort": 16
+    },
+    {
+      "tmdb_id": {
+        "tv": 71194
+      },
+      "tmdb_type": "tv",
+      "title": "The King's Avatar S2",
       "sort": 17
     },
     {
