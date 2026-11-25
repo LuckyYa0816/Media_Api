@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-11-24T19:24:59.955Z",
+  "updated_at": "2026-11-25T05:17:53.452Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -66,9 +66,9 @@
           "sort": 7
         },
         {
-          "tmdb_id": 237150,
+          "tmdb_id": 259785,
           "tmdb_type": "tv",
-          "title": "转生贵族凭鉴定技能扭转人生",
+          "title": "鉴定",
           "sort": 8
         },
         {
@@ -161,21 +161,21 @@
           "sort": 2
         },
         {
-          "tmdb_id": 236534,
-          "tmdb_type": "tv",
-          "title": "牧神记",
-          "sort": 3
-        },
-        {
           "tmdb_id": 106449,
           "tmdb_type": "tv",
           "title": "凡人修仙传",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 101172,
+          "tmdb_type": "tv",
+          "title": "吞噬星空",
           "sort": 4
         },
         {
-          "tmdb_id": 146339,
+          "tmdb_id": 236534,
           "tmdb_type": "tv",
-          "title": "大王饶命",
+          "title": "牧神记",
           "sort": 5
         },
         {
@@ -185,51 +185,51 @@
           "sort": 6
         },
         {
+          "tmdb_id": 124003,
+          "tmdb_type": "tv",
+          "title": "完美世界",
+          "sort": 7
+        },
+        {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
-          "sort": 7
+          "sort": 8
+        },
+        {
+          "tmdb_id": 146339,
+          "tmdb_type": "tv",
+          "title": "大王饶命",
+          "sort": 9
         },
         {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 8
-        },
-        {
-          "tmdb_id": 124003,
-          "tmdb_type": "tv",
-          "title": "完美世界",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 101172,
-          "tmdb_type": "tv",
-          "title": "吞噬星空",
           "sort": 10
-        },
-        {
-          "tmdb_id": 224839,
-          "tmdb_type": "tv",
-          "title": "遮天",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 97878,
-          "tmdb_type": "tv",
-          "title": "大理寺日志",
-          "sort": 12
         },
         {
           "tmdb_id": 303287,
           "tmdb_type": "tv",
           "title": "一斩苍穹",
-          "sort": 13
+          "sort": 11
+        },
+        {
+          "tmdb_id": 224839,
+          "tmdb_type": "tv",
+          "title": "遮天",
+          "sort": 12
         },
         {
           "tmdb_id": 297923,
           "tmdb_type": "tv",
           "title": "灵境行者",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 97878,
+          "tmdb_type": "tv",
+          "title": "大理寺日志",
           "sort": 14
         },
         {
@@ -274,21 +274,21 @@
           "sort": 2
         },
         {
-          "tmdb_id": 301355,
-          "tmdb_type": "tv",
-          "title": "偏爱之恋",
-          "sort": 3
-        },
-        {
           "tmdb_id": 309015,
           "tmdb_type": "tv",
           "title": "日落时分说爱你",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 301355,
+          "tmdb_type": "tv",
+          "title": "偏爱之恋",
           "sort": 4
         },
         {
-          "tmdb_id": 126490,
+          "tmdb_id": 326406,
           "tmdb_type": "tv",
-          "title": "我家那闺女",
+          "title": "快乐老家",
           "sort": 5
         },
         {
@@ -298,75 +298,75 @@
           "sort": 6
         },
         {
-          "tmdb_id": 239038,
+          "tmdb_id": 126490,
           "tmdb_type": "tv",
-          "title": "爱的修学旅行",
+          "title": "我家那闺女",
           "sort": 7
         },
         {
-          "tmdb_id": 341535,
+          "tmdb_id": 239038,
           "tmdb_type": "tv",
-          "title": "趁热打铁",
+          "title": "爱的修学旅行",
           "sort": 8
-        },
-        {
-          "tmdb_id": 103147,
-          "tmdb_type": "tv",
-          "title": "心动的信号",
-          "sort": 9
-        },
-        {
-          "tmdb_id": 331649,
-          "tmdb_type": "tv",
-          "title": "大哥小助理",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 341991,
-          "tmdb_type": "tv",
-          "title": "我推的歌",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 114473,
-          "tmdb_type": "tv",
-          "title": "名侦探学院",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 106621,
-          "tmdb_type": "tv",
-          "title": "令人心动的offer",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 131040,
-          "tmdb_type": "tv",
-          "title": "披荆斩棘",
-          "sort": 14
         },
         {
           "tmdb_id": 339557,
           "tmdb_type": "tv",
           "title": "超正的我们",
+          "sort": 9
+        },
+        {
+          "tmdb_id": 103147,
+          "tmdb_type": "tv",
+          "title": "心动的信号",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 331649,
+          "tmdb_type": "tv",
+          "title": "大哥小助理",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 341991,
+          "tmdb_type": "tv",
+          "title": "我推的歌",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 114473,
+          "tmdb_type": "tv",
+          "title": "名侦探学院",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 106621,
+          "tmdb_type": "tv",
+          "title": "令人心动的offer",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 131040,
+          "tmdb_type": "tv",
+          "title": "披荆斩棘",
           "sort": 15
+        },
+        {
+          "tmdb_id": 341535,
+          "tmdb_type": "tv",
+          "title": "趁热打铁",
+          "sort": 16
         },
         {
           "tmdb_id": 94773,
           "tmdb_type": "tv",
           "title": "舞蹈新风暴",
-          "sort": 16
+          "sort": 17
         },
         {
           "tmdb_id": 304080,
           "tmdb_type": "tv",
           "title": "当家爸爸的聚会",
-          "sort": 17
-        },
-        {
-          "tmdb_id": 331306,
-          "tmdb_type": "tv",
-          "title": "毛雪汪26秋番",
           "sort": 18
         },
         {
@@ -376,9 +376,9 @@
           "sort": 19
         },
         {
-          "tmdb_id": 89861,
+          "tmdb_id": 330926,
           "tmdb_type": "tv",
-          "title": "密室大逃脱",
+          "title": "一路向海的少年",
           "sort": 20
         }
       ]

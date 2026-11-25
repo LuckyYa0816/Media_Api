@@ -27,7 +27,7 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-24T19:24:32.667Z",
+  "updated_at": "2026-11-25T05:17:23.318Z",
   "total": 20,
   "list": [
     {
@@ -67,15 +67,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 332839,
-      "tmdb_type": "tv",
-      "title": "罪兽之法",
-      "sort": 7
-    },
-    {
       "tmdb_id": 85077,
       "tmdb_type": "tv",
       "title": "拣选",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 332839,
+      "tmdb_type": "tv",
+      "title": "罪兽之法",
       "sort": 8
     },
     {
@@ -85,69 +85,69 @@
       "sort": 9
     },
     {
+      "tmdb_id": 340280,
+      "tmdb_type": "tv",
+      "title": "戈登档案",
+      "sort": 10
+    },
+    {
       "tmdb_id": 96677,
       "tmdb_type": "tv",
       "title": "Lupin",
-      "sort": 10
+      "sort": 11
+    },
+    {
+      "tmdb_id": 295778,
+      "tmdb_type": "tv",
+      "title": "实习医生风云",
+      "sort": 12
     },
     {
       "tmdb_id": 253372,
       "tmdb_type": "tv",
       "title": "异能研究所",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 60625,
-      "tmdb_type": "tv",
-      "title": "瑞克和莫蒂",
-      "sort": 12
-    },
-    {
-      "tmdb_id": 340280,
-      "tmdb_type": "tv",
-      "title": "戈登档案",
       "sort": 13
     },
     {
-      "tmdb_id": 79744,
+      "tmdb_id": 105248,
       "tmdb_type": "tv",
-      "title": "菜鸟老警",
+      "title": "赛博朋克：边缘行者",
       "sort": 14
     },
     {
-      "tmdb_id": 57532,
+      "tmdb_id": 303044,
       "tmdb_type": "tv",
-      "title": "汪汪队立大功",
+      "title": "校园接送恋曲",
       "sort": 15
-    },
-    {
-      "tmdb_id": 4614,
-      "tmdb_type": "tv",
-      "title": "海军罪案调查处",
-      "sort": 16
     },
     {
       "tmdb_id": 335981,
       "tmdb_type": "tv",
       "title": "扯淡电影史",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 275139,
+      "tmdb_type": "tv",
+      "title": "换母疑云",
       "sort": 17
     },
     {
-      "tmdb_id": 387,
+      "tmdb_id": 225385,
       "tmdb_type": "tv",
-      "title": "海绵宝宝",
+      "title": "黑鸽",
       "sort": 18
     },
     {
-      "tmdb_id": 208921,
+      "tmdb_id": 1434,
       "tmdb_type": "tv",
-      "title": "对手",
+      "title": "恶搞之家",
       "sort": 19
     },
     {
-      "tmdb_id": 288120,
+      "tmdb_id": 318420,
       "tmdb_type": "tv",
-      "title": "维也纳风云",
+      "title": "十二星座恋爱实验",
       "sort": 20
     }
   ]
