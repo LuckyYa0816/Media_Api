@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-25T18:30:24.875Z",
-  "total": 6,
+  "updated_at": "2026-11-26T04:45:23.678Z",
+  "total": 7,
   "list": [
     {
       "tmdb_id": 1595124,
@@ -32,15 +32,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": 1611767,
-      "tmdb_type": "movie",
-      "title": "风雪同舟",
-      "sort": 2
-    },
-    {
       "tmdb_id": 1551025,
       "tmdb_type": "movie",
       "title": "守护你，遇见爱",
+      "sort": 2
+    },
+    {
+      "tmdb_id": 1611767,
+      "tmdb_type": "movie",
+      "title": "风雪同舟",
       "sort": 3
     },
     {
@@ -60,6 +60,12 @@
       "tmdb_type": "movie",
       "title": "痴迷",
       "sort": 6
+    },
+    {
+      "tmdb_id": 1561834,
+      "tmdb_type": "movie",
+      "title": "最后的晚餐",
+      "sort": 7
     }
   ]
 }

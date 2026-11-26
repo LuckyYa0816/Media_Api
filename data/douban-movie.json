@@ -19,11 +19,11 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-25T18:31:01.977Z",
+  "updated_at": "2026-11-26T04:45:48.341Z",
   "total": 20,
   "list": [
     {
-      "tmdb_id": 1483525,
+      "tmdb_id": 451713,
       "tmdb_type": "movie",
       "title": "可能的爱",
       "sort": 1
@@ -59,15 +59,15 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1437981,
-      "tmdb_type": "movie",
-      "title": "懦夫",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1401459,
       "tmdb_type": "movie",
       "title": "峡湾",
+      "sort": 7
+    },
+    {
+      "tmdb_id": 1437981,
+      "tmdb_type": "movie",
+      "title": "懦夫",
       "sort": 8
     },
     {
@@ -113,15 +113,15 @@
       "sort": 15
     },
     {
-      "tmdb_id": 1423191,
-      "tmdb_type": "movie",
-      "title": "生化危机：爆发夜",
-      "sort": 16
-    },
-    {
       "tmdb_id": 1394740,
       "tmdb_type": "movie",
       "title": "老千4：别西卜之歌",
+      "sort": 16
+    },
+    {
+      "tmdb_id": 1423191,
+      "tmdb_type": "movie",
+      "title": "生化危机：爆发夜",
       "sort": 17
     },
     {
