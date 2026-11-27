@@ -22,8 +22,8 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-26T18:12:50.277Z",
-  "total": 7,
+  "updated_at": "2026-11-27T04:51:56.358Z",
+  "total": 8,
   "list": [
     {
       "tmdb_id": 1458300,
@@ -44,28 +44,34 @@
       "sort": 3
     },
     {
+      "tmdb_id": 1551025,
+      "tmdb_type": "movie",
+      "title": "守护你，遇见爱",
+      "sort": 4
+    },
+    {
       "tmdb_id": 1568060,
       "tmdb_type": "movie",
       "title": "完美骗子",
-      "sort": 4
+      "sort": 5
     },
     {
       "tmdb_id": 1131943,
       "tmdb_type": "movie",
       "title": "马登",
-      "sort": 5
+      "sort": 6
     },
     {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 1561834,
       "tmdb_type": "movie",
       "title": "最后的晚餐",
-      "sort": 7
+      "sort": 8
     }
   ]
 }

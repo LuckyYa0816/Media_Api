@@ -27,31 +27,31 @@
   },
   "platform": "tmdb",
   "category": "tv_foreign",
-  "updated_at": "2026-11-26T18:12:48.162Z",
+  "updated_at": "2026-11-27T04:51:53.737Z",
   "total": 21,
   "list": [
+    {
+      "tmdb_id": 171802,
+      "tmdb_type": "tv",
+      "title": "Blade Runner 2099",
+      "sort": 1
+    },
     {
       "tmdb_id": 84773,
       "tmdb_type": "tv",
       "title": "指环王：力量之戒",
-      "sort": 1
+      "sort": 2
     },
     {
       "tmdb_id": 244447,
       "tmdb_type": "tv",
       "title": "狩猎娇妻",
-      "sort": 2
+      "sort": 3
     },
     {
       "tmdb_id": 291507,
       "tmdb_type": "tv",
       "title": "青春共体",
-      "sort": 3
-    },
-    {
-      "tmdb_id": 213375,
-      "tmdb_type": "tv",
-      "title": "幻视任务",
       "sort": 4
     },
     {
@@ -61,51 +61,51 @@
       "sort": 5
     },
     {
+      "tmdb_id": 213375,
+      "tmdb_type": "tv",
+      "title": "幻视任务",
+      "sort": 6
+    },
+    {
       "tmdb_id": 117488,
       "tmdb_type": "tv",
       "title": "黄蜂",
-      "sort": 6
+      "sort": 7
     },
     {
       "tmdb_id": 308007,
       "tmdb_type": "tv",
       "title": "镶金理想",
-      "sort": 7
+      "sort": 8
     },
     {
       "tmdb_id": 456,
       "tmdb_type": "tv",
       "title": "辛普森一家",
-      "sort": 8
+      "sort": 9
+    },
+    {
+      "tmdb_id": 211288,
+      "tmdb_type": "tv",
+      "title": "寻踪者",
+      "sort": 10
     },
     {
       "tmdb_id": 85077,
       "tmdb_type": "tv",
       "title": "拣选",
-      "sort": 9
+      "sort": 11
     },
     {
       "tmdb_id": 273247,
       "tmdb_type": "tv",
       "title": "独家黑幕",
-      "sort": 10
-    },
-    {
-      "tmdb_id": 96677,
-      "tmdb_type": "tv",
-      "title": "Lupin",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 225385,
-      "tmdb_type": "tv",
-      "title": "黑鸽",
       "sort": 12
     },
     {
-      "tmdb_id": 253372,
+      "tmdb_id": 288673,
       "tmdb_type": "tv",
-      "title": "异能研究所",
+      "title": "魔女嘉莉",
       "sort": 13
     },
     {
@@ -115,45 +115,45 @@
       "sort": 14
     },
     {
-      "tmdb_id": 105248,
+      "tmdb_id": 225385,
       "tmdb_type": "tv",
-      "title": "赛博朋克：边缘行者",
+      "title": "黑鸽",
       "sort": 15
     },
     {
-      "tmdb_id": 208921,
+      "tmdb_id": 96677,
       "tmdb_type": "tv",
-      "title": "对手",
+      "title": "Lupin",
       "sort": 16
-    },
-    {
-      "tmdb_id": 387,
-      "tmdb_type": "tv",
-      "title": "海绵宝宝",
-      "sort": 17
     },
     {
       "tmdb_id": 340280,
       "tmdb_type": "tv",
       "title": "戈登档案",
+      "sort": 17
+    },
+    {
+      "tmdb_id": 105248,
+      "tmdb_type": "tv",
+      "title": "赛博朋克：边缘行者",
       "sort": 18
     },
     {
-      "tmdb_id": 340615,
+      "tmdb_id": 615,
       "tmdb_type": "tv",
-      "title": "卡伦·里德的审判：雪地警员死亡谜案",
+      "title": "飞出个未来",
       "sort": 19
     },
     {
-      "tmdb_id": 211288,
+      "tmdb_id": 208921,
       "tmdb_type": "tv",
-      "title": "寻踪者",
+      "title": "对手",
       "sort": 20
     },
     {
-      "tmdb_id": 335981,
+      "tmdb_id": 124364,
       "tmdb_type": "tv",
-      "title": "扯淡电影史",
+      "title": "梦魇绝镇",
       "sort": 21
     }
   ]

@@ -18,7 +18,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "guduo",
-  "updated_at": "2026-11-26T18:13:27.823Z",
+  "updated_at": "2026-11-27T04:52:47.068Z",
   "categories": {
     "剧集": {
       "total": 20,
@@ -197,21 +197,21 @@
           "sort": 8
         },
         {
-          "tmdb_id": 146339,
-          "tmdb_type": "tv",
-          "title": "大王饶命",
-          "sort": 9
-        },
-        {
           "tmdb_id": 229192,
           "tmdb_type": "tv",
           "title": "沧元图",
-          "sort": 10
+          "sort": 9
         },
         {
           "tmdb_id": 228429,
           "tmdb_type": "tv",
           "title": "斗罗大陆Ⅱ绝世唐门",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 146339,
+          "tmdb_type": "tv",
+          "title": "大王饶命",
           "sort": 11
         },
         {
@@ -286,15 +286,15 @@
           "sort": 4
         },
         {
-          "tmdb_id": 326406,
-          "tmdb_type": "tv",
-          "title": "快乐老家",
-          "sort": 5
-        },
-        {
           "tmdb_id": 281511,
           "tmdb_type": "tv",
           "title": "有你的恋歌",
+          "sort": 5
+        },
+        {
+          "tmdb_id": 239038,
+          "tmdb_type": "tv",
+          "title": "爱的修学旅行",
           "sort": 6
         },
         {
@@ -304,81 +304,81 @@
           "sort": 7
         },
         {
-          "tmdb_id": 239038,
+          "tmdb_id": 329671,
           "tmdb_type": "tv",
-          "title": "爱的修学旅行",
+          "title": "杨澜访谈录",
           "sort": 8
         },
         {
-          "tmdb_id": 339557,
+          "tmdb_id": 326406,
           "tmdb_type": "tv",
-          "title": "超正的我们",
+          "title": "快乐老家",
           "sort": 9
-        },
-        {
-          "tmdb_id": 103147,
-          "tmdb_type": "tv",
-          "title": "心动的信号",
-          "sort": 10
-        },
-        {
-          "tmdb_id": 331649,
-          "tmdb_type": "tv",
-          "title": "大哥小助理",
-          "sort": 11
-        },
-        {
-          "tmdb_id": 341991,
-          "tmdb_type": "tv",
-          "title": "我推的歌",
-          "sort": 12
-        },
-        {
-          "tmdb_id": 114473,
-          "tmdb_type": "tv",
-          "title": "名侦探学院",
-          "sort": 13
-        },
-        {
-          "tmdb_id": 106621,
-          "tmdb_type": "tv",
-          "title": "令人心动的offer",
-          "sort": 14
-        },
-        {
-          "tmdb_id": 131040,
-          "tmdb_type": "tv",
-          "title": "披荆斩棘",
-          "sort": 15
         },
         {
           "tmdb_id": 341535,
           "tmdb_type": "tv",
           "title": "趁热打铁",
+          "sort": 10
+        },
+        {
+          "tmdb_id": 103147,
+          "tmdb_type": "tv",
+          "title": "心动的信号",
+          "sort": 11
+        },
+        {
+          "tmdb_id": 339557,
+          "tmdb_type": "tv",
+          "title": "超正的我们",
+          "sort": 12
+        },
+        {
+          "tmdb_id": 331649,
+          "tmdb_type": "tv",
+          "title": "大哥小助理",
+          "sort": 13
+        },
+        {
+          "tmdb_id": 341991,
+          "tmdb_type": "tv",
+          "title": "我推的歌",
+          "sort": 14
+        },
+        {
+          "tmdb_id": 114473,
+          "tmdb_type": "tv",
+          "title": "名侦探学院",
+          "sort": 15
+        },
+        {
+          "tmdb_id": 106621,
+          "tmdb_type": "tv",
+          "title": "令人心动的offer",
           "sort": 16
+        },
+        {
+          "tmdb_id": 131040,
+          "tmdb_type": "tv",
+          "title": "披荆斩棘",
+          "sort": 17
         },
         {
           "tmdb_id": 94773,
           "tmdb_type": "tv",
           "title": "舞蹈新风暴",
-          "sort": 17
+          "sort": 18
         },
         {
           "tmdb_id": 304080,
           "tmdb_type": "tv",
           "title": "当家爸爸的聚会",
-          "sort": 18
+          "sort": 19
         },
         {
           "tmdb_id": 341771,
           "tmdb_type": "tv",
           "title": "夏日的星星",
-          "sort": 19
-        },
-        {
-          "tmdb_id": 330926,
-          "tmdb_type": "tv",
-          "title": "一路向海的少年",
           "sort": 20
         }
       ]
@@ -399,15 +399,15 @@
           "sort": 2
         },
         {
-          "tmdb_id": 1828486,
-          "tmdb_type": "movie",
-          "title": "生死制暴",
-          "sort": 3
-        },
-        {
           "tmdb_id": 1842611,
           "tmdb_type": "movie",
           "title": "尘缘",
+          "sort": 3
+        },
+        {
+          "tmdb_id": 1828486,
+          "tmdb_type": "movie",
+          "title": "生死制暴",
           "sort": 4
         },
         {
@@ -423,15 +423,15 @@
           "sort": 6
         },
         {
-          "tmdb_id": 1817028,
-          "tmdb_type": "movie",
-          "title": "巨蛇闯体校",
-          "sort": 7
-        },
-        {
           "tmdb_id": 1745149,
           "tmdb_type": "movie",
           "title": "猎虎贰",
+          "sort": 7
+        },
+        {
+          "tmdb_id": 1817028,
+          "tmdb_type": "movie",
+          "title": "巨蛇闯体校",
           "sort": 8
         },
         {
@@ -477,15 +477,15 @@
           "sort": 15
         },
         {
-          "tmdb_id": 1818189,
-          "tmdb_type": "movie",
-          "title": "归鹭",
-          "sort": 16
-        },
-        {
           "tmdb_id": 1785448,
           "tmdb_type": "movie",
           "title": "灵魂摆渡·公主之梦",
+          "sort": 16
+        },
+        {
+          "tmdb_id": 1818189,
+          "tmdb_type": "movie",
+          "title": "归鹭",
           "sort": 17
         }
       ]
