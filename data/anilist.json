@@ -17,7 +17,7 @@
     "update_frequency": "每天 07:30 和 16:30（北京时间）各更新一次"
   },
   "platform": "anilist",
-  "updated_at": "2026-11-27T04:51:49.766Z",
+  "updated_at": "2026-11-27T17:55:23.776Z",
   "total": 30,
   "list": [
     {
@@ -222,18 +222,18 @@
     },
     {
       "tmdb_id": {
-        "tv": 259140
-      },
-      "tmdb_type": "tv",
-      "title": "Ranma1/2 (2024) Season 3",
-      "sort": 26
-    },
-    {
-      "tmdb_id": {
         "tv": 295420
       },
       "tmdb_type": "tv",
       "title": "The Vermilion Mask",
+      "sort": 26
+    },
+    {
+      "tmdb_id": {
+        "tv": 259140
+      },
+      "tmdb_type": "tv",
+      "title": "Ranma1/2 (2024) Season 3",
       "sort": 27
     },
     {
