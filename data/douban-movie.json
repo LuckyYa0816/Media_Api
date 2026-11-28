@@ -19,8 +19,8 @@
   },
   "platform": "douban",
   "category": "movie",
-  "updated_at": "2026-11-27T17:55:55.298Z",
-  "total": 19,
+  "updated_at": "2026-11-28T04:37:10.276Z",
+  "total": 20,
   "list": [
     {
       "tmdb_id": 1483525,
@@ -35,15 +35,21 @@
       "sort": 2
     },
     {
-      "tmdb_id": 1084409,
+      "tmdb_id": 1617857,
       "tmdb_type": "movie",
-      "title": "天才谋杀法",
+      "title": "DB",
       "sort": 3
     },
     {
-      "tmdb_id": 1596249,
+      "tmdb_id": 1785448,
       "tmdb_type": "movie",
-      "title": "小春，屁股摇起来！",
+      "title": "灵魂摆渡·公主梦",
+      "sort": 4
+    },
+    {
+      "tmdb_id": 1754098,
+      "tmdb_type": "movie",
+      "title": "灵魂摆渡·天女之梦",
       "sort": 5
     },
     {
@@ -95,15 +101,15 @@
       "sort": 13
     },
     {
-      "tmdb_id": 1567937,
-      "tmdb_type": "movie",
-      "title": "空枪",
-      "sort": 14
-    },
-    {
       "tmdb_id": 1595124,
       "tmdb_type": "movie",
       "title": "童话继姐妹",
+      "sort": 14
+    },
+    {
+      "tmdb_id": 1567937,
+      "tmdb_type": "movie",
+      "title": "空枪",
       "sort": 15
     },
     {

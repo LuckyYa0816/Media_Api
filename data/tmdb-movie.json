@@ -22,19 +22,19 @@
   },
   "platform": "tmdb",
   "category": "movie",
-  "updated_at": "2026-11-27T17:55:31.234Z",
-  "total": 8,
+  "updated_at": "2026-11-28T04:36:31.762Z",
+  "total": 7,
   "list": [
-    {
-      "tmdb_id": 1458300,
-      "tmdb_type": "movie",
-      "title": "蚊子杯：最后一役",
-      "sort": 1
-    },
     {
       "tmdb_id": 1595124,
       "tmdb_type": "movie",
       "title": "童话继姐妹",
+      "sort": 1
+    },
+    {
+      "tmdb_id": 1458300,
+      "tmdb_type": "movie",
+      "title": "蚊子杯：最后一役",
       "sort": 2
     },
     {
@@ -50,9 +50,9 @@
       "sort": 4
     },
     {
-      "tmdb_id": 1551025,
+      "tmdb_id": 1568060,
       "tmdb_type": "movie",
-      "title": "守护你，遇见爱",
+      "title": "完美骗子",
       "sort": 5
     },
     {
@@ -62,16 +62,10 @@
       "sort": 6
     },
     {
-      "tmdb_id": 1568060,
-      "tmdb_type": "movie",
-      "title": "完美骗子",
-      "sort": 7
-    },
-    {
       "tmdb_id": 1339713,
       "tmdb_type": "movie",
       "title": "痴迷",
-      "sort": 8
+      "sort": 7
     }
   ]
 }

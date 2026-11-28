@@ -19,7 +19,7 @@
   },
   "platform": "douban",
   "category": "tv_cn",
-  "updated_at": "2026-11-27T17:55:43.489Z",
+  "updated_at": "2026-11-28T04:36:51.181Z",
   "total": 20,
   "list": [
     {
@@ -29,15 +29,15 @@
       "sort": 1
     },
     {
-      "tmdb_id": null,
-      "tmdb_type": "tv",
-      "title": "凡人修仙传 年番4",
-      "sort": 2
-    },
-    {
       "tmdb_id": 307853,
       "tmdb_type": "tv",
       "title": "今天是太阳雨",
+      "sort": 2
+    },
+    {
+      "tmdb_id": null,
+      "tmdb_type": "tv",
+      "title": "凡人修仙传 年番4",
       "sort": 3
     },
     {
@@ -47,21 +47,21 @@
       "sort": 4
     },
     {
-      "tmdb_id": 285625,
-      "tmdb_type": "tv",
-      "title": "小城良方",
-      "sort": 5
-    },
-    {
       "tmdb_id": 297253,
       "tmdb_type": "tv",
       "title": "伟大的长征",
+      "sort": 5
+    },
+    {
+      "tmdb_id": 285625,
+      "tmdb_type": "tv",
+      "title": "小城良方",
       "sort": 6
     },
     {
-      "tmdb_id": 318349,
+      "tmdb_id": 292044,
       "tmdb_type": "tv",
-      "title": "宝珠",
+      "title": "不为人知的故事",
       "sort": 7
     },
     {
@@ -77,21 +77,21 @@
       "sort": 9
     },
     {
+      "tmdb_id": 318349,
+      "tmdb_type": "tv",
+      "title": "宝珠",
+      "sort": 10
+    },
+    {
       "tmdb_id": 270429,
       "tmdb_type": "tv",
       "title": "无声的回响",
-      "sort": 10
+      "sort": 11
     },
     {
       "tmdb_id": 300146,
       "tmdb_type": "tv",
       "title": "嫁金钗",
-      "sort": 11
-    },
-    {
-      "tmdb_id": 292044,
-      "tmdb_type": "tv",
-      "title": "不为人知的故事",
       "sort": 12
     },
     {
@@ -107,9 +107,9 @@
       "sort": 14
     },
     {
-      "tmdb_id": 282326,
+      "tmdb_id": 275297,
       "tmdb_type": "tv",
-      "title": "兰香如故",
+      "title": "走马上任",
       "sort": 15
     },
     {
@@ -119,15 +119,15 @@
       "sort": 16
     },
     {
-      "tmdb_id": 275297,
+      "tmdb_id": 282326,
       "tmdb_type": "tv",
-      "title": "走马上任",
+      "title": "兰香如故",
       "sort": 17
     },
     {
-      "tmdb_id": null,
+      "tmdb_id": 279923,
       "tmdb_type": "tv",
-      "title": "凡人修仙传：重返天南",
+      "title": "醉梦",
       "sort": 18
     },
     {
@@ -137,9 +137,9 @@
       "sort": 19
     },
     {
-      "tmdb_id": 301494,
+      "tmdb_id": 68034,
       "tmdb_type": "tv",
-      "title": "余红旧事",
+      "title": "大明王朝1566",
       "sort": 20
     }
   ]
